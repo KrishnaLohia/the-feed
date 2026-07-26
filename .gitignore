@@ -1,0 +1,3 @@
+# Local-only files — not needed in the cloud
+*.log
+run.sh

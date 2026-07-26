@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>The Feed</title>
+<style>
+  :root {
+    --bg: #fbfbfa; --surface: #ffffff; --text: #16181d; --text2: #3f4550;
+    --muted: #7a8089; --faint: #aeb3bb; --divider: #ebedf0; --accent: #2f6fb0;
+    --pill: #f1f3f6; --pill-text: #545a64; --field: #f2f4f7; --ring: #d7dde5;
+    --yt: #e0322b; --sub: #ff6719; --x: #111318; --ig: #d1367f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0b0c0f; --surface: #131519; --text: #f0f1f4; --text2: #c3c7cf;
+      --muted: #868c96; --faint: #565b64; --divider: #1e2127; --accent: #66a6e6;
+      --pill: #191c21; --pill-text: #aab0ba; --field: #16181d; --ring: #2a2e35;
+      --x: #eceef1;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px; line-height: 1.6; -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  .container { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+
+  header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 88%, transparent);
+    backdrop-filter: saturate(180%) blur(14px); -webkit-backdrop-filter: saturate(180%) blur(14px);
+    border-bottom: 1px solid var(--divider); }
+  .head-inner { padding: 22px 0 15px; }
+  .brand { font-family: Georgia, "Times New Roman", serif; font-size: 30px; font-weight: 600;
+    letter-spacing: -.5px; margin: 0; line-height: 1; }
+  .head-meta { font-size: 13px; color: var(--muted); margin-top: 6px; letter-spacing: .1px; }
+  .search { width: 100%; margin-top: 16px; padding: 11px 15px; font-size: 14.5px;
+    border: 1px solid var(--divider); border-radius: 12px; background: var(--field);
+    color: var(--text); outline: none; transition: border-color .15s, box-shadow .15s; }
+  .search:focus { border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 15%, transparent); }
+  .search::placeholder { color: var(--faint); }
+  .filters { display: flex; align-items: center; gap: 8px; margin-top: 13px; flex-wrap: wrap; }
+  .pills { display: flex; gap: 6px; flex-wrap: wrap; }
+  .pill { font-size: 13.5px; padding: 6px 13px; border-radius: 999px; cursor: pointer;
+    background: transparent; color: var(--pill-text); border: 1px solid var(--divider);
+    user-select: none; transition: all .13s; white-space: nowrap; font-weight: 500; }
+  .pill:hover { border-color: var(--ring); }
+  .pill.active { background: var(--text); color: var(--bg); border-color: var(--text); }
+  .group-select { margin-left: auto; font-size: 13.5px; padding: 7px 12px; border-radius: 999px;
+    background: var(--pill); color: var(--pill-text); border: 1px solid var(--divider);
+    cursor: pointer; outline: none; font-weight: 500; }
+
+  main { padding-bottom: 64px; }
+  .day { font-size: 12px; font-weight: 700; letter-spacing: .7px; text-transform: uppercase;
+    color: var(--muted); padding: 30px 0 6px; }
+  .day:first-child { padding-top: 22px; }
+
+  a.item { display: flex; gap: 20px; align-items: flex-start; text-decoration: none;
+    color: inherit; padding: 20px 0; border-bottom: 1px solid var(--divider); }
+  a.item:hover .headline, a.item:hover .tweet { color: var(--accent); }
+  .itxt { flex: 1; min-width: 0; }
+  .top { display: flex; align-items: center; gap: 8px; margin-bottom: 7px; font-size: 12.5px; }
+  .dot { width: 7px; height: 7px; border-radius: 50%; flex: none; }
+  .dot.youtube { background: var(--yt); } .dot.substack { background: var(--sub); }
+  .dot.x { background: var(--x); } .dot.instagram { background: var(--ig); }
+  .src { color: var(--muted); font-weight: 600; white-space: nowrap; overflow: hidden;
+    text-overflow: ellipsis; letter-spacing: .1px; }
+  .time { color: var(--faint); margin-left: auto; white-space: nowrap; font-weight: 500; }
+
+  /* Video / newsletter: bold headline + rich excerpt */
+  .headline { font-size: 18px; font-weight: 680; line-height: 1.34; letter-spacing: -.25px;
+    color: var(--text); margin: 0 0 6px; transition: color .13s;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .excerpt { font-size: 14.5px; line-height: 1.55; color: var(--text2); margin: 0;
+    display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+
+  /* Tweets: show the whole post so you get the gist without clicking */
+  .tweet { font-size: 15.5px; line-height: 1.55; color: var(--text); font-weight: 450;
+    white-space: pre-wrap; transition: color .13s;
+    display: -webkit-box; -webkit-line-clamp: 14; -webkit-box-orient: vertical; overflow: hidden; }
+
+  .thumb { width: 168px; height: 104px; border-radius: 11px; object-fit: cover; flex: none;
+    background: var(--field); border: 1px solid var(--divider); }
+
+  .direct { margin-top: 34px; padding-top: 22px; border-top: 1px solid var(--divider); }
+  .direct h2 { font-size: 13px; font-weight: 700; color: var(--muted); margin: 0 0 4px;
+    text-transform: uppercase; letter-spacing: .5px; }
+  .direct p { font-size: 13px; color: var(--faint); margin: 0 0 13px; }
+  .dl { display: flex; flex-wrap: wrap; gap: 8px; }
+  .dl a { font-size: 13px; padding: 7px 13px; border-radius: 999px; text-decoration: none;
+    background: var(--pill); color: var(--pill-text); border: 1px solid var(--divider); font-weight: 500; }
+  .dl a:hover { color: var(--accent); border-color: var(--accent); }
+
+  .empty { color: var(--muted); text-align: center; padding: 64px 0; font-size: 15px; }
+  footer { text-align: center; color: var(--faint); font-size: 12px; padding: 28px 0 48px; }
+
+  @media (max-width: 560px) {
+    body { font-size: 15.5px; }
+    .brand { font-size: 26px; }
+    a.item { gap: 14px; }
+    .thumb { width: 108px; height: 68px; }
+    .headline { font-size: 16.5px; }
+    .group-select { margin-left: 0; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="container head-inner">
+    <h1 class="brand">The Feed</h1>
+    <div class="head-meta" id="meta">—</div>
+    <input class="search" id="search" type="search" placeholder="Search everything…" />
+    <div class="filters">
+      <div class="pills" id="pills"></div>
+      <select class="group-select" id="groupSel"></select>
+    </div>
+  </div>
+</header>
+<main class="container">
+  <div id="feed"></div>
+  <div class="direct" id="directWrap"></div>
+  <footer>Updates automatically twice a day · YouTube &amp; Substack live, X best-effort, Instagram linked</footer>
+</main>
+
+<script>
+const DATA = /*__FEED_DATA__*/null;
+const PLATFORMS = ["all", "youtube", "substack", "x", "instagram"];
+const LABELS = { all: "All", youtube: "YouTube", substack: "Substack", x: "X", instagram: "Instagram" };
+const state = { platform: "all", group: "all", q: "" };
+
+function esc(s){ return String(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+function fmtTime(iso){
+  if(!iso) return "";
+  const d=new Date(iso), diff=(Date.now()-d)/1000;
+  if(diff<3600) return Math.max(1,Math.round(diff/60))+"m";
+  if(diff<86400) return Math.round(diff/3600)+"h";
+  if(diff<604800) return Math.round(diff/86400)+"d";
+  return d.toLocaleDateString(undefined,{day:"numeric",month:"short"});
+}
+function dayKey(iso){
+  const d=iso?new Date(iso):new Date(), t=new Date(), y=new Date(Date.now()-86400000);
+  if(d.toDateString()===t.toDateString()) return "Today";
+  if(d.toDateString()===y.toDateString()) return "Yesterday";
+  return d.toLocaleDateString(undefined,{weekday:"long",day:"numeric",month:"long"});
+}
+function groups(){ return ["all", ...new Set(DATA.items.map(i=>i.group))]; }
+
+function buildControls(){
+  document.getElementById("pills").innerHTML = PLATFORMS.map(p=>
+    `<span class="pill ${p===state.platform?'active':''}" data-p="${p}">${LABELS[p]}</span>`).join("");
+  document.querySelectorAll("#pills .pill").forEach(el=>el.onclick=()=>{state.platform=el.dataset.p;render();});
+  const sel=document.getElementById("groupSel");
+  sel.innerHTML = groups().map(g=>`<option value="${esc(g)}" ${g===state.group?'selected':''}>${g==="all"?"All groups":esc(g)}</option>`).join("");
+  sel.onchange=()=>{state.group=sel.value;render();};
+}
+
+function bodyHtml(i){
+  if(i.platform==="x"){
+    return `<div class="tweet">${esc(i.title)}</div>`;
+  }
+  const head=`<div class="headline">${esc(i.title)}</div>`;
+  const exc=i.summary?`<p class="excerpt">${esc(i.summary)}</p>`:"";
+  return head+exc;
+}
+
+function render(){
+  buildControls();
+  const q=state.q.toLowerCase();
+  const items=DATA.items.filter(i=>
+    (state.platform==="all"||i.platform===state.platform)&&
+    (state.group==="all"||i.group===state.group)&&
+    (!q||(i.title+" "+i.sourceName+" "+(i.summary||"")).toLowerCase().includes(q)));
+
+  const feed=document.getElementById("feed");
+  if(!items.length){ feed.innerHTML='<div class="empty">Nothing here yet.</div>'; }
+  else{
+    let html="", lastDay=null;
+    for(const i of items){
+      const dk=dayKey(i.published||i.firstSeen);
+      if(dk!==lastDay){ html+=`<div class="day">${esc(dk)}</div>`; lastDay=dk; }
+      const thumb=i.thumbnail?`<img class="thumb" src="${esc(i.thumbnail)}" loading="lazy" onerror="this.remove()">`:"";
+      html+=`<a class="item" href="${esc(i.link)}" target="_blank" rel="noopener">
+        <div class="itxt">
+          <div class="top">
+            <span class="dot ${i.platform}"></span>
+            <span class="src">${esc(i.sourceName)}</span>
+            <span class="time">${fmtTime(i.published||i.firstSeen)}</span>
+          </div>
+          ${bodyHtml(i)}
+        </div>${thumb}</a>`;
+    }
+    feed.innerHTML=html;
+  }
+
+  const dw=document.getElementById("directWrap");
+  const show=(state.platform==="all"||state.platform==="x"||state.platform==="instagram");
+  const ds=(DATA.directSources||[]).filter(d=>
+    (state.platform==="all"||d.platform===state.platform)&&
+    (state.group==="all"||d.group===state.group));
+  dw.innerHTML = (show&&ds.length)
+    ? `<h2>Follow directly</h2><p>These can't be pulled automatically — open them on their site:</p>
+       <div class="dl">${ds.map(d=>`<a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.name)}</a>`).join("")}</div>`
+    : "";
+}
+
+document.getElementById("search").addEventListener("input",e=>{state.q=e.target.value;render();});
+document.getElementById("meta").textContent =
+  DATA.lastRun ? DATA.items.length+" posts · updated "+fmtTime(DATA.lastRun)+" ago" : DATA.items.length+" posts";
+render();
+</script>
+</body>
+</html>

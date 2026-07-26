@@ -1,0 +1,75 @@
+{
+  "groups": [
+    {
+      "name": "Markets",
+      "sources": [
+        { "type": "youtube",   "handle": "marketsbyzerodha",        "name": "Markets by Zerodha (YouTube)" },
+        { "type": "youtube",   "handle": "InTheMoneybyZerodha",     "name": "In The Money (YouTube)" },
+        { "type": "youtube",   "handle": "marketsbyzerodhahindi",   "name": "Markets by Zerodha Hindi (YouTube)" },
+        { "type": "youtube",   "handle": "SubtextbyZerodha",        "name": "Subtext (YouTube)" },
+        { "type": "substack",  "domain": "thedailybrief.zerodha.com",       "name": "The Daily Brief" },
+        { "type": "substack",  "domain": "aftermarketreport.zerodha.com",   "name": "Aftermarket Report" },
+        { "type": "substack",  "domain": "thechatter.zerodha.com",          "name": "The Chatter" },
+        { "type": "substack",  "domain": "inthemoneybyzerodha.substack.com","name": "In the Money (Substack)" },
+        { "type": "substack",  "domain": "subtextbyzerodha.substack.com",   "name": "Subtext (Substack)" },
+        { "type": "x",         "handle": "zerodhamarkets",          "name": "Zerodha Markets (X)" },
+        { "type": "x",         "handle": "subtextzerodha",          "name": "Subtext Zerodha (X)" },
+        { "type": "instagram", "handle": "marketsbyzerodha",        "name": "Markets by Zerodha (Instagram)" }
+      ]
+    },
+    {
+      "name": "Varsity",
+      "sources": [
+        { "type": "youtube",   "handle": "varsitybyzerodha",        "name": "Varsity by Zerodha (YouTube)" },
+        { "type": "x",         "handle": "ZerodhaVarsity",          "name": "Zerodha Varsity (X)" },
+        { "type": "instagram", "handle": "zerodhavarsity",          "name": "Zerodha Varsity (Instagram)" },
+        { "type": "instagram", "handle": "zerodhavarsitytribe",     "name": "Zerodha Varsity Tribe (Instagram)" }
+      ]
+    },
+    {
+      "name": "Zerodha Online",
+      "sources": [
+        { "type": "youtube",   "handle": "zerodhaonline",           "name": "Zerodha Online (YouTube)" },
+        { "type": "substack",  "domain": "zerodhabulletin.substack.com",    "name": "Zerodha Bulletin" },
+        { "type": "x",         "handle": "zerodha",                 "name": "Zerodha (X)" },
+        { "type": "x",         "handle": "CoinByZerodha",           "name": "Coin by Zerodha (X)" },
+        { "type": "x",         "handle": "tradingqna",              "name": "TradingQnA (X)" },
+        { "type": "instagram", "handle": "zerodhaonline",           "name": "Zerodha Online (Instagram)" }
+      ]
+    },
+    {
+      "name": "Rainmatter",
+      "sources": [
+        { "type": "youtube",   "handle": "rainmatterin",            "name": "Rainmatter (YouTube)" },
+        { "type": "x",         "handle": "Rainmatterin",            "name": "Rainmatter (X)" },
+        { "type": "instagram", "handle": "rainmatterin",            "name": "Rainmatter (Instagram)" }
+      ]
+    },
+    {
+      "name": "Zero1",
+      "sources": [
+        { "type": "youtube",   "handle": "Zero1byZerodha",          "name": "Zero1 by Zerodha (YouTube)" },
+        { "type": "instagram", "handle": "zero1byzerodha",          "name": "Zero1 by Zerodha (Instagram)" }
+      ]
+    },
+    {
+      "name": "Rainmatter Foundation",
+      "sources": [
+        { "type": "youtube",   "handle": "RainmatterFoundation",            "name": "Rainmatter Foundation (YouTube)" },
+        { "type": "youtube",   "handle": "TheClimateBriefbyRainmatter",     "name": "The Climate Brief (YouTube)" },
+        { "type": "x",         "handle": "RainmatterOrg",           "name": "Rainmatter Org (X)" },
+        { "type": "instagram", "handle": "inherinterest",           "name": "In Her Interest (Instagram)" }
+      ]
+    },
+    {
+      "name": "Other Handles & People",
+      "sources": [
+        { "type": "x",         "handle": "zerodhacapital",          "name": "Zerodha Capital (X)" },
+        { "type": "x",         "handle": "ZerodhaAMC",              "name": "Zerodha AMC (X)" },
+        { "type": "x",         "handle": "nikhilkamathcio",         "name": "Nikhil Kamath (X)" },
+        { "type": "x",         "handle": "karthikrangappa",         "name": "Karthik Rangappa (X)" },
+        { "type": "x",         "handle": "Nithin0dha",              "name": "Nithin Kamath (X)" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+name: Update feed
+
+on:
+  schedule:
+    # Times are UTC. IST = UTC + 5:30 → these fire at ~7:30am, 11am, 2pm, 5:30pm, 9pm IST.
+    - cron: '0 2 * * *'
+    - cron: '30 5 * * *'
+    - cron: '30 8 * * *'
+    - cron: '0 12 * * *'
+    - cron: '30 15 * * *'
+  workflow_dispatch:   # lets you trigger a run by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest content
+        run: node fetch_feed.js
+
+      - name: Commit & publish updated feed
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed_data.json index.html
+          if git diff --staged --quiet; then
+            echo "No changes this run."
+          else
+            git commit -m "Update feed ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
