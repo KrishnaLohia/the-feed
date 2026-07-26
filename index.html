@@ -54,14 +54,14 @@
 
   main { padding-bottom: 64px; }
   .day { font-size: 12px; font-weight: 700; letter-spacing: .7px; text-transform: uppercase;
-    color: var(--muted); padding: 30px 0 6px; }
-  .day:first-child { padding-top: 22px; }
+    color: var(--muted); padding: 20px 0 4px; }
+  .day:first-child { padding-top: 16px; }
 
-  a.item { display: flex; gap: 20px; align-items: flex-start; text-decoration: none;
-    color: inherit; padding: 20px 0; border-bottom: 1px solid var(--divider); }
+  a.item { display: flex; gap: 16px; align-items: flex-start; text-decoration: none;
+    color: inherit; padding: 13px 0; border-bottom: 1px solid var(--divider); }
   a.item:hover .headline, a.item:hover .tweet { color: var(--accent); }
   .itxt { flex: 1; min-width: 0; }
-  .top { display: flex; align-items: center; gap: 8px; margin-bottom: 7px; font-size: 12.5px; }
+  .top { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; font-size: 12.5px; }
   .dot { width: 7px; height: 7px; border-radius: 50%; flex: none; }
   .dot.youtube { background: var(--yt); } .dot.substack { background: var(--sub); }
   .dot.x { background: var(--x); } .dot.instagram { background: var(--ig); }
@@ -70,18 +70,18 @@
   .time { color: var(--faint); margin-left: auto; white-space: nowrap; font-weight: 500; }
 
   /* Video / newsletter: bold headline + rich excerpt */
-  .headline { font-size: 18px; font-weight: 680; line-height: 1.34; letter-spacing: -.25px;
-    color: var(--text); margin: 0 0 6px; transition: color .13s;
+  .headline { font-size: 16.5px; font-weight: 680; line-height: 1.32; letter-spacing: -.2px;
+    color: var(--text); margin: 0 0 4px; transition: color .13s;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .excerpt { font-size: 14px; line-height: 1.5; color: var(--text2); margin: 0;
     display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-  .excerpt { font-size: 14.5px; line-height: 1.55; color: var(--text2); margin: 0;
-    display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
 
-  /* Tweets: show the whole post so you get the gist without clicking */
-  .tweet { font-size: 15.5px; line-height: 1.55; color: var(--text); font-weight: 450;
+  /* Tweets: show enough to get the gist without clicking, but capped to limit scroll */
+  .tweet { font-size: 14.5px; line-height: 1.5; color: var(--text); font-weight: 450;
     white-space: pre-wrap; transition: color .13s;
-    display: -webkit-box; -webkit-line-clamp: 14; -webkit-box-orient: vertical; overflow: hidden; }
+    display: -webkit-box; -webkit-line-clamp: 8; -webkit-box-orient: vertical; overflow: hidden; }
 
-  .thumb { width: 168px; height: 104px; border-radius: 11px; object-fit: cover; flex: none;
+  .thumb { width: 140px; height: 88px; border-radius: 10px; object-fit: cover; flex: none;
     background: var(--field); border: 1px solid var(--divider); }
 
   .direct { margin-top: 34px; padding-top: 22px; border-top: 1px solid var(--divider); }
@@ -100,7 +100,7 @@
     body { font-size: 15.5px; }
     .brand { font-size: 26px; }
     a.item { gap: 14px; }
-    .thumb { width: 108px; height: 68px; }
+    .thumb { width: 96px; height: 60px; }
     .headline { font-size: 16.5px; }
     .group-select { margin-left: 0; }
   }
@@ -121,7 +121,7 @@
 <main class="container">
   <div id="feed"></div>
   <div class="direct" id="directWrap"></div>
-  <footer>Updates automatically twice a day · YouTube &amp; Substack live, X best-effort, Instagram linked</footer>
+  <footer>Showing the last 5 days · updates automatically 5× a day · search covers everything</footer>
 </main>
 
 <script>
@@ -168,10 +168,14 @@ function bodyHtml(i){
 function render(){
   buildControls();
   const q=state.q.toLowerCase();
-  const items=DATA.items.filter(i=>
-    (state.platform==="all"||i.platform===state.platform)&&
-    (state.group==="all"||i.group===state.group)&&
-    (!q||(i.title+" "+i.sourceName+" "+(i.summary||"")).toLowerCase().includes(q)));
+  const cutoff=Date.now()-5*24*60*60*1000; // show only the last 5 days by default
+  const items=DATA.items.filter(i=>{
+    const t=new Date(i.published||i.firstSeen).getTime();
+    const within=isNaN(t)||t>=cutoff;
+    return (state.platform==="all"||i.platform===state.platform)&&
+      (state.group==="all"||i.group===state.group)&&
+      (q ? (i.title+" "+i.sourceName+" "+(i.summary||"")).toLowerCase().includes(q) : within);
+  });
 
   const feed=document.getElementById("feed");
   if(!items.length){ feed.innerHTML='<div class="empty">Nothing here yet.</div>'; }
