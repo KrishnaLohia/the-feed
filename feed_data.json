@@ -5457,6 +5457,11 @@
       "at": "2026-07-26T09:44:50.876Z",
       "added": 0,
       "errors": 0
+    },
+    {
+      "at": "2026-07-26T10:22:28.466Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -5501,7 +5506,13 @@
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Zerodha Capital (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodhacapital"
     }
   ],
-  "lastRun": "2026-07-26T09:44:50.876Z"
+  "lastRun": "2026-07-26T10:22:28.466Z"
 }
