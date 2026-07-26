@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=39GgfJ8FrDs",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "The Real Reason Behind Pune’s River Pollution",
+      "link": "https://www.youtube.com/watch?v=39GgfJ8FrDs",
+      "published": "2026-07-26T12:35:13.000Z",
+      "summary": "From polluted rivers to improper management, Pune's water crisis has been an ongoing problem. In this episode, we dive into the story of the Mula-Mutha rivers and explain how Pune gets its water and why water pollution will make this problem a lot worse!\n\n0:00 - Introduction\n0:48 - Chapter 1: What's Happening to Pune's Rivers?\n3:09 - Chapter 2: Why Clean Rivers Matter\n5:16 - Chapter 3: What Can YOU Do?\n\n#waterpollution #watercrisis #punenews #pune #bestinindia #indiawatercrisis #indiawaterpollution #climatecrisis #climateaction #theclimatebrief #waterpollutioncrisis",
+      "thumbnail": "https://i4.ytimg.com/vi/39GgfJ8FrDs/hqdefault.jpg",
+      "firstSeen": "2026-07-26T13:19:37.299Z"
+    },
+    {
       "id": "https://subtextbyzerodha.substack.com/p/what-were-reading-22",
       "platform": "substack",
       "group": "Markets",
@@ -5462,6 +5474,11 @@
       "at": "2026-07-26T10:22:28.466Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-07-26T13:20:20.458Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -5514,5 +5531,5 @@
       "url": "https://x.com/zerodhacapital"
     }
   ],
-  "lastRun": "2026-07-26T10:22:28.466Z"
+  "lastRun": "2026-07-26T13:20:20.458Z"
 }
