@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=9tERrW-oNVM",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 27 July 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=9tERrW-oNVM",
+      "published": "2026-07-26T16:23:39.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/9tERrW-oNVM/hqdefault.jpg",
+      "firstSeen": "2026-07-26T16:30:21.825Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=39GgfJ8FrDs",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -5479,6 +5491,11 @@
       "at": "2026-07-26T13:20:20.458Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-07-26T16:31:15.073Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -5508,6 +5525,12 @@
     },
     {
       "group": "Rainmatter",
+      "name": "Rainmatter (X)",
+      "platform": "x",
+      "url": "https://x.com/Rainmatterin"
+    },
+    {
+      "group": "Rainmatter",
       "name": "Rainmatter (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/rainmatterin/"
@@ -5523,13 +5546,7 @@
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
-    },
-    {
-      "group": "Other Handles & People",
-      "name": "Zerodha Capital (X)",
-      "platform": "x",
-      "url": "https://x.com/zerodhacapital"
     }
   ],
-  "lastRun": "2026-07-26T13:20:20.458Z"
+  "lastRun": "2026-07-26T16:31:15.073Z"
 }
