@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-idfc-tata-consumer-bank",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: IDFC, Tata Consumer, Bank of India, Lal PathLabs & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-idfc-tata-consumer-bank",
+      "published": "2026-07-27T11:31:31.000Z",
+      "summary": "Welcome to the 72nd edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 6 companies across 3 industries. We want to experiment a bit with The Chatter format. Until now, we covered around 15 companies every week. Going forward, we'll instead publish three…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!umy1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9bab632-ab40-403b-93c8-3306a5fd5461_2400x1350.png",
+      "firstSeen": "2026-07-27T11:54:00.223Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/imW1W4HHKIg",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Are you filing your Income Tax right! 🤔",
+      "link": "https://www.youtube.com/shorts/imW1W4HHKIg",
+      "published": "2026-07-27T11:00:22.000Z",
+      "summary": "Income Tax season is here, BUT don’t file your Tax Returns before knowing these 3 things! \n\n1. Choose the Right Regime \nAs per the Finance Act of 2023 the New Regime has been made the default regime for all. \nWhile the New Regime has lower Tax slabs it offers much lower deductions and exemptions, it is important that you check and verify which regime is best for your specific case. \nYou check by using the calculator below and determine which regime saves you the most. \nhttps://www.incometaxindia.gov.in/tax-calculator-old-regime-vs-new-regime\n\n2. Choose the right ITR \nThere are total 7 Types of ITRs offered by the Income Tax department, but of us need to know the ITR 1, 2 and 3 \n\nITR 1 is su…",
+      "thumbnail": "https://i2.ytimg.com/vi/imW1W4HHKIg/hqdefault.jpg",
+      "firstSeen": "2026-07-27T11:55:23.777Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Pb2BZzdh0rA",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Why Overanalyzing Losing Trades Can Hurt You | Innerworth Ep. 31",
+      "link": "https://www.youtube.com/shorts/Pb2BZzdh0rA",
+      "published": "2026-07-27T10:15:51.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/Pb2BZzdh0rA/hqdefault.jpg",
+      "firstSeen": "2026-07-27T11:53:58.801Z"
+    },
+    {
       "id": "https://x.com/zerodhamarkets/status/2081658977872720054#m",
       "platform": "x",
       "group": "Markets",
@@ -377,7 +413,7 @@
       "platform": "x",
       "group": "Markets",
       "sourceName": "Subtext Zerodha (X)",
-      "title": "Monetary policy affects far more than just interest rates. It shapes how banks fund themselves, why loans become expensive, and where the financial system is headed. To make sense of it, we got Amit Tripathi, CIO - Fixed Income at @NipponIndiaMF , to tell us. A 🧵 of 6 standout quotes from our conversation.",
+      "title": "RT by @zerodhamarkets: Monetary policy affects far more than just interest rates. It shapes how banks fund themselves, why loans become expensive, and where the financial system is headed. To make sense of it, we got Amit Tripathi, CIO - Fixed Income at @NipponIndiaMF , to tell us. A 🧵 of 6 standout quotes from our conversation.",
       "link": "https://x.com/subtextzerodha/status/2080614055258309045#m",
       "published": "2026-07-24T11:20:21.000Z",
       "summary": "Monetary policy affects far more than just interest rates. It shapes how banks fund themselves, why loans become expensive, and where the financial system is headed. To make sense of it, we got Amit Tripathi, CIO - Fixed Income at @NipponIndiaMF , to tell us. A 🧵 of 6 standout quotes from our conversation.",
@@ -653,7 +689,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "The SIP Mistake Almost Everyone Makes!🤯💸",
+      "title": "The SIP Mistake 90% of Investors Make! 🤯💸",
       "link": "https://www.youtube.com/shorts/SLh6MU7jM-E",
       "published": "2026-07-22T11:00:14.000Z",
       "summary": "Most of us keep obsessing over the markets, our SIPs and are busy tracking our Investments!\n\nBut we forget that before we start caring about how much our money is growing, we need to check and make sure that our money doesn’t leak!\n\n1. Payoff if you have a high interest debt.\nIf you have a personal loan or a credit card debt that has an interest rate of 30-50% a year no matter how much your mutual fund SIPs grow your net worth would always be leaking in the interest payments.\nSo before you start worrying about the markets not moving, make sure you payoff high interest debts first.\nThe 2 most useful methods to handle debt can be\nAvalanche Method : The interest is what eats into your networth…",
@@ -797,7 +833,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Gold vs Other Investments: The Winner Will Surprise You! 🤯",
+      "title": "Gold vs Other Investments: Who Actually Wins? 🥇🤯",
       "link": "https://www.youtube.com/shorts/vsClCE_Aprg",
       "published": "2026-07-21T11:00:38.000Z",
       "summary": "There isn’t just one way to invest in gold and each option comes with its own trade-offs. The way you own gold can make a huge difference to your long-term returns.\n\nGold Jewellery: Best when you’re buying it to wear or gift. But as an investment, making charges, wastage, GST and lower buyback value eat into your returns.\n\nAs you can see in the table, Jewellery gives the lowest return across 1 year 5 year and 10 year periods because when you purchase the Jewellery the actual value of Gold you get is much lesser than what you pay and while selling there is standard buyback price you have to pay which around 96% of the Current Market price that you can sell it for.\n\nGold Coins & Bars: A more…",
@@ -1037,7 +1073,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "99% of Credit Card Users Make These 4 Mistakes🤯",
+      "title": "These 4 Credit Card Mistakes Can Destroy Your Credit Score! 📉🤯",
       "link": "https://www.youtube.com/shorts/vc1VXI6XWUY",
       "published": "2026-07-20T11:09:46.000Z",
       "summary": "Many of us use Credit Cards in our day to day life to get the points and rewards! But using the credit card the wrong way can cause great harm to your financial health!\n\nHere are the 3 things you should take care when you use your credit card next:\n\nCredit Card Limit:\nDon't use more than 30% of your available credit card limit. If all your credit cards combined give you a limit of 5 lakhs, the best practice is to utilise less than 30% (1.5Lakhs)  of the limit at any given point of time. Generally exceeding more than 30% very frequently negatively impacts your credit rating or your CIBIL score.\n\nClosing Credit Cards ?\nDon't close your old credit cards, your credit limit or the interest rate…",
@@ -1109,7 +1145,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "This One SIP Mistake Can Cost You Lakhs 🚨🤯",
+      "title": "99% of SIP Investors Make This Mistake! 😱",
       "link": "https://www.youtube.com/shorts/_AxXaSwH4fU",
       "published": "2026-07-19T12:30:06.000Z",
       "summary": "#mutualfunds #mutualfund #mutualfundsindia #personalfinance #shorts #shortvideo #trending",
@@ -1205,7 +1241,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Before You Buy Gold, Watch This! 🚨🤯",
+      "title": "The Gold Buying Mistake Everyone Makes! 💰🚨🤯",
       "link": "https://www.youtube.com/shorts/lJAF3emQPpk",
       "published": "2026-07-18T12:30:34.000Z",
       "summary": "#gold #goldjewellery #goldprice #goldetf #shorts",
@@ -5686,9 +5722,20 @@
       "at": "2026-07-27T08:51:56.619Z",
       "added": 9,
       "errors": 3
+    },
+    {
+      "at": "2026-07-27T11:55:32.676Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
+    {
+      "group": "Markets",
+      "name": "Subtext Zerodha (X)",
+      "platform": "x",
+      "url": "https://x.com/subtextzerodha"
+    },
     {
       "group": "Markets",
       "name": "Markets by Zerodha (Instagram)",
@@ -5715,6 +5762,12 @@
     },
     {
       "group": "Rainmatter",
+      "name": "Rainmatter (X)",
+      "platform": "x",
+      "url": "https://x.com/Rainmatterin"
+    },
+    {
+      "group": "Rainmatter",
       "name": "Rainmatter (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/rainmatterin/"
@@ -5730,13 +5783,7 @@
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
-    },
-    {
-      "group": "Other Handles & People",
-      "name": "Zerodha AMC (X)",
-      "platform": "x",
-      "url": "https://x.com/ZerodhaAMC"
     }
   ],
-  "lastRun": "2026-07-27T08:51:56.619Z"
+  "lastRun": "2026-07-27T11:55:32.676Z"
 }
