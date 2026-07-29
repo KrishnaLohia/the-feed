@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=h0gMUdqNXfc",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 30 July 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=h0gMUdqNXfc",
+      "published": "2026-07-29T16:27:39.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/h0gMUdqNXfc/hqdefault.jpg",
+      "firstSeen": "2026-07-29T14:07:56.830Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/35LiBWgHyKU",
       "platform": "youtube",
       "group": "Varsity",
@@ -97,18 +109,6 @@
       "firstSeen": "2026-07-29T14:07:51.899Z"
     },
     {
-      "id": "https://www.youtube.com/watch?v=h0gMUdqNXfc",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 30 July 2026, Thursday",
-      "link": "https://www.youtube.com/watch?v=h0gMUdqNXfc",
-      "published": "2026-07-29T12:00:43.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i1.ytimg.com/vi/h0gMUdqNXfc/hqdefault.jpg",
-      "firstSeen": "2026-07-29T14:07:56.830Z"
-    },
-    {
       "id": "https://www.youtube.com/shorts/4NNazvIcpFQ",
       "platform": "youtube",
       "group": "Markets",
@@ -119,6 +119,18 @@
       "summary": "",
       "thumbnail": "https://i1.ytimg.com/vi/4NNazvIcpFQ/hqdefault.jpg",
       "firstSeen": "2026-07-29T14:07:50.909Z"
+    },
+    {
+      "id": "https://x.com/CoinByZerodha/status/2082432968937947583#m",
+      "platform": "x",
+      "group": "Zerodha Online",
+      "sourceName": "Coin by Zerodha (X)",
+      "title": "Have you ever wondered about the structure behind the mutual funds you invest in? When you invest in a mutual fund, the process looks straightforward: you invest capital and receive units based on the day's NAV. However, there is a whole host of entities operating behind the fund you invest in. The responsibilities are split across three main entities: the Sponsor, the Trust, and the AMC. To understand how this ecosystem functions and the role each entity plays, read the detailed breakdown on Varsity: https://zerodha.com/varsity/chapter/introduction-to-mutual-funds/",
+      "link": "https://x.com/CoinByZerodha/status/2082432968937947583#m",
+      "published": "2026-07-29T11:48:04.000Z",
+      "summary": "Have you ever wondered about the structure behind the mutual funds you invest in? When you invest in a mutual fund, the process looks straightforward: you invest capital and receive units based on the day's NAV. However, there is a whole host of entities operating behind the fund you invest in. The responsibilities are split across three main entities: the Sponsor, the Trust, and the AMC. To understand how this ecosystem functions and the role each entity plays, read the detailed breakdown on Varsity: zerodha.com/varsity/chapter/… Link Mutual Funds Introduction: Structure, AMC & Fund Managers Introduction to mutual funds - understand AMC structure, fund manager role, SEBI regulations, trust…",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2082432943243558913%2F05Oqtnoe%3Fformat%3Djpg%26name%3D600x314",
+      "firstSeen": "2026-07-29T16:50:34.140Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=0uKPhdyOIkQ",
@@ -2777,7 +2789,7 @@
       "platform": "x",
       "group": "Zerodha Online",
       "sourceName": "Zerodha (X)",
-      "title": "RT by @zerodha: When checking mutual fund performance, you will often see two return metrics: CAGR and XIRR. They are rarely the same, and the difference can be confusing. That is because the two metrics measure different things. CAGR looks at two points in time. It answers a simple question: if you had invested a lump sum at the beginning and left it untouched, what average annual return would have taken it to its current value? XIRR, on the other hand, accounts for every investment and withdrawal, along with the exact date on which each cash flow occurred. Put simply, CAGR helps you understand how the fund performed over a period, while XIRR shows the return you earned based on your actual investments. But the story behind these two numbers is far more interesting than the formulas suggest. In this video, we track the evolution of return calculations across thousands of years, from compound interest on Babylonian clay tablets and Fibonacci’s work on financial arithmetic to the Newton–Raphson method, the development of IRR, and more. Watch the video: https://www.youtube.com/watch?v=rNVSSJ5ACoA",
+      "title": "When checking mutual fund performance, you will often see two return metrics: CAGR and XIRR. They are rarely the same, and the difference can be confusing. That is because the two metrics measure different things. CAGR looks at two points in time. It answers a simple question: if you had invested a lump sum at the beginning and left it untouched, what average annual return would have taken it to its current value? XIRR, on the other hand, accounts for every investment and withdrawal, along with the exact date on which each cash flow occurred. Put simply, CAGR helps you understand how the fund performed over a period, while XIRR shows the return you earned based on your actual investments. But the story behind these two numbers is far more interesting than the formulas suggest. In this video, we track the evolution of return calculations across thousands of years, from compound interest on Babylonian clay tablets and Fibonacci’s work on financial arithmetic to the Newton–Raphson method, the development of IRR, and more. Watch the video: https://www.youtube.com/watch?v=rNVSSJ5ACoA",
       "link": "https://x.com/CoinByZerodha/status/2077358767830970811#m",
       "published": "2026-07-15T11:45:00.000Z",
       "summary": "When checking mutual fund performance, you will often see two return metrics: CAGR and XIRR. They are rarely the same, and the difference can be confusing. That is because the two metrics measure different things. CAGR looks at two points in time. It answers a simple question: if you had invested a lump sum at the beginning and left it untouched, what average annual return would have taken it to its current value? XIRR, on the other hand, accounts for every investment and withdrawal, along with the exact date on which each cash flow occurred. Put simply, CAGR helps you understand how the fund performed over a period, while XIRR shows the return you earned based on your actual investments. B…",
@@ -5781,7 +5793,7 @@
       "link": "https://x.com/CoinByZerodha/status/2059557777962684731#m",
       "published": "2026-05-27T08:50:13.000Z",
       "summary": "Most people postpone personal finance, thinking they'll deal with it once life becomes more stable. But life rarely becomes less expensive or less uncertain. There's always something to worry about. The cost of waiting isn't just missed returns. By the time most people get serious, they're starting from a much harder position. Because the breathing room that money gives you, to handle setbacks, take career risks, sit through a market crash without panicking, takes years to build. You don't need a detailed plan to begin. Just know what you earn, what you spend, what you owe, and what you're building toward. That's enough. If you’ve been meaning to get your finances in order but don’t know wh…",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2079935189980266496%2FLBavaqhR%3Fformat%3Dpng%26name%3D600x314",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2082475130161176576%2F6o5tNWim%3Fformat%3Dpng%26name%3D600x314",
       "firstSeen": "2026-07-26T09:01:30.259Z"
     },
     {
@@ -6718,6 +6730,11 @@
       "at": "2026-07-29T14:08:50.105Z",
       "added": 11,
       "errors": 3
+    },
+    {
+      "at": "2026-07-29T16:50:47.223Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -6738,12 +6755,6 @@
       "name": "Zerodha Varsity Tribe (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/zerodhavarsitytribe/"
-    },
-    {
-      "group": "Zerodha Online",
-      "name": "Coin by Zerodha (X)",
-      "platform": "x",
-      "url": "https://x.com/CoinByZerodha"
     },
     {
       "group": "Zerodha Online",
@@ -6770,5 +6781,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-07-29T14:08:50.105Z"
+  "lastRun": "2026-07-29T16:50:47.223Z"
 }
