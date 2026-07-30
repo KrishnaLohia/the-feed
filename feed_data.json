@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=mtfMuhfGVFU",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 31 July 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=mtfMuhfGVFU",
+      "published": "2026-07-30T16:17:46.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/mtfMuhfGVFU/hqdefault.jpg",
+      "firstSeen": "2026-07-30T17:01:48.373Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/2S912SWqjB4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "What Trading Intuition Really Looks Like",
+      "link": "https://www.youtube.com/shorts/2S912SWqjB4",
+      "published": "2026-07-30T15:12:45.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/2S912SWqjB4/hqdefault.jpg",
+      "firstSeen": "2026-07-30T17:01:00.777Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-shrugs-off-volatility-to-close",
       "platform": "substack",
       "group": "Markets",
@@ -149,7 +173,7 @@
       "platform": "x",
       "group": "Markets",
       "sourceName": "Subtext Zerodha (X)",
-      "title": "Company results every quarter give us a true picture of corporate India, if you know how to read them. But not everybody does. To learn how pros do that, we spoke with @sagar_lele, who’s done this for 56 quarters of his life. Here are 7 key takeaways on reading earnings results🧵:",
+      "title": "RT by @zerodhamarkets: Company results every quarter give us a true picture of corporate India, if you know how to read them. But not everybody does. To learn how pros do that, we spoke with @sagar_lele, who’s done this for 56 quarters of his life. Here are 7 key takeaways on reading earnings results🧵:",
       "link": "https://x.com/subtextzerodha/status/2082766044582793403#m",
       "published": "2026-07-30T09:51:35.000Z",
       "summary": "Company results every quarter give us a true picture of corporate India, if you know how to read them. But not everybody does. To learn how pros do that, we spoke with @sagar_lele , who’s done this for 56 quarters of his life. Here are 7 key takeaways on reading earnings results🧵:",
@@ -4917,7 +4941,7 @@
       "link": "https://x.com/Rainmatterin/status/2072661352951488592#m",
       "published": "2026-07-02T12:39:09.000Z",
       "summary": "piped.video/oZoxVuXrIUs?si=nYPO… Link How VC Funds Work ft Rajiv Raghunandan from Arali Ventures I How VCs... In this conversation, Rajiv Raghunandan from Arali Ventures breaks ... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2080273391442112513%2FX948wZ3g%3Fformat%3Djpg%26name%3D800x320_1",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2082812406103674880%2FEazbd9DO%3Fformat%3Djpg%26name%3D800x320_1",
       "firstSeen": "2026-07-26T09:01:32.205Z"
     },
     {
@@ -6681,7 +6705,7 @@
       "link": "https://x.com/tradingqna/status/2046917431902482472#m",
       "published": "2026-04-22T11:42:00.000Z",
       "summary": "For more, check out the newsletter here: aftermarketreport.zerodha.co… Link IT weakness and oil spike drag Nifty below 24,400 Broader markets continue to inch higher aftermarketreport.zerodha.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2080209867407507456%2F4nyzo5g2%3Fformat%3Djpg%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2082760616549269505%2FH2iSGgcC%3Fformat%3Djpg%26name%3D800x419",
       "firstSeen": "2026-07-26T09:01:30.971Z"
     },
     {
@@ -7247,9 +7271,20 @@
       "at": "2026-07-30T13:58:18.126Z",
       "added": 10,
       "errors": 3
+    },
+    {
+      "at": "2026-07-30T17:02:04.936Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
+    {
+      "group": "Markets",
+      "name": "Subtext Zerodha (X)",
+      "platform": "x",
+      "url": "https://x.com/subtextzerodha"
+    },
     {
       "group": "Markets",
       "name": "Markets by Zerodha (Instagram)",
@@ -7293,5 +7328,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-07-30T13:58:18.126Z"
+  "lastRun": "2026-07-30T17:02:04.936Z"
 }
