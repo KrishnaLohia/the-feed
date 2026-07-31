@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=JeJ4UOUoxZc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "What If You Applied for Every IPO Since 2020? | The Long & The Short Ep. 45",
+      "link": "https://www.youtube.com/watch?v=JeJ4UOUoxZc",
+      "published": "2026-07-31T09:38:26.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to The Long and The Short, a show where you can expect an honest take on trading and investing, something you won't hear elsewhere.\n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nIn this episode, we go back to where it all begins - the IPO. And the starting point is personal: a Reliance Power allotment in 2008 that went exactly the way Benjamin Graham would have predicted.\n\nI walk through how the IPO process actually works — from DRHP to book building to ASB…",
+      "thumbnail": "https://i3.ytimg.com/vi/JeJ4UOUoxZc/hqdefault.jpg",
+      "firstSeen": "2026-07-31T11:07:36.538Z"
+    },
+    {
       "id": "https://x.com/subtextzerodha/status/2083084179756196207#m",
       "platform": "x",
       "group": "Markets",
@@ -3077,7 +3089,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "High Salary. SH*T Life.",
+      "title": "How much Salary is enough in India?",
       "link": "https://www.youtube.com/watch?v=Q0QFK3oYKM8",
       "published": "2026-07-18T04:30:07.000Z",
       "summary": "Over 2 crore Indians invest with Zerodha. Open a free demat account →https://zerodha.com/open-account/?c=AUTASB \n\nIf you have 2 Job offers one with 24 Lakhs in Jaipur and the other 40 Lakhs a year in Bengaluru , it's obvious you would pick 40 Lakhs right. \n\nIt's certainly better...but what if there is more to this comparison! \n\nSo in this video we decided to break down the exact financial impact of living in Bangalore and Jaipur. We included the cost of accommodation, eating out, travel and every other expense which is fundamentally different in each of the cities. \n\nWe find out if the real choice is just the number on the packages or the right questions to ask are different.? \nCheck out th…",
@@ -4485,7 +4497,7 @@
       "link": "https://x.com/Rainmatterin/status/2075221314085032197#m",
       "published": "2026-07-09T14:11:31.000Z",
       "summary": "Watch: piped.video/watch?v=L7I27zAm… Link How to Build the Perfect Pitch Deck ft. Zerin & Abhinav | How VCs Think EP 4 Description: In this episode, Zerin Rahiman (Founder & Managing Di... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2080493786313203712%2FeNEmJkAx%3Fformat%3Djpg%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2083062425088098304%2F71yMRerV%3Fformat%3Djpg%26name%3D800x419",
       "firstSeen": "2026-07-26T09:01:32.205Z"
     },
     {
@@ -6345,7 +6357,7 @@
       "link": "https://x.com/RainmatterOrg/status/2062742065591832752#m",
       "published": "2026-06-05T03:43:26.000Z",
       "summary": "Watch the detailed video on our Youtube Channel - The Climate Brief piped.video/aMQr100VTkw?si=8iAX… #india #puri #odisha #cities #water Link Puri Did What Delhi, Mumbai Still Can't - Drink From Tap Water Drinking tap water in India? Impossible but in one Indian city, tha... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2080349623353479168%2FvS0ryq8B%3Fformat%3Djpg%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2082995064440320000%2F__dw5bRE%3Fformat%3Djpg%26name%3D800x419",
       "firstSeen": "2026-07-26T09:01:34.108Z"
     },
     {
@@ -7574,6 +7586,11 @@
       "at": "2026-07-31T08:13:41.183Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-07-31T11:08:33.926Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -7618,7 +7635,13 @@
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Nikhil Kamath (X)",
+      "platform": "x",
+      "url": "https://x.com/nikhilkamathcio"
     }
   ],
-  "lastRun": "2026-07-31T08:13:41.182Z"
+  "lastRun": "2026-07-31T11:08:33.926Z"
 }
