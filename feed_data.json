@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/Kbl7yUADtsA",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "I Analysed 400 IPOs & Here's What I Found",
+      "link": "https://www.youtube.com/shorts/Kbl7yUADtsA",
+      "published": "2026-08-01T09:35:50.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/Kbl7yUADtsA/hqdefault.jpg",
+      "firstSeen": "2026-08-01T10:17:25.191Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=mBhzowVuSho",
       "platform": "youtube",
       "group": "Markets",
@@ -7839,6 +7851,11 @@
       "at": "2026-08-01T07:39:55.657Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-08-01T10:19:00.277Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -7880,10 +7897,22 @@
     },
     {
       "group": "Rainmatter Foundation",
+      "name": "Rainmatter Org (X)",
+      "platform": "x",
+      "url": "https://x.com/RainmatterOrg"
+    },
+    {
+      "group": "Rainmatter Foundation",
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Nikhil Kamath (X)",
+      "platform": "x",
+      "url": "https://x.com/nikhilkamathcio"
     }
   ],
-  "lastRun": "2026-08-01T07:39:55.657Z"
+  "lastRun": "2026-08-01T10:19:00.277Z"
 }
