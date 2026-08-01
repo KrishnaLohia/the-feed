@@ -7945,6 +7945,11 @@
       "at": "2026-08-01T13:17:46.719Z",
       "added": 7,
       "errors": 3
+    },
+    {
+      "at": "2026-08-01T16:29:59.228Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -7974,6 +7979,12 @@
     },
     {
       "group": "Rainmatter",
+      "name": "Rainmatter (X)",
+      "platform": "x",
+      "url": "https://x.com/Rainmatterin"
+    },
+    {
+      "group": "Rainmatter",
       "name": "Rainmatter (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/rainmatterin/"
@@ -7991,5 +8002,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-01T13:17:46.719Z"
+  "lastRun": "2026-08-01T16:29:59.228Z"
 }
