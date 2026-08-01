@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=mBhzowVuSho",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Weekly Market Metrics | Week 31 (27–31 Jul 2026) | NIFTY: 2 Years, No Returns",
+      "link": "https://www.youtube.com/watch?v=mBhzowVuSho",
+      "published": "2026-08-01T06:41:47.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to Weekly Market Metrics — your weekend wrap-up of everything that mattered in the markets this week, plus a quick peek into what’s coming up next!\n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nWe're in Week 31 of 2026, and markets staged a strong comeback after last week's weakness. NIFTY climbed over 2.6%, reclaimed key support levels, and recorded its highest weekly close in nearly five months. We also take a closer look at July's seasonality, India's ma…",
+      "thumbnail": "https://i2.ytimg.com/vi/mBhzowVuSho/hqdefault.jpg",
+      "firstSeen": "2026-08-01T07:39:36.602Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=-TqOl7NjB7o",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "How VCs Measure Product Market Fit | PMF framework ft Sajith Pai & Dinesh Pai | How VCs Think Ep 7",
+      "link": "https://www.youtube.com/watch?v=-TqOl7NjB7o",
+      "published": "2026-08-01T06:15:18.000Z",
+      "summary": "In this episode of How VCs Think, Dinesh Pai from Rainmatter and Sajith Pai from Blume Ventures break down what product market fit (PMF) actually means, why most founders don't measure it, the proxy for understanding PMF through growth, retention, and unit economics, why the famous Sean Ellis test does not measure PMF, and how investors try to tell real PMF apart from a product that is simply being propped up by marketing spend and capital burn.\n\nSajith, who has written a detailed playbook on PMF, argues that PMF is really two fits stacked together — product to problem fit (PPF) and motion to market fit (MMF): this involves getting a product to solve a real problem for a segment, and then f…",
+      "thumbnail": "https://i2.ytimg.com/vi/-TqOl7NjB7o/hqdefault.jpg",
+      "firstSeen": "2026-08-01T07:39:45.913Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=neZi3oaFimQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "India’s ₹12 Lakh Crore Rail Modernisation Plan Explained | Markets by Zerodha Hindi",
+      "link": "https://www.youtube.com/watch?v=neZi3oaFimQ",
+      "published": "2026-08-01T04:30:23.000Z",
+      "summary": "The Indian government is investing heavily to modernise one of the world's largest railway networks. From new tracks and Vande Bharat trains to Dedicated Freight Corridors and the indigenous Kavach safety system, the goal is to build a faster, safer and more efficient railway network.\nIn this video, we analyse:\nPART 1: Why India needs rail modernisation\nPART 2: The government's modernisation plan and key companies involved\nPART 3: The biggest challenges that could impact its success\nCan rail modernisation help India reduce logistics costs and transform its railway infrastructure?\n\nChapters:\n0:00 - Introduction\n1:08 - What is Rail Modernization?\n4:58 - National Rail Plan 2030\n8:15 - Electrif…",
+      "thumbnail": "https://i3.ytimg.com/vi/neZi3oaFimQ/hqdefault.jpg",
+      "firstSeen": "2026-08-01T07:39:36.767Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=IYYEwpOAk2Y",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Why Stock Market WILL NOT make you Rich",
+      "link": "https://www.youtube.com/watch?v=IYYEwpOAk2Y",
+      "published": "2026-08-01T04:30:04.000Z",
+      "summary": "Open a free demat account →https://zerodha.com/open-account/?c=A... \n\nThe internet is filled with Myths on how the Stock Market can make money for you. \n\nSo in this video we decided to debunk 4 biggest myths around the markets! \n\n1. Set and Forget: \nEveryone on the internet tells you to set up an SIP and then forget!\nBut all equity is not the same and how you invest, if you do an SIP or invest the money lump sum plays a big role on the 'Set and Forget' rule turns out for you. \n\n2. Living off Dividend Income:\nDividend Income is one of the most commonly sold ideas of Passive Income. \nThe Idea is absolutely TRUE but partly! \nBut a healthy dividend yield of 1% largely depends on the size of you…",
+      "thumbnail": "https://i2.ytimg.com/vi/IYYEwpOAk2Y/hqdefault.jpg",
+      "firstSeen": "2026-08-01T07:39:47.637Z"
+    },
+    {
       "id": "https://x.com/ZerodhaVarsity/status/2083360787742285864#m",
       "platform": "x",
       "group": "Varsity",
@@ -7786,6 +7834,11 @@
       "at": "2026-08-01T05:21:01.294Z",
       "added": 1,
       "errors": 8
+    },
+    {
+      "at": "2026-08-01T07:39:55.657Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -7832,5 +7885,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-01T05:21:01.294Z"
+  "lastRun": "2026-08-01T07:39:55.657Z"
 }
