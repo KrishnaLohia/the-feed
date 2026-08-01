@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://x.com/ZerodhaVarsity/status/2083360787742285864#m",
+      "platform": "x",
+      "group": "Varsity",
+      "sourceName": "Zerodha Varsity (X)",
+      "title": "Varsity Tribe is Zerodha Varsity’s initiative to build one of India’s largest student finance communities. ❤️ It is a student-led, community-driven network for finance-curious students. Members learn from one another, organize discussions and activities, interact with industry experts, and participate in structured online and offline events.",
+      "link": "https://x.com/ZerodhaVarsity/status/2083360787742285864#m",
+      "published": "2026-08-01T01:14:53.000Z",
+      "summary": "Varsity Tribe is Zerodha Varsity’s initiative to build one of India’s largest student finance communities. ❤️ It is a student-led, community-driven network for finance-curious students. Members learn from one another, organize discussions and activities, interact with industry experts, and participate in structured online and offline events. Nithin Kamath (@Nithin0dha) The most exciting thing about @ZerodhaVarsity Tribe is that it's building a community of young people who are curious about money, saving, investing, trading, and building wealth. Financial literacy is one of the most important life skills, yet it's rarely taught. If more youngsters understand how money works early in life, t…",
+      "thumbnail": "https://nitter.net/pic/amplify_video_thumb%2F2083148064169381888%2Fimg%2FRBhNfI6itVJh48oI.jpg",
+      "firstSeen": "2026-08-01T05:20:46.426Z"
+    },
+    {
       "id": "https://x.com/karthikrangappa/status/2083226609415573546#m",
       "platform": "x",
       "group": "Other Handles & People",
@@ -29,7 +41,7 @@
       "platform": "youtube",
       "group": "Varsity",
       "sourceName": "Varsity by Zerodha (YouTube)",
-      "title": "Is the Falling Rupee Affecting Your Savings?",
+      "title": "Has the Rupee Destroyed Half Your Wealth?",
       "link": "https://www.youtube.com/watch?v=QmNeT19O6Ek",
       "published": "2026-07-31T13:30:28.000Z",
       "summary": "The rupee has fallen nearly 50% against the US dollar over the last 15 years, but does that really mean your savings have lost half their value? In this video, Aastha Khurana explains how a falling rupee impacts your savings, investments, retirement, and everyday expenses, and who is actually affected the most.\n\nYou'll also learn how imported inflation works, why foreign goals need a different investment strategy, and what practical steps you can take to protect your wealth in the long run.\n\nTime Stamps\n00:00 Introduction \n00:50 Falling rupee affecting your savings\n01:15 Saving in rupees and spending in dollars\n03:37 Saving and spending in rupee\n05:10 Direct Imported inflation\n06: 20 In-dir…",
@@ -6321,7 +6333,7 @@
       "link": "https://x.com/ZerodhaAMC/status/2065424905941004743#m",
       "published": "2026-06-12T13:24:05.000Z",
       "summary": "zerodhafundhouse.com/investi… Link Investing for Minor - Zerodha Fund House Investing for Minor - Zerodha Fund House zerodhafundhouse.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2080655978765131776%2F4x_57qiD%3Fformat%3Djpg%26name%3D420x420_2",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2083195766865051649%2Fu3tDtdMj%3Fformat%3Djpg%26name%3D420x420_2",
       "firstSeen": "2026-07-26T09:01:35.852Z"
     },
     {
@@ -7769,6 +7781,11 @@
       "at": "2026-07-31T17:06:48.042Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-08-01T05:21:01.294Z",
+      "added": 1,
+      "errors": 8
     }
   ],
   "directSources": [
@@ -7813,19 +7830,7 @@
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
-    },
-    {
-      "group": "Other Handles & People",
-      "name": "Zerodha Capital (X)",
-      "platform": "x",
-      "url": "https://x.com/zerodhacapital"
-    },
-    {
-      "group": "Other Handles & People",
-      "name": "Zerodha AMC (X)",
-      "platform": "x",
-      "url": "https://x.com/ZerodhaAMC"
     }
   ],
-  "lastRun": "2026-07-31T17:06:48.042Z"
+  "lastRun": "2026-08-01T05:21:01.294Z"
 }
