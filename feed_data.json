@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=TotHeDigMn4",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 03 August 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=TotHeDigMn4",
+      "published": "2026-08-02T16:09:34.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/TotHeDigMn4/hqdefault.jpg",
+      "firstSeen": "2026-08-02T16:29:30.823Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=58kffWqhjkE",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -8006,6 +8018,11 @@
       "at": "2026-08-02T13:19:09.814Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-02T16:29:45.914Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -8014,12 +8031,6 @@
       "name": "Markets by Zerodha (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/marketsbyzerodha/"
-    },
-    {
-      "group": "Varsity",
-      "name": "Zerodha Varsity (X)",
-      "platform": "x",
-      "url": "https://x.com/ZerodhaVarsity"
     },
     {
       "group": "Varsity",
@@ -8058,5 +8069,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-02T13:19:09.814Z"
+  "lastRun": "2026-08-02T16:29:45.914Z"
 }
