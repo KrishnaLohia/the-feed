@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=58kffWqhjkE",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Dehradun Is Fighting To Save 4000 Trees (And Winning?!)",
+      "link": "https://www.youtube.com/watch?v=58kffWqhjkE",
+      "published": "2026-08-02T11:30:38.000Z",
+      "summary": "One of India’s most beloved hill stations is under threat: We’re talking about the protests in Dehradun to stop a highway development project that would cut 4000 trees down! Does development always come at a cost to thriving ecosystems? Find out by watching the full video!\n\n0:00 - Introduction\n0:59 -Chapter 1: Where Is This Project?\n4:09 - Chapter 2: Why Is This Such A Big Deal?\n\n\n#dehradun #dehradunnews #uttarakhand #deforestation #rishikesh #treefelling #dehradunprotest #indiaprotests #climatechange #climateaction #climatecrisis #theclimatebrief",
+      "thumbnail": "https://i2.ytimg.com/vi/58kffWqhjkE/hqdefault.jpg",
+      "firstSeen": "2026-08-02T13:19:01.242Z"
+    },
+    {
       "id": "https://x.com/Nithin0dha/status/2083783593231626650#m",
       "platform": "x",
       "group": "Other Handles & People",
@@ -7989,6 +8001,11 @@
       "at": "2026-08-02T10:16:32.878Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-08-02T13:19:09.814Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -7997,6 +8014,12 @@
       "name": "Markets by Zerodha (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/marketsbyzerodha/"
+    },
+    {
+      "group": "Varsity",
+      "name": "Zerodha Varsity (X)",
+      "platform": "x",
+      "url": "https://x.com/ZerodhaVarsity"
     },
     {
       "group": "Varsity",
@@ -8035,5 +8058,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-02T10:16:32.878Z"
+  "lastRun": "2026-08-02T13:19:09.814Z"
 }
