@@ -7984,6 +7984,11 @@
       "at": "2026-08-02T07:44:20.154Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-08-02T10:16:32.878Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -8028,19 +8033,7 @@
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
-    },
-    {
-      "group": "Other Handles & People",
-      "name": "Zerodha AMC (X)",
-      "platform": "x",
-      "url": "https://x.com/ZerodhaAMC"
-    },
-    {
-      "group": "Other Handles & People",
-      "name": "Nikhil Kamath (X)",
-      "platform": "x",
-      "url": "https://x.com/nikhilkamathcio"
     }
   ],
-  "lastRun": "2026-08-02T07:44:20.154Z"
+  "lastRun": "2026-08-02T10:16:32.878Z"
 }
