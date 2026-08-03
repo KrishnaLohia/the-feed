@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=djP5gqik7mc",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 04 August 2026, Tuesday",
+      "link": "https://www.youtube.com/watch?v=djP5gqik7mc",
+      "published": "2026-08-03T16:24:55.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/djP5gqik7mc/hqdefault.jpg",
+      "firstSeen": "2026-08-03T14:35:42.667Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/0VdZNBmu_g8",
       "platform": "youtube",
       "group": "Markets",
@@ -35,18 +47,6 @@
       "summary": "",
       "thumbnail": "https://i2.ytimg.com/vi/1rP3_Cmzfw4/hqdefault.jpg",
       "firstSeen": "2026-08-03T14:35:41.777Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=djP5gqik7mc",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 04 August 2026, Tuesday",
-      "link": "https://www.youtube.com/watch?v=djP5gqik7mc",
-      "published": "2026-08-03T13:22:02.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i1.ytimg.com/vi/djP5gqik7mc/hqdefault.jpg",
-      "firstSeen": "2026-08-03T14:35:42.667Z"
     },
     {
       "id": "https://x.com/Rainmatterin/status/2084263287429189863#m",
@@ -3477,7 +3477,7 @@
       "link": "https://x.com/Nithin0dha/status/2079180071194218700#m",
       "published": "2026-07-20T12:22:12.000Z",
       "summary": "Link to the full conversation: piped.video/LugscaCXcO4?si=faaD… Link Nithin Kamath on what makes Zerodha different | The Back Office Ep. 1 Open a free demat account → https://zerodha.com/open-account/?c=AUO... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2081757582780145664%2FLIzx9jnH%3Fformat%3Djpg%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2083920193492058113%2FpbwuDG07%3Fformat%3Djpg%26name%3D800x419",
       "firstSeen": "2026-07-26T09:01:38.304Z"
     },
     {
@@ -8355,6 +8355,11 @@
       "at": "2026-08-03T14:35:57.474Z",
       "added": 9,
       "errors": 3
+    },
+    {
+      "at": "2026-08-03T17:26:38.050Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -8401,5 +8406,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-03T14:35:57.474Z"
+  "lastRun": "2026-08-03T17:26:38.050Z"
 }
