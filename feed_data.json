@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://x.com/zerodhamarkets/status/2084189082218025262#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Read the full story here: https://pointsandfigures.substack.com/p/indias-trade-story",
+      "link": "https://x.com/zerodhamarkets/status/2084189082218025262#m",
+      "published": "2026-08-03T08:06:14.000Z",
+      "summary": "Read the full story here: pointsandfigures.substack.co…",
+      "thumbnail": "https://nitter.net/pic/media%2FHOyBjEcawAAVv-J.jpg",
+      "firstSeen": "2026-08-03T08:45:24.873Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084189078590025957#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Image",
+      "link": "https://x.com/zerodhamarkets/status/2084189078590025957#m",
+      "published": "2026-08-03T08:06:13.000Z",
+      "summary": "",
+      "thumbnail": "https://nitter.net/pic/media%2FHOyBhfMbMAAA1Hl.jpg",
+      "firstSeen": "2026-08-03T08:45:24.873Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084189050035126592#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "India's goods trade deficit hit a record high in 2024-25, but that's only half the story. Here is a visual breakdown through charts 🧵👇",
+      "link": "https://x.com/zerodhamarkets/status/2084189050035126592#m",
+      "published": "2026-08-03T08:06:06.000Z",
+      "summary": "India's goods trade deficit hit a record high in 2024-25, but that's only half the story. Here is a visual breakdown through charts 🧵👇",
+      "thumbnail": "https://nitter.net/pic/media%2FHOyBNjTaEAAhbrk.jpg",
+      "firstSeen": "2026-08-03T08:45:24.873Z"
+    },
+    {
+      "id": "https://x.com/zerodha/status/2084173525997523110#m",
+      "platform": "x",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha (X)",
+      "title": "The new Closing Auction Session (CAS) goes live for stocks in the F&O list today. Here are the important things to know👇 - Stocks in the F&O list: Continuous trading will stop at 3:15 PM, followed by CAS until 3:35 PM. - All other stocks: Trading will close at 3:30 PM. - Index and stock F&O contracts: Trading will close at 3:40 PM. If you are trading intraday using the MIS product type, these will be the auto square-off timings from today: - Equity (stocks under CAS): 3:10 PM - Equity (stocks not under CAS): 3:25 PM - Index and stock F&O contracts: 3:26 PM To check which stocks trade in the F&O segment, add the “NSE F&O Stocks” list to your marketwatch on Kite or check them here: https://zerodha.com/margin-calculator/Futures/ Here’s a breakdown of how CAS works: 3:00 PM to 3:15 PM: Reference-price calculation Regular trading will continue as usual. During these 15 minutes, the exchange will calculate the VWAP of all trades in the stock. This will become the reference price for the closing auction. 3:15 PM to 3:20 PM: Transition to CAS At 3:15 PM, regular trading will end for stocks under CAS. No new orders can be placed during this five-minute transition period. The exchange will calculate the reference price and set a CAS price band of ±3% around it. For example, if the reference price is ₹1,000, orders during CAS can generally be placed between ₹970 and ₹1,030. Unexecuted limit orders from regular trading will be carried forward into CAS. However, stop-loss orders and orders outside the CAS price band will be cancelled. Futures orders placed outside the applicable price band will also be cancelled. This does not apply to option orders. 3:20 PM to 3:25 PM: Market and limit order entry During this period, traders can place, modify, or cancel both market and limit orders. 3:25 PM until the random close: Limit orders only From 3:25 PM, new market orders can no longer be placed. Market orders placed earlier cannot be modified or cancelled. Limit orders can still be placed, modified, or cancelled. The order-entry period will close randomly between 3:28 PM and 3:30 PM. 3:30 PM to 3:35 PM: Order matching After order entry closes, no new orders will be accepted. The exchange will calculate the equilibrium price—the price at which the highest quantity of shares can be traded. All executable orders will then be matched at this single price. This will become the stock’s official closing price. This is how order matching happens: - Market orders get priority over limit orders. - Eligible market orders are first matched with one another based on the time they were placed. - Any unmatched market orders are then matched with eligible limit orders using price-time priority. - Finally, the remaining limit orders are matched with one another, again using price-time priority.",
+      "link": "https://x.com/zerodha/status/2084173525997523110#m",
+      "published": "2026-08-03T07:04:25.000Z",
+      "summary": "The new Closing Auction Session (CAS) goes live for stocks in the F&O list today. Here are the important things to know👇 - Stocks in the F&O list: Continuous trading will stop at 3:15 PM, followed by CAS until 3:35 PM. - All other stocks: Trading will close at 3:30 PM. - Index and stock F&O contracts: Trading will close at 3:40 PM. If you are trading intraday using the MIS product type, these will be the auto square-off timings from today: - Equity (stocks under CAS): 3:10 PM - Equity (stocks not under CAS): 3:25 PM - Index and stock F&O contracts: 3:26 PM To check which stocks trade in the F&O segment, add the “NSE F&O Stocks” list to your marketwatch on Kite or check them here: zerodha.c…",
+      "thumbnail": "",
+      "firstSeen": "2026-08-03T08:46:07.127Z"
+    },
+    {
+      "id": "https://x.com/zerodha/status/2084173528459538715#m",
+      "platform": "x",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha (X)",
+      "title": "R to @zerodha: Learn more about CAS: https://zerodha.com/z-connect/general/everything-you-need-to-know-about-closing-auction-session-cas",
+      "link": "https://x.com/zerodha/status/2084173528459538715#m",
+      "published": "2026-08-03T07:04:25.000Z",
+      "summary": "Learn more about CAS: zerodha.com/z-connect/genera… Link Everything you need to know about Closing Auction Session (CAS) Important changes from August 3, 2026: Following the introduction of the Closing Auction Session (CAS), market closing times will be as follows; there are zerodha.com",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2082026260461768704%2F_o_JEtZJ%3Fformat%3Dpng%26name%3D800x419",
+      "firstSeen": "2026-08-03T08:46:07.127Z"
+    },
+    {
       "id": "https://x.com/zerodhamarkets/status/2084134534644400584#m",
       "platform": "x",
       "group": "Markets",
@@ -37,6 +97,18 @@
       "firstSeen": "2026-08-03T05:34:41.295Z"
     },
     {
+      "id": "https://www.youtube.com/watch?v=JEoZUXinATE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "This Hospital IPO has a bigger story | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=JEoZUXinATE",
+      "published": "2026-08-03T02:30:39.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nInside Manipal Health’s Hospital Business & IPO\n\nHow does a private hospital chain actually make money, and why is Manipal Health heading to the stock market? In this video, we break down Manipal Health’s business model, explaining how hospitals earn from OPD and IPD services, why inpatient care is far more profitable, and how bed occupancy, patient turnover, and specialty treatments drive revenue. We also explore the challenges of insurance payments, government healthcare schemes, rising doctor co…",
+      "thumbnail": "https://i3.ytimg.com/vi/JEoZUXinATE/hqdefault.jpg",
+      "firstSeen": "2026-08-03T08:45:22.287Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/what-does-it-mean-to-close-a-mine",
       "platform": "substack",
       "group": "Markets",
@@ -47,6 +119,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: What does it mean to close a coal mine? India has scientifically closed 42 coal mines for the first time since Independence. But most of them actually shut decades ago, making this more abo…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!5Hwx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b2a3301-3f67-4356-9ed8-1858aad5e6b6_1536x1024.png",
       "firstSeen": "2026-08-03T05:34:38.865Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=WQjI9smiJb8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "What does it mean to close a mine? | How carbon capture (CCUS) works? | The Daily Brief #520",
+      "link": "https://www.youtube.com/watch?v=WQjI9smiJb8",
+      "published": "2026-08-03T01:30:20.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover two stories shaping Indian and global markets:\n\n1. What It Really Takes to Close a Coal Mine\nClosing a coal mine is far more complicated than simply stopping production. This story explains why mine closures can take decades, what \"scientific closure\" actually means, and the environmental, financial, and social challenges India must solve as it begins cleaning up old coal mines and prepares for much larger closures in the future.\n\n2. How Carbon Captur…",
+      "thumbnail": "https://i4.ytimg.com/vi/WQjI9smiJb8/hqdefault.jpg",
+      "firstSeen": "2026-08-03T08:45:21.804Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=TotHeDigMn4",
@@ -149,7 +233,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "The Emergency Fund Rule Everyone Should Know! 💸",
+      "title": "99% of People Don't Have an Emergency Fund! 🚨",
       "link": "https://www.youtube.com/shorts/iKD5vtzU42s",
       "published": "2026-08-01T11:00:06.000Z",
       "summary": "Your emergency fund is the financial equivalent of a seatbelt. You hope you never need it, but when life throws you a surprise—job loss, a medical emergency, or an unexpected expense, you'll be glad it's there.\n\nA simple way to calculate it:\nAdd up your essential monthly expenses:\n• Rent/EMI\n• Groceries\n• Insurance premiums\n• School fees\n• Utility bills\n• Other non-negotiable expenses\nMultiply that number by 6.\n\nThat's the minimum emergency fund you should aim to build. If you can save more, even better.\n\nThe goal isn't to earn the highest return. It's to make sure your money is:\n\nAvailable within 24 hours\n2. Kept somewhere you won't dip into for impulse spending\n\nRemember: an emergency fun…",
@@ -329,7 +413,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "The New BOSS Scam Everyone Should Know! 🚨",
+      "title": "Your Next Email Could Be a Scam! 😱",
       "link": "https://www.youtube.com/shorts/92EvqbZfPCk",
       "published": "2026-07-31T12:30:25.000Z",
       "summary": "The Boss Scam is one of the fastest-growing corporate cyber frauds, here's how it usually happens:\n\nMethod 1: The ZIP File Attack\nAn employee receives what appears to be an urgent invoice, payment receipt, or business document from a client or vendor. Since these files often look legitimate, they're forwarded to the accounts or finance team. If the ZIP file contains malware, opening it can compromise the device and give scammers access to business data and communication channels. They then impersonate senior management and instruct the finance team to transfer money to fraudulent bank accounts.\n\nMethod 2: CEO Impersonation\nScammers create a fake WhatsApp account, spoof an email address, or…",
@@ -8076,6 +8160,11 @@
       "at": "2026-08-03T05:34:59.529Z",
       "added": 4,
       "errors": 12
+    },
+    {
+      "at": "2026-08-03T08:46:20.580Z",
+      "added": 7,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -8084,6 +8173,12 @@
       "name": "Markets by Zerodha (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/marketsbyzerodha/"
+    },
+    {
+      "group": "Varsity",
+      "name": "Zerodha Varsity (X)",
+      "platform": "x",
+      "url": "https://x.com/ZerodhaVarsity"
     },
     {
       "group": "Varsity",
@@ -8122,5 +8217,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-03T05:34:59.529Z"
+  "lastRun": "2026-08-03T08:46:20.580Z"
 }
