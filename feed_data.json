@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/sebi-zeel-zee-fraud-ban-india-white-hydrogen-green-hydrogen-mission",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "SEBI finds another plot-hole in the Zee script",
+      "link": "https://thedailybrief.zerodha.com/p/sebi-zeel-zee-fraud-ban-india-white-hydrogen-green-hydrogen-mission",
+      "published": "2026-08-04T01:37:08.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: SEBI finds another plot-hole in the Zee script SEBI’s latest order details how Zee’s promoters allegedly used company assets to secure loans for promoter-linked entities and concealed the t…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ifY0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F844066ac-918a-406b-a9d6-6c44fca70fbe_1536x1024.png",
+      "firstSeen": "2026-08-04T04:56:41.977Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=djP5gqik7mc",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -8360,6 +8372,11 @@
       "at": "2026-08-03T17:26:38.050Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-08-04T04:57:36.319Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -8368,6 +8385,12 @@
       "name": "Markets by Zerodha (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/marketsbyzerodha/"
+    },
+    {
+      "group": "Varsity",
+      "name": "Zerodha Varsity (X)",
+      "platform": "x",
+      "url": "https://x.com/ZerodhaVarsity"
     },
     {
       "group": "Varsity",
@@ -8406,5 +8429,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-03T17:26:38.050Z"
+  "lastRun": "2026-08-04T04:57:36.319Z"
 }
