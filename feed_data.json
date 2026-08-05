@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=8S0PyYXdPC0",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Do Commodity Futures Trend or Mean Revert? (11-Year Study) | The Long & The Short Ep. 46",
+      "link": "https://www.youtube.com/watch?v=8S0PyYXdPC0",
+      "published": "2026-08-05T14:50:24.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to The Long and The Short, a show where you can expect an honest take on trading and investing, something you won't hear elsewhere.\n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nIn this episode, I go back to a question that should come before any strategy: does this market actually trend?\n\nThe starting point is a simple observation,  most of what we know about systematic trading comes from American markets. Deep, liquid, and backed by decades of continuous…",
+      "thumbnail": "https://i1.ytimg.com/vi/8S0PyYXdPC0/hqdefault.jpg",
+      "firstSeen": "2026-08-05T17:03:28.499Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=maYc54OLLb0",
       "platform": "youtube",
       "group": "Markets",
@@ -2541,7 +2553,7 @@
       "link": "https://x.com/CoinByZerodha/status/2082432968937947583#m",
       "published": "2026-07-29T11:48:04.000Z",
       "summary": "Have you ever wondered about the structure behind the mutual funds you invest in? When you invest in a mutual fund, the process looks straightforward: you invest capital and receive units based on the day's NAV. However, there is a whole host of entities operating behind the fund you invest in. The responsibilities are split across three main entities: the Sponsor, the Trust, and the AMC. To understand how this ecosystem functions and the role each entity plays, read the detailed breakdown on Varsity: zerodha.com/varsity/chapter/… Link Mutual Funds Introduction: Structure, AMC & Fund Managers Introduction to mutual funds - understand AMC structure, fund manager role, SEBI regulations, trust…",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2082432943243558913%2F05Oqtnoe%3Fformat%3Djpg%26name%3D600x314",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2084970822574465025%2FKTqeoD7d%3Fformat%3Djpg%26name%3D600x314",
       "firstSeen": "2026-07-29T16:50:34.140Z"
     },
     {
@@ -7053,7 +7065,7 @@
       "link": "https://x.com/Rainmatterin/status/2072217944940216402#m",
       "published": "2026-07-01T07:17:12.000Z",
       "summary": "Link to the video - piped.video/YsmNALyCtF8?si=QUGl… Link Does Market Size Matter to VCs? TAM, SAM & SOM ft. Bala (@ArkamVC) & Prathap | How VCs Think EP 5 In this episode of How VCs Think, Bala Srinivasa, MD and Co-Founder... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2082407018183471104%2F7pnNmYwG%3Fformat%3Djpg%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2084945602404884480%2FiHxhQzTf%3Fformat%3Djpg%26name%3D800x419",
       "firstSeen": "2026-07-26T09:01:32.205Z"
     },
     {
@@ -9329,6 +9341,11 @@
       "at": "2026-08-05T14:06:46.504Z",
       "added": 11,
       "errors": 3
+    },
+    {
+      "at": "2026-08-05T17:03:49.711Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -9375,5 +9392,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-05T14:06:46.504Z"
+  "lastRun": "2026-08-05T17:03:49.711Z"
 }
