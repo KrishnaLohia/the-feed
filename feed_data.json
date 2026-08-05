@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/Ew5fWhzBOiE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Do Great Traders Learn on Their Own or from Mentors?",
+      "link": "https://www.youtube.com/shorts/Ew5fWhzBOiE",
+      "published": "2026-08-05T07:36:30.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/Ew5fWhzBOiE/hqdefault.jpg",
+      "firstSeen": "2026-08-05T07:59:25.333Z"
+    },
+    {
       "id": "https://x.com/zerodhacapital/status/2084865027933352127#m",
       "platform": "x",
       "group": "Other Handles & People",
@@ -97,6 +109,246 @@
       "firstSeen": "2026-08-05T04:58:52.321Z"
     },
     {
+      "id": "https://x.com/zerodhamarkets/status/2084864879752835525#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: We cover this and one more interesting story in today's edition of The Daily Brief. Read on Substack: https://thedailybrief.zerodha.com/p/power-grid-open-access-discoms-electricity-india-refrigerant-ac-chemical-industry Watch on YouTube: https://www.youtube.com/watch?v=u1uJAmURfI8 Or listen on Spotify, Apple Podcasts, or wherever you get your podcasts, just search for \"The Daily Brief by Zerodha.\"",
+      "link": "https://x.com/zerodhamarkets/status/2084864879752835525#m",
+      "published": "2026-08-05T04:51:36.000Z",
+      "summary": "We cover this and one more interesting story in today's edition of The Daily Brief. Read on Substack: thedailybrief.zerodha.com/p/… Watch on YouTube: piped.video/watch?v=u1uJAmUR… Or listen on Spotify, Apple Podcasts, or wherever you get your podcasts, just search for \"The Daily Brief by Zerodha.\" Link Who gets the spare space on India's power grid? The policy freezing India’s refrigerants thedailybrief.zerodha.com",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2084864421265072129%2FzrtC9kP5%3Fformat%3Djpg%26name%3D800x419",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864876938494066#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: None of that resolves the tension at the heart of the Jindal case. It simply multiplies the number of parties competing for the same wires. Discoms will still have twenty-year power purchase agreements to honour, cross-subsidies to fund, and a statutory duty to supply the customers nobody else wants. The commission has now made one thing clear, when a permanent right and a temporary one compete for the same corridor, the permanent right prevails.",
+      "link": "https://x.com/zerodhamarkets/status/2084864876938494066#m",
+      "published": "2026-08-05T04:51:36.000Z",
+      "summary": "None of that resolves the tension at the heart of the Jindal case. It simply multiplies the number of parties competing for the same wires. Discoms will still have twenty-year power purchase agreements to honour, cross-subsidies to fund, and a statutory duty to supply the customers nobody else wants. The commission has now made one thing clear, when a permanent right and a temporary one compete for the same corridor, the permanent right prevails.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864873973116930#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Everything above concerns one factory, one transmission corridor and 100 MW. But policy is moving towards a system where aggregators bundle rooftop solar, home batteries and electric vehicles into virtual power plants that can bid into electricity markets just like any other generator. Instruments like virtual power purchase agreements separate the financial contract from the physical flow of electricity altogether.",
+      "link": "https://x.com/zerodhamarkets/status/2084864873973116930#m",
+      "published": "2026-08-05T04:51:35.000Z",
+      "summary": "Everything above concerns one factory, one transmission corridor and 100 MW. But policy is moving towards a system where aggregators bundle rooftop solar, home batteries and electric vehicles into virtual power plants that can bid into electricity markets just like any other generator. Instruments like virtual power purchase agreements separate the financial contract from the physical flow of electricity altogether.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864871204815253#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Jindal, meanwhile, argued that it was already paying for the privilege of staying connected. It paid fixed charges of ₹290 per kVA every month on its entire sanctioned load, kVA being the amount of capacity the discom keeps reserved for you, whether it bought a single unit of electricity from the discom or not.",
+      "link": "https://x.com/zerodhamarkets/status/2084864871204815253#m",
+      "published": "2026-08-05T04:51:34.000Z",
+      "summary": "Jindal, meanwhile, argued that it was already paying for the privilege of staying connected. It paid fixed charges of ₹290 per kVA every month on its entire sanctioned load, kVA being the amount of capacity the discom keeps reserved for you, whether it bought a single unit of electricity from the discom or not.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864868541489339#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Captive consumers are exempt from both the cross-subsidy surcharge and the additional surcharge. Jindal had applied as a captive consumer. So whatever Haryana's discoms were losing as industrial consumers shifted to open access, they had no legal claim on Jindal for any of it. The only objection available in this case was a technical one about transmission corridor capacity.",
+      "link": "https://x.com/zerodhamarkets/status/2084864868541489339#m",
+      "published": "2026-08-05T04:51:34.000Z",
+      "summary": "Captive consumers are exempt from both the cross-subsidy surcharge and the additional surcharge. Jindal had applied as a captive consumer. So whatever Haryana's discoms were losing as industrial consumers shifted to open access, they had no legal claim on Jindal for any of it. The only objection available in this case was a technical one about transmission corridor capacity.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864865668391377#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Between April and September 2024, 8.6 crore units of contracted power went unused because consumers had shifted to open access. Just six months later, for October 2024 to March 2025, that number had risen to 14.5 crore units, nearly 70% higher. The additional surcharge rose alongside it, from ₹1.15 to ₹1.21 per unit, and then to ₹1.37 from 30 April 2026.",
+      "link": "https://x.com/zerodhamarkets/status/2084864865668391377#m",
+      "published": "2026-08-05T04:51:33.000Z",
+      "summary": "Between April and September 2024, 8.6 crore units of contracted power went unused because consumers had shifted to open access. Just six months later, for October 2024 to March 2025, that number had risen to 14.5 crore units, nearly 70% higher. The additional surcharge rose alongside it, from ₹1.15 to ₹1.21 per unit, and then to ₹1.37 from 30 April 2026.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864862950404313#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: The second is the additional surcharge, which addresses a subtler problem. Discoms sign power purchase agreements that run for 20 to 25 years, and those obligations don't disappear when a customer leaves. If demand falls, the discom still has to pay generators for electricity it no longer needs.",
+      "link": "https://x.com/zerodhamarkets/status/2084864862950404313#m",
+      "published": "2026-08-05T04:51:32.000Z",
+      "summary": "The second is the additional surcharge, which addresses a subtler problem. Discoms sign power purchase agreements that run for 20 to 25 years, and those obligations don't disappear when a customer leaves. If demand falls, the discom still has to pay generators for electricity it no longer needs.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864860152820146#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: When a discom loses an industrial customer, it doesn't just lose revenue in proportion to that customer's consumption. It loses the surplus that was helping pay for everyone else. The law tries to compensate for this through two charges. The first is the cross-subsidy surcharge, which is effectively an exit fee for taking a profitable retail customer out of the pool.",
+      "link": "https://x.com/zerodhamarkets/status/2084864860152820146#m",
+      "published": "2026-08-05T04:51:32.000Z",
+      "summary": "When a discom loses an industrial customer, it doesn't just lose revenue in proportion to that customer's consumption. It loses the surplus that was helping pay for everyone else. The law tries to compensate for this through two charges. The first is the cross-subsidy surcharge, which is effectively an exit fee for taking a profitable retail customer out of the pool.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864857502040513#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: The retail business depends on exactly the customers most likely to leave. Industrial and commercial users are deliberately charged more than it costs to serve them, and that surplus subsidises farmers and households, who pay less than cost. In Maharashtra, commercial consumers paid roughly 50-70% above the average cost of supply in FY24, while agricultural consumers paid about 43% below it.",
+      "link": "https://x.com/zerodhamarkets/status/2084864857502040513#m",
+      "published": "2026-08-05T04:51:31.000Z",
+      "summary": "The retail business depends on exactly the customers most likely to leave. Industrial and commercial users are deliberately charged more than it costs to serve them, and that surplus subsidises farmers and households, who pay less than cost. In Maharashtra, commercial consumers paid roughly 50-70% above the average cost of supply in FY24, while agricultural consumers paid about 43% below it.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864854628913404#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: What the discom loses is the margin on the electricity sale. A discom is really two businesses. It's a wires business that rents out infrastructure, and a retail business that sells electricity. Open access lets a customer keep using the wires while not buying electricity from them.",
+      "link": "https://x.com/zerodhamarkets/status/2084864854628913404#m",
+      "published": "2026-08-05T04:51:30.000Z",
+      "summary": "What the discom loses is the margin on the electricity sale. A discom is really two businesses. It's a wires business that rents out infrastructure, and a retail business that sells electricity. Open access lets a customer keep using the wires while not buying electricity from them.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864852070371630#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Start with what an open access consumer actually pays. It pays the generator and then pays for every wire in between, interstate transmission charges, state transmission charges, wheeling charges for the local distribution network, along with scheduling, load despatch and deviation charges. Power Grid gets paid. Haryana's transmission utility gets paid. Even the discom gets paid for the use of its poles and wires.",
+      "link": "https://x.com/zerodhamarkets/status/2084864852070371630#m",
+      "published": "2026-08-05T04:51:30.000Z",
+      "summary": "Start with what an open access consumer actually pays. It pays the generator and then pays for every wire in between, interstate transmission charges, state transmission charges, wheeling charges for the local distribution network, along with scheduling, load despatch and deviation charges. Power Grid gets paid. Haryana's transmission utility gets paid. Even the discom gets paid for the use of its poles and wires.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864849365135806#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Haryana's utilities maintained throughout the proceedings that their objection was purely about transmission. Protecting revenue, they repeatedly told the commission, had nothing to do with it. That deserves to be taken at face value because the operational concern is real. A state that cannot import power on a June evening has a genuine problem.",
+      "link": "https://x.com/zerodhamarkets/status/2084864849365135806#m",
+      "published": "2026-08-05T04:51:29.000Z",
+      "summary": "Haryana's utilities maintained throughout the proceedings that their objection was purely about transmission. Protecting revenue, they repeatedly told the commission, had nothing to do with it. That deserves to be taken at face value because the operational concern is real. A state that cannot import power on a June evening has a genuine problem.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864846827565312#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Think of it like a bank transfer. If someone deposits ₹500 into your account from another city, you don't receive the same note they handed over. You simply receive an equivalent value from a system that's kept in balance. That's why open access is better understood as an accounting method than a delivery method.",
+      "link": "https://x.com/zerodhamarkets/status/2084864846827565312#m",
+      "published": "2026-08-05T04:51:29.000Z",
+      "summary": "Think of it like a bank transfer. If someone deposits ₹500 into your account from another city, you don't receive the same note they handed over. You simply receive an equivalent value from a system that's kept in balance. That's why open access is better understood as an accounting method than a delivery method.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864844227117358#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: When Jindal's factory in Hisar draws power from a wind farm in Gujarat, no electricity physically travels from that wind farm to the factory. There is no dedicated wire connecting the two. India's grid is one synchronised system. What actually happens is that the generator injects an agreed quantum into the grid at one end, the consumer withdraws an agreed quantum somewhere else, and the two are matched afterwards on a spreadsheet.",
+      "link": "https://x.com/zerodhamarkets/status/2084864844227117358#m",
+      "published": "2026-08-05T04:51:28.000Z",
+      "summary": "When Jindal's factory in Hisar draws power from a wind farm in Gujarat, no electricity physically travels from that wind farm to the factory. There is no dedicated wire connecting the two. India's grid is one synchronised system. What actually happens is that the generator injects an agreed quantum into the grid at one end, the consumer withdraws an agreed quantum somewhere else, and the two are matched afterwards on a spreadsheet.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864841496551446#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: The Green Energy Open Access Rules, 2022 pulled it down to 100 kilowatts for renewable power. And for captive consumers, companies that own a stake in a power plant and consume its output themselves, there is no minimum at all.",
+      "link": "https://x.com/zerodhamarkets/status/2084864841496551446#m",
+      "published": "2026-08-05T04:51:27.000Z",
+      "summary": "The Green Energy Open Access Rules, 2022 pulled it down to 100 kilowatts for renewable power. And for captive consumers, companies that own a stake in a power plant and consume its output themselves, there is no minimum at all.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864838854152309#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Wires became shared infrastructure rather than the private property of whoever sold the power flowing through them. This is open access. It was never designed for households. The threshold was set at loads of 1 MW and above, which in practice meant steel plants, cement kilns, textile mills and auto factories.",
+      "link": "https://x.com/zerodhamarkets/status/2084864838854152309#m",
+      "published": "2026-08-05T04:51:27.000Z",
+      "summary": "Wires became shared infrastructure rather than the private property of whoever sold the power flowing through them. This is open access. It was never designed for households. The threshold was set at loads of 1 MW and above, which in practice meant steel plants, cement kilns, textile mills and auto factories.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864836371095816#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Thirty years ago, if you ran a plant in Haryana, you bought electricity from the Haryana State Electricity Board. There was no second option, at any price, for any quantity. The Electricity Act, 2003 broke that monopoly with a deceptively simple rule. If a transmission or distribution network has spare capacity on it, the owner must make that spare capacity available to others.",
+      "link": "https://x.com/zerodhamarkets/status/2084864836371095816#m",
+      "published": "2026-08-05T04:51:26.000Z",
+      "summary": "Thirty years ago, if you ran a plant in Haryana, you bought electricity from the Haryana State Electricity Board. There was no second option, at any price, for any quantity. The Electricity Act, 2003 broke that monopoly with a deceptively simple rule. If a transmission or distribution network has spare capacity on it, the owner must make that spare capacity available to others.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864833951092855#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Even then, the victory came with conditions. The commission gave the transmission utility two weeks to put in place the procedures and undertakings needed to operationalise Jindal's curtailment proposal, and only then issue the certificate. Eighteen months after the first letter, a company that had already invested hundreds of crores in generation capacity finally had a way to move its electricity.",
+      "link": "https://x.com/zerodhamarkets/status/2084864833951092855#m",
+      "published": "2026-08-05T04:51:25.000Z",
+      "summary": "Even then, the victory came with conditions. The commission gave the transmission utility two weeks to put in place the procedures and undertakings needed to operationalise Jindal's curtailment proposal, and only then issue the certificate. Eighteen months after the first letter, a company that had already invested hundreds of crores in generation capacity finally had a way to move its electricity.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864831501574600#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Jindal took the matter to the regulator instead. On 23 June 2026, the Haryana Electricity Regulatory Commission ruled in the company's favour. It held that Haryana could not deny long-term open access just to preserve corridor capacity for temporary users. Keeping spare capacity for short-term summer purchases may make operational sense, but it is not a lawful reason to deny access.",
+      "link": "https://x.com/zerodhamarkets/status/2084864831501574600#m",
+      "published": "2026-08-05T04:51:25.000Z",
+      "summary": "Jindal took the matter to the regulator instead. On 23 June 2026, the Haryana Electricity Regulatory Commission ruled in the company's favour. It held that Haryana could not deny long-term open access just to preserve corridor capacity for temporary users. Keeping spare capacity for short-term summer purchases may make operational sense, but it is not a lawful reason to deny access.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2084864829094056050#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: In May, Jindal went a step further. It said that if the grid came under stress, the Haryana electricity department could disconnect its open-access supply, and Jindal would also bear any imbalance charges. The state still refused. By September, the matter had reached Haryana's Grid Co-ordination Committee, which proposed a split. The certificate could be issued for nine months of the year, but not for June, July and August.",
+      "link": "https://x.com/zerodhamarkets/status/2084864829094056050#m",
+      "published": "2026-08-05T04:51:24.000Z",
+      "summary": "In May, Jindal went a step further. It said that if the grid came under stress, the Haryana electricity department could disconnect its open-access supply, and Jindal would also bear any imbalance charges. The state still refused. By September, the matter had reached Haryana's Grid Co-ordination Committee, which proposed a split. The certificate could be issued for nine months of the year, but not for June, July and August.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-05T07:59:28.510Z"
+    },
+    {
       "id": "https://x.com/zerodha/status/2084842600734040494#m",
       "platform": "x",
       "group": "Zerodha Online",
@@ -121,6 +373,18 @@
       "firstSeen": "2026-08-05T04:58:44.333Z"
     },
     {
+      "id": "https://www.youtube.com/watch?v=__hP4z5ShfQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "What went wrong at Zee? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=__hP4z5ShfQ",
+      "published": "2026-08-05T02:30:33.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nSEBI’s Verdict on Zee Entertainment\n\nThis video breaks down SEBI’s final order against Zee Entertainment, Subhash Chandra, and Punit Goenka over the alleged misuse of company assets and concealment of key transactions from investors. It explains how a Zee-owned property was allegedly pledged to support debt-ridden Essel Group entities, why SEBI called it fraudulent despite legal technicalities, and what the ruling means for corporate governance, shareholder trust, and Zee’s future after years of se…",
+      "thumbnail": "https://i4.ytimg.com/vi/__hP4z5ShfQ/hqdefault.jpg",
+      "firstSeen": "2026-08-05T07:59:25.458Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/power-grid-open-access-discoms-electricity-india-refrigerant-ac-chemical-industry",
       "platform": "substack",
       "group": "Markets",
@@ -131,6 +395,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: Who gets the spare lane on India’s power grid A dispute between Jindal Stainless and Haryana highlights the growing tension between industrial consumers seeking open access to renewable pow…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!bvD3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a615de4-a601-4682-b4f7-f5e275ce5430_1536x1024.png",
       "firstSeen": "2026-08-05T04:58:38.855Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=u1uJAmURfI8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "The open access battle | The policy freezing India’s refrigerants | The Daily Brief #522",
+      "link": "https://www.youtube.com/watch?v=u1uJAmURfI8",
+      "published": "2026-08-05T01:30:26.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover two stories shaping Indian and global markets:\n\n1. Who Gets the Spare Space on India’s Power Grid?\nIndia’s power grid has more demand for transmission access than available capacity. This story explains how a dispute involving Jindal Stainless highlights the conflict between industrial consumers, state utilities, and open access rules—and what it means for the future of renewable energy and electricity transmission in India.\n\n2. India’s Refrigerant Po…",
+      "thumbnail": "https://i2.ytimg.com/vi/u1uJAmURfI8/hqdefault.jpg",
+      "firstSeen": "2026-08-05T07:59:25.214Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=hejmdlm5PNg",
@@ -917,7 +1193,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Why Stock Market WILL NOT make you Rich",
+      "title": "The ₹1 Crore Dream is a LIE",
       "link": "https://www.youtube.com/watch?v=IYYEwpOAk2Y",
       "published": "2026-08-01T04:30:04.000Z",
       "summary": "Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nThe internet is filled with Myths on how the Stock Market can make money for you. \n\nSo in this video we decided to debunk 4 biggest myths around the markets! \n\n1. Set and Forget: \nEveryone on the internet tells you to set up an SIP and then forget!\nBut all equity is not the same and how you invest, if you do an SIP or invest the money lump sum plays a big role on the 'Set and Forget' rule turns out for you. \n\n2. Living off Dividend Income:\nDividend Income is one of the most commonly sold ideas of Passive Income. \nThe Idea is absolutely TRUE but partly! \nBut a healthy dividend yield of 1% largely depends on the size of yo…",
@@ -4761,7 +5037,7 @@
       "link": "https://x.com/Nithin0dha/status/2077317431060791373#m",
       "published": "2026-07-15T09:00:44.000Z",
       "summary": "Article link: moneycontrol.com/technology/… Link Tax arbitrage drives crypto futures to 80% of India’s trading volume- Moneycontrol.com With derivatives capturing the bulk of trading activity, industry observers highlight the stark absence of regulatory guardrails that typically protect investors in traditional equity markets moneycontrol.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2082340328208785408%2FrbNU-I_V%3Fformat%3Djpg%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2084878112949731328%2F8g409gGw%3Fformat%3Djpg%26name%3D800x419",
       "firstSeen": "2026-07-26T09:01:38.304Z"
     },
     {
@@ -8822,6 +9098,11 @@
       "at": "2026-08-05T04:58:57.156Z",
       "added": 11,
       "errors": 13
+    },
+    {
+      "at": "2026-08-05T07:59:45.794Z",
+      "added": 23,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -8868,5 +9149,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-05T04:58:57.156Z"
+  "lastRun": "2026-08-05T07:59:45.794Z"
 }
