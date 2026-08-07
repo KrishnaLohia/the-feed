@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/eVzHFupIqPE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Why No Market Wizard Uses a Simple Trading System",
+      "link": "https://www.youtube.com/shorts/eVzHFupIqPE",
+      "published": "2026-08-07T15:11:34.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/eVzHFupIqPE/hqdefault.jpg",
+      "firstSeen": "2026-08-07T16:24:54.349Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=P6zVhuuPMtg",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Can ‘Quant’ style pick better stocks? ft. Deepak Shenoy & Anoop Vijaykumar | Capitalmind’s Quant MF",
+      "link": "https://www.youtube.com/watch?v=P6zVhuuPMtg",
+      "published": "2026-08-07T13:30:07.000Z",
+      "summary": "Capitalmind Mutual Fund approaches money management with a quantitative, rules-based framework. Rather than relying on traditional human judgment or trying to predict long-term corporate governance, they use factor investing to target momentum adjusted for volatility. \n\nIn this video, Satya Sontanam from Zerodha Varsity sits down with Deepak Shenoy and Anoop Vijaykumar from Capitalmind Mutual Fund. They break down how quantitative models perform in the real world, the impact of transaction costs on high-turnover portfolios, and how key risk metrics shape their investment process. If you want to understand the philosophy behind quant investing and what to expect as an investor, this conversa…",
+      "thumbnail": "https://i1.ytimg.com/vi/P6zVhuuPMtg/hqdefault.jpg",
+      "firstSeen": "2026-08-07T16:24:58.094Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-wraps-up-a-range-bound-week",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty wraps up a range-bound week in the 24,550-24,600 zone",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-wraps-up-a-range-bound-week",
+      "published": "2026-08-07T13:20:02.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. In our latest episode of I n The Money by Zerodha , we go back to a question that should come before any strategy: does this market actually trend? Most of what we know about systematic trading comes from deep, liquid US markets. But do those same ideas hold up in Indian commodity futures? In this episode, we analyze the five most liquid MCX commodities (Gold, Silver, Copper, Crude Oil, and Natural Gas) using an 11-year baseline backtest to understand how they actually behave. Instead of searching for the \"best\" commodity, we ask more fundamental questio…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ntvK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20f8cc76-9208-44b0-ab86-cbbb1c5b4ea2_1536x1024.png",
+      "firstSeen": "2026-08-07T16:24:54.946Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/nwvOFZOie8g",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -8277,7 +8313,7 @@
       "link": "https://x.com/ZerodhaAMC/status/2065424905941004743#m",
       "published": "2026-06-12T13:24:05.000Z",
       "summary": "zerodhafundhouse.com/investi… Link Investing for Minor - Zerodha Fund House Investing for Minor - Zerodha Fund House zerodhafundhouse.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2083195766865051649%2Fu3tDtdMj%3Fformat%3Djpg%26name%3D420x420_2",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2085733229529886721%2F379O1jjP%3Fformat%3Djpg%26name%3D420x420_2",
       "firstSeen": "2026-07-26T09:01:35.852Z"
     },
     {
@@ -9567,11 +9603,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-26T13:20:20.458Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-07-26T16:31:15.073Z",
       "added": 1,
       "errors": 3
@@ -9865,6 +9896,11 @@
       "at": "2026-08-07T13:00:23.795Z",
       "added": 7,
       "errors": 3
+    },
+    {
+      "at": "2026-08-07T16:25:17.231Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -9911,5 +9947,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-07T13:00:23.795Z"
+  "lastRun": "2026-08-07T16:25:17.231Z"
 }
