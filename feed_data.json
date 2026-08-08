@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/PU_HFmZhUYg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Jack Schwager's Advice to Every New Trader",
+      "link": "https://www.youtube.com/shorts/PU_HFmZhUYg",
+      "published": "2026-08-08T12:03:15.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/PU_HFmZhUYg/hqdefault.jpg",
+      "firstSeen": "2026-08-08T12:44:44.578Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=bf1VbbnSfNc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "The Real Truth About Buying Gold in India! | Cash & Copium Ep 2",
+      "link": "https://www.youtube.com/watch?v=bf1VbbnSfNc",
+      "published": "2026-08-08T12:00:18.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\n\nGold is India’s favorite asset class, but how much do you actually know about what you’re paying for when you buy it?\n\nIn Episode 2 of Cash & Copium, Abid and Bhuvan break down the mechanics, myths, and math of investing in gold. From dissecting how international spot prices turn into MCX prices (including import duties, BCD, and GST) to debunking the age-old myth that \"gold is an inflation hedge,\" this episode covers everything you need to know before making a portfolio allocation.\n\nWe compare ph…",
+      "thumbnail": "https://i3.ytimg.com/vi/bf1VbbnSfNc/hqdefault.jpg",
+      "firstSeen": "2026-08-08T12:44:44.818Z"
+    },
+    {
+      "id": "https://x.com/ZerodhaVarsity/status/2086047138505716057#m",
+      "platform": "x",
+      "group": "Varsity",
+      "sourceName": "Zerodha Varsity (X)",
+      "title": "R to @ZerodhaVarsity: Hit the link to subscribe: https://www.youtube.com/@varsitybyzerodha",
+      "link": "https://x.com/ZerodhaVarsity/status/2086047138505716057#m",
+      "published": "2026-08-08T11:09:29.000Z",
+      "summary": "Hit the link to subscribe: piped.video/@varsitybyzerodh…",
+      "thumbnail": "",
+      "firstSeen": "2026-08-08T12:44:50.213Z"
+    },
+    {
+      "id": "https://x.com/ZerodhaVarsity/status/2086047135364182111#m",
+      "platform": "x",
+      "group": "Varsity",
+      "sourceName": "Zerodha Varsity (X)",
+      "title": "RT by @karthikrangappa: Here's a sneak peek into our conversation with Mr. Ananth Narayan (Former Whole Time Member, SEBI) at the Varsity Mumbai Bootcamp! @ananthng The full video drops soon on our YouTube channel, where we break down all things Rupee!",
+      "link": "https://x.com/ZerodhaVarsity/status/2086047135364182111#m",
+      "published": "2026-08-08T11:09:28.000Z",
+      "summary": "Here's a sneak peek into our conversation with Mr. Ananth Narayan (Former Whole Time Member, SEBI) at the Varsity Mumbai Bootcamp! @ananthng The full video drops soon on our YouTube channel, where we break down all things Rupee! Video",
+      "thumbnail": "https://nitter.net/pic/amplify_video_thumb%2F2086046709512306688%2Fimg%2FPw_IL6Lpex3mnquV.jpg",
+      "firstSeen": "2026-08-08T12:44:50.213Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/QDBHMDmdIDI",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -9711,11 +9759,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-27T11:55:32.676Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-07-27T14:32:33.702Z",
       "added": 8,
       "errors": 3
@@ -10009,6 +10052,11 @@
       "at": "2026-08-08T09:12:12.149Z",
       "added": 7,
       "errors": 3
+    },
+    {
+      "at": "2026-08-08T12:45:05.156Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -10055,5 +10103,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-08T09:12:12.149Z"
+  "lastRun": "2026-08-08T12:45:05.156Z"
 }
