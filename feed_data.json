@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://x.com/Nithin0dha/status/2085965384390500689#m",
+      "platform": "x",
+      "group": "Other Handles & People",
+      "sourceName": "Nithin Kamath (X)",
+      "title": "R to @Nithin0dha: Subscribe to Zero1 on YouTube: https://www.youtube.com/@Zero1byZerodha",
+      "link": "https://x.com/Nithin0dha/status/2085965384390500689#m",
+      "published": "2026-08-08T05:44:37.000Z",
+      "summary": "Subscribe to Zero1 on YouTube: piped.video/@Zero1byZerodha",
+      "thumbnail": "",
+      "firstSeen": "2026-08-08T06:02:37.365Z"
+    },
+    {
+      "id": "https://x.com/Nithin0dha/status/2085963950420889645#m",
+      "platform": "x",
+      "group": "Other Handles & People",
+      "sourceName": "Nithin Kamath (X)",
+      "title": "Taking a loan has never been easier. There is almost no friction between wanting something and borrowing to pay for it. The problem is that income is limited, while the list of things we want is endless. And often, it isn’t even the purchase we want as much as the momentary thrill of buying it. We are taught how to earn and save, but learning how to spend is just as important. When an impulse purchase becomes an EMI, you are committing future income even before it hits your account. The excitement of spending fades in days, but the debt stays for years. Borrowing to invest in a home, education, or business makes sense. Borrowing for lifestyle consumption locks you into a loop that leaves no breathing room when an emergency hits. In this video, @Zero1ByZerodha looks at why household debt in India is rising, how to assess whether your debt is manageable, and practical ways to pay it down. Congratulations to @PrateekLearnapp, @swati_learnapp, and the team on crossing 800,000 subscribers.",
+      "link": "https://x.com/Nithin0dha/status/2085963950420889645#m",
+      "published": "2026-08-08T05:38:55.000Z",
+      "summary": "Taking a loan has never been easier. There is almost no friction between wanting something and borrowing to pay for it. The problem is that income is limited, while the list of things we want is endless. And often, it isn’t even the purchase we want as much as the momentary thrill of buying it. We are taught how to earn and save, but learning how to spend is just as important. When an impulse purchase becomes an EMI, you are committing future income even before it hits your account. The excitement of spending fades in days, but the debt stays for years. Borrowing to invest in a home, education, or business makes sense. Borrowing for lifestyle consumption locks you into a loop that leaves no…",
+      "thumbnail": "https://nitter.net/pic/amplify_video_thumb%2F2085957777483288576%2Fimg%2Fqki8JUM0RRRfyR6f.jpg",
+      "firstSeen": "2026-08-08T06:02:37.365Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/eVzHFupIqPE",
       "platform": "youtube",
       "group": "Markets",
@@ -5441,7 +5465,7 @@
       "platform": "x",
       "group": "Zerodha Online",
       "sourceName": "Zerodha (X)",
-      "title": "Saw a tweet of some guy losing all his savings because he invested all his money in 2 stocks. We recently added a nudge on Kite to help investors avoid exactly this scenario. You will now see an alert if a single stock or sector exceeds 50% of your portfolio. While “getting rich” with a concentrated portfolio sounds nice in theory, it’s often a recipe for disaster unless you are a genius stock picker. The 50% is just a starting point. We will eventually give users the option to configure it. This is just one nudge. We have more intelligent and contextual ones in the works, including the ability to customize them.",
+      "title": "RT by @zerodha: Saw a tweet of some guy losing all his savings because he invested all his money in 2 stocks. We recently added a nudge on Kite to help investors avoid exactly this scenario. You will now see an alert if a single stock or sector exceeds 50% of your portfolio. While “getting rich” with a concentrated portfolio sounds nice in theory, it’s often a recipe for disaster unless you are a genius stock picker. The 50% is just a starting point. We will eventually give users the option to configure it. This is just one nudge. We have more intelligent and contextual ones in the works, including the ability to customize them.",
       "link": "https://x.com/Nithin0dha/status/2078010961160798372#m",
       "published": "2026-07-17T06:56:35.000Z",
       "summary": "Saw a tweet of some guy losing all his savings because he invested all his money in 2 stocks. We recently added a nudge on Kite to help investors avoid exactly this scenario. You will now see an alert if a single stock or sector exceeds 50% of your portfolio. While “getting rich” with a concentrated portfolio sounds nice in theory, it’s often a recipe for disaster unless you are a genius stock picker. The 50% is just a starting point. We will eventually give users the option to configure it. This is just one nudge. We have more intelligent and contextual ones in the works, including the ability to customize them.",
@@ -9603,11 +9627,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-27T05:43:28.217Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-07-27T08:51:56.619Z",
       "added": 9,
       "errors": 3
@@ -9901,6 +9920,11 @@
       "at": "2026-08-08T03:17:46.049Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-08-08T06:02:37.373Z",
+      "added": 2,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -9947,5 +9971,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-08T03:17:46.049Z"
+  "lastRun": "2026-08-08T06:02:37.373Z"
 }
