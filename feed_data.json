@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://x.com/nikhilkamathcio/status/2086094503333732387#m",
+      "platform": "x",
+      "group": "Other Handles & People",
+      "sourceName": "Nikhil Kamath (X)",
+      "title": "Energy isn't the problem anymore. Storing it is. I sat down in Dalian with the CEOs of EnerVenue and HiNa Battery, one building on nickel and water, the other on salt, and asked what I should start if I went home to India tomorrow. A battery company, they said. Not a car company. And don't build anything that needs rare earth. Full episode out soon..",
+      "link": "https://x.com/nikhilkamathcio/status/2086094503333732387#m",
+      "published": "2026-08-08T14:17:42.000Z",
+      "summary": "Energy isn't the problem anymore. Storing it is. I sat down in Dalian with the CEOs of EnerVenue and HiNa Battery, one building on nickel and water, the other on salt, and asked what I should start if I went home to India tomorrow. A battery company, they said. Not a car company. And don't build anything that needs rare earth. Full episode out soon.. Video",
+      "thumbnail": "https://nitter.net/pic/amplify_video_thumb%2F2086094254812905472%2Fimg%2FH5AOVcN7n1CCQcb0.jpg",
+      "firstSeen": "2026-08-08T15:56:53.465Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/uahVjNxOA90",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "The real cost of buying gold in India!",
+      "link": "https://www.youtube.com/shorts/uahVjNxOA90",
+      "published": "2026-08-08T13:14:32.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/uahVjNxOA90/hqdefault.jpg",
+      "firstSeen": "2026-08-08T15:56:34.652Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/PU_HFmZhUYg",
       "platform": "youtube",
       "group": "Markets",
@@ -9759,11 +9783,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-27T14:32:33.702Z",
-      "added": 8,
-      "errors": 3
-    },
-    {
       "at": "2026-07-27T17:19:33.431Z",
       "added": 3,
       "errors": 3
@@ -10057,6 +10076,11 @@
       "at": "2026-08-08T12:45:05.156Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-08-08T15:56:56.319Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -10103,5 +10127,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-08T12:45:05.156Z"
+  "lastRun": "2026-08-08T15:56:56.319Z"
 }
