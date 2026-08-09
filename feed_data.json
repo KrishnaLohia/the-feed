@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=m6WUB_jD-wY",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why India’s Weak Monsoon Should Worry Us",
+      "link": "https://www.youtube.com/watch?v=m6WUB_jD-wY",
+      "published": "2026-08-09T11:30:23.000Z",
+      "summary": "With chai and pakoras, India loves the monsoon. But this year, that monsoon has turned into a concerning statistic: India is still in a 16% rainfall deficit. As the south-west monsoon takes over the country, will we see some relief for irrigation-fed farmlands and groundwater levels? Watch the full video to find out.\n\n0:00 - Introduction\n0:46 - Chapter 1: What's Going On?\n3:50 - Chapter 2: Reasons & Implications\n\n#monsoon #indianmonsoon #monsoon2026 #watercrisis #monsoondeficit #indianews  #bestinindia #indianfarmers #climatechange #weathernews #climateaction #climatecrisis #indiarains #assamfloods #karnatakadrought #theclimatebrief",
+      "thumbnail": "https://i2.ytimg.com/vi/m6WUB_jD-wY/hqdefault.jpg",
+      "firstSeen": "2026-08-09T12:47:36.545Z"
+    },
+    {
       "id": "https://x.com/karthikrangappa/status/2086332898395975892#m",
       "platform": "x",
       "group": "Other Handles & People",
@@ -1749,7 +1761,7 @@
       "link": "https://x.com/Rainmatterin/status/2084263287429189863#m",
       "published": "2026-08-03T13:01:06.000Z",
       "summary": "Watch the full episode here - piped.video/-TqOl7NjB7o?si=GzcQ… Link How VCs Measure Product Market Fit | PMF framework ft Sajith Pai &... In this episode of How VCs Think, Dinesh Pai from Rainmatter and Sa... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2085223499899998208%2FzF-D5wVX%3Fformat%3Djpg%26name%3D800x320_1",
+      "thumbnail": "https://nitter.net/pic/cards%2Fplayer-placeholder.png",
       "firstSeen": "2026-08-03T14:35:48.791Z"
     },
     {
@@ -2049,7 +2061,7 @@
       "link": "https://x.com/Nithin0dha/status/2083783596297634079#m",
       "published": "2026-08-02T05:14:58.000Z",
       "summary": "piped.video/watch?v=unXcpvF3… Link Special Parent-Child Storytime with Seema Patil & Kiaan | Children’s Story on Self-Love & Friendship A heartwarming children’s story about self-love, friendship, and ce... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2083782425575075841%2FsuOvvApE%3Fformat%3Djpg%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2083782425575075841%2FetY-wKou%3Fformat%3Djpg%26name%3D800x419",
       "firstSeen": "2026-08-02T05:20:23.055Z"
     },
     {
@@ -9819,11 +9831,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-28T10:59:04.859Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-07-28T14:04:42.491Z",
       "added": 8,
       "errors": 3
@@ -10117,6 +10124,11 @@
       "at": "2026-08-09T09:19:10.934Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-09T12:47:46.184Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -10163,5 +10175,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-09T09:19:10.934Z"
+  "lastRun": "2026-08-09T12:47:46.184Z"
 }
