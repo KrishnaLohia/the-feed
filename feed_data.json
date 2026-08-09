@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=1CqgLjED5Jg",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 10 August 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=1CqgLjED5Jg",
+      "published": "2026-08-09T14:35:36.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/1CqgLjED5Jg/hqdefault.jpg",
+      "firstSeen": "2026-08-09T15:58:24.647Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=m6WUB_jD-wY",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -1761,7 +1773,7 @@
       "link": "https://x.com/Rainmatterin/status/2084263287429189863#m",
       "published": "2026-08-03T13:01:06.000Z",
       "summary": "Watch the full episode here - piped.video/-TqOl7NjB7o?si=GzcQ… Link How VCs Measure Product Market Fit | PMF framework ft Sajith Pai &... In this episode of How VCs Think, Dinesh Pai from Rainmatter and Sa... youtube.com",
-      "thumbnail": "https://nitter.net/pic/cards%2Fplayer-placeholder.png",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2085223499899998208%2FzF-D5wVX%3Fformat%3Djpg%26name%3D800x320_1",
       "firstSeen": "2026-08-03T14:35:48.791Z"
     },
     {
@@ -9831,11 +9843,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-28T14:04:42.491Z",
-      "added": 8,
-      "errors": 3
-    },
-    {
       "at": "2026-07-28T16:59:30.230Z",
       "added": 2,
       "errors": 3
@@ -10129,6 +10136,11 @@
       "at": "2026-08-09T12:47:46.184Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-09T15:58:39.602Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -10175,5 +10187,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-09T12:47:46.184Z"
+  "lastRun": "2026-08-09T15:58:39.602Z"
 }
