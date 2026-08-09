@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=0_2XW4Frw3c",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Market Auctions & Order Flow: How Stock Prices Move | In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=0_2XW4Frw3c",
+      "published": "2026-08-09T03:30:17.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nIn this episode, I break down how the stock market actually works as an auction, from the moment you place a buy or sell order to how that single action moves the price of a stock.\n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nMost traders think placing an order is simple. Hit buy, hit sell, done. But underneath every trade is a two-sided continuous auction running every second the market is open.\n\nThere's a limit order book stacking up bids and offers, a bid-ask s…",
+      "thumbnail": "https://i1.ytimg.com/vi/0_2XW4Frw3c/hqdefault.jpg",
+      "firstSeen": "2026-08-09T06:04:42.727Z"
+    },
+    {
       "id": "https://x.com/nikhilkamathcio/status/2086094503333732387#m",
       "platform": "x",
       "group": "Other Handles & People",
@@ -9795,11 +9807,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-28T04:57:36.958Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-07-28T07:59:30.954Z",
       "added": 5,
       "errors": 3
@@ -10093,6 +10100,11 @@
       "at": "2026-08-09T03:25:53.806Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-09T06:05:02.250Z",
+      "added": 1,
+      "errors": 12
     }
   ],
   "directSources": [
@@ -10139,5 +10151,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-09T03:25:53.806Z"
+  "lastRun": "2026-08-09T06:05:02.250Z"
 }
