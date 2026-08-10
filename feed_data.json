@@ -245,7 +245,7 @@
       "platform": "youtube",
       "group": "Rainmatter Foundation",
       "sourceName": "The Climate Brief (YouTube)",
-      "title": "Why India's Weak Monsoon Matters More Than You Think",
+      "title": "India’s 13% Monsoon Deficit WILL AFFECT Everyone",
       "link": "https://www.youtube.com/watch?v=m6WUB_jD-wY",
       "published": "2026-08-09T11:30:23.000Z",
       "summary": "With chai and pakoras, India loves the monsoon. But this year, that monsoon has turned into a concerning statistic: India is still in a 16% rainfall deficit. As the south-west monsoon takes over the country, will we see some relief for irrigation-fed farmlands and groundwater levels? Watch the full video to find out.\n\n0:00 - Introduction\n0:46 - Chapter 1: What's Going On?\n3:50 - Chapter 2: Reasons & Implications\n\n#monsoon #indianmonsoon #monsoon2026 #watercrisis #monsoondeficit #indianews  #bestinindia #indianfarmers #climatechange #weathernews #climateaction #climatecrisis #indiarains #assamfloods #karnatakadrought #theclimatebrief",
@@ -5693,7 +5693,7 @@
       "platform": "youtube",
       "group": "Rainmatter",
       "sourceName": "Rainmatter (YouTube)",
-      "title": "What getting kicked out of Quick Commerce taught this founder | Ft Sudarshan of (@proteinchefindia)",
+      "title": "How D2C Brands Can Crack Quick Commerce | Guide to SEO & Pricing on QComm & E-Commerce",
       "link": "https://www.youtube.com/watch?v=LNfSRwAaG-4",
       "published": "2026-07-18T06:00:09.000Z",
       "summary": "In this conversation, Sudarshan Gangrade, founder of Lo Foods (maker of brands Protein Chef, DiabeSmart), explains how the brand survived and grew for five years on very little marketing spend by treating discoverability on marketplaces as the whole game. Most product discovery on these platforms happens through search, so if you get your titles and keywords right, your cost of acquisition (CAC) stays low and you keep showing up organically without paying for it. This is a masterclass in understanding how D2C brands should operate in the world of quick commerce. \n\nThe second half is a candid look at a failure. In 2023, Lo Foods took the same products that worked on Amazon, put them on quick…",
@@ -10071,11 +10071,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-29T08:03:29.155Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-07-29T11:04:27.878Z",
       "added": 11,
       "errors": 3
@@ -10369,14 +10364,37 @@
       "at": "2026-08-10T06:48:14.180Z",
       "added": 16,
       "errors": 13
+    },
+    {
+      "at": "2026-08-10T10:13:44.546Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
     {
       "group": "Markets",
+      "name": "Zerodha Markets (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodhamarkets"
+    },
+    {
+      "group": "Markets",
+      "name": "Subtext Zerodha (X)",
+      "platform": "x",
+      "url": "https://x.com/subtextzerodha"
+    },
+    {
+      "group": "Markets",
       "name": "Markets by Zerodha (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/marketsbyzerodha/"
+    },
+    {
+      "group": "Varsity",
+      "name": "Zerodha Varsity (X)",
+      "platform": "x",
+      "url": "https://x.com/ZerodhaVarsity"
     },
     {
       "group": "Varsity",
@@ -10392,9 +10410,33 @@
     },
     {
       "group": "Zerodha Online",
+      "name": "Zerodha (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodha"
+    },
+    {
+      "group": "Zerodha Online",
+      "name": "Coin by Zerodha (X)",
+      "platform": "x",
+      "url": "https://x.com/CoinByZerodha"
+    },
+    {
+      "group": "Zerodha Online",
+      "name": "TradingQnA (X)",
+      "platform": "x",
+      "url": "https://x.com/tradingqna"
+    },
+    {
+      "group": "Zerodha Online",
       "name": "Zerodha Online (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/zerodhaonline/"
+    },
+    {
+      "group": "Rainmatter",
+      "name": "Rainmatter (X)",
+      "platform": "x",
+      "url": "https://x.com/Rainmatterin"
     },
     {
       "group": "Rainmatter",
@@ -10410,10 +10452,46 @@
     },
     {
       "group": "Rainmatter Foundation",
+      "name": "Rainmatter Org (X)",
+      "platform": "x",
+      "url": "https://x.com/RainmatterOrg"
+    },
+    {
+      "group": "Rainmatter Foundation",
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Zerodha Capital (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodhacapital"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Zerodha AMC (X)",
+      "platform": "x",
+      "url": "https://x.com/ZerodhaAMC"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Nikhil Kamath (X)",
+      "platform": "x",
+      "url": "https://x.com/nikhilkamathcio"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Karthik Rangappa (X)",
+      "platform": "x",
+      "url": "https://x.com/karthikrangappa"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Nithin Kamath (X)",
+      "platform": "x",
+      "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-10T06:48:14.180Z"
+  "lastRun": "2026-08-10T10:13:44.546Z"
 }
