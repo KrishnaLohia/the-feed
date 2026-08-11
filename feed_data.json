@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://x.com/nikhilkamathcio/status/2087054255828197756#m",
+      "platform": "x",
+      "group": "Other Handles & People",
+      "sourceName": "Nikhil Kamath (X)",
+      "title": "The currency of transaction could be changing from money to energy. Energy generation is solved for. Storing that energy efficiently is a subject everyone should learn about. This one is important to watch..",
+      "link": "https://x.com/nikhilkamathcio/status/2087054255828197756#m",
+      "published": "2026-08-11T05:51:24.000Z",
+      "summary": "The currency of transaction could be changing from money to energy. Energy generation is solved for. Storing that energy efficiently is a subject everyone should learn about. This one is important to watch.. Video",
+      "thumbnail": "https://nitter.net/pic/amplify_video_thumb%2F2087053772346601472%2Fimg%2FIXOgOJ_eMPqh03GY.jpg",
+      "firstSeen": "2026-08-11T06:12:20.923Z"
+    },
+    {
       "id": "https://x.com/zerodhamarkets/status/2087017493852463122#m",
       "platform": "x",
       "group": "Markets",
@@ -3333,7 +3345,7 @@
       "link": "https://x.com/Nithin0dha/status/2082774759952322583#m",
       "published": "2026-07-30T10:26:13.000Z",
       "summary": "Watch the full episode: piped.video/PA_dLcFNlLQ?si=DxAL… Link Jack Schwager: What Market Wizards Know That Most Traders Don't | In... Welcome to the In The Money Podcast by Zerodha, where we bring you ... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2085311497476124672%2FSIViGl0F%3Fformat%3Djpg%26name%3D800x320_1",
+      "thumbnail": "https://nitter.net/pic/cards%2Fplayer-placeholder.png",
       "firstSeen": "2026-07-30T13:58:18.118Z"
     },
     {
@@ -10359,11 +10371,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-30T04:52:20.201Z",
-      "added": 21,
-      "errors": 13
-    },
-    {
       "at": "2026-07-30T07:44:55.871Z",
       "added": 3,
       "errors": 3
@@ -10657,6 +10664,11 @@
       "at": "2026-08-11T03:28:26.729Z",
       "added": 4,
       "errors": 12
+    },
+    {
+      "at": "2026-08-11T06:12:23.584Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -10703,5 +10715,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-11T03:28:26.728Z"
+  "lastRun": "2026-08-11T06:12:23.584Z"
 }
