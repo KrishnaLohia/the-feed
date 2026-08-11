@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://x.com/zerodhamarkets/status/2087017493852463122#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: We cover this and one more interesting story in today's edition of The Daily Brief. Read on Substack: https://thedailybrief.zerodha.com/p/india-private-banks-corporate-loans-growth-makhana-bihar-snacks Watch on YouTube: https://youtu.be/mN5ScjL8erw?si=wBBcHDN6QpAxY9V5 Or listen on Spotify, Apple Podcasts, or wherever you get your podcasts, just search for \"The Daily Brief by Zerodha.\"",
+      "link": "https://x.com/zerodhamarkets/status/2087017493852463122#m",
+      "published": "2026-08-11T03:25:20.000Z",
+      "summary": "We cover this and one more interesting story in today's edition of The Daily Brief. Read on Substack: thedailybrief.zerodha.com/p/… Watch on YouTube: piped.video/mN5ScjL8erw?si=wBBc… Or listen on Spotify, Apple Podcasts, or wherever you get your podcasts, just search for \"The Daily Brief by Zerodha.\" Link India’s private banks are growing again, but at a cost Plus: The business of Makhana thedailybrief.zerodha.com",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087017262410784768%2FmY2d2bwa%3Fformat%3Djpg%26name%3D800x419",
+      "firstSeen": "2026-08-11T03:28:09.261Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2087017490253828348#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Finally, banks move to expected credit loss provisioning by April 2027. Kotak quantified the impact, expecting credit costs to rise by 12 to 15 basis points. Aside from unknown El Niño impacts, asset quality and NPAs remain pristine across the board.",
+      "link": "https://x.com/zerodhamarkets/status/2087017490253828348#m",
+      "published": "2026-08-11T03:25:19.000Z",
+      "summary": "Finally, banks move to expected credit loss provisioning by April 2027. Kotak quantified the impact, expecting credit costs to rise by 12 to 15 basis points. Aside from unknown El Niño impacts, asset quality and NPAs remain pristine across the board.",
+      "thumbnail": "",
+      "firstSeen": "2026-08-11T03:28:09.261Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2087017402219553259#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "We have been tracking India’s private banking sector for over a year, and Q1FY27 brought a fascinating twist. The four largest private banks reported their strongest loan growth in this period, yet two of them also reported their lowest margins to date.🧵👇",
+      "link": "https://x.com/zerodhamarkets/status/2087017402219553259#m",
+      "published": "2026-08-11T03:24:58.000Z",
+      "summary": "We have been tracking India’s private banking sector for over a year, and Q1FY27 brought a fascinating twist. The four largest private banks reported their strongest loan growth in this period, yet two of them also reported their lowest margins to date.🧵👇",
+      "thumbnail": "https://nitter.net/pic/media%2FHPaN9xRacAAgPiv.jpg",
+      "firstSeen": "2026-08-11T03:28:09.261Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/india-private-banks-corporate-loans-growth-makhana-bihar-snacks",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "India’s private banks are growing again, but at a cost",
+      "link": "https://thedailybrief.zerodha.com/p/india-private-banks-corporate-loans-growth-makhana-bihar-snacks",
+      "published": "2026-08-11T01:34:20.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: India’s private banks are growing again, but at a cost Why are India's major private banks reporting their strongest loan growth in over a year while simultaneously seeing margin compressio…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!nEkr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca04373c-f44d-437c-a7d8-381be2ec96f6_1536x1024.png",
+      "firstSeen": "2026-08-11T03:28:06.953Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=Xq5sot_CAPc",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -10311,11 +10359,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-29T16:50:47.223Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-07-30T04:52:20.201Z",
       "added": 21,
       "errors": 13
@@ -10609,6 +10652,11 @@
       "at": "2026-08-10T16:24:00.679Z",
       "added": 8,
       "errors": 3
+    },
+    {
+      "at": "2026-08-11T03:28:26.729Z",
+      "added": 4,
+      "errors": 12
     }
   ],
   "directSources": [
@@ -10655,5 +10703,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-10T16:24:00.679Z"
+  "lastRun": "2026-08-11T03:28:26.728Z"
 }
