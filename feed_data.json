@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://x.com/zerodhamarkets/status/2087157396900807114#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: We cover this and one more interesting story in today's edition of The Daily Brief. Read on Substack: https://thedailybrief.zerodha.com/i/210643325/the-story-of-a-humble-pond-grown-crop Watch on YouTube: https://youtu.be/mN5ScjL8erw?si=ogxAoFZnkZxPJjJV Or listen on Spotify, Apple Podcasts, or wherever you get your podcasts, just search for \"The Daily Brief by Zerodha.\"",
+      "link": "https://x.com/zerodhamarkets/status/2087157396900807114#m",
+      "published": "2026-08-11T12:41:15.000Z",
+      "summary": "We cover this and one more interesting story in today's edition of The Daily Brief. Read on Substack: thedailybrief.zerodha.com/i/… Watch on YouTube: piped.video/mN5ScjL8erw?si=ogxA… Or listen on Spotify, Apple Podcasts, or wherever you get your podcasts, just search for \"The Daily Brief by Zerodha.\" Link India’s private banks are growing again, but at a cost Plus: The business of Makhana thedailybrief.zerodha.com",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087017262410784768%2FmY2d2bwa%3Fformat%3Djpg%26name%3D800x419",
+      "firstSeen": "2026-08-11T13:01:12.120Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2087157393608360111#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: The real success of makhana depends on distributing value fairly. If surging global demand does not improve the lives of the farmers wading through thorns to harvest it, the entire supply chain becomes unsustainable against the growing vagaries of climate.",
+      "link": "https://x.com/zerodhamarkets/status/2087157393608360111#m",
+      "published": "2026-08-11T12:41:14.000Z",
+      "summary": "The real success of makhana depends on distributing value fairly. If surging global demand does not improve the lives of the farmers wading through thorns to harvest it, the entire supply chain becomes unsustainable against the growing vagaries of climate.",
+      "thumbnail": "https://nitter.net/pic/media%2FHPcSWnobEAEp2Vk.jpg",
+      "firstSeen": "2026-08-11T13:01:12.120Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2087157326847651841#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "The next time you are munching on makhana, remember its journey. This traditional snack has evolved into a caramel-coated global favorite, but the humble pond-grown crop requires one of the most intensely labor-driven processes in all of food manufacturing.🧵👇",
+      "link": "https://x.com/zerodhamarkets/status/2087157326847651841#m",
+      "published": "2026-08-11T12:40:58.000Z",
+      "summary": "The next time you are munching on makhana, remember its journey. This traditional snack has evolved into a caramel-coated global favorite, but the humble pond-grown crop requires one of the most intensely labor-driven processes in all of food manufacturing.🧵👇",
+      "thumbnail": "https://nitter.net/pic/media%2FHPcNz8LbIAA9A7l.jpg",
+      "firstSeen": "2026-08-11T13:01:12.120Z"
+    },
+    {
       "id": "https://x.com/zerodha/status/2087100783691169807#m",
       "platform": "x",
       "group": "Zerodha Online",
@@ -6633,7 +6669,7 @@
       "link": "https://x.com/CoinByZerodha/status/2077358767830970811#m",
       "published": "2026-07-15T11:45:00.000Z",
       "summary": "When checking mutual fund performance, you will often see two return metrics: CAGR and XIRR. They are rarely the same, and the difference can be confusing. That is because the two metrics measure different things. CAGR looks at two points in time. It answers a simple question: if you had invested a lump sum at the beginning and left it untouched, what average annual return would have taken it to its current value? XIRR, on the other hand, accounts for every investment and withdrawal, along with the exact date on which each cash flow occurred. Put simply, CAGR helps you understand how the fund performed over a period, while XIRR shows the return you earned based on your actual investments. B…",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2084598497324740608%2F8giCgrvf%3Fformat%3Djpg%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087135995330498560%2FoV1N8TVC%3Fformat%3Djpg%26name%3D800x419",
       "firstSeen": "2026-07-26T09:01:29.397Z"
     },
     {
@@ -10467,11 +10503,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-30T10:39:19.204Z",
-      "added": 7,
-      "errors": 3
-    },
-    {
       "at": "2026-07-30T13:58:18.126Z",
       "added": 10,
       "errors": 3
@@ -10765,6 +10796,11 @@
       "at": "2026-08-11T09:33:05.803Z",
       "added": 8,
       "errors": 3
+    },
+    {
+      "at": "2026-08-11T13:01:31.567Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -10811,5 +10847,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-11T09:33:05.803Z"
+  "lastRun": "2026-08-11T13:01:31.567Z"
 }
