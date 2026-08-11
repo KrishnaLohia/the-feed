@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=3lKfpjAwyA4",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 12 August 2026, Wednesday",
+      "link": "https://www.youtube.com/watch?v=3lKfpjAwyA4",
+      "published": "2026-08-11T16:12:37.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/3lKfpjAwyA4/hqdefault.jpg",
+      "firstSeen": "2026-08-11T16:24:31.931Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/ys_KNb-5Cxk",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "What is a SAR System?",
+      "link": "https://www.youtube.com/shorts/ys_KNb-5Cxk",
+      "published": "2026-08-11T15:26:29.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/ys_KNb-5Cxk/hqdefault.jpg",
+      "firstSeen": "2026-08-11T16:24:26.655Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/oil-worries-return-as-nifty-closes",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Oil worries return as Nifty closes below 24,500",
+      "link": "https://aftermarketreport.zerodha.com/p/oil-worries-return-as-nifty-closes",
+      "published": "2026-08-11T13:17:55.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. In our latest episode of I n The Money by Zerodha , we break down how the stock market actually works as an auction, from the moment you place a buy or sell order to how that single action moves the price of a stock. Most traders think placing an order is simple. Hit buy, hit sell, done. But underneath every trade is a two-sided continuous auction running every second the market is open. There's a limit order book stacking up bids and offers, a bid-ask spread telling you exactly how far apart buyers and sellers are, market orders that sweep through resti…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!PROf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99d0a51f-8562-4f43-a4a9-7183cba3538b_1536x1024.png",
+      "firstSeen": "2026-08-11T16:24:27.175Z"
+    },
+    {
       "id": "https://x.com/zerodhamarkets/status/2087157396900807114#m",
       "platform": "x",
       "group": "Markets",
@@ -10503,11 +10539,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-30T13:58:18.126Z",
-      "added": 10,
-      "errors": 3
-    },
-    {
       "at": "2026-07-30T17:02:04.936Z",
       "added": 2,
       "errors": 3
@@ -10801,6 +10832,11 @@
       "at": "2026-08-11T13:01:31.567Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-08-11T16:24:46.368Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -10847,5 +10883,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-11T13:01:31.567Z"
+  "lastRun": "2026-08-11T16:24:46.368Z"
 }
