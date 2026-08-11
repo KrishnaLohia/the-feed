@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://x.com/zerodha/status/2087100783691169807#m",
+      "platform": "x",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha (X)",
+      "title": "RT by @Nithin0dha: Have questions for @Nithin0dha and @karthikrangappa? Join us for a @ZerodhaVarsity Live Ask Me Anything session with Nithin and Karthik on Friday, 14th August, from 6 PM to 8 PM. Register for free here: https://varsitylive.zerodha.com/programmes/85497a53-9231-4879-9800-5c3a87788a3b",
+      "link": "https://x.com/zerodha/status/2087100783691169807#m",
+      "published": "2026-08-11T08:56:17.000Z",
+      "summary": "Have questions for @Nithin0dha and @karthikrangappa ? Join us for a @ZerodhaVarsity Live Ask Me Anything session with Nithin and Karthik on Friday, 14th August, from 6 PM to 8 PM. Register for free here: varsitylive.zerodha.com/prog…",
+      "thumbnail": "https://nitter.net/pic/media%2FHPbGYf5bgAAni_e.jpg",
+      "firstSeen": "2026-08-11T09:32:51.684Z"
+    },
+    {
+      "id": "https://x.com/ZerodhaVarsity/status/2087068958042329419#m",
+      "platform": "x",
+      "group": "Varsity",
+      "sourceName": "Zerodha Varsity (X)",
+      "title": "R to @ZerodhaVarsity: Link : https://varsitylive.zerodha.com/programmes/85497a53-9231-4879-9800-5c3a87788a3b",
+      "link": "https://x.com/ZerodhaVarsity/status/2087068958042329419#m",
+      "published": "2026-08-11T06:49:50.000Z",
+      "summary": "Link : varsitylive.zerodha.com/prog…",
+      "thumbnail": "",
+      "firstSeen": "2026-08-11T09:32:50.525Z"
+    },
+    {
+      "id": "https://x.com/ZerodhaVarsity/status/2087068955773116651#m",
+      "platform": "x",
+      "group": "Varsity",
+      "sourceName": "Zerodha Varsity (X)",
+      "title": "RT by @karthikrangappa: Have questions about trading, market trends, or Zerodha’s journey? Here’s your chance to ask! Join @Nithin0dha and @karthikrangappa on a Zerodha Varsity Live session - \"Ask Me Anything\". 🗓️ Date: 14th August 2026 ⏰ Time: 6:00 PM – 8:00 PM Register using the link in comments!",
+      "link": "https://x.com/ZerodhaVarsity/status/2087068955773116651#m",
+      "published": "2026-08-11T06:49:49.000Z",
+      "summary": "Have questions about trading, market trends, or Zerodha’s journey? Here’s your chance to ask! Join @Nithin0dha and @karthikrangappa on a Zerodha Varsity Live session - \"Ask Me Anything\". 🗓️ Date: 14th August 2026 ⏰ Time: 6:00 PM – 8:00 PM Register using the link in comments!",
+      "thumbnail": "https://nitter.net/pic/media%2FHPbB7LBaIAAxL2b.jpg",
+      "firstSeen": "2026-08-11T09:32:50.525Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2087067793741283688#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Check out the full edition here: https://pointsandfigures.substack.com/p/what-indias-factories-tell-us",
+      "link": "https://x.com/zerodhamarkets/status/2087067793741283688#m",
+      "published": "2026-08-11T06:45:12.000Z",
+      "summary": "Check out the full edition here: pointsandfigures.substack.co…",
+      "thumbnail": "https://nitter.net/pic/media%2FHPbAzK7bAAAbyGq.jpg",
+      "firstSeen": "2026-08-11T09:32:47.684Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2087067789987352642#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: Image",
+      "link": "https://x.com/zerodhamarkets/status/2087067789987352642#m",
+      "published": "2026-08-11T06:45:11.000Z",
+      "summary": "",
+      "thumbnail": "https://nitter.net/pic/media%2FHPbAxjlasAE-Tol.jpg",
+      "firstSeen": "2026-08-11T09:32:47.684Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2087067763802333665#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "India's registered factories are adding more jobs and generating more value than before, but the growing reliance on contract labour tells a more complex story.",
+      "link": "https://x.com/zerodhamarkets/status/2087067763802333665#m",
+      "published": "2026-08-11T06:45:05.000Z",
+      "summary": "India's registered factories are adding more jobs and generating more value than before, but the growing reliance on contract labour tells a more complex story.",
+      "thumbnail": "https://nitter.net/pic/media%2FHPbAg5IaYAAS-Su.jpg",
+      "firstSeen": "2026-08-11T09:32:47.684Z"
+    },
+    {
       "id": "https://x.com/nikhilkamathcio/status/2087054255828197756#m",
       "platform": "x",
       "group": "Other Handles & People",
@@ -49,6 +121,18 @@
       "firstSeen": "2026-08-11T03:28:09.261Z"
     },
     {
+      "id": "https://www.youtube.com/watch?v=Z2zrG52g75w",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Why India’s Dairy companies are under pressure | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=Z2zrG52g75w",
+      "published": "2026-08-11T02:30:00.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nDairy Companies Face a Margin Squeeze\n\nIndia’s listed dairy companies—Hatsun Agro, Dodla Dairy, and Heritage Foods—reported strong revenue growth in Q1 FY27, but rising milk procurement and packaging costs put significant pressure on profitability. An unusually weak milk flush season, extreme weather, and higher packaging costs linked to disruptions around the Strait of Hormuz pushed input costs higher.\nDespite the cost pressures, all three companies continued to expand milk procurement and protect…",
+      "thumbnail": "https://i3.ytimg.com/vi/Z2zrG52g75w/hqdefault.jpg",
+      "firstSeen": "2026-08-11T09:32:45.034Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/india-private-banks-corporate-loans-growth-makhana-bihar-snacks",
       "platform": "substack",
       "group": "Markets",
@@ -59,6 +143,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: India’s private banks are growing again, but at a cost Why are India's major private banks reporting their strongest loan growth in over a year while simultaneously seeing margin compressio…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!nEkr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca04373c-f44d-437c-a7d8-381be2ec96f6_1536x1024.png",
       "firstSeen": "2026-08-11T03:28:06.953Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=mN5ScjL8erw",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "What do quarterly results of Private Banks tell us? | Business of Makhana | The Daily Brief #526",
+      "link": "https://www.youtube.com/watch?v=mN5ScjL8erw",
+      "published": "2026-08-11T01:30:03.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover two stories shaping Indian and global markets:\n\n1. Private Banks: Growth Comes at a Cost\nIndia’s largest private banks are seeing a strong revival in corporate lending, pushing overall loan growth to 15–20%. But the recovery comes with pressure on margins, as corporate loans typically earn less than retail loans. Meanwhile, slower deposit growth and a falling CASA ratio are raising questions about how sustainably banks can fund this growth.\n\n2. Makhan…",
+      "thumbnail": "https://i2.ytimg.com/vi/mN5ScjL8erw/hqdefault.jpg",
+      "firstSeen": "2026-08-11T09:32:44.635Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=Xq5sot_CAPc",
@@ -297,7 +393,7 @@
       "link": "https://x.com/zerodha/status/2086732020521251033#m",
       "published": "2026-08-10T08:30:57.000Z",
       "summary": "Learn more about CAS: zerodha.com/z-connect/genera… Link Everything you need to know about Closing Auction Session (CAS) Important changes from August 3, 2026: Following the introduction of the Closing Auction Session (CAS), market closing times will be as follows; there are zerodha.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2084563401167052800%2F1V3CMlcM%3Fformat%3Dpng%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087100412029722624%2FmZ7k232B%3Fformat%3Dpng%26name%3D800x419",
       "firstSeen": "2026-08-10T13:04:38.938Z"
     },
     {
@@ -1397,7 +1493,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "3 Investment Mistakes That Can Cost You Lakhs! 🤯",
+      "title": "3 Costly Investment Mistakes Most People Make! 💸",
       "link": "https://www.youtube.com/shorts/gRAfYULj5_k",
       "published": "2026-08-05T12:30:05.000Z",
       "summary": "Check these 3 🚩 flags before you invest👇🏼\n\n1. Don’t combine insurance and investments.\n\nIf a plan promises life insurance, guaranteed payouts and investment returns all in one product, be careful. These products often give you lower insurance cover than you actually need and investment returns that struggle to beat simpler alternatives.\n\n2. Lock-ins that don’t make sense.\n\nLock-ins should have a clear purpose. An FD has a lock-in because you’re locking in a fixed interest rate. NPS has a lock-in because it’s meant for retirement. But if an investment locks your money away for 3–5 years without a good reason, think twice before investing.\n\n3. No one can guarantee equity returns.\n\nFixed re…",
@@ -2369,7 +2465,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "4 Personal Finance Rules That Can Save You Lakhs! 💸",
+      "title": "4 Money Rules Everyone Should Follow! 🚨💰",
       "link": "https://www.youtube.com/shorts/1EGyyCzwnMc",
       "published": "2026-08-03T11:30:26.000Z",
       "summary": "How much you earn doesn’t tell you if you’re good with money. Your habits do.\n\nHere are 4 simple checks you can do today:\n\n1. EMI-to-Income Ratio\nAdd up all your monthly EMIs and divide them by your monthly in-hand income. Ideally, this number should be below 30%. The higher your EMIs, the less room you have to save, invest, or deal with unexpected expenses.\n\n2. What are you buying on credit?\nThink about everything you’ve purchased on EMIs or with your credit card. Is it helping you earn more or build your future (an asset)? Or is it simply something that loses value the moment you buy it (a liability)? If most of your debt is funding liabilities, it may be time to rethink your spending hab…",
@@ -2481,7 +2577,7 @@
       "link": "https://x.com/zerodha/status/2084173528459538715#m",
       "published": "2026-08-03T07:04:25.000Z",
       "summary": "Learn more about CAS: zerodha.com/z-connect/genera… Link Everything you need to know about Closing Auction Session (CAS) Important changes from August 3, 2026: Following the introduction of the Closing Auction Session (CAS), market closing times will be as follows; there are zerodha.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2084563401167052800%2F1V3CMlcM%3Fformat%3Dpng%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087100412029722624%2FmZ7k232B%3Fformat%3Dpng%26name%3D800x419",
       "firstSeen": "2026-08-03T08:46:07.127Z"
     },
     {
@@ -2657,7 +2753,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "99% of People Don't Have an Emergency Fund! 🚨",
+      "title": "The #1 Financial Safety Net Most People Ignore! 💸",
       "link": "https://www.youtube.com/shorts/iKD5vtzU42s",
       "published": "2026-08-01T11:00:06.000Z",
       "summary": "Your emergency fund is the financial equivalent of a seatbelt. You hope you never need it, but when life throws you a surprise—job loss, a medical emergency, or an unexpected expense, you'll be glad it's there.\n\nA simple way to calculate it:\nAdd up your essential monthly expenses:\n• Rent/EMI\n• Groceries\n• Insurance premiums\n• School fees\n• Utility bills\n• Other non-negotiable expenses\nMultiply that number by 6.\n\nThat's the minimum emergency fund you should aim to build. If you can save more, even better.\n\nThe goal isn't to earn the highest return. It's to make sure your money is:\n\nAvailable within 24 hours\n2. Kept somewhere you won't dip into for impulse spending\n\nRemember: an emergency fun…",
@@ -2837,7 +2933,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Your Next Email Could Be a Scam! 😱",
+      "title": "Don’t Open Your Next Email Before Watching This! ⚠️",
       "link": "https://www.youtube.com/shorts/92EvqbZfPCk",
       "published": "2026-07-31T12:30:25.000Z",
       "summary": "The Boss Scam is one of the fastest-growing corporate cyber frauds, here's how it usually happens:\n\nMethod 1: The ZIP File Attack\nAn employee receives what appears to be an urgent invoice, payment receipt, or business document from a client or vendor. Since these files often look legitimate, they're forwarded to the accounts or finance team. If the ZIP file contains malware, opening it can compromise the device and give scammers access to business data and communication channels. They then impersonate senior management and instruct the finance team to transfer money to fraudulent bank accounts.\n\nMethod 2: CEO Impersonation\nScammers create a fake WhatsApp account, spoof an email address, or…",
@@ -3317,7 +3413,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "CTC vs In-Hand Salary: The Difference Will Shock You! 😳",
+      "title": "Think Your CTC Is Your Salary? Think Again! 🤯",
       "link": "https://www.youtube.com/shorts/HQq2J-CtijM",
       "published": "2026-07-30T11:00:24.000Z",
       "summary": "While Not All CTCs look like this, many do!\n\nCTC is a Cost to Company and any company is free to include any kind of cost they are spending on you in this metric.\n\nThis can be cost of Food, Insurance variable bonuses etc.\n\nIt is important to follow a few rules when you evaluate your CTC.\nWhat is the Variable Part ?\nWhat part of the CTC is one time bonuses, because they will come only once.\nWhat part is 'performance based' and how is 'performance' determined, because you might not get the full amount, or might get nothing at all.\n\nWhat are the perks that have been added here.\nIf your CTC includes Insurance that is not the Cash you get in hand, it is a benefit.\nIf you have ESOPs included in y…",
@@ -3345,7 +3441,7 @@
       "link": "https://x.com/Nithin0dha/status/2082774759952322583#m",
       "published": "2026-07-30T10:26:13.000Z",
       "summary": "Watch the full episode: piped.video/PA_dLcFNlLQ?si=DxAL… Link Jack Schwager: What Market Wizards Know That Most Traders Don't | In... Welcome to the In The Money Podcast by Zerodha, where we bring you ... youtube.com",
-      "thumbnail": "https://nitter.net/pic/cards%2Fplayer-placeholder.png",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2085311497476124672%2FSIViGl0F%3Fformat%3Djpg%26name%3D800x320_1",
       "firstSeen": "2026-07-30T13:58:18.118Z"
     },
     {
@@ -4349,7 +4445,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Stop! Don't Invest Before Watching This Tier List 🚨",
+      "title": "The Investment Tier List Everyone Needs to See! 💰",
       "link": "https://www.youtube.com/shorts/17BzU1wIdKU",
       "published": "2026-07-28T13:00:23.000Z",
       "summary": "Planning a vacation in the next 12 months? ✈️🌴\nIf you are exploring one the below options to Fund it, here's how you should prioritise\n\nIndex Funds:  D Tier\nEquity is for long term investing and Index Funds are a great way to invest in Equity but they are not ideal for a short term goal like planning a vacation 12 months from now. Equity markets can be volatile, and your vacation money should prioritise stability over higher return potential.\n\nDigital Gold: E Tier\nBoth the SEBI and RBI do not regulate this product hence I generally don't recommend this product.\n\nFixed Deposits (FDs): B Tier\nFDs are one of the best way to Invest for a short term goal, they offer a predictable return, but th…",
@@ -4461,7 +4557,7 @@
       "link": "https://x.com/Nithin0dha/status/2082026574204092589#m",
       "published": "2026-07-28T08:53:12.000Z",
       "summary": "Learn more about CAS: zerodha.com/z-connect/genera… Link Everything you need to know about Closing Auction Session (CAS) Important changes from August 3, 2026: Following the introduction of the Closing Auction Session (CAS), market closing times will be as follows; there are zerodha.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2084563401167052800%2F1V3CMlcM%3Fformat%3Dpng%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087100412029722624%2FmZ7k232B%3Fformat%3Dpng%26name%3D800x419",
       "firstSeen": "2026-07-28T10:59:04.851Z"
     },
     {
@@ -10371,11 +10467,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-30T07:44:55.871Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-07-30T10:39:19.204Z",
       "added": 7,
       "errors": 3
@@ -10669,6 +10760,11 @@
       "at": "2026-08-11T06:12:23.584Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-08-11T09:33:05.803Z",
+      "added": 8,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -10715,5 +10811,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-11T06:12:23.584Z"
+  "lastRun": "2026-08-11T09:33:05.803Z"
 }
