@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/bengaluru-metro-delay-reconductoring-india-power-grid-electricity",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Why Bengaluru's Metro takes forever?",
+      "link": "https://thedailybrief.zerodha.com/p/bengaluru-metro-delay-reconductoring-india-power-grid-electricity",
+      "published": "2026-08-13T01:40:32.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . We are hosting a Varsity Live ‘Ask Me Anything’ session with Nithin and Karthik , where you can ask us anything about Zerodha’s journey, trading, investor education, or where the Indian capital markets are headed. Date: Friday,…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Bkpf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d9b0c1f-0452-4292-92e1-11a771756f19_1536x1024.png",
+      "firstSeen": "2026-08-13T04:02:49.235Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=G0lPddY_lH4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why Bengaluru's Metro takes forever? | Reconductoring: India’s grid fix | The Daily Brief #528",
+      "link": "https://www.youtube.com/watch?v=G0lPddY_lH4",
+      "published": "2026-08-13T01:30:32.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover two stories shaping Indian and global markets:\n\n1. Bengaluru Metro Delays: What’s Going Wrong?\nBengaluru Metro projects have faced years of delays, rising costs and missed revenue targets. The CAG audit highlights how unresolved land acquisition, utility shifting, tree clearances and planning gaps have made the Metro far more expensive and slower to build.\n\n2. Can Reconductoring Fix India’s Power Grid?\nIndia’s renewable energy expansion is increasingl…",
+      "thumbnail": "https://i4.ytimg.com/vi/G0lPddY_lH4/hqdefault.jpg",
+      "firstSeen": "2026-08-13T04:02:48.651Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/D3KsqasBBi4",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -8349,7 +8373,7 @@
       "link": "https://x.com/Rainmatterin/status/2074112069679690061#m",
       "published": "2026-07-06T12:43:47.000Z",
       "summary": "Link to the video - piped.video/eZdrpChV0C4?si=1-Ci… Link Nithin Kamath's guide to how startups should think of risks |... In this conversation, Nithin Kamath shares his insights on how earl... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2085599898171260929%2Fp8IoPsDS%3Fformat%3Djpg%26name%3D800x320_1",
+      "thumbnail": "https://nitter.net/pic/cards%2Fplayer-placeholder.png",
       "firstSeen": "2026-07-26T09:01:32.205Z"
     },
     {
@@ -9645,7 +9669,7 @@
       "link": "https://x.com/CoinByZerodha/status/2064667240134595050#m",
       "published": "2026-06-10T11:13:24.000Z",
       "summary": "Nobody really knows how much money they need to retire. We all have a vague sense, \"enough to not worry,\" but when you actually sit down and do the math, the number is almost always much larger than expected. You're not just estimating what you spend today. You're estimating what that same lifestyle will cost 25 years from now, because what ₹50,000 can buy today is not what it will buy 25 years from now. This @ZerodhaVarsity chapter works through the retirement math👇 zerodha.com/varsity/chapter/… Link Retirement Corpus Calculation: Inflation & Future Value Calculate retirement corpus needed - estimate future expenses with inflation, use future value formula, determine 25-year savings targe…",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2085022117255602176%2F6k9b6KXx%3Fformat%3Djpg%26name%3D600x314",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087560808939294720%2FYeFN6ZNI%3Fformat%3Djpg%26name%3D600x314",
       "firstSeen": "2026-07-26T09:01:30.259Z"
     },
     {
@@ -10851,11 +10875,6 @@
   },
   "runs": [
     {
-      "at": "2026-07-31T17:06:48.042Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-08-01T05:21:01.294Z",
       "added": 1,
       "errors": 8
@@ -11149,6 +11168,11 @@
       "at": "2026-08-12T16:26:25.290Z",
       "added": 6,
       "errors": 3
+    },
+    {
+      "at": "2026-08-13T04:03:12.440Z",
+      "added": 2,
+      "errors": 11
     }
   ],
   "directSources": [
@@ -11195,5 +11219,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-12T16:26:25.290Z"
+  "lastRun": "2026-08-13T04:03:12.440Z"
 }
