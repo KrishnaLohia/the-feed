@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=sdvLvWIud_I",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "The road ahead for Indian IT ft. Arpit Tandon | Subtext by Zerodha",
+      "link": "https://www.youtube.com/watch?v=sdvLvWIud_I",
+      "published": "2026-08-13T12:12:37.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn this episode of Subtext by Zerodha, Pranav sits down with Arpit Tandon, Director of AI Strategy at CGI, to understand what AI really means for the Indian IT industry.\nThey discuss how AI is changing product management, why companies should think in terms of workflows instead of just software, the importance of domain knowledge, and why understanding a client's business may become more valuable than ever.\nThe conversation also covers AI spending, sales, outcome-based pricing, M&A, partnerships, a…",
+      "thumbnail": "https://i4.ytimg.com/vi/sdvLvWIud_I/hqdefault.jpg",
+      "firstSeen": "2026-08-13T13:06:33.548Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2087866592696930584#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: The regulatory debate remains officially unresolved, but the stakes are incredibly high given India curtailed 300 GWh of clean energy in Q1 2026 due to transmission constraints. Getting the right incentive structure is critical for our power grid.",
+      "link": "https://x.com/zerodhamarkets/status/2087866592696930584#m",
+      "published": "2026-08-13T11:39:21.000Z",
+      "summary": "The regulatory debate remains officially unresolved, but the stakes are incredibly high given India curtailed 300 GWh of clean energy in Q1 2026 due to transmission constraints. Getting the right incentive structure is critical for our power grid.",
+      "thumbnail": "https://nitter.net/pic/media%2FHPmXDp0asAAbLaG.jpg",
+      "firstSeen": "2026-08-13T13:06:36.070Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2087866595943272853#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "R to @zerodhamarkets: We cover this and one more interesting story in today's edition of The Daily Brief. Read on Substack: https://thedailybrief.zerodha.com/i/210941929/indias-power-grid-sees-a-high-wire-balancing-act Watch on YouTube: https://youtu.be/G0lPddY_lH4?si=nPoTUngK4CFSvWUV Or listen on Spotify, Apple Podcasts, or wherever you get your podcasts, just search for \"The Daily Brief by Zerodha.\"",
+      "link": "https://x.com/zerodhamarkets/status/2087866595943272853#m",
+      "published": "2026-08-13T11:39:21.000Z",
+      "summary": "We cover this and one more interesting story in today's edition of The Daily Brief. Read on Substack: thedailybrief.zerodha.com/i/… Watch on YouTube: piped.video/G0lPddY_lH4?si=nPoT… Or listen on Spotify, Apple Podcasts, or wherever you get your podcasts, just search for \"The Daily Brief by Zerodha.\" Link Why Bengaluru's Metro takes forever? Plus: Can “Reconductoring” solve India’s grid problem? thedailybrief.zerodha.com",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087757543611486208%2FZ8V7Qm92%3Fformat%3Djpg%26name%3D800x419",
+      "firstSeen": "2026-08-13T13:06:36.070Z"
+    },
+    {
+      "id": "https://x.com/zerodhamarkets/status/2087866510790557939#m",
+      "platform": "x",
+      "group": "Markets",
+      "sourceName": "Zerodha Markets (X)",
+      "title": "Two days ago, a headline caught our eye: 'POWERGRID approved an ₹857 crore transmission line reconductoring project.\" We explore why swapping old wires for new ones is a high wire balancing act and the quickest fix for India's power grid.",
+      "link": "https://x.com/zerodhamarkets/status/2087866510790557939#m",
+      "published": "2026-08-13T11:39:01.000Z",
+      "summary": "Two days ago, a headline caught our eye: 'POWERGRID approved an ₹857 crore transmission line reconductoring project.\" We explore why swapping old wires for new ones is a high wire balancing act and the quickest fix for India's power grid.",
+      "thumbnail": "https://nitter.net/pic/media%2FHPmQ1I4aMAAClda.jpg",
+      "firstSeen": "2026-08-13T13:06:36.070Z"
+    },
+    {
       "id": "https://x.com/subtextzerodha/status/2087832346267652596#m",
       "platform": "x",
       "group": "Markets",
@@ -3981,7 +4029,7 @@
       "link": "https://x.com/Nithin0dha/status/2082774759952322583#m",
       "published": "2026-07-30T10:26:13.000Z",
       "summary": "Watch the full episode: piped.video/PA_dLcFNlLQ?si=DxAL… Link Jack Schwager: What Market Wizards Know That Most Traders Don't | In... Welcome to the In The Money Podcast by Zerodha, where we bring you ... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2085311497476124672%2FSIViGl0F%3Fformat%3Djpg%26name%3D800x320_1",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087849298675306497%2FCKLFRVPs%3Fformat%3Djpg%26name%3D800x320_1",
       "firstSeen": "2026-07-30T13:58:18.118Z"
     },
     {
@@ -11007,11 +11055,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-01T10:19:00.277Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-01T13:17:46.719Z",
       "added": 7,
       "errors": 3
@@ -11305,6 +11348,11 @@
       "at": "2026-08-13T09:42:29.840Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-08-13T13:06:54.674Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -11351,5 +11399,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-13T09:42:29.840Z"
+  "lastRun": "2026-08-13T13:06:54.674Z"
 }
