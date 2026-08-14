@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-ends-another-tentative-week",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty ends another tentative week on a flat note",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-ends-another-tentative-week",
+      "published": "2026-08-14T13:38:27.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. In our latest episode of I n The Money by Zerodha , we explore a question every systematic trader eventually faces: your backtest gave you a beautiful equity curve — but was that curve luck, or edge? Using Monte Carlo simulations and a real two-year backtest of a 0DTE 920 straddle strategy on Nifty, we show how the same trades can produce very different drawdowns and outcomes simply by changing their order. The takeaway: your backtest is only one possible path. The real question is whether your strategy can survive the paths you didn’t see. Check out In…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ViY1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F217030da-cd3d-4957-ab72-120d71a82ff6_1456x971.webp",
+      "firstSeen": "2026-08-14T16:24:12.370Z"
+    },
+    {
+      "id": "https://x.com/Rainmatterin/status/2088258504834605076#m",
+      "platform": "x",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (X)",
+      "title": "R to @Rainmatterin: Link to the video: https://youtu.be/m6SmpI7KiSk?si=Wb0sNZFlk22c4ttk",
+      "link": "https://x.com/Rainmatterin/status/2088258504834605076#m",
+      "published": "2026-08-14T13:36:40.000Z",
+      "summary": "Link to the video: piped.video/m6SmpI7KiSk?si=Wb0s… Link How Akshayakalpa is helping farmers make money | Built from Scratch... “There is no money in farming.” This single belief has driven an en... youtube.com",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087890256507125760%2FnAvYg1Ac%3Fformat%3Djpg%26name%3D800x320_1",
+      "firstSeen": "2026-08-14T16:24:24.245Z"
+    },
+    {
+      "id": "https://x.com/Rainmatterin/status/2088258408508194875#m",
+      "platform": "x",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (X)",
+      "title": "Episode 1 of Built From Scratch is live on Rainmatter Originals! At Rainmatter, we’ve believed that the \"why\" behind our portfolio companies deserves to be told to the world—the impact they're creating and the sheer tenacity of the founders behind these startups. One such story is Akshayakalpa. So we sat down with the founder of @akshayakalpa, @thiruka to understand why he left his engineering job in the US to solve one of India’s biggest challenges: getting the younger generation back into farming. Along the way, they’ve transformed the lives of over 2,800 farmers across Karnataka, Tamil Nadu, and Telangana, boosting the incomes of farmers by more than 10x in just a few years. Link in comments for the full video.",
+      "link": "https://x.com/Rainmatterin/status/2088258408508194875#m",
+      "published": "2026-08-14T13:36:17.000Z",
+      "summary": "Episode 1 of Built From Scratch is live on Rainmatter Originals! At Rainmatter, we’ve believed that the \"why\" behind our portfolio companies deserves to be told to the world—the impact they're creating and the sheer tenacity of the founders behind these startups. One such story is Akshayakalpa. So we sat down with the founder of @akshayakalpa , @thiruka to understand why he left his engineering job in the US to solve one of India’s biggest challenges: getting the younger generation back into farming. Along the way, they’ve transformed the lives of over 2,800 farmers across Karnataka, Tamil Nadu, and Telangana, boosting the incomes of farmers by more than 10x in just a few years. Link in com…",
+      "thumbnail": "https://nitter.net/pic/amplify_video_thumb%2F2088256588729761792%2Fimg%2F7HnB_aFoVGlzdKdx.jpg",
+      "firstSeen": "2026-08-14T16:24:24.245Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=AwjfNX2tDAA",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Your Corporate Health Insurance is not ENOUGH!",
+      "link": "https://www.youtube.com/watch?v=AwjfNX2tDAA",
+      "published": "2026-08-14T13:30:22.000Z",
+      "summary": "Most salaried employees assume their corporate health insurance is all the protection they need. But is that really true? In this video, Aastha Khurana breaks down what corporate health insurance does well, where it may fall short, and how you can build a stronger financial safety net for yourself.\n\nTime Stamps\n00:00 Introduction \n01:32 Clause 1\n02:24 Clause 2\n02:52 Clause 3\n03:24 Clause 4\n04:52 Clause 5\n05:51 Benefits of Corporate Health Insurance\n07:21 Can corporate insurance policy be converted to retail insurance policy? (Portability)\n08:43 What should you do?\n09:37 Conclusion \n___________________________________________________________________________\n\nOver 2 crore Indians invest with…",
+      "thumbnail": "https://i2.ytimg.com/vi/AwjfNX2tDAA/hqdefault.jpg",
+      "firstSeen": "2026-08-14T16:24:15.816Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=2bfv5kp2dAM",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "I investigated India's biggest Online Sale!",
+      "link": "https://www.youtube.com/watch?v=2bfv5kp2dAM",
+      "published": "2026-08-14T13:18:42.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUTASB\n\n10 years ago getting your favourite gadget was an experience, going to shops, discussions, debates and finally you decide to get that dream phone. But now our favourite E Commerce website has wrapped this purchase decision in a shining bright sale!\n\nBut how do these platforms, get you to but that stuff in the sale?\n\nIn this video we will uncover 4 Dark Patterns that the platforms deploy. You should know these before you decide to make your purchase decision this Sale season!\n\nWe will rank all of these Dark Patterns on our Wallet Damage Meter and give you a checklist so you can shop in the most prudent way this sale seas…",
+      "thumbnail": "https://i3.ytimg.com/vi/2bfv5kp2dAM/hqdefault.jpg",
+      "firstSeen": "2026-08-14T16:24:24.493Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/TvpxnI_h_b4",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "Ep 1 of Built From Scratch is live on @RainmatterOriginals!",
+      "link": "https://www.youtube.com/shorts/TvpxnI_h_b4",
+      "published": "2026-08-14T13:12:12.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/TvpxnI_h_b4/hqdefault.jpg",
+      "firstSeen": "2026-08-14T16:24:22.599Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/nqV6vGlq_cM",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -10329,7 +10401,7 @@
       "link": "https://x.com/ZerodhaAMC/status/2065424905941004743#m",
       "published": "2026-06-12T13:24:05.000Z",
       "summary": "zerodhafundhouse.com/investi… Link Investing for Minor - Zerodha Fund House Investing for Minor - Zerodha Fund House zerodhafundhouse.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2085733229529886721%2F379O1jjP%3Fformat%3Djpg%26name%3D420x420_2",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2088270854505267200%2FGQob0epy%3Fformat%3Djpg%26name%3D420x420_2",
       "firstSeen": "2026-07-26T09:01:35.852Z"
     },
     {
@@ -11181,7 +11253,7 @@
       "link": "https://x.com/tradingqna/status/2046917431902482472#m",
       "published": "2026-04-22T11:42:00.000Z",
       "summary": "For more, check out the newsletter here: aftermarketreport.zerodha.co… Link IT weakness and oil spike drag Nifty below 24,400 Broader markets continue to inch higher aftermarketreport.zerodha.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2085312009990463489%2FMgQtw1dG%3Fformat%3Djpg%26name%3D800x419",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087888580190322688%2FE3H6RAVV%3Fformat%3Djpg%26name%3D800x419",
       "firstSeen": "2026-07-26T09:01:30.971Z"
     },
     {
@@ -11619,11 +11691,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-02T13:19:09.814Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-02T16:29:45.914Z",
       "added": 1,
       "errors": 3
@@ -11917,6 +11984,11 @@
       "at": "2026-08-14T13:03:09.510Z",
       "added": 10,
       "errors": 3
+    },
+    {
+      "at": "2026-08-14T16:24:33.216Z",
+      "added": 6,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -11963,5 +12035,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-14T13:03:09.510Z"
+  "lastRun": "2026-08-14T16:24:33.216Z"
 }
