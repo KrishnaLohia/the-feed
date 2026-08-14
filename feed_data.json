@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/pharmacy-india-drug-law-medicines-tractors-weak-monsoon-record-sales",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "What is happening with the 86-year-old drug law?",
+      "link": "https://thedailybrief.zerodha.com/p/pharmacy-india-drug-law-medicines-tractors-weak-monsoon-record-sales",
+      "published": "2026-08-14T01:51:59.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . Arpit Tandon on the road ahead for Indian IT In the latest episode of Subtext , we host Arpit Tandon (Director of AI Strategy, CGI) to break down what AI is actually doing to Indian IT. We cover the shift from headcount billing…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Ujy0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4254540-2746-43bc-9efc-b31baabc762c_1536x1024.png",
+      "firstSeen": "2026-08-14T03:59:07.092Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=lYNnHV_7V7o",
       "platform": "youtube",
       "group": "Markets",
@@ -8973,7 +8985,7 @@
       "link": "https://x.com/Rainmatterin/status/2072661352951488592#m",
       "published": "2026-07-02T12:39:09.000Z",
       "summary": "piped.video/oZoxVuXrIUs?si=nYPO… Link How VC Funds Work ft Rajiv Raghunandan from Arali Ventures I How VCs... In this conversation, Rajiv Raghunandan from Arali Ventures breaks ... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2085366731535425538%2FWl7pzC2F%3Fformat%3Djpg%26name%3D800x320_1",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087916062146760704%2FuI9z3Ie7%3Fformat%3Djpg%26name%3D800x320_1",
       "firstSeen": "2026-07-26T09:01:32.205Z"
     },
     {
@@ -11175,11 +11187,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-01T16:29:59.228Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-02T05:20:23.062Z",
       "added": 2,
       "errors": 3
@@ -11473,6 +11480,11 @@
       "at": "2026-08-13T16:24:56.779Z",
       "added": 10,
       "errors": 3
+    },
+    {
+      "at": "2026-08-14T03:59:27.422Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -11519,5 +11531,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-13T16:24:56.779Z"
+  "lastRun": "2026-08-14T03:59:27.422Z"
 }
