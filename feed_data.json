@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/JPDzAvsnL4s",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "3 Reasons For India’s Erratic Monsoon",
+      "link": "https://www.youtube.com/shorts/JPDzAvsnL4s",
+      "published": "2026-08-15T12:30:27.000Z",
+      "summary": "Watch the full video on our channel!\n\n#monsoon #indianmonsoon #monsoon2026 #watercrisis #monsoondeficit #indianews  #bestinindia #indianfarmers #climatechange #weathernews #climateaction #climatecrisis #indiarains #assamfloods #karnatakadrought #theclimatebrief",
+      "thumbnail": "https://i3.ytimg.com/vi/JPDzAvsnL4s/hqdefault.jpg",
+      "firstSeen": "2026-08-15T12:35:01.987Z"
+    },
+    {
+      "id": "https://x.com/zerodha/status/2088593353759920436#m",
+      "platform": "x",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha (X)",
+      "title": "😍♥️",
+      "link": "https://x.com/zerodha/status/2088593353759920436#m",
+      "published": "2026-08-15T11:47:14.000Z",
+      "summary": "😍♥️",
+      "thumbnail": "https://nitter.net/pic/media%2FHPwsk_7bAAAFYgr.jpg",
+      "firstSeen": "2026-08-15T12:34:56.250Z"
+    },
+    {
       "id": "https://x.com/karthikrangappa/status/2088503865264259182#m",
       "platform": "x",
       "group": "Other Handles & People",
@@ -11739,11 +11763,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-03T11:58:32.432Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-08-03T14:35:57.474Z",
       "added": 9,
       "errors": 3
@@ -12037,6 +12056,11 @@
       "at": "2026-08-15T08:56:59.857Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-08-15T12:35:10.607Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -12083,5 +12107,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-15T08:56:59.857Z"
+  "lastRun": "2026-08-15T12:35:10.607Z"
 }
