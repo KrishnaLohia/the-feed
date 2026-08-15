@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://x.com/Nithin0dha/status/2088496761577087120#m",
+      "platform": "x",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha (X)",
+      "title": "16 Years back, today, when we started off.😬",
+      "link": "https://x.com/Nithin0dha/status/2088496761577087120#m",
+      "published": "2026-08-15T05:23:25.000Z",
+      "summary": "16 Years back, today, when we started off.😬",
+      "thumbnail": "https://nitter.net/pic/media%2FHPvUpjOaoAAOPH0.png",
+      "firstSeen": "2026-08-15T05:47:05.709Z"
+    },
+    {
+      "id": "https://x.com/zerodha/status/2088472308403069277#m",
+      "platform": "x",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha (X)",
+      "title": "Happy Independence Day, everyone🇮🇳",
+      "link": "https://x.com/zerodha/status/2088472308403069277#m",
+      "published": "2026-08-15T03:46:14.000Z",
+      "summary": "Happy Independence Day, everyone🇮🇳",
+      "thumbnail": "",
+      "firstSeen": "2026-08-15T05:47:05.709Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-ends-another-tentative-week",
       "platform": "substack",
       "group": "Markets",
@@ -11691,11 +11715,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-03T05:34:59.529Z",
-      "added": 4,
-      "errors": 12
-    },
-    {
       "at": "2026-08-03T08:46:20.580Z",
       "added": 7,
       "errors": 3
@@ -11989,6 +12008,11 @@
       "at": "2026-08-15T02:44:51.187Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-08-15T05:47:18.488Z",
+      "added": 2,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -12035,5 +12059,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-15T02:44:51.187Z"
+  "lastRun": "2026-08-15T05:47:18.488Z"
 }
