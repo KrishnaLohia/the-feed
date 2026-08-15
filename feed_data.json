@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=MZ3puh_6rXM",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "What Goes Into Making In The Money? | Behind The Scenes",
+      "link": "https://www.youtube.com/watch?v=MZ3puh_6rXM",
+      "published": "2026-08-15T13:21:57.000Z",
+      "summary": "Take a look behind the scenes at how we ideate, research, script, write, present, and bring each episode to life.\n\nHere’s to One year of In The Money!",
+      "thumbnail": "https://i2.ytimg.com/vi/MZ3puh_6rXM/hqdefault.jpg",
+      "firstSeen": "2026-08-15T15:46:36.069Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/JPDzAvsnL4s",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -11763,11 +11775,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-03T14:35:57.474Z",
-      "added": 9,
-      "errors": 3
-    },
-    {
       "at": "2026-08-03T17:26:38.050Z",
       "added": 0,
       "errors": 3
@@ -12061,6 +12068,11 @@
       "at": "2026-08-15T12:35:10.607Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-08-15T15:46:58.165Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -12107,5 +12119,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-15T12:35:10.607Z"
+  "lastRun": "2026-08-15T15:46:58.165Z"
 }
