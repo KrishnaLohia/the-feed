@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://x.com/karthikrangappa/status/2088503865264259182#m",
+      "platform": "x",
+      "group": "Other Handles & People",
+      "sourceName": "Karthik Rangappa (X)",
+      "title": "It’s good to be Sweet 16 again, one form or the other :)",
+      "link": "https://x.com/karthikrangappa/status/2088503865264259182#m",
+      "published": "2026-08-15T05:51:38.000Z",
+      "summary": "It’s good to be Sweet 16 again, one form or the other :) Nithin Kamath (@Nithin0dha) 16 Years back, today, when we started off.😬 — https://nitter.net/Nithin0dha/status/2088496761577087120#m",
+      "thumbnail": "https://nitter.net/pic/media%2FHPvUpjOaoAAOPH0.png",
+      "firstSeen": "2026-08-15T08:56:59.028Z"
+    },
+    {
       "id": "https://x.com/Nithin0dha/status/2088496761577087120#m",
       "platform": "x",
       "group": "Zerodha Online",
@@ -11,6 +23,18 @@
       "summary": "16 Years back, today, when we started off.😬",
       "thumbnail": "https://nitter.net/pic/media%2FHPvUpjOaoAAOPH0.png",
       "firstSeen": "2026-08-15T05:47:05.709Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=vthxAJGl-B8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "How Is AI Disrupting Indian IT Sector? | Markets by Zerodha Hindi",
+      "link": "https://www.youtube.com/watch?v=vthxAJGl-B8",
+      "published": "2026-08-15T04:30:07.000Z",
+      "summary": "India’s IT industry is at a turning point. AI is disrupting the traditional IT business model, while GCCs are creating new competition and global uncertainties are slowing demand.\nIn this video, we analyse:\nPART 1: How AI is changing IT economics and creating new challenges\n PART 2: How companies are adapting through AI platforms, upskilling, acquisitions and higher-value services\nCan AI become a threat to India’s IT industry, or the next big growth opportunity?\n\nChapters:\n0:00 – Is India's IT sector in danger?\n1:14 – Episode overview\n1:53 – How India became an IT services hub\n6:14 – Challenge 1: AI's deflationary impact\n9:18 – Challenge 2: Competition from GCCs\n10:07 – Challenge 3: Middle…",
+      "thumbnail": "https://i3.ytimg.com/vi/vthxAJGl-B8/hqdefault.jpg",
+      "firstSeen": "2026-08-15T08:56:38.964Z"
     },
     {
       "id": "https://x.com/zerodha/status/2088472308403069277#m",
@@ -11715,11 +11739,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-03T08:46:20.580Z",
-      "added": 7,
-      "errors": 3
-    },
-    {
       "at": "2026-08-03T11:58:32.432Z",
       "added": 6,
       "errors": 3
@@ -12013,6 +12032,11 @@
       "at": "2026-08-15T05:47:18.488Z",
       "added": 2,
       "errors": 13
+    },
+    {
+      "at": "2026-08-15T08:56:59.857Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -12059,5 +12083,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-15T05:47:18.488Z"
+  "lastRun": "2026-08-15T08:56:59.857Z"
 }
