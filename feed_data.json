@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=1yMF06EWNd4",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 17 August 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=1yMF06EWNd4",
+      "published": "2026-08-16T13:35:31.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/1yMF06EWNd4/hqdefault.jpg",
+      "firstSeen": "2026-08-16T15:47:55.515Z"
+    },
+    {
       "id": "https://x.com/Nithin0dha/status/2088951683250536584#m",
       "platform": "x",
       "group": "Other Handles & People",
@@ -11811,11 +11823,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-04T14:08:37.054Z",
-      "added": 7,
-      "errors": 3
-    },
-    {
       "at": "2026-08-04T17:13:28.177Z",
       "added": 3,
       "errors": 3
@@ -12109,6 +12116,11 @@
       "at": "2026-08-16T12:36:37.206Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-08-16T15:48:10.890Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -12155,5 +12167,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-16T12:36:37.206Z"
+  "lastRun": "2026-08-16T15:48:10.890Z"
 }
