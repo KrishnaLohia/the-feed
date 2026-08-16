@@ -7,7 +7,7 @@
       "sourceName": "In The Money (YouTube)",
       "title": "The Incredible Story Behind the Black-Scholes Formula | In The Money by Zerodha",
       "link": "https://www.youtube.com/watch?v=atD5fJxLsLc",
-      "published": "2026-08-16T00:06:21.000Z",
+      "published": "2026-08-16T03:30:06.000Z",
       "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nIn this episode, I trace the fascinating story behind the Black-Scholes option pricing formula, from Robert Brown's observations of pollen grains in 1827 to the work of Louis Bachelier, Albert Einstein, Paul Samuelson, Fischer Black, Myron Scholes and Robert Merton.\n\nWe look at what Black-Scholes actually does, how it helps determine the fair value of an option, and the key insight that finally made option pricing possible without having to predict where a stock would go.\n\nI'm your host, Sandeep Ra…",
       "thumbnail": "https://i2.ytimg.com/vi/atD5fJxLsLc/hqdefault.jpg",
       "firstSeen": "2026-08-16T02:52:59.713Z"
@@ -11787,11 +11787,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-04T04:57:36.319Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-08-04T07:58:20.234Z",
       "added": 8,
       "errors": 3
@@ -12085,6 +12080,11 @@
       "at": "2026-08-16T02:53:26.418Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-16T05:50:05.354Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -12131,5 +12131,5 @@
       "url": "https://www.instagram.com/inherinterest/"
     }
   ],
-  "lastRun": "2026-08-16T02:53:26.418Z"
+  "lastRun": "2026-08-16T05:50:05.354Z"
 }
