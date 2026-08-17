@@ -1,13 +1,49 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=ZP1wj_cNt0E",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "India’s Tractors are having a big year | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=ZP1wj_cNt0E",
+      "published": "2026-08-17T02:30:26.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s Tractor Boom: What’s Driving Sales?\n\nIndia’s tractor industry recorded a strong first quarter, with wholesale volumes rising 18.6% despite a weak and uneven monsoon. The story explores what is driving this unexpected rural demand — from the GST cut on tractors and farm mechanisation to stronger government wheat procurement, improved rural cash flows and easier access to credit.\nIt also looks at why tractor sales are performing differently across states, and whether this boom can sustain if…",
+      "thumbnail": "https://i3.ytimg.com/vi/ZP1wj_cNt0E/hqdefault.jpg",
+      "firstSeen": "2026-08-17T02:53:23.369Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/indias-data-localisation-rbi-telecom-digital-privacy",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "India’s data fortress is a maze of conflicts",
+      "link": "https://thedailybrief.zerodha.com/p/indias-data-localisation-rbi-telecom-digital-privacy",
+      "published": "2026-08-17T01:42:18.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: Story: India’s data fortress is a maze of conflicts : India is tightening data localisation to strengthen digital sovereignty, but the rules are creating geopolitical friction and a domesti…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!KUUO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16d9216e-0fa2-4f63-9205-383a6628da72_1536x1024.png",
+      "firstSeen": "2026-08-17T02:53:23.785Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=l5s4h1kSlpU",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India is building a fortress for Indian data | The Daily Brief #530",
+      "link": "https://www.youtube.com/watch?v=l5s4h1kSlpU",
+      "published": "2026-08-17T01:30:17.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover two stories shaping Indian and global markets:\n\n1. India’s Data Localization Push\nIndia is tightening its data localization rules, requiring more kinds of data to be stored within the country. The story looks at why India wants greater data sovereignty, the economic interests behind these rules, and the tensions they create between global tech firms, Indian companies and policymakers.\n\n2. Chart of the Day: Why Are So Few Indian Women in the Workforce?…",
+      "thumbnail": "https://i1.ytimg.com/vi/l5s4h1kSlpU/hqdefault.jpg",
+      "firstSeen": "2026-08-17T02:53:23.107Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=1yMF06EWNd4",
       "platform": "youtube",
       "group": "Zerodha Online",
       "sourceName": "Zerodha Online (YouTube)",
       "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 17 August 2026, Monday",
       "link": "https://www.youtube.com/watch?v=1yMF06EWNd4",
-      "published": "2026-08-16T13:35:31.000Z",
+      "published": "2026-08-16T18:20:26.000Z",
       "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
       "thumbnail": "https://i2.ytimg.com/vi/1yMF06EWNd4/hqdefault.jpg",
       "firstSeen": "2026-08-16T15:47:55.515Z"
@@ -11823,11 +11859,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-04T17:13:28.177Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-08-05T04:58:57.156Z",
       "added": 11,
       "errors": 13
@@ -12121,14 +12152,37 @@
       "at": "2026-08-16T15:48:10.890Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-17T03:07:49.843Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
     {
       "group": "Markets",
+      "name": "Zerodha Markets (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodhamarkets"
+    },
+    {
+      "group": "Markets",
+      "name": "Subtext Zerodha (X)",
+      "platform": "x",
+      "url": "https://x.com/subtextzerodha"
+    },
+    {
+      "group": "Markets",
       "name": "Markets by Zerodha (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/marketsbyzerodha/"
+    },
+    {
+      "group": "Varsity",
+      "name": "Zerodha Varsity (X)",
+      "platform": "x",
+      "url": "https://x.com/ZerodhaVarsity"
     },
     {
       "group": "Varsity",
@@ -12144,9 +12198,33 @@
     },
     {
       "group": "Zerodha Online",
+      "name": "Zerodha (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodha"
+    },
+    {
+      "group": "Zerodha Online",
+      "name": "Coin by Zerodha (X)",
+      "platform": "x",
+      "url": "https://x.com/CoinByZerodha"
+    },
+    {
+      "group": "Zerodha Online",
+      "name": "TradingQnA (X)",
+      "platform": "x",
+      "url": "https://x.com/tradingqna"
+    },
+    {
+      "group": "Zerodha Online",
       "name": "Zerodha Online (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/zerodhaonline/"
+    },
+    {
+      "group": "Rainmatter",
+      "name": "Rainmatter (X)",
+      "platform": "x",
+      "url": "https://x.com/Rainmatterin"
     },
     {
       "group": "Rainmatter",
@@ -12162,10 +12240,46 @@
     },
     {
       "group": "Rainmatter Foundation",
+      "name": "Rainmatter Org (X)",
+      "platform": "x",
+      "url": "https://x.com/RainmatterOrg"
+    },
+    {
+      "group": "Rainmatter Foundation",
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Zerodha Capital (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodhacapital"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Zerodha AMC (X)",
+      "platform": "x",
+      "url": "https://x.com/ZerodhaAMC"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Nikhil Kamath (X)",
+      "platform": "x",
+      "url": "https://x.com/nikhilkamathcio"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Karthik Rangappa (X)",
+      "platform": "x",
+      "url": "https://x.com/karthikrangappa"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Nithin Kamath (X)",
+      "platform": "x",
+      "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-16T15:48:10.890Z"
+  "lastRun": "2026-08-17T03:07:49.843Z"
 }
