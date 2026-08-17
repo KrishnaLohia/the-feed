@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/dDOJ0AgKYJE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Stop Taking Every Trade So Seriously | Innerworth Ep.34",
+      "link": "https://www.youtube.com/shorts/dDOJ0AgKYJE",
+      "published": "2026-08-17T08:17:27.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/dDOJ0AgKYJE/hqdefault.jpg",
+      "firstSeen": "2026-08-17T09:11:01.035Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/Bsrg53Hho1o",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -11919,11 +11931,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-05T07:59:45.794Z",
-      "added": 23,
-      "errors": 3
-    },
-    {
       "at": "2026-08-05T11:02:30.495Z",
       "added": 7,
       "errors": 3
@@ -12217,20 +12224,25 @@
       "at": "2026-08-17T05:58:57.917Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-08-17T09:13:36.950Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
     {
       "group": "Markets",
-      "name": "Subtext Zerodha (X)",
-      "platform": "x",
-      "url": "https://x.com/subtextzerodha"
-    },
-    {
-      "group": "Markets",
       "name": "Markets by Zerodha (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/marketsbyzerodha/"
+    },
+    {
+      "group": "Varsity",
+      "name": "Zerodha Varsity (X)",
+      "platform": "x",
+      "url": "https://x.com/ZerodhaVarsity"
     },
     {
       "group": "Varsity",
@@ -12276,12 +12288,6 @@
     },
     {
       "group": "Other Handles & People",
-      "name": "Zerodha Capital (X)",
-      "platform": "x",
-      "url": "https://x.com/zerodhacapital"
-    },
-    {
-      "group": "Other Handles & People",
       "name": "Nikhil Kamath (X)",
       "platform": "x",
       "url": "https://x.com/nikhilkamathcio"
@@ -12293,5 +12299,5 @@
       "url": "https://x.com/karthikrangappa"
     }
   ],
-  "lastRun": "2026-08-17T05:58:57.916Z"
+  "lastRun": "2026-08-17T09:13:36.950Z"
 }
