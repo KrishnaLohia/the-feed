@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/G4nwo65mBG8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "How to Short Stocks that aren't in F&O?",
+      "link": "https://www.youtube.com/shorts/G4nwo65mBG8",
+      "published": "2026-08-18T15:33:32.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/G4nwo65mBG8/hqdefault.jpg",
+      "firstSeen": "2026-08-18T15:57:22.882Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=npvjbRXUkDQ",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 19 August 2026, Wednesday",
+      "link": "https://www.youtube.com/watch?v=npvjbRXUkDQ",
+      "published": "2026-08-18T14:34:30.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i3.ytimg.com/vi/npvjbRXUkDQ/hqdefault.jpg",
+      "firstSeen": "2026-08-18T15:57:27.604Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/_cKVjnw3AJ4",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Hyderabad Transport Problem Will Only Get Worse",
+      "link": "https://www.youtube.com/shorts/_cKVjnw3AJ4",
+      "published": "2026-08-18T13:53:59.000Z",
+      "summary": "Watch the full video on our channel!\n\n#hyderabadnews #hyderabad #publictransport #indianpublictransport #metro #indianmetro #trafficcrisis #traffic #indiantraffic #hyderabadtraffic #urbanmobility #urbanplanning #theclimatebrief #hyderabadpollution",
+      "thumbnail": "https://i4.ytimg.com/vi/_cKVjnw3AJ4/hqdefault.jpg",
+      "firstSeen": "2026-08-18T15:57:34.350Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/REXDJQDhJH0",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -12327,11 +12363,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-06T14:06:53.930Z",
-      "added": 14,
-      "errors": 3
-    },
-    {
       "at": "2026-08-07T04:21:08.382Z",
       "added": 4,
       "errors": 9
@@ -12625,6 +12656,11 @@
       "at": "2026-08-18T12:42:11.142Z",
       "added": 8,
       "errors": 3
+    },
+    {
+      "at": "2026-08-18T15:58:17.463Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -12669,7 +12705,13 @@
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Nikhil Kamath (X)",
+      "platform": "x",
+      "url": "https://x.com/nikhilkamathcio"
     }
   ],
-  "lastRun": "2026-08-18T12:42:11.142Z"
+  "lastRun": "2026-08-18T15:58:17.463Z"
 }
