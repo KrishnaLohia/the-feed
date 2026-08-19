@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/a-40-year-old-battle-over-indias",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "A 40-year old battle over India’s minerals hits a climax",
+      "link": "https://thedailybrief.zerodha.com/p/a-40-year-old-battle-over-indias",
+      "published": "2026-08-19T01:45:25.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . Rainmatter Originals is our new series profiling entrepreneurs who are taking the long road and doing things differently. We’re kicking things off with the story of Shashi and Akshayakalpa—and the sweat, patience, and organic fa…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!B0v_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c8fc5a0-aba2-41a9-a8b5-abe30ef45093_1536x1024.png",
+      "firstSeen": "2026-08-19T02:50:27.832Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/G4nwo65mBG8",
       "platform": "youtube",
       "group": "Markets",
@@ -161,7 +173,7 @@
       "platform": "x",
       "group": "Other Handles & People",
       "sourceName": "Nikhil Kamath (X)",
-      "title": "To the 16-year-young startup Zerodha, happy birthday Key learnings from the day: Nithin is back and can laugh sometimes, after a long time ❤️. Seema is cancer-free and auditioning for Wonder Woman soon. Karthik is getting jacked. Venu is very good-looking. And Deepa, Kailash Nadh’s wife, always looks happier when he is not in the room.. Different things set different companies apart. For Zerodha, that distinction, I think, could be how many of the same people were in the room 15 years ago: no kids, no white hair, no things :) Here’s hoping that 16 years later (2042), we are all still in the same room ❤️ @zerodha @Nithin0dha",
+      "title": "RT by @Nithin0dha: To the 16-year-young startup Zerodha, happy birthday Key learnings from the day: Nithin is back and can laugh sometimes, after a long time ❤️. Seema is cancer-free and auditioning for Wonder Woman soon. Karthik is getting jacked. Venu is very good-looking. And Deepa, Kailash Nadh’s wife, always looks happier when he is not in the room.. Different things set different companies apart. For Zerodha, that distinction, I think, could be how many of the same people were in the room 15 years ago: no kids, no white hair, no things :) Here’s hoping that 16 years later (2042), we are all still in the same room ❤️ @zerodha @Nithin0dha",
       "link": "https://x.com/nikhilkamathcio/status/2089595061613027582#m",
       "published": "2026-08-18T06:07:40.000Z",
       "summary": "To the 16-year-young startup Zerodha, happy birthday Key learnings from the day: Nithin is back and can laugh sometimes, after a long time ❤️. Seema is cancer-free and auditioning for Wonder Woman soon. Karthik is getting jacked. Venu is very good-looking. And Deepa, Kailash Nadh’s wife, always looks happier when he is not in the room.. Different things set different companies apart. For Zerodha, that distinction, I think, could be how many of the same people were in the room 15 years ago: no kids, no white hair, no things :) Here’s hoping that 16 years later (2042), we are all still in the same room ❤️ @zerodha @Nithin0dha",
@@ -11337,7 +11349,7 @@
       "link": "https://x.com/CoinByZerodha/status/2061756324782932333#m",
       "published": "2026-06-02T10:26:28.000Z",
       "summary": "Most people know compound interest exists. But fewer understand what it actually means. Your returns get added to your principal. The next year, you earn returns on that larger amount. Then again, the year after. And again after that. For a long time, this feels unimpressive. The growth is slow, and it is easy to wonder if anything meaningful is even happening. But compounding does not work in a straight line. The later years do most of the heavy lifting. This is also why debt can become dangerous. The same force that grows your investments can work against you when interest keeps getting added to what you owe. Compounding is simple to understand in theory. But most people underestimate how…",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2087205033670508544%2Ff8zC0CWy%3Fformat%3Djpg%26name%3D600x314",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2089743502527602688%2FZFZe-Mx5%3Fformat%3Djpg%26name%3D600x314",
       "firstSeen": "2026-07-26T09:01:30.259Z"
     },
     {
@@ -12363,11 +12375,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-07T04:21:08.382Z",
-      "added": 4,
-      "errors": 9
-    },
-    {
       "at": "2026-08-07T06:39:32.348Z",
       "added": 5,
       "errors": 11
@@ -12661,6 +12668,11 @@
       "at": "2026-08-18T15:58:17.463Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-08-19T02:53:00.535Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -12684,9 +12696,21 @@
     },
     {
       "group": "Zerodha Online",
+      "name": "TradingQnA (X)",
+      "platform": "x",
+      "url": "https://x.com/tradingqna"
+    },
+    {
+      "group": "Zerodha Online",
       "name": "Zerodha Online (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/zerodhaonline/"
+    },
+    {
+      "group": "Rainmatter",
+      "name": "Rainmatter (X)",
+      "platform": "x",
+      "url": "https://x.com/Rainmatterin"
     },
     {
       "group": "Rainmatter",
@@ -12708,10 +12732,16 @@
     },
     {
       "group": "Other Handles & People",
+      "name": "Zerodha Capital (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodhacapital"
+    },
+    {
+      "group": "Other Handles & People",
       "name": "Nikhil Kamath (X)",
       "platform": "x",
       "url": "https://x.com/nikhilkamathcio"
     }
   ],
-  "lastRun": "2026-08-18T15:58:17.463Z"
+  "lastRun": "2026-08-19T02:53:00.535Z"
 }
