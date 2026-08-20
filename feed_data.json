@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/india-urea-fertilizer-subsidy-energy-norms-natural-gas",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Indian urea makers will make lesser money now",
+      "link": "https://thedailybrief.zerodha.com/p/india-urea-fertilizer-subsidy-energy-norms-natural-gas",
+      "published": "2026-08-20T01:50:50.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . Rainmatter Originals is our new series profiling entrepreneurs who are taking the long road and doing things differently. We’re kicking things off with the story of Shashi and Akshayakalpa—and the sweat, patience, and organic fa…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Q0cD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e7513d2-ac2e-44c8-af1c-0cbfebaf3719_1536x1024.png",
+      "firstSeen": "2026-08-20T02:50:02.163Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/qsexpcwZgHk",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -11373,7 +11385,7 @@
       "link": "https://x.com/CoinByZerodha/status/2066859795676807464#m",
       "published": "2026-06-16T12:25:50.000Z",
       "summary": "Knowing how much you need to retire is one problem. Building that corpus is a different one. People assume that retirement planning depends on earning a very high salary, receiving a windfall, or finding an extraordinary investment. In reality, it usually comes down to investing a steady amount every month, choosing the right mix of assets, and giving compounding enough time to work. The difficult part is figuring out how much to invest every month. Start today, and your money has more time to grow. Delay it by a few years, and you have to make up for that lost time by investing more each month. This @ZerodhaVarsity chapter looks at how to build a retirement corpus in practice, with the mat…",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2087185346115366914%2FCDQeGg5n%3Fformat%3Djpg%26name%3D600x314",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2089727315605323776%2FYaqq007L%3Fformat%3Djpg%26name%3D600x314",
       "firstSeen": "2026-07-26T09:01:30.259Z"
     },
     {
@@ -11553,7 +11565,7 @@
       "link": "https://x.com/CoinByZerodha/status/2064667240134595050#m",
       "published": "2026-06-10T11:13:24.000Z",
       "summary": "Nobody really knows how much money they need to retire. We all have a vague sense, \"enough to not worry,\" but when you actually sit down and do the math, the number is almost always much larger than expected. You're not just estimating what you spend today. You're estimating what that same lifestyle will cost 25 years from now, because what ₹50,000 can buy today is not what it will buy 25 years from now. This @ZerodhaVarsity chapter works through the retirement math👇 zerodha.com/varsity/chapter/… Link Retirement Corpus Calculation: Inflation & Future Value Calculate retirement corpus needed - estimate future expenses with inflation, use future value formula, determine 25-year savings targe…",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2087560808939294720%2FYeFN6ZNI%3Fformat%3Djpg%26name%3D600x314",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2090106202730516480%2FnNmoXSjl%3Fformat%3Djpg%26name%3D600x314",
       "firstSeen": "2026-07-26T09:01:30.259Z"
     },
     {
@@ -11925,7 +11937,7 @@
       "link": "https://x.com/CoinByZerodha/status/2059557777962684731#m",
       "published": "2026-05-27T08:50:13.000Z",
       "summary": "Most people postpone personal finance, thinking they'll deal with it once life becomes more stable. But life rarely becomes less expensive or less uncertain. There's always something to worry about. The cost of waiting isn't just missed returns. By the time most people get serious, they're starting from a much harder position. Because the breathing room that money gives you, to handle setbacks, take career risks, sit through a market crash without panicking, takes years to build. You don't need a detailed plan to begin. Just know what you earn, what you spend, what you owe, and what you're building toward. That's enough. If you’ve been meaning to get your finances in order but don’t know wh…",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2087560808884838401%2FMdhyor5u%3Fformat%3Dpng%26name%3D600x314",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2090106202898231296%2FgvbYf3lp%3Fformat%3Dpng%26name%3D600x314",
       "firstSeen": "2026-07-26T09:01:30.259Z"
     },
     {
@@ -12759,11 +12771,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-08T03:17:46.049Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-08T06:02:37.373Z",
       "added": 2,
       "errors": 13
@@ -13057,14 +13064,19 @@
       "at": "2026-08-19T15:59:30.800Z",
       "added": 11,
       "errors": 3
+    },
+    {
+      "at": "2026-08-20T02:50:54.088Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
     {
       "group": "Markets",
-      "name": "Zerodha Markets (X)",
+      "name": "Subtext Zerodha (X)",
       "platform": "x",
-      "url": "https://x.com/zerodhamarkets"
+      "url": "https://x.com/subtextzerodha"
     },
     {
       "group": "Markets",
@@ -13107,13 +13119,7 @@
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
-    },
-    {
-      "group": "Other Handles & People",
-      "name": "Zerodha AMC (X)",
-      "platform": "x",
-      "url": "https://x.com/ZerodhaAMC"
     }
   ],
-  "lastRun": "2026-08-19T15:59:30.800Z"
+  "lastRun": "2026-08-20T02:50:54.088Z"
 }
