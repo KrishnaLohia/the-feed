@@ -2333,7 +2333,7 @@
       "platform": "x",
       "group": "Varsity",
       "sourceName": "Zerodha Varsity (X)",
-      "title": "RT by @karthikrangappa: Have questions about trading, market trends, or Zerodha’s journey? Here’s your chance to ask! Join @Nithin0dha and @karthikrangappa on a Zerodha Varsity Live session - \"Ask Me Anything\". 🗓️ Date: 14th August 2026 ⏰ Time: 6:00 PM – 8:00 PM Register using the link in comments!",
+      "title": "RT by @CoinByZerodha: Have questions about trading, market trends, or Zerodha’s journey? Here’s your chance to ask! Join @Nithin0dha and @karthikrangappa on a Zerodha Varsity Live session - \"Ask Me Anything\". 🗓️ Date: 14th August 2026 ⏰ Time: 6:00 PM – 8:00 PM Register using the link in comments!",
       "link": "https://x.com/ZerodhaVarsity/status/2087068955773116651#m",
       "published": "2026-08-11T06:49:49.000Z",
       "summary": "Have questions about trading, market trends, or Zerodha’s journey? Here’s your chance to ask! Join @Nithin0dha and @karthikrangappa on a Zerodha Varsity Live session - \"Ask Me Anything\". 🗓️ Date: 14th August 2026 ⏰ Time: 6:00 PM – 8:00 PM Register using the link in comments!",
@@ -12771,11 +12771,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-08T06:02:37.373Z",
-      "added": 2,
-      "errors": 13
-    },
-    {
       "at": "2026-08-08T09:12:12.149Z",
       "added": 7,
       "errors": 3
@@ -13069,9 +13064,20 @@
       "at": "2026-08-20T02:50:54.088Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-08-20T05:59:55.873Z",
+      "added": 0,
+      "errors": 13
     }
   ],
   "directSources": [
+    {
+      "group": "Markets",
+      "name": "Zerodha Markets (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodhamarkets"
+    },
     {
       "group": "Markets",
       "name": "Subtext Zerodha (X)",
@@ -13083,6 +13089,12 @@
       "name": "Markets by Zerodha (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/marketsbyzerodha/"
+    },
+    {
+      "group": "Varsity",
+      "name": "Zerodha Varsity (X)",
+      "platform": "x",
+      "url": "https://x.com/ZerodhaVarsity"
     },
     {
       "group": "Varsity",
@@ -13098,9 +13110,27 @@
     },
     {
       "group": "Zerodha Online",
+      "name": "Zerodha (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodha"
+    },
+    {
+      "group": "Zerodha Online",
+      "name": "TradingQnA (X)",
+      "platform": "x",
+      "url": "https://x.com/tradingqna"
+    },
+    {
+      "group": "Zerodha Online",
       "name": "Zerodha Online (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/zerodhaonline/"
+    },
+    {
+      "group": "Rainmatter",
+      "name": "Rainmatter (X)",
+      "platform": "x",
+      "url": "https://x.com/Rainmatterin"
     },
     {
       "group": "Rainmatter",
@@ -13116,10 +13146,40 @@
     },
     {
       "group": "Rainmatter Foundation",
+      "name": "Rainmatter Org (X)",
+      "platform": "x",
+      "url": "https://x.com/RainmatterOrg"
+    },
+    {
+      "group": "Rainmatter Foundation",
       "name": "In Her Interest (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/inherinterest/"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Zerodha Capital (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodhacapital"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Zerodha AMC (X)",
+      "platform": "x",
+      "url": "https://x.com/ZerodhaAMC"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Nikhil Kamath (X)",
+      "platform": "x",
+      "url": "https://x.com/nikhilkamathcio"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Karthik Rangappa (X)",
+      "platform": "x",
+      "url": "https://x.com/karthikrangappa"
     }
   ],
-  "lastRun": "2026-08-20T02:50:54.088Z"
+  "lastRun": "2026-08-20T05:59:55.873Z"
 }
