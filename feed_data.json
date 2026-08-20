@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/dnmNYijroQE",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "The Story of Hyderabad’s Suburban Rail Network",
+      "link": "https://www.youtube.com/shorts/dnmNYijroQE",
+      "published": "2026-08-20T12:30:01.000Z",
+      "summary": "Watch the full video on our channel!\n\n#hyderabadnews #hyderabad #publictransport #indianpublictransport #metro #indianmetro #trafficcrisis #traffic #indiantraffic #hyderabadtraffic #urbanmobility #urbanplanning #theclimatebrief #hyderabadpollution",
+      "thumbnail": "https://i1.ytimg.com/vi/dnmNYijroQE/hqdefault.jpg",
+      "firstSeen": "2026-08-20T12:50:11.020Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=bP92xy8LXac",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Why India’s cities can’t borrow? ft. Rajashree Murukute | Subtext by Zerodha",
+      "link": "https://www.youtube.com/watch?v=bP92xy8LXac",
+      "published": "2026-08-20T11:55:22.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIndia has over 200 cities, but only 22 have ever raised money through municipal bonds. In the US, this market is huge, in India, it's still tiny. In this episode of The Subtext, we talk to Rajashree, Senior Director at CARE Edge Ratings, about why that is and what needs to change.\n\nWe talk about how cities get rated for borrowing money, why it's hard to get clean financial data from them, why bonds from cities are priced differently than company bonds, how safety nets like escrow accounts help inve…",
+      "thumbnail": "https://i3.ytimg.com/vi/bP92xy8LXac/hqdefault.jpg",
+      "firstSeen": "2026-08-20T12:45:46.377Z"
+    },
+    {
       "id": "https://x.com/zerodhamarkets/status/2090307648327684218#m",
       "platform": "x",
       "group": "Markets",
@@ -12855,11 +12879,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-08T12:45:05.156Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-08-08T15:56:56.319Z",
       "added": 2,
       "errors": 3
@@ -13153,9 +13172,20 @@
       "at": "2026-08-20T09:14:24.977Z",
       "added": 7,
       "errors": 3
+    },
+    {
+      "at": "2026-08-20T12:53:55.744Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
+    {
+      "group": "Markets",
+      "name": "Zerodha Markets (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodhamarkets"
+    },
     {
       "group": "Markets",
       "name": "Subtext Zerodha (X)",
@@ -13271,5 +13301,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-20T09:14:24.977Z"
+  "lastRun": "2026-08-20T12:53:55.744Z"
 }
