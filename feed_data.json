@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/BXUfAf28IWc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why LPG is important? Ft. Vignesh Pai",
+      "link": "https://www.youtube.com/shorts/BXUfAf28IWc",
+      "published": "2026-08-20T13:56:56.000Z",
+      "summary": "What does cooking have to do with global energy markets? Quite a lot, actually. 🍳\n\n[LPG, Energy, India, Markets]",
+      "thumbnail": "https://i3.ytimg.com/vi/BXUfAf28IWc/hqdefault.jpg",
+      "firstSeen": "2026-08-20T15:59:21.900Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/145Jt_jvk3A",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "I Backtested the Famous 45 DTE Strategy on NIFTY",
+      "link": "https://www.youtube.com/shorts/145Jt_jvk3A",
+      "published": "2026-08-20T13:36:58.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/145Jt_jvk3A/hqdefault.jpg",
+      "firstSeen": "2026-08-20T15:59:21.907Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/finally-some-relief-as-nifty-ends",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Finally some relief as Nifty ends 7-day losing run",
+      "link": "https://aftermarketreport.zerodha.com/p/finally-some-relief-as-nifty-ends",
+      "published": "2026-08-20T13:27:29.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. In our latest episode of I n The Money by Zerodha , we explore a question every systematic trader eventually faces: your backtest gave you a beautiful equity curve — but was that curve luck, or edge? Using Monte Carlo simulations and a real two-year backtest of a 0DTE 920 straddle strategy on Nifty, we show how the same trades can produce very different drawdowns and outcomes simply by changing their order. The takeaway: your backtest is only one possible path. The real question is whether your strategy can survive the paths you didn’t see. Check out In…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!h0UC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb226406a-96d7-47f4-b5c0-5f3ba55013ae_1456x971.webp",
+      "firstSeen": "2026-08-20T15:59:22.695Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=V86dsWWzxgE",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 21 August 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=V86dsWWzxgE",
+      "published": "2026-08-20T13:13:06.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i3.ytimg.com/vi/V86dsWWzxgE/hqdefault.jpg",
+      "firstSeen": "2026-08-20T16:01:21.324Z"
+    },
+    {
+      "id": "https://x.com/Nithin0dha/status/2090416469796593690#m",
+      "platform": "x",
+      "group": "Other Handles & People",
+      "sourceName": "Nithin Kamath (X)",
+      "title": "When we decided to build our AMC, partnering with @smallcaseHQ was the most natural thing to do, considering all the competencies they had built. In just the last two-odd years, we have come a really long way, with almost ₹18,000 crore in AUM. And all of this is from direct plans. We don’t offer any regular plans. We continue to grow from strength to strength by offering low-cost products, and we still have a lot more to do.",
+      "link": "https://x.com/Nithin0dha/status/2090416469796593690#m",
+      "published": "2026-08-20T12:31:39.000Z",
+      "summary": "When we decided to build our AMC, partnering with @smallcaseHQ was the most natural thing to do, considering all the competencies they had built. In just the last two-odd years, we have come a really long way, with almost ₹18,000 crore in AUM. And all of this is from direct plans. We don’t offer any regular plans. We continue to grow from strength to strength by offering low-cost products, and we still have a lot more to do. Vasanth Kamath (@vasanthkamath) ◾◽ Introducing CASE Platforms We started smallcase with a simple idea — to make investing better for individual investors Over the years, we have launched multiple products - portfolio research from @windmillcapHQ , market information & t…",
+      "thumbnail": "https://nitter.net/pic/media%2FHQJ7gsuasAAk26b.jpg",
+      "firstSeen": "2026-08-20T16:06:29.923Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/dnmNYijroQE",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -23,6 +83,42 @@
       "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIndia has over 200 cities, but only 22 have ever raised money through municipal bonds. In the US, this market is huge, in India, it's still tiny. In this episode of The Subtext, we talk to Rajashree, Senior Director at CARE Edge Ratings, about why that is and what needs to change.\n\nWe talk about how cities get rated for borrowing money, why it's hard to get clean financial data from them, why bonds from cities are priced differently than company bonds, how safety nets like escrow accounts help inve…",
       "thumbnail": "https://i3.ytimg.com/vi/bP92xy8LXac/hqdefault.jpg",
       "firstSeen": "2026-08-20T12:45:46.377Z"
+    },
+    {
+      "id": "https://x.com/nikhilkamathcio/status/2090404420261658934#m",
+      "platform": "x",
+      "group": "Other Handles & People",
+      "sourceName": "Nikhil Kamath (X)",
+      "title": "Some days you build. Some days you watch other people build better than you. Both are good days. :) @jointhefoundery @juspay @IDFCFIRSTBank",
+      "link": "https://x.com/nikhilkamathcio/status/2090404420261658934#m",
+      "published": "2026-08-20T11:43:46.000Z",
+      "summary": "Some days you build. Some days you watch other people build better than you. Both are good days. :) @jointhefoundery @juspay @IDFCFIRSTBank",
+      "thumbnail": "https://nitter.net/pic/media%2FHQKbvPfbMAAF3bt.jpg",
+      "firstSeen": "2026-08-20T16:05:50.570Z"
+    },
+    {
+      "id": "https://x.com/Nithin0dha/status/2090335004471779814#m",
+      "platform": "x",
+      "group": "Other Handles & People",
+      "sourceName": "Nithin Kamath (X)",
+      "title": "R to @Nithin0dha: Read more: https://zerodha.com/z-connect/rainmatter/what-will-the-future-of-trading-and-investing-look-like",
+      "link": "https://x.com/Nithin0dha/status/2090335004471779814#m",
+      "published": "2026-08-20T07:07:56.000Z",
+      "summary": "Read more: zerodha.com/z-connect/rainma… Link What will the future of trading and investing look like? All investing and trading platforms kind of look the same now, don’t they? I’m talking about Indian platforms, and sure, we can quibble about some zerodha.com",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2090334839111319552%2F-SS_ReMu%3Fformat%3Dpng%26name%3D800x419",
+      "firstSeen": "2026-08-20T16:06:29.923Z"
+    },
+    {
+      "id": "https://x.com/Nithin0dha/status/2090335001888067940#m",
+      "platform": "x",
+      "group": "Other Handles & People",
+      "sourceName": "Nithin Kamath (X)",
+      "title": "If you think about it, trading and investing have changed a lot on the surface, but the fundamental act has remained more or less the same. Platforms look better. They are easier to use. There is more information, more data, more products, and far better tools. But underneath all of that, you still place an order through a broker, which then goes to an exchange. The question we keep asking ourselves at @Zerodha and @Rainmatterin is: will this remain true in the future? AI is changing how software is built and used. Market structure and regulations are evolving. There are new asset classes and technologies, such as tokenization, prediction markets, and other weird experiments emerging. 90% of it may be pure degeneracy, but you never know what might become mainstream. I wouldn’t be surprised if, in the future, a broker becomes little more than a pipe between the customer and the exchange. The customer may interact with the markets through a completely personal, AI-built interface rather than a broker’s app. We don’t know what the future of trading and investing will look like. But we think it may look radically different. When we started Rainmatter in 2016, the idea was to back fintech founders building products that could help expand the markets. Over time, Rainmatter grew beyond fintech into health, climate, advanced manufacturing, sports, and other areas. But given that finance seems to be changing, we are doubling down on fintech again to back ambitious founders. We don't know exactly what we are looking for, but I want to clarify what we are not looking for. We are not looking for another fancy dashboard, an options visualisation tool, or public data repackaged in a prettier UI. We are looking for founders fundamentally rethinking how people might trade and invest in the future. If you are building something radical, strange, or even a little crazy, we would love to speak to you.",
+      "link": "https://x.com/Nithin0dha/status/2090335001888067940#m",
+      "published": "2026-08-20T07:07:55.000Z",
+      "summary": "If you think about it, trading and investing have changed a lot on the surface, but the fundamental act has remained more or less the same. Platforms look better. They are easier to use. There is more information, more data, more products, and far better tools. But underneath all of that, you still place an order through a broker, which then goes to an exchange. The question we keep asking ourselves at @Zerodha and @Rainmatterin is: will this remain true in the future? AI is changing how software is built and used. Market structure and regulations are evolving. There are new asset classes and technologies, such as tokenization, prediction markets, and other weird experiments emerging. 90% o…",
+      "thumbnail": "",
+      "firstSeen": "2026-08-20T16:06:29.923Z"
     },
     {
       "id": "https://x.com/zerodhamarkets/status/2090307648327684218#m",
@@ -1821,7 +1917,7 @@
       "link": "https://x.com/Nithin0dha/status/2087890252082098199#m",
       "published": "2026-08-13T13:13:21.000Z",
       "summary": "Link: piped.video/m6SmpI7KiSk?si=8ph2… Link This farming business makes ₹600 crores a year | The Akshayakalpa... “There is no money in farming.” This single belief has driven an en... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2087890256507125760%2FnAvYg1Ac%3Fformat%3Djpg%26name%3D800x320_1",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087890256507125760%2FposnfmgG%3Fformat%3Djpg%26name%3D800x320_1",
       "firstSeen": "2026-08-13T16:24:56.772Z"
     },
     {
@@ -12879,11 +12975,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-08T15:56:56.319Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-08-09T03:25:53.806Z",
       "added": 1,
       "errors": 3
@@ -13177,6 +13268,11 @@
       "at": "2026-08-20T12:53:55.744Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-08-20T16:06:29.931Z",
+      "added": 8,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13284,22 +13380,10 @@
     },
     {
       "group": "Other Handles & People",
-      "name": "Nikhil Kamath (X)",
-      "platform": "x",
-      "url": "https://x.com/nikhilkamathcio"
-    },
-    {
-      "group": "Other Handles & People",
       "name": "Karthik Rangappa (X)",
       "platform": "x",
       "url": "https://x.com/karthikrangappa"
-    },
-    {
-      "group": "Other Handles & People",
-      "name": "Nithin Kamath (X)",
-      "platform": "x",
-      "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-20T12:53:55.744Z"
+  "lastRun": "2026-08-20T16:06:29.931Z"
 }
