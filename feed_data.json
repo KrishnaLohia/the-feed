@@ -25,6 +25,18 @@
       "firstSeen": "2026-08-21T02:55:39.752Z"
     },
     {
+      "id": "https://www.youtube.com/watch?v=pwOzNo1KSfQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "How did Indian auto fare this quarter? | The Daily Brief #534",
+      "link": "https://www.youtube.com/watch?v=pwOzNo1KSfQ",
+      "published": "2026-08-21T01:30:10.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover a story and a chart for the day shaping Indian and global markets:\n\n1. Indian Auto in Q1 FY27: Export Boom Meets Supply Crunch\nWe look at how India’s top carmakers performed in Q1 FY27. While Maruti Suzuki’s eVITARA drove a sharp jump in EV exports, strong domestic demand was held back by supply disruptions, capacity constraints and rising commodity costs.\n\n2. Chart of the Day: Why Big Tech Is Spending More on AI\nThe chart looks at how Big Tech’s spen…",
+      "thumbnail": "https://i1.ytimg.com/vi/pwOzNo1KSfQ/hqdefault.jpg",
+      "firstSeen": "2026-08-21T09:09:35.552Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=V86dsWWzxgE",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -305,7 +317,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "In The Money (YouTube)",
-      "title": "Does 45 DTE Options Selling Really Work in India? | The Long & The Short Ep. 48",
+      "title": "I Backtested the Famous 45 DTE Strategy on NIFTY | The Long & The Short Ep. 48",
       "link": "https://www.youtube.com/watch?v=z9nviVN6pa8",
       "published": "2026-08-19T13:46:27.000Z",
       "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to The Long and The Short, a show where you can expect an honest take on trading and investing, something you won’t hear elsewhere.\n\nI’m your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nIn this episode, I test a popular options strategy on NIFTY: selling a straddle or strangle 45 days before expiry.\n\nUsing over seven years of data, I compare 45 DTE straddles with 30 and 16 delta strangles, and then see what happens when we add a VIX filter. The results show why col…",
@@ -13035,11 +13047,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-09T09:19:10.934Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-09T12:47:46.184Z",
       "added": 1,
       "errors": 3
@@ -13333,6 +13340,11 @@
       "at": "2026-08-21T06:02:05.867Z",
       "added": 0,
       "errors": 13
+    },
+    {
+      "at": "2026-08-21T09:17:24.245Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13457,5 +13469,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-21T06:02:05.867Z"
+  "lastRun": "2026-08-21T09:17:24.245Z"
 }
