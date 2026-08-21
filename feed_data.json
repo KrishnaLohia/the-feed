@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-rbi-deputy-governor-3m",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: RBI Deputy Governor, 3M, Blue Star, KFin Technologies, & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-rbi-deputy-governor-3m",
+      "published": "2026-08-21T12:30:36.000Z",
+      "summary": "Welcome to the 82nd edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 5 companies across 4 industries and RBI’s Deputy Governor’s Keynote Speech. Regulator Reserve Bank Of India Diversified 3M India Limited Consumer Durables Blue Star Limited Financial…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!bhsD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba819652-23c1-4a82-ba9e-426082cecfe7_2400x1350.png",
+      "firstSeen": "2026-08-21T12:43:12.039Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/sSZaIkEONWQ",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Shady Practices in the Broking Industry in the Late 2000s!",
+      "link": "https://www.youtube.com/shorts/sSZaIkEONWQ",
+      "published": "2026-08-21T12:30:29.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nExplore:\n\nTrade on Kite\nWeb → https://kite.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS → https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb → https://coin.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.coin\niOS → https://apps.apple.com/in/app/coin-by-zerodha-mu…",
+      "thumbnail": "https://i4.ytimg.com/vi/sSZaIkEONWQ/hqdefault.jpg",
+      "firstSeen": "2026-08-21T12:45:02.673Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/gtvkX3ZFCwU",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Is Hyderabad’s Metro The Best Public Transport?",
+      "link": "https://www.youtube.com/shorts/gtvkX3ZFCwU",
+      "published": "2026-08-21T12:30:21.000Z",
+      "summary": "Watch the full video on our channel!\n\n#hyderabadnews #hyderabad #publictransport #indianpublictransport #metro #indianmetro #trafficcrisis #traffic #indiantraffic #hyderabadtraffic #urbanmobility #urbanplanning #theclimatebrief #hyderabadpollution",
+      "thumbnail": "https://i4.ytimg.com/vi/gtvkX3ZFCwU/hqdefault.jpg",
+      "firstSeen": "2026-08-21T12:47:27.671Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/YtVQ1RNyFFs",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "The REAL Cost of Buying a ₹17 Lakh Car🚗💸",
+      "link": "https://www.youtube.com/shorts/YtVQ1RNyFFs",
+      "published": "2026-08-21T11:00:06.000Z",
+      "summary": "Can you actually afford the car you’re planning to buy? :🚗:\n\nMost of us look at the car price and EMI and decide whether we can afford it. But the EMI is only one part of the cost. Fuel, insurance, maintenance and other running costs can add up to a lot more every month.\n\nSo I have made a simple car affordability calculator to calculate the actual monthly cost of owning a car.\nFor example, I assumed a ₹17 lakh car, a ₹1 lakh monthly in-hand salary, 30% down payment, a 7-year loan at 9% interest, and 30 km of daily driving. I also added fuel, mileage, maintenance and insurance costs.\n\nCheck out the full reel to understand what the actual cost of owning the car came out to be. And this is th…",
+      "thumbnail": "https://i2.ytimg.com/vi/YtVQ1RNyFFs/hqdefault.jpg",
+      "firstSeen": "2026-08-21T12:47:27.221Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=G4PFeLwzQKE",
       "platform": "youtube",
       "group": "Markets",
@@ -13047,11 +13095,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-09T12:47:46.184Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-09T15:58:39.602Z",
       "added": 1,
       "errors": 3
@@ -13345,6 +13388,11 @@
       "at": "2026-08-21T09:17:24.245Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-21T12:51:05.228Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13469,5 +13517,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-21T09:17:24.245Z"
+  "lastRun": "2026-08-21T12:51:05.228Z"
 }
