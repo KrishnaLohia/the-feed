@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=G4PFeLwzQKE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "The rule that changed Urea profits | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=G4PFeLwzQKE",
+      "published": "2026-08-21T02:30:16.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nWhy a Tiny Energy Rule Change Could Hit Urea Makers’ Profits\n\nIndia’s urea industry works very differently from a typical business. Since urea prices are controlled by the government, manufacturers rely heavily on subsidies, with energy efficiency playing a surprisingly large role in their profits. The government compensates plants based on a prescribed energy norm, allowing efficient manufacturers to retain the savings from using less energy.\nBut after the government tightened the energy norm from…",
+      "thumbnail": "https://i4.ytimg.com/vi/G4PFeLwzQKE/hqdefault.jpg",
+      "firstSeen": "2026-08-21T02:55:39.434Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/indian-auto-export-boom-ev-supply-issues",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Indian auto: an export boom and a supply crunch",
+      "link": "https://thedailybrief.zerodha.com/p/indian-auto-export-boom-ev-supply-issues",
+      "published": "2026-08-21T01:44:16.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . Rajashree Murukute on the future of India’s municipal bond market In the latest episode of Subtext, we host Rajashree Murukute (Senior Director, CARE Ratings) to break down how Indian cities are financed and why municipal bonds…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!xzUY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28e46974-83a2-4f67-9a1d-32879159d091_1536x1024.png",
+      "firstSeen": "2026-08-21T02:55:39.752Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=V86dsWWzxgE",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 21 August 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=V86dsWWzxgE",
+      "published": "2026-08-20T16:30:33.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i3.ytimg.com/vi/V86dsWWzxgE/hqdefault.jpg",
+      "firstSeen": "2026-08-20T16:01:21.324Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/BXUfAf28IWc",
       "platform": "youtube",
       "group": "Markets",
@@ -35,18 +71,6 @@
       "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. In our latest episode of I n The Money by Zerodha , we explore a question every systematic trader eventually faces: your backtest gave you a beautiful equity curve — but was that curve luck, or edge? Using Monte Carlo simulations and a real two-year backtest of a 0DTE 920 straddle strategy on Nifty, we show how the same trades can produce very different drawdowns and outcomes simply by changing their order. The takeaway: your backtest is only one possible path. The real question is whether your strategy can survive the paths you didn’t see. Check out In…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!h0UC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb226406a-96d7-47f4-b5c0-5f3ba55013ae_1456x971.webp",
       "firstSeen": "2026-08-20T15:59:22.695Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=V86dsWWzxgE",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 21 August 2026, Friday",
-      "link": "https://www.youtube.com/watch?v=V86dsWWzxgE",
-      "published": "2026-08-20T13:13:06.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i3.ytimg.com/vi/V86dsWWzxgE/hqdefault.jpg",
-      "firstSeen": "2026-08-20T16:01:21.324Z"
     },
     {
       "id": "https://x.com/Nithin0dha/status/2090416469796593690#m",
@@ -95,6 +119,30 @@
       "summary": "Some days you build. Some days you watch other people build better than you. Both are good days. :) @jointhefoundery @juspay @IDFCFIRSTBank",
       "thumbnail": "https://nitter.net/pic/media%2FHQKbvPfbMAAF3bt.jpg",
       "firstSeen": "2026-08-20T16:05:50.570Z"
+    },
+    {
+      "id": "https://x.com/zerodha/status/2090370266169999369#m",
+      "platform": "x",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha (X)",
+      "title": "R to @zerodha: Learn more: https://support.zerodha.com/category/account-opening/minor/minor-online/articles/open-minor-account-online",
+      "link": "https://x.com/zerodha/status/2090370266169999369#m",
+      "published": "2026-08-20T09:28:03.000Z",
+      "summary": "Learn more: support.zerodha.com/category…",
+      "thumbnail": "",
+      "firstSeen": "2026-08-21T02:57:32.610Z"
+    },
+    {
+      "id": "https://x.com/zerodha/status/2090370263154348539#m",
+      "platform": "x",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha (X)",
+      "title": "A lot of people probably don’t know this, but you can open a Zerodha account for your kids completely online. So if you want to start investing for them early, you can do it in their own name through mutual funds, IPOs, or stocks and ETFs that you transfer to the account. It can also be a nice way to get them curious about investing and money as they grow.🙂",
+      "link": "https://x.com/zerodha/status/2090370263154348539#m",
+      "published": "2026-08-20T09:28:02.000Z",
+      "summary": "A lot of people probably don’t know this, but you can open a Zerodha account for your kids completely online. So if you want to start investing for them early, you can do it in their own name through mutual funds, IPOs, or stocks and ETFs that you transfer to the account. It can also be a nice way to get them curious about investing and money as they grow.🙂 Aadesh jain (@adeshjainj) Lucky to get Shiprocket in my 2 year old daughters account 🥳 50%+ now — https://nitter.net/adeshjainj/status/2089979268193480916#m",
+      "thumbnail": "https://nitter.net/pic/media%2FHQEY6wVawAABycx.jpg",
+      "firstSeen": "2026-08-21T02:57:32.610Z"
     },
     {
       "id": "https://x.com/Nithin0dha/status/2090335004471779814#m",
@@ -155,6 +203,18 @@
       "summary": "We were reading a CRISIL report last week with a fairly dry headline: tighter energy norms are going to cut the profitability of urea makers by about 25%. But the urea case turned out to be peculiar. The government moved one number in a formula from 5.77 to 5.67, and that alone could cut operating profit from ₹1,700 a tonne to ₹1,250.🧵👇",
       "thumbnail": "https://nitter.net/pic/media%2FHQJBTjVawAA8YO-.jpg",
       "firstSeen": "2026-08-20T09:07:04.326Z"
+    },
+    {
+      "id": "https://x.com/karthikrangappa/status/2090283370840527243#m",
+      "platform": "x",
+      "group": "Other Handles & People",
+      "sourceName": "Karthik Rangappa (X)",
+      "title": "This is such an incredibly unique journey! Fortunate to witness it unfold daily - up, close, and personal 😍",
+      "link": "https://x.com/karthikrangappa/status/2090283370840527243#m",
+      "published": "2026-08-20T03:42:45.000Z",
+      "summary": "This is such an incredibly unique journey! Fortunate to witness it unfold daily - up, close, and personal 😍",
+      "thumbnail": "https://nitter.net/pic/media%2FHQIsn8YbcAAgO0c.jpg",
+      "firstSeen": "2026-08-21T03:01:51.167Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=Yi8WbxnS3xU",
@@ -248,7 +308,7 @@
       "title": "Does 45 DTE Options Selling Really Work in India? | The Long & The Short Ep. 48",
       "link": "https://www.youtube.com/watch?v=z9nviVN6pa8",
       "published": "2026-08-19T13:46:27.000Z",
-      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=Z...\n\nWelcome to The Long and The Short, a show where you can expect an honest take on trading and investing, something you won’t hear elsewhere.\n\nI’m your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nIn this episode, I test a popular options strategy on NIFTY: selling a straddle or strangle 45 days before expiry.\n\nUsing over seven years of data, I compare 45 DTE straddles with 30 and 16 delta strangles, and then see what happens when we add a VIX filter. The results show why colle…",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to The Long and The Short, a show where you can expect an honest take on trading and investing, something you won’t hear elsewhere.\n\nI’m your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nIn this episode, I test a popular options strategy on NIFTY: selling a straddle or strangle 45 days before expiry.\n\nUsing over seven years of data, I compare 45 DTE straddles with 30 and 16 delta strangles, and then see what happens when we add a VIX filter. The results show why col…",
       "thumbnail": "https://i3.ytimg.com/vi/z9nviVN6pa8/hqdefault.jpg",
       "firstSeen": "2026-08-19T15:58:02.651Z"
     },
@@ -725,7 +785,7 @@
       "platform": "x",
       "group": "Zerodha Online",
       "sourceName": "Zerodha (X)",
-      "title": "I've spoken many times about the need to make it easier for NRIs to invest in India. Finally, some great news. SEBI just released a consultation paper proposing a fully digital onboarding process for NRIs, without needing them to be physically present in India! Kudos to SEBI for this pragmatic move. This is huge because NRIs tend to have large amounts of capital to invest and are a highly durable source of inflows into Indian markets. At @Zerodha, we have over 50,000 NRIs investing with us today. A stat that surprised me when we looked at our numbers: ~80% of them are active. That's a ridiculous number. They tend to invest more, take a longer-term view, and seem to be much stickier investors than regular investors. This number has grown a lot over the last few years, mostly because the process got simpler. SEBI's earlier changes meant NRIs no longer needed the whole PIS setup to invest. Most NRIs now come in through NRO Non-PIS accounts. These accounts work almost like resident accounts today, with intraday, BTST, and F&O access, and no CP code needed. But one massive bottleneck has remained: onboarding. Even today, to open an account digitally, an NRI has to be physically in India. If they are abroad, there's a ton of physical documentation involved and dealing with international courier delays. It has always been the most painful part of the journey. SEBI’s proposals in the new consultation paper fix this longstanding gap. They’re proposing allowing e-signs directly from the client's country of residence. If finalized, this would relax tedious documentation rules and delays. Something that would take 2-3 weeks or even months could be done within 1-2 days. That's a big win. By removing all this friction, this investor base can easily be many times larger. Getting foreign money into India matters. It helps the investors, but it also helps the rupee and the larger India story. Anything that makes it easier for this money to come into India is worth doing.",
+      "title": "RT by @zerodha: I've spoken many times about the need to make it easier for NRIs to invest in India. Finally, some great news. SEBI just released a consultation paper proposing a fully digital onboarding process for NRIs, without needing them to be physically present in India! Kudos to SEBI for this pragmatic move. This is huge because NRIs tend to have large amounts of capital to invest and are a highly durable source of inflows into Indian markets. At @Zerodha, we have over 50,000 NRIs investing with us today. A stat that surprised me when we looked at our numbers: ~80% of them are active. That's a ridiculous number. They tend to invest more, take a longer-term view, and seem to be much stickier investors than regular investors. This number has grown a lot over the last few years, mostly because the process got simpler. SEBI's earlier changes meant NRIs no longer needed the whole PIS setup to invest. Most NRIs now come in through NRO Non-PIS accounts. These accounts work almost like resident accounts today, with intraday, BTST, and F&O access, and no CP code needed. But one massive bottleneck has remained: onboarding. Even today, to open an account digitally, an NRI has to be physically in India. If they are abroad, there's a ton of physical documentation involved and dealing with international courier delays. It has always been the most painful part of the journey. SEBI’s proposals in the new consultation paper fix this longstanding gap. They’re proposing allowing e-signs directly from the client's country of residence. If finalized, this would relax tedious documentation rules and delays. Something that would take 2-3 weeks or even months could be done within 1-2 days. That's a big win. By removing all this friction, this investor base can easily be many times larger. Getting foreign money into India matters. It helps the investors, but it also helps the rupee and the larger India story. Anything that makes it easier for this money to come into India is worth doing.",
       "link": "https://x.com/Nithin0dha/status/2089653125120745695#m",
       "published": "2026-08-18T09:58:23.000Z",
       "summary": "I've spoken many times about the need to make it easier for NRIs to invest in India. Finally, some great news. SEBI just released a consultation paper proposing a fully digital onboarding process for NRIs, without needing them to be physically present in India! Kudos to SEBI for this pragmatic move. This is huge because NRIs tend to have large amounts of capital to invest and are a highly durable source of inflows into Indian markets. At @Zerodha , we have over 50,000 NRIs investing with us today. A stat that surprised me when we looked at our numbers: ~80% of them are active. That's a ridiculous number. They tend to invest more, take a longer-term view, and seem to be much stickier investo…",
@@ -965,7 +1025,7 @@
       "platform": "x",
       "group": "Zerodha Online",
       "sourceName": "Zerodha (X)",
-      "title": "I still wonder what made @venumadhav_ks call me back in 2006 to ask, “Is there something I can do?” At the time, there was zero line of sight, I couldn't even guarantee him a monthly salary. Yet he walked away from a stable, well-paying job at HP to join me back when I was just a sub-broker at Reliance Money😬 Zerodha wouldn’t be Zerodha today without him running pretty much all of our operations, compliance, and more over the years. Moments like this are why I credit so much of our success to luck. You can work hard, take risks, and do everything right, but at the end of the day, someone like Venu still has to decide to make that phone call🙂 Watch the full episode on the @Zerodha YouTube channel. Link in comments.",
+      "title": "RT by @zerodha: I still wonder what made @venumadhav_ks call me back in 2006 to ask, “Is there something I can do?” At the time, there was zero line of sight, I couldn't even guarantee him a monthly salary. Yet he walked away from a stable, well-paying job at HP to join me back when I was just a sub-broker at Reliance Money😬 Zerodha wouldn’t be Zerodha today without him running pretty much all of our operations, compliance, and more over the years. Moments like this are why I credit so much of our success to luck. You can work hard, take risks, and do everything right, but at the end of the day, someone like Venu still has to decide to make that phone call🙂 Watch the full episode on the @Zerodha YouTube channel. Link in comments.",
       "link": "https://x.com/Nithin0dha/status/2089312775831257558#m",
       "published": "2026-08-17T11:25:57.000Z",
       "summary": "I still wonder what made @venumadhav_ks call me back in 2006 to ask, “Is there something I can do?” At the time, there was zero line of sight, I couldn't even guarantee him a monthly salary. Yet he walked away from a stable, well-paying job at HP to join me back when I was just a sub-broker at Reliance Money😬 Zerodha wouldn’t be Zerodha today without him running pretty much all of our operations, compliance, and more over the years. Moments like this are why I credit so much of our success to luck. You can work hard, take risks, and do everything right, but at the end of the day, someone like Venu still has to decide to make that phone call🙂 Watch the full episode on the @Zerodha YouTube…",
@@ -1253,7 +1313,7 @@
       "platform": "x",
       "group": "Zerodha Online",
       "sourceName": "Zerodha (X)",
-      "title": "16 Years back, today, when we started off.😬",
+      "title": "RT by @zerodha: 16 Years back, today, when we started off.😬",
       "link": "https://x.com/Nithin0dha/status/2088496761577087120#m",
       "published": "2026-08-15T05:23:25.000Z",
       "summary": "16 Years back, today, when we started off.😬",
@@ -1857,7 +1917,7 @@
       "link": "https://x.com/karthikrangappa/status/2087896331625156876#m",
       "published": "2026-08-13T13:37:31.000Z",
       "summary": "Full video - piped.video/m6SmpI7KiSk?si=CPlo… Link This farming business makes ₹600 crores a year | The Akshayakalpa... “There is no money in farming.” This single belief has driven an en... youtube.com",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2087890256507125760%2FnAvYg1Ac%3Fformat%3Djpg%26name%3D800x320_1",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2087890256507125760%2FposnfmgG%3Fformat%3Djpg%26name%3D800x320_1",
       "firstSeen": "2026-08-13T16:24:55.192Z"
     },
     {
@@ -2177,7 +2237,7 @@
       "platform": "x",
       "group": "Other Handles & People",
       "sourceName": "Karthik Rangappa (X)",
-      "title": "Given my passion for all things health, I keep getting into all sorts of activities that I probably shouldn't, considering my age. Yesterday, the @peakst8_club team and I were trying a new hybrid fitness format called No Parking. It wasn’t as challenging as Hyrox, but it definitely wasn’t a cakewalk either. My heart rate shot up quickly with push-ups, rowing, sit-ups, and mountain climbers, while my teammate Deepak did all the activities that involved running😄 I'm excited to see how everyone else feels about this new format. We're taking this event live in Delhi on August 23rd with @one8world. The idea here is to inspire more people to start their fitness journeys. The belief is simple: more people will start getting fit if fitness is fun. That’s why we’re creating multiple fitness IPs, all built around participation. The bet is that people start by taking part in these events, enjoy themselves, and hopefully that motivates them to begin their own fitness journeys. If you’ve been meaning to get fit, check out one of the Peak State events (link in comments).",
+      "title": "RT by @karthikrangappa: Given my passion for all things health, I keep getting into all sorts of activities that I probably shouldn't, considering my age. Yesterday, the @peakst8_club team and I were trying a new hybrid fitness format called No Parking. It wasn’t as challenging as Hyrox, but it definitely wasn’t a cakewalk either. My heart rate shot up quickly with push-ups, rowing, sit-ups, and mountain climbers, while my teammate Deepak did all the activities that involved running😄 I'm excited to see how everyone else feels about this new format. We're taking this event live in Delhi on August 23rd with @one8world. The idea here is to inspire more people to start their fitness journeys. The belief is simple: more people will start getting fit if fitness is fun. That’s why we’re creating multiple fitness IPs, all built around participation. The bet is that people start by taking part in these events, enjoy themselves, and hopefully that motivates them to begin their own fitness journeys. If you’ve been meaning to get fit, check out one of the Peak State events (link in comments).",
       "link": "https://x.com/Nithin0dha/status/2087531609000153459#m",
       "published": "2026-08-12T13:28:14.000Z",
       "summary": "Given my passion for all things health, I keep getting into all sorts of activities that I probably shouldn't, considering my age. Yesterday, the @peakst8_club team and I were trying a new hybrid fitness format called No Parking. It wasn’t as challenging as Hyrox, but it definitely wasn’t a cakewalk either. My heart rate shot up quickly with push-ups, rowing, sit-ups, and mountain climbers, while my teammate Deepak did all the activities that involved running😄 I'm excited to see how everyone else feels about this new format. We're taking this event live in Delhi on August 23rd with @one8world . The idea here is to inspire more people to start their fitness journeys. The belief is simple: m…",
@@ -2513,7 +2573,7 @@
       "platform": "x",
       "group": "Zerodha Online",
       "sourceName": "Zerodha (X)",
-      "title": "RT by @Nithin0dha: Have questions for @Nithin0dha and @karthikrangappa? Join us for a @ZerodhaVarsity Live Ask Me Anything session with Nithin and Karthik on Friday, 14th August, from 6 PM to 8 PM. Register for free here: https://varsitylive.zerodha.com/programmes/85497a53-9231-4879-9800-5c3a87788a3b",
+      "title": "RT by @zerodha: Have questions for @Nithin0dha and @karthikrangappa? Join us for a @ZerodhaVarsity Live Ask Me Anything session with Nithin and Karthik on Friday, 14th August, from 6 PM to 8 PM. Register for free here: https://varsitylive.zerodha.com/programmes/85497a53-9231-4879-9800-5c3a87788a3b",
       "link": "https://x.com/zerodha/status/2087100783691169807#m",
       "published": "2026-08-11T08:56:17.000Z",
       "summary": "Have questions for @Nithin0dha and @karthikrangappa ? Join us for a @ZerodhaVarsity Live Ask Me Anything session with Nithin and Karthik on Friday, 14th August, from 6 PM to 8 PM. Register for free here: varsitylive.zerodha.com/prog…",
@@ -2537,7 +2597,7 @@
       "platform": "x",
       "group": "Varsity",
       "sourceName": "Zerodha Varsity (X)",
-      "title": "RT by @CoinByZerodha: Have questions about trading, market trends, or Zerodha’s journey? Here’s your chance to ask! Join @Nithin0dha and @karthikrangappa on a Zerodha Varsity Live session - \"Ask Me Anything\". 🗓️ Date: 14th August 2026 ⏰ Time: 6:00 PM – 8:00 PM Register using the link in comments!",
+      "title": "RT by @karthikrangappa: Have questions about trading, market trends, or Zerodha’s journey? Here’s your chance to ask! Join @Nithin0dha and @karthikrangappa on a Zerodha Varsity Live session - \"Ask Me Anything\". 🗓️ Date: 14th August 2026 ⏰ Time: 6:00 PM – 8:00 PM Register using the link in comments!",
       "link": "https://x.com/ZerodhaVarsity/status/2087068955773116651#m",
       "published": "2026-08-11T06:49:49.000Z",
       "summary": "Have questions about trading, market trends, or Zerodha’s journey? Here’s your chance to ask! Join @Nithin0dha and @karthikrangappa on a Zerodha Varsity Live session - \"Ask Me Anything\". 🗓️ Date: 14th August 2026 ⏰ Time: 6:00 PM – 8:00 PM Register using the link in comments!",
@@ -2913,7 +2973,7 @@
       "link": "https://x.com/zerodha/status/2086685449603649929#m",
       "published": "2026-08-10T05:25:54.000Z",
       "summary": "If you or your family hold physical share certificates and need help converting them to demat form, we can help. Reach out to us here: zerodha.com/dematerialise/ Link Convert your paper share certificates to demat form Convert your physical share certificates to demat format with easy 3-step process and ensure your investments are secure, compliant and trackable online. zerodha.com Dhanesh Gianani (@dhanesh500) Guys…did I just stumble upon GENERATIONAL WEALTH ?! 👀 — https://nitter.net/dhanesh500/status/2086460135321526290#m",
-      "thumbnail": "https://nitter.net/pic/card_img%2F2086146797169516544%2F-OOQLadc%3Fformat%3Dpng%26name%3D420x420_2",
+      "thumbnail": "https://nitter.net/pic/card_img%2F2088702555815854080%2FzGeivCQ8%3Fformat%3Dpng%26name%3D420x420_2",
       "firstSeen": "2026-08-10T06:47:59.630Z"
     },
     {
@@ -3473,7 +3533,7 @@
       "platform": "x",
       "group": "Zerodha Online",
       "sourceName": "Zerodha (X)",
-      "title": "A lot of Zerodha customers don't know that you can set up SIPs for stocks and ETFs, just like mutual funds. SIPs are probably the easiest way to bring some discipline to investing. We’ve had Stock SIPs on Kite for a while, but the process of setting one up could have been better. We've now introduced an all-new Stock SIP flow on Kite web. You can add stocks or ETFs while creating an SIP, choose between quantity-based and amount-based SIPs, and allocate the investment amount across multiple stocks or ETFs. For example, say you want to invest ₹10,000 every month in the Nifty TOP100CASE ETF. You can simply create an amount-based SIP for ₹10,000 and set the schedule. Or, if you want to invest across multiple stocks or ETFs, you can add them to the same SIP and decide how the ₹10,000 should be split between them. For amount-based SIPs, you can also automate funding using UPI Autopay. Coming to the Kite app soon.",
+      "title": "RT by @zerodha: A lot of Zerodha customers don't know that you can set up SIPs for stocks and ETFs, just like mutual funds. SIPs are probably the easiest way to bring some discipline to investing. We’ve had Stock SIPs on Kite for a while, but the process of setting one up could have been better. We've now introduced an all-new Stock SIP flow on Kite web. You can add stocks or ETFs while creating an SIP, choose between quantity-based and amount-based SIPs, and allocate the investment amount across multiple stocks or ETFs. For example, say you want to invest ₹10,000 every month in the Nifty TOP100CASE ETF. You can simply create an amount-based SIP for ₹10,000 and set the schedule. Or, if you want to invest across multiple stocks or ETFs, you can add them to the same SIP and decide how the ₹10,000 should be split between them. For amount-based SIPs, you can also automate funding using UPI Autopay. Coming to the Kite app soon.",
       "link": "https://x.com/Nithin0dha/status/2085669326544404787#m",
       "published": "2026-08-07T10:08:11.000Z",
       "summary": "A lot of Zerodha customers don't know that you can set up SIPs for stocks and ETFs, just like mutual funds. SIPs are probably the easiest way to bring some discipline to investing. We’ve had Stock SIPs on Kite for a while, but the process of setting one up could have been better. We've now introduced an all-new Stock SIP flow on Kite web. You can add stocks or ETFs while creating an SIP, choose between quantity-based and amount-based SIPs, and allocate the investment amount across multiple stocks or ETFs. For example, say you want to invest ₹10,000 every month in the Nifty TOP100CASE ETF. You can simply create an amount-based SIP for ₹10,000 and set the schedule. Or, if you want to invest a…",
@@ -4013,7 +4073,7 @@
       "platform": "x",
       "group": "Zerodha Online",
       "sourceName": "Zerodha (X)",
-      "title": "There has been a lot of discussion about the sharp closing moves since the new Closing Auction Session went live. CAS itself is not a bad idea. Most large global markets have some form of closing auction. A large amount of institutional activity, especially from passive funds and other benchmark-tracking investors, happens near the close. Instead of the closing price being determined based on the average traded price during the final 30 minutes, CAS brings these orders together in an auction to discover one closing price. The goal of CAS is to enable better price discovery and make it easier to execute large orders without moving prices abruptly. But the price dislocations we have seen over the last few days highlight some of the structural problems that are specific to the Indian markets. Closing auctions work well when there is deep liquidity and a large and diverse ecosystem of market participants, including market makers and arbitrageurs. Whenever prices diverge between the cash market, futures, ETFs, or different exchanges, participants step in and arbitrage the differences away. This ability to arbitrage is much more limited in India. For one, it is impossible to express a short view in the cash market. We have a securities lending and borrowing mechanism, but it isn’t deep or easy enough to use. Unless borrowing stocks and shorting them becomes easy, there is bound to be structural upward pressure in the markets. Then there is the difference in the cost of trading an option versus a futures contract. In April 2026, STT on futures was increased to 0.05% of the entire contract value, while STT on options is charged on the premium. So even though the STT rate on options is higher, trading futures is more expensive. Once you add STT, exchange charges, spreads, and impact costs, the trading opportunity has to be quite attractive before a futures arbitrage trade is worth doing. The same directional view can often be expressed more cheaply through options. This leads to traders preferring options over futures. India has over 13 crore registered investors, but only about 20–30 lakh traders trade actively on any given day. That’s it. We don’t have a large enough committed ecosystem providing two-sided liquidity across the cash market, futures, ETFs, and closing auctions. CAS is not the reason for these structural limitations, but it makes them more apparent. The timing of its rollout is also unfortunate, because the RBI’s new norms on capital-market exposure, which limit banks’ exposure to capital-market activities, are going live at the same time. When one instrument is more attractive than another, or when participants cannot express both bullish and bearish views easily, distortions are inevitable. There might be tweaks required in how CAS itself works. But the larger issue of our markets being shallow is a complicated problem to solve. It requires building an ecosystem that encourages all kinds of traders and investors, with different time horizons, to participate easily. Making shorting and securities lending easier, reducing distortions between instruments, and encouraging genuine market-making would be a good place to start.",
+      "title": "RT by @zerodha: There has been a lot of discussion about the sharp closing moves since the new Closing Auction Session went live. CAS itself is not a bad idea. Most large global markets have some form of closing auction. A large amount of institutional activity, especially from passive funds and other benchmark-tracking investors, happens near the close. Instead of the closing price being determined based on the average traded price during the final 30 minutes, CAS brings these orders together in an auction to discover one closing price. The goal of CAS is to enable better price discovery and make it easier to execute large orders without moving prices abruptly. But the price dislocations we have seen over the last few days highlight some of the structural problems that are specific to the Indian markets. Closing auctions work well when there is deep liquidity and a large and diverse ecosystem of market participants, including market makers and arbitrageurs. Whenever prices diverge between the cash market, futures, ETFs, or different exchanges, participants step in and arbitrage the differences away. This ability to arbitrage is much more limited in India. For one, it is impossible to express a short view in the cash market. We have a securities lending and borrowing mechanism, but it isn’t deep or easy enough to use. Unless borrowing stocks and shorting them becomes easy, there is bound to be structural upward pressure in the markets. Then there is the difference in the cost of trading an option versus a futures contract. In April 2026, STT on futures was increased to 0.05% of the entire contract value, while STT on options is charged on the premium. So even though the STT rate on options is higher, trading futures is more expensive. Once you add STT, exchange charges, spreads, and impact costs, the trading opportunity has to be quite attractive before a futures arbitrage trade is worth doing. The same directional view can often be expressed more cheaply through options. This leads to traders preferring options over futures. India has over 13 crore registered investors, but only about 20–30 lakh traders trade actively on any given day. That’s it. We don’t have a large enough committed ecosystem providing two-sided liquidity across the cash market, futures, ETFs, and closing auctions. CAS is not the reason for these structural limitations, but it makes them more apparent. The timing of its rollout is also unfortunate, because the RBI’s new norms on capital-market exposure, which limit banks’ exposure to capital-market activities, are going live at the same time. When one instrument is more attractive than another, or when participants cannot express both bullish and bearish views easily, distortions are inevitable. There might be tweaks required in how CAS itself works. But the larger issue of our markets being shallow is a complicated problem to solve. It requires building an ecosystem that encourages all kinds of traders and investors, with different time horizons, to participate easily. Making shorting and securities lending easier, reducing distortions between instruments, and encouraging genuine market-making would be a good place to start.",
       "link": "https://x.com/Nithin0dha/status/2084970694430036052#m",
       "published": "2026-08-05T11:52:05.000Z",
       "summary": "There has been a lot of discussion about the sharp closing moves since the new Closing Auction Session went live. CAS itself is not a bad idea. Most large global markets have some form of closing auction. A large amount of institutional activity, especially from passive funds and other benchmark-tracking investors, happens near the close. Instead of the closing price being determined based on the average traded price during the final 30 minutes, CAS brings these orders together in an auction to discover one closing price. The goal of CAS is to enable better price discovery and make it easier to execute large orders without moving prices abruptly. But the price dislocations we have seen over…",
@@ -12975,11 +13035,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-09T03:25:53.806Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-09T06:05:02.250Z",
       "added": 1,
       "errors": 12
@@ -13273,6 +13328,11 @@
       "at": "2026-08-20T16:06:29.931Z",
       "added": 8,
       "errors": 3
+    },
+    {
+      "at": "2026-08-21T03:02:27.514Z",
+      "added": 5,
+      "errors": 6
     }
   ],
   "directSources": [
@@ -13311,12 +13371,6 @@
       "name": "Zerodha Varsity Tribe (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/zerodhavarsitytribe/"
-    },
-    {
-      "group": "Zerodha Online",
-      "name": "Zerodha (X)",
-      "platform": "x",
-      "url": "https://x.com/zerodha"
     },
     {
       "group": "Zerodha Online",
@@ -13380,10 +13434,16 @@
     },
     {
       "group": "Other Handles & People",
-      "name": "Karthik Rangappa (X)",
+      "name": "Nikhil Kamath (X)",
       "platform": "x",
-      "url": "https://x.com/karthikrangappa"
+      "url": "https://x.com/nikhilkamathcio"
+    },
+    {
+      "group": "Other Handles & People",
+      "name": "Nithin Kamath (X)",
+      "platform": "x",
+      "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-20T16:06:29.931Z"
+  "lastRun": "2026-08-21T03:02:27.514Z"
 }
