@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/choppy-trade-keeps-markets-range",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Choppy trade keeps markets range-bound to end the week",
+      "link": "https://aftermarketreport.zerodha.com/p/choppy-trade-keeps-markets-range",
+      "published": "2026-08-21T13:34:40.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. In our latest episode of I n The Money by Zerodha , we test a popular options strategy on NIFTY: selling a straddle or strangle 45 days before expiry. Using over seven years of data, we compare 45 DTE straddles with 30 and 16 delta strangles, and then see what happens when we add a VIX filter. The results show why collecting more premium can matter, and how higher volatility can change the performance of the strategy. But the backtest also highlights the risks, especially gap risk, drawdowns, and the danger of using too much leverage. So, how does the 45…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Jiq0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F291df78f-ec33-4d18-8c01-6714cd9f6863_1456x971.webp",
+      "firstSeen": "2026-08-21T15:59:31.885Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=V9Ra8klDzrM",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Build a Trading Algo with AI | No Coding Required",
+      "link": "https://www.youtube.com/watch?v=V9Ra8klDzrM",
+      "published": "2026-08-21T13:30:39.000Z",
+      "summary": "Algo trading has traditionally seemed out of reach for non-programmers. AI coding assistants are changing that.\nIn this video, Karthik Rangappa, an experienced trader but a non-programmer, builds his very first semi-automated algo with Akshay guiding him through the process. Using simple natural-language prompts and an AI coding assistant, they go from a simple moving-average crossover idea to an actionable screener — without Karthik having to write a single line of code.\nFrom setting up the required tools and connecting to Kite Connect to building the trading logic and turning it into a working dashboard, the video walks through the entire process step by step, showing how AI coding assist…",
+      "thumbnail": "https://i3.ytimg.com/vi/V9Ra8klDzrM/hqdefault.jpg",
+      "firstSeen": "2026-08-21T16:00:45.383Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/aJNDp12fknI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "What's interesting today? Ft. Pranav Manie",
+      "link": "https://www.youtube.com/shorts/aJNDp12fknI",
+      "published": "2026-08-21T13:28:54.000Z",
+      "summary": "The government vs… the government. Take a look at the hidden battles between ministries. \n\n[Government, India, Finance, Markets]",
+      "thumbnail": "https://i2.ytimg.com/vi/aJNDp12fknI/hqdefault.jpg",
+      "firstSeen": "2026-08-21T15:59:30.831Z"
+    },
+    {
       "id": "https://thechatter.zerodha.com/p/the-chatter-rbi-deputy-governor-3m",
       "platform": "substack",
       "group": "Markets",
@@ -13095,11 +13131,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-09T15:58:39.602Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-10T03:45:33.035Z",
       "added": 3,
       "errors": 3
@@ -13393,6 +13424,11 @@
       "at": "2026-08-21T12:51:05.228Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-08-21T16:07:26.026Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13517,5 +13553,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-21T12:51:05.228Z"
+  "lastRun": "2026-08-21T16:07:26.026Z"
 }
