@@ -13035,11 +13035,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-09T06:05:02.250Z",
-      "added": 1,
-      "errors": 12
-    },
-    {
       "at": "2026-08-09T09:19:10.934Z",
       "added": 1,
       "errors": 3
@@ -13333,6 +13328,11 @@
       "at": "2026-08-21T03:02:27.514Z",
       "added": 5,
       "errors": 6
+    },
+    {
+      "at": "2026-08-21T06:02:05.867Z",
+      "added": 0,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -13371,6 +13371,12 @@
       "name": "Zerodha Varsity Tribe (Instagram)",
       "platform": "instagram",
       "url": "https://www.instagram.com/zerodhavarsitytribe/"
+    },
+    {
+      "group": "Zerodha Online",
+      "name": "Zerodha (X)",
+      "platform": "x",
+      "url": "https://x.com/zerodha"
     },
     {
       "group": "Zerodha Online",
@@ -13440,10 +13446,16 @@
     },
     {
       "group": "Other Handles & People",
+      "name": "Karthik Rangappa (X)",
+      "platform": "x",
+      "url": "https://x.com/karthikrangappa"
+    },
+    {
+      "group": "Other Handles & People",
       "name": "Nithin Kamath (X)",
       "platform": "x",
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-21T03:02:27.514Z"
+  "lastRun": "2026-08-21T06:02:05.867Z"
 }
