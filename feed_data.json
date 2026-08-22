@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=EbgXAZt98Jc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Weekly Market Metrics | Week 34 (17–21 Aug 2026) | CAS Faces Its First Big Test",
+      "link": "https://www.youtube.com/watch?v=EbgXAZt98Jc",
+      "published": "2026-08-22T06:20:14.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to Weekly Market Metrics — your weekend wrap-up of everything that mattered in the markets this week, plus a quick peek into what’s coming up next! \n\nI’m your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059). \n\nWe’re in Week 34 of 2026, and the markets had another relatively quiet week, with NIFTY continuing to trade within the broad range it has been stuck in since April. While 24,000 remains an important support, the 24,600–24,700 zone continues to be the key hurdle on…",
+      "thumbnail": "https://i2.ytimg.com/vi/EbgXAZt98Jc/hqdefault.jpg",
+      "firstSeen": "2026-08-22T08:58:35.965Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Apjo2m_zyN0",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "How you can Safeguard Your Money!",
+      "link": "https://www.youtube.com/shorts/Apjo2m_zyN0",
+      "published": "2026-08-22T05:39:53.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/Apjo2m_zyN0/hqdefault.jpg",
+      "firstSeen": "2026-08-22T08:58:36.419Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=jP9YC-ycyq0",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Everything You Need to Know About India’s Plastic Recycling Sector | Markets by Zerodha Hindi",
+      "link": "https://www.youtube.com/watch?v=jP9YC-ycyq0",
+      "published": "2026-08-22T04:41:42.000Z",
+      "summary": "India's plastic recycling sector is gaining momentum as rising crude prices make recycled PET more competitive than virgin plastic. At the same time, companies are expanding into higher-value food-grade recycled PET.\nIn this video, we analyse:\nPART 1: Virgin vs recycled plastic, the recycling value chain and India's recycling infrastructure\nPART 2: Key companies, their growth strategies, capex plans and the sector's biggest challenges\nCan recycled PET become a major growth opportunity for India's plastic recycling companies?\n\nChapters:\n00:00 – Why crude oil crisis is pushing India toward recycled plastic\n0:01 – West Asian crisis context\n1:21 – Intro: Welcome to Markets by Zerodha\n1:54 – The…",
+      "thumbnail": "https://i3.ytimg.com/vi/jP9YC-ycyq0/hqdefault.jpg",
+      "firstSeen": "2026-08-22T08:58:36.259Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-1",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +47,30 @@
       "summary": "Hi everyone, I’m Mridula , and welcome to the first edition of Weekly Tidbits. We’ve been writing The Daily Brief for a while now, and one thing has become pretty clear: the tidbits at the end have their own fan base. We also spend a lot of time reading news from across industries, the economy and the country. Most of it never becomes a full Daily Brief story—or even a tidbit. So we figured: why not give all that interesting stuff a home? That’s what this is. Once a week, we’ll take a step back and pick out some of the most interesting news we came across. Nothing fancy. Just useful stories from a wide mix of sources that we think are worth knowing. We have previously tried to attempt this…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!igfn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52ef177b-e919-43a0-bacf-d87d2e62db7f_1536x1024.png",
       "firstSeen": "2026-08-22T05:49:18.205Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Aep_jZQZ4Qo",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Best Ways to Keep Your Money Safe! | Cash & Copium Ep. 3",
+      "link": "https://www.youtube.com/watch?v=Aep_jZQZ4Qo",
+      "published": "2026-08-22T04:30:27.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=ZAPVVI\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nCash & Copium Ep. 3:\n\nWelcome to Cash & Copium, a show where finance concepts that actually move money in and out of your pocket are dissected without jargon or fluff.  \n\nIn this episode, Abid Hassan and Bhuvan tackle an issue every investor faces during market uncertainty: Where do you safely park your cash when equities stagnate, SIP returns turn negative, or a major ex…",
+      "thumbnail": "https://i2.ytimg.com/vi/Aep_jZQZ4Qo/hqdefault.jpg",
+      "firstSeen": "2026-08-22T08:58:36.419Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=PsOdPvQX6v0",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "90% of Indians don't know this about Mutual funds",
+      "link": "https://www.youtube.com/watch?v=PsOdPvQX6v0",
+      "published": "2026-08-22T04:30:06.000Z",
+      "summary": "Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nEveryday I meet so many people who ask me the same question. \nWhich Mutual Fund should they buy! \n\nAnd I understand the confusion there are more than 2000 mutual funds available in India and each of them promise to give the best returns ! \n\nBut are returns the only thing that matters? 🤔\n\nIn this video we discuss\n\nWhat actually is the most important criteria to analyse a mutual fund (Trust me returns are not enough!) \nWe discuss what are some qualitative factors you should look for before selecting a mutual fund. \n\nand finally my favourite part!\n\nWhat are the most common mistakes people do in their Mutual Fund investing…",
+      "thumbnail": "https://i1.ytimg.com/vi/PsOdPvQX6v0/hqdefault.jpg",
+      "firstSeen": "2026-08-22T09:02:51.185Z"
     },
     {
       "id": "https://aftermarketreport.zerodha.com/p/choppy-trade-keeps-markets-range",
@@ -13143,11 +13203,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-10T10:13:44.546Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-10T13:04:54.069Z",
       "added": 12,
       "errors": 3
@@ -13441,6 +13496,11 @@
       "at": "2026-08-22T05:57:10.863Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-08-22T09:06:28.998Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13565,5 +13625,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-22T05:57:10.863Z"
+  "lastRun": "2026-08-22T09:06:28.998Z"
 }
