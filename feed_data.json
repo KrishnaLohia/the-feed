@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/d3wsbhbjEgY",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "5 Ways To Fix Hyderabad’s Public Transport Crisis",
+      "link": "https://www.youtube.com/shorts/d3wsbhbjEgY",
+      "published": "2026-08-22T12:30:14.000Z",
+      "summary": "Watch the full video on our channel!\n\n#hyderabadnews #hyderabad #publictransport #indianpublictransport #metro #indianmetro #trafficcrisis #traffic #indiantraffic #hyderabadtraffic #urbanmobility #urbanplanning #theclimatebrief #hyderabadpollution",
+      "thumbnail": "https://i1.ytimg.com/vi/d3wsbhbjEgY/hqdefault.jpg",
+      "firstSeen": "2026-08-22T12:39:55.618Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=EbgXAZt98Jc",
       "platform": "youtube",
       "group": "Markets",
@@ -13203,11 +13215,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-10T13:04:54.069Z",
-      "added": 12,
-      "errors": 3
-    },
-    {
       "at": "2026-08-10T16:24:00.679Z",
       "added": 8,
       "errors": 3
@@ -13501,6 +13508,11 @@
       "at": "2026-08-22T09:06:28.998Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-08-22T12:43:30.465Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13625,5 +13637,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-22T09:06:28.998Z"
+  "lastRun": "2026-08-22T12:43:30.465Z"
 }
