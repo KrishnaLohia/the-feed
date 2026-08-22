@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-1",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Weekly Tidbits #1",
+      "link": "https://thedailybrief.zerodha.com/p/weekly-tidbits-1",
+      "published": "2026-08-22T04:30:53.000Z",
+      "summary": "Hi everyone, I’m Mridula , and welcome to the first edition of Weekly Tidbits. We’ve been writing The Daily Brief for a while now, and one thing has become pretty clear: the tidbits at the end have their own fan base. We also spend a lot of time reading news from across industries, the economy and the country. Most of it never becomes a full Daily Brief story—or even a tidbit. So we figured: why not give all that interesting stuff a home? That’s what this is. Once a week, we’ll take a step back and pick out some of the most interesting news we came across. Nothing fancy. Just useful stories from a wide mix of sources that we think are worth knowing. We have previously tried to attempt this…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!igfn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52ef177b-e919-43a0-bacf-d87d2e62db7f_1536x1024.png",
+      "firstSeen": "2026-08-22T05:49:18.205Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/choppy-trade-keeps-markets-range",
       "platform": "substack",
       "group": "Markets",
@@ -13131,11 +13143,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-10T06:48:14.180Z",
-      "added": 16,
-      "errors": 13
-    },
-    {
       "at": "2026-08-10T10:13:44.546Z",
       "added": 0,
       "errors": 3
@@ -13429,6 +13436,11 @@
       "at": "2026-08-22T02:55:23.941Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-08-22T05:57:10.863Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -13553,5 +13565,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-22T02:55:23.941Z"
+  "lastRun": "2026-08-22T05:57:10.863Z"
 }
