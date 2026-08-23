@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=8OrTJ9gU7ho",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "How Akshayakalpa 10x'ed farmer incomes in India | Founder Notes EP 1",
+      "link": "https://www.youtube.com/watch?v=8OrTJ9gU7ho",
+      "published": "2026-08-23T05:30:11.000Z",
+      "summary": "In this episode of Founder Notes, Shashi Kumar, founder of Akshayakalpa Organic, joins us for conversation on why fixing farmer unit economics is the single most critical factor in building a sustainable agriculture business in India.\n\nFor Shashi, building Akshayakalpa started with a basic question: how do you make farming a stable, dignified livelihood again? He shares the honest story of earning farmers' trust, building cold networks in rural areas from scratch, and why fixing farm-level economics is the only way to build something that lasts.\n\nABOUT FOUNDER NOTES: Founder Notes is an original series by Rainmatter. We sit down with founders for unscripted, long-form conversations to unpac…",
+      "thumbnail": "https://i1.ytimg.com/vi/8OrTJ9gU7ho/hqdefault.jpg",
+      "firstSeen": "2026-08-23T05:55:04.927Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=S0qoD2-QCJQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "4 Research Papers That Explain How Markets Can Be Beaten | Part 2",
+      "link": "https://www.youtube.com/watch?v=S0qoD2-QCJQ",
+      "published": "2026-08-23T03:30:06.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nIn this episode, we look at four more research papers that explore different ways of generating alpha. We start with what alpha actually means, before looking at mean reversion, momentum, option selling, and trend following.\n\nWe’ll see why losers can beat winners over the long run, why winners tend to keep winning over shorter periods, why option sellers earn a premium for taking on volatility risk, and how trend following has worked across 58 different futures markets.\n\nI'm your host, Sandeep Rao…",
+      "thumbnail": "https://i4.ytimg.com/vi/S0qoD2-QCJQ/hqdefault.jpg",
+      "firstSeen": "2026-08-23T05:51:28.995Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/d3wsbhbjEgY",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -13215,11 +13239,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-11T06:12:23.584Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-08-11T09:33:05.803Z",
       "added": 8,
       "errors": 3
@@ -13513,6 +13532,11 @@
       "at": "2026-08-23T03:03:32.652Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-08-23T05:59:17.693Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13637,5 +13661,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-23T03:03:32.652Z"
+  "lastRun": "2026-08-23T05:59:17.693Z"
 }
