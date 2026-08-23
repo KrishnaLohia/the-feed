@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/WLWpANRoeBU",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "5 Dirty Tricks E-Commerce Uses to Make You Spend More",
+      "link": "https://www.youtube.com/shorts/WLWpANRoeBU",
+      "published": "2026-08-23T11:00:09.000Z",
+      "summary": "Dark patterns are design tricks used by websites and apps to influence your decisions. Here are 5 common ones we ranked in this reel:\n\nZuckering: D Tier\nYou think you’re simply giving an app permission to send delivery updates, but somewhere buried in the terms and conditions, you’ve also agreed to receive marketing communication or share more information than you intended. You technically agreed to it, but the way the consent is obtained can be misleading.\n\nFalse Urgency: E Tier\nThese messages can create pressure to buy immediately, even when the urgency isn’t genuine. The goal is to make you feel like waiting could mean losing the deal.\n\nBait & Switch: C Tier\nYou see a phone advertised fo…",
+      "thumbnail": "https://i4.ytimg.com/vi/WLWpANRoeBU/hqdefault.jpg",
+      "firstSeen": "2026-08-23T12:40:52.166Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=j_a1RtzxP6Y",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -13251,11 +13263,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-11T13:01:31.567Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-08-11T16:24:46.368Z",
       "added": 3,
       "errors": 3
@@ -13549,6 +13556,11 @@
       "at": "2026-08-23T09:06:59.618Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-23T12:44:26.218Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13673,5 +13685,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-23T09:06:59.618Z"
+  "lastRun": "2026-08-23T12:44:26.218Z"
 }
