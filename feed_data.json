@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=QWG_CL5vbk4",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 24 August 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=QWG_CL5vbk4",
+      "published": "2026-08-24T06:12:54.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/QWG_CL5vbk4/hqdefault.jpg",
+      "firstSeen": "2026-08-24T09:26:47.175Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=wloa9p4Hztg",
       "platform": "youtube",
       "group": "Markets",
@@ -53,7 +65,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "5 Dirty Tricks E-Commerce Uses to Make You Spend More",
+      "title": "I Ranked 5 Online Shopping Traps From D to F🤔",
       "link": "https://www.youtube.com/shorts/WLWpANRoeBU",
       "published": "2026-08-23T11:00:09.000Z",
       "summary": "Dark patterns are design tricks used by websites and apps to influence your decisions. Here are 5 common ones we ranked in this reel:\n\nZuckering: D Tier\nYou think you’re simply giving an app permission to send delivery updates, but somewhere buried in the terms and conditions, you’ve also agreed to receive marketing communication or share more information than you intended. You technically agreed to it, but the way the consent is obtained can be misleading.\n\nFalse Urgency: E Tier\nThese messages can create pressure to buy immediately, even when the urgency isn’t genuine. The goal is to make you feel like waiting could mean losing the deal.\n\nBait & Switch: C Tier\nYou see a phone advertised fo…",
@@ -13311,11 +13323,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-12T09:42:20.807Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-08-12T13:05:50.476Z",
       "added": 10,
       "errors": 3
@@ -13609,6 +13616,11 @@
       "at": "2026-08-24T06:06:53.935Z",
       "added": 0,
       "errors": 8
+    },
+    {
+      "at": "2026-08-24T09:32:35.279Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13733,5 +13745,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-24T06:06:53.935Z"
+  "lastRun": "2026-08-24T09:32:35.279Z"
 }
