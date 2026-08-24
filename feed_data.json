@@ -1,13 +1,49 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=wloa9p4Hztg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "EVs, CNG and the Race to Grow | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=wloa9p4Hztg",
+      "published": "2026-08-24T02:30:21.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s Auto Industry: EV Exports, CNG Growth and Capacity Race\n\nIndia’s auto industry is seeing major shifts, led by a sharp rise in electric vehicle exports. Maruti Suzuki’s eVITARA has emerged as a key driver, helping India significantly expand EV shipments to Europe. Meanwhile, Tata and Mahindra are growing their EV businesses in different ways, while CNG continues to remain a much larger and more practical alternative for many Indian buyers.\nThe story also looks at the wider challenges facing…",
+      "thumbnail": "https://i4.ytimg.com/vi/wloa9p4Hztg/hqdefault.jpg",
+      "firstSeen": "2026-08-24T02:56:03.604Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/supari-paan-gutkha-customs-evade-smuggling-nbfcs-personal-loan",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The areca nut with an identity crisis",
+      "link": "https://thedailybrief.zerodha.com/p/supari-paan-gutkha-customs-evade-smuggling-nbfcs-personal-loan",
+      "published": "2026-08-24T01:38:00.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . Points & Figures India’s markets are growing beyond stocks Beyond equity trading, how are new investors and alternative assets reshaping India’s financial ecosystem? Drawing from SEBI’s latest report, Points & Figures tracks key…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!RICU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F521a876e-6a2c-4ea2-b672-8bb60dbd04a1_1536x1024.png",
+      "firstSeen": "2026-08-24T02:56:04.179Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JtP0io7f7fw",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why areca nut (supari) smuggling is such a big business | The Daily Brief #535",
+      "link": "https://www.youtube.com/watch?v=JtP0io7f7fw",
+      "published": "2026-08-24T01:30:00.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover a story and a chart for the day shaping Indian and global markets:\n\n1. The ₹2,500 Crore Supari Smuggling Puzzle\nIndia’s areca nut market is protected by steep import duties, creating a strong incentive to bypass them. We look at how allegedly foreign areca nuts were routed through Bangladesh and given fake origin certificates to claim duty benefits, turning supari smuggling, trade agreements and customs rules into a ₹2,500 crore case.\n\n2. Chart of the…",
+      "thumbnail": "https://i3.ytimg.com/vi/JtP0io7f7fw/hqdefault.jpg",
+      "firstSeen": "2026-08-24T02:56:03.258Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=4eK6IuIOLO8",
       "platform": "youtube",
       "group": "Zerodha Online",
       "sourceName": "Zerodha Online (YouTube)",
       "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 24 August 2026, Monday",
       "link": "https://www.youtube.com/watch?v=4eK6IuIOLO8",
-      "published": "2026-08-23T14:24:46.000Z",
+      "published": "2026-08-23T16:12:00.000Z",
       "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
       "thumbnail": "https://i1.ytimg.com/vi/4eK6IuIOLO8/hqdefault.jpg",
       "firstSeen": "2026-08-23T15:50:17.306Z"
@@ -13275,11 +13311,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-12T03:58:18.424Z",
-      "added": 1,
-      "errors": 10
-    },
-    {
       "at": "2026-08-12T06:50:00.384Z",
       "added": 6,
       "errors": 13
@@ -13573,6 +13604,11 @@
       "at": "2026-08-23T15:56:07.610Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-24T03:03:50.972Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13697,5 +13733,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-23T15:56:07.610Z"
+  "lastRun": "2026-08-24T03:03:50.972Z"
 }
