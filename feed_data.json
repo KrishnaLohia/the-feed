@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=83kkfaoQNiE",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 26 August 2026, Wednesday",
+      "link": "https://www.youtube.com/watch?v=83kkfaoQNiE",
+      "published": "2026-08-25T14:12:00.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/83kkfaoQNiE/hqdefault.jpg",
+      "firstSeen": "2026-08-25T16:10:31.606Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/4zfns49fiRY",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "You Can Detect Bridge Cracks From Space",
+      "link": "https://www.youtube.com/shorts/4zfns49fiRY",
+      "published": "2026-08-25T14:01:38.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/4zfns49fiRY/hqdefault.jpg",
+      "firstSeen": "2026-08-25T16:08:45.519Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-recovers-sharply-in-final-hour",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Sharp last-hour recovery lifts Nifty above 24,300 on monthly expiry",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-recovers-sharply-in-final-hour",
+      "published": "2026-08-25T13:23:12.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. In our latest episode of I n The Money by Zerodha , we test a popular options strategy on NIFTY: selling a straddle or strangle 45 days before expiry. Using over seven years of data, we compare 45 DTE straddles with 30 and 16 delta strangles, and then see what happens when we add a VIX filter. The results show why collecting more premium can matter, and how higher volatility can change the performance of the strategy. But the backtest also highlights the risks, especially gap risk, drawdowns, and the danger of using too much leverage. So, how does the 45…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!vnhB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d1c1a9c-fdf7-4cc6-a0f2-00bb042ea18a_1456x971.webp",
+      "firstSeen": "2026-08-25T16:08:45.748Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Dv-mONK2riw",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Everything You Need To Know About Assam Floods",
+      "link": "https://www.youtube.com/shorts/Dv-mONK2riw",
+      "published": "2026-08-25T13:00:18.000Z",
+      "summary": "Watch the full video to find out.\n\n#assamfloods #assamnews #assam #assamfloods2026 #northeastindia #northeast #floods #floodingcrisis #flood #indiafloods #floodaftermath #indianews #theclimatebrief #climatecrisis #climateaction",
+      "thumbnail": "https://i1.ytimg.com/vi/Dv-mONK2riw/hqdefault.jpg",
+      "firstSeen": "2026-08-25T16:12:54.439Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/upt38WolbRE",
       "platform": "youtube",
       "group": "Markets",
@@ -13479,11 +13527,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-13T16:24:56.779Z",
-      "added": 10,
-      "errors": 3
-    },
-    {
       "at": "2026-08-14T03:59:27.422Z",
       "added": 1,
       "errors": 13
@@ -13777,6 +13820,11 @@
       "at": "2026-08-25T12:51:22.889Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-08-25T16:16:26.064Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13901,5 +13949,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-25T12:51:22.889Z"
+  "lastRun": "2026-08-25T16:16:26.064Z"
 }
