@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/ckBvGP1BGW8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Why Satellite Images Fail When You Need Them Most?",
+      "link": "https://www.youtube.com/shorts/ckBvGP1BGW8",
+      "published": "2026-08-25T08:10:06.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/ckBvGP1BGW8/hqdefault.jpg",
+      "firstSeen": "2026-08-25T09:09:21.983Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=OJj4rGbSa0E",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "How a Bangladesh label changes India’s supari trade | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=OJj4rGbSa0E",
+      "published": "2026-08-25T02:30:04.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nHow a Bangladesh Label Changes Areca Nut Imports\n\nIndia protects its areca nut farmers with high import duties, but qualifying imports from Bangladesh can get preferential treatment under SAFTA. The DRI recently alleged that areca nuts from Southeast Asia were routed through Bangladesh and falsely declared as Bangladeshi, helping importers allegedly evade over ₹2,500 crore in customs duty.\nThe story explores how country of origin, customs rules and product classification can determine how much duty…",
+      "thumbnail": "https://i4.ytimg.com/vi/OJj4rGbSa0E/hqdefault.jpg",
+      "firstSeen": "2026-08-25T09:09:21.841Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/ozempic-glp-drugs-weight-loss-work-sebi-mutualfunds-bonds",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +35,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: Can a “miracle drug” change how we work? GLP-1 drugs like Ozempic are often touted for boosting workplace productivity, but a landmark Danish study reveals a more nuanced picture. While the…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!cbaA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71f1c522-8f01-4e92-9040-a55f389e35c5_1536x1024.png",
       "firstSeen": "2026-08-25T02:51:51.013Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=IcUayA5zw_s",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Do GLP drugs boost productivity? | SEBI wants a distributor for bonds | The Daily Brief #536",
+      "link": "https://www.youtube.com/watch?v=IcUayA5zw_s",
+      "published": "2026-08-25T01:30:00.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover a story and a chart for the day shaping Indian and global markets:\n\n1. Can GLP-1 Drugs Make Us More Productive?\nGLP-1 drugs such as Ozempic are often seen as transformative treatments for diabetes and weight loss. But can better health also make people more productive at work? A new study from Denmark finds that while Ozempic users took significantly less long-term sick leave, it did not lead to higher employment, working hours or incomes. The story e…",
+      "thumbnail": "https://i2.ytimg.com/vi/IcUayA5zw_s/hqdefault.jpg",
+      "firstSeen": "2026-08-25T09:09:21.636Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=QWG_CL5vbk4",
@@ -1856,7 +1892,7 @@
       "title": "How to use Trailing Stoploss on Kite app?",
       "link": "https://www.youtube.com/watch?v=-3Dy40-x1wQ",
       "published": "2026-08-14T11:00:19.000Z",
-      "summary": "In this video, you will learn how to automate your exit strategy and protect your profits using the Trailing Stoploss (TSL) feature on the Kite app. Manually tracking the market and updating your stop loss takes up too much time and can lead to missed profits if the price suddenly reverses. With Trailing Stop Loss in GTT orders, your stop loss price automatically adjusts as the market moves in your favor, helping you lock in gains while keeping downside protection intact.\n\nTo learn how to use Trailing Stop Loss on Kite web, watch https://www.youtube.com/watch?v=acmv1myL_lA\n\nOpen a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open…",
+      "summary": "In this video, you will learn how to automate your exit strategy and protect your profits using the Trailing Stoploss (TSL) feature on the Kite app. Manually tracking the market and updating your stop loss takes up too much time and can lead to missed profits if the price suddenly reverses. With Trailing Stop Loss in GTT orders, your stop loss price automatically adjusts as the market moves in your favor, helping you lock in gains while keeping downside protection intact.\n\nTo learn how to use Trailing Stop Loss on Kite web, watch https://www.youtube.com/watch?v=acmv1myL_lA\n\n0:00 - Introduction\n0:38 - What is a Trailing Stop-Loss (TSL)?\n1:25 - How TSL Works (Sell vs. Buy Examples)\n3:27 - How…",
       "thumbnail": "https://i2.ytimg.com/vi/-3Dy40-x1wQ/hqdefault.jpg",
       "firstSeen": "2026-08-14T13:02:53.395Z"
     },
@@ -13407,11 +13443,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-13T09:42:29.840Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-08-13T13:06:54.674Z",
       "added": 4,
       "errors": 3
@@ -13705,6 +13736,11 @@
       "at": "2026-08-25T06:01:52.829Z",
       "added": 0,
       "errors": 13
+    },
+    {
+      "at": "2026-08-25T09:16:56.105Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13829,5 +13865,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-25T06:01:52.829Z"
+  "lastRun": "2026-08-25T09:16:56.105Z"
 }
