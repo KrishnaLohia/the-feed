@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/ozempic-glp-drugs-weight-loss-work-sebi-mutualfunds-bonds",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Can a “miracle drug” change how we work?",
+      "link": "https://thedailybrief.zerodha.com/p/ozempic-glp-drugs-weight-loss-work-sebi-mutualfunds-bonds",
+      "published": "2026-08-25T01:49:03.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: Can a “miracle drug” change how we work? GLP-1 drugs like Ozempic are often touted for boosting workplace productivity, but a landmark Danish study reveals a more nuanced picture. While the…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!cbaA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71f1c522-8f01-4e92-9040-a55f389e35c5_1536x1024.png",
+      "firstSeen": "2026-08-25T02:51:51.013Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=QWG_CL5vbk4",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 25 August 2026, Tuesday",
+      "link": "https://www.youtube.com/watch?v=QWG_CL5vbk4",
+      "published": "2026-08-24T16:47:06.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/QWG_CL5vbk4/hqdefault.jpg",
+      "firstSeen": "2026-08-24T09:26:47.175Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/4LTHLSdvXHw",
       "platform": "youtube",
       "group": "Markets",
@@ -71,18 +95,6 @@
       "summary": "",
       "thumbnail": "https://i2.ytimg.com/vi/Qk9wmY6zBqw/hqdefault.jpg",
       "firstSeen": "2026-08-24T12:47:03.103Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=QWG_CL5vbk4",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 25 August 2026, Tuesday",
-      "link": "https://www.youtube.com/watch?v=QWG_CL5vbk4",
-      "published": "2026-08-24T06:12:54.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i2.ytimg.com/vi/QWG_CL5vbk4/hqdefault.jpg",
-      "firstSeen": "2026-08-24T09:26:47.175Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=wloa9p4Hztg",
@@ -13395,11 +13407,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-13T04:03:12.440Z",
-      "added": 2,
-      "errors": 11
-    },
-    {
       "at": "2026-08-13T06:52:56.176Z",
       "added": 7,
       "errors": 13
@@ -13693,6 +13700,11 @@
       "at": "2026-08-24T16:12:27.878Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-08-25T02:59:42.860Z",
+      "added": 1,
+      "errors": 8
     }
   ],
   "directSources": [
@@ -13817,5 +13829,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-24T16:12:27.878Z"
+  "lastRun": "2026-08-25T02:59:42.860Z"
 }
