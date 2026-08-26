@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=VQuUH41hNrM",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 27 August 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=VQuUH41hNrM",
+      "published": "2026-08-26T13:41:58.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i3.ytimg.com/vi/VQuUH41hNrM/hqdefault.jpg",
+      "firstSeen": "2026-08-26T16:38:29.354Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/uZRcmoc_c2c",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Why investors want 30% returns but hate volatility? #varsity #zerodha #shorts #mutualfunds",
+      "link": "https://www.youtube.com/shorts/uZRcmoc_c2c",
+      "published": "2026-08-26T13:30:12.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/uZRcmoc_c2c/hqdefault.jpg",
+      "firstSeen": "2026-08-26T16:37:53.252Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/back-and-forth-trade-continues-as",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Back-and-forth trade continues as Nifty slips back to 24,200",
+      "link": "https://aftermarketreport.zerodha.com/p/back-and-forth-trade-continues-as",
+      "published": "2026-08-26T13:09:37.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened flat at 24,342, tracking mixed global cues despite some relief from cooling oil prices, with Brent crude falling back towards the $86-per-barrel range. The index initially moved higher, briefly climbing towards 24,370–24,375 in the opening hour, but the gains quickly faded as selling pressure emerged. Nifty slipped towards 24,300 by around 10:15 AM before attempting a modest recovery towards 24,330. However, the recovery failed to sustain, and the index resumed its gradual decline through the remainder of the first half, fallin…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!N_np!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd518e08d-6f98-4b57-b46e-0135df5337ee_1456x971.webp",
+      "firstSeen": "2026-08-26T16:36:40.656Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/IZLTOS2b7U4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Is AI smart? ft. Pranav Agarwal",
+      "link": "https://www.youtube.com/shorts/IZLTOS2b7U4",
+      "published": "2026-08-26T12:57:09.000Z",
+      "summary": "AI can look really smart on a test and still mess up the actual task.\n\nThe recent Hugging Face case is a good example of why benchmark scores don’t always mean real-world performance.\n\n[AI, Hugging Face, AI models, benchmarks, artificial intelligence, automation]",
+      "thumbnail": "https://i2.ytimg.com/vi/IZLTOS2b7U4/hqdefault.jpg",
+      "firstSeen": "2026-08-26T16:36:39.041Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-borosil-orchid-welspun",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: Borosil, Orchid, Welspun, KRN , & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-borosil-orchid-welspun",
+      "published": "2026-08-26T12:55:37.000Z",
+      "summary": "Welcome to the 83rd edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 6 companies across 6 industries Consumer Durables Borosil Limited Healthcare Orchid Pharma Limited Building Materials Welspun Corp Engineering & Capital Goods KRN Heat Exchanger Reta…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!8FCc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1428688-0729-4b84-9861-65445667845d_1024x576.png",
+      "firstSeen": "2026-08-26T16:36:40.897Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/chqrvS8K1dg",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -13575,11 +13635,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-14T16:24:33.216Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-08-15T02:44:51.187Z",
       "added": 0,
       "errors": 3
@@ -13873,6 +13928,11 @@
       "at": "2026-08-26T12:57:07.734Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-26T16:44:27.013Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13997,5 +14057,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-26T12:57:07.734Z"
+  "lastRun": "2026-08-26T16:44:27.013Z"
 }
