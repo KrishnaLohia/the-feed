@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/chqrvS8K1dg",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Zerodha's Unique Business Practice!",
+      "link": "https://www.youtube.com/shorts/chqrvS8K1dg",
+      "published": "2026-08-26T12:00:15.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nExplore:\n\nTrade on Kite\nWeb → https://kite.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS → https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb → https://coin.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.coin\niOS → https://apps.apple.com/in/app/coin-by-zerodha-mu…",
+      "thumbnail": "https://i4.ytimg.com/vi/chqrvS8K1dg/hqdefault.jpg",
+      "firstSeen": "2026-08-26T12:51:11.589Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=Hi-o13ynxfg",
       "platform": "youtube",
       "group": "Markets",
@@ -13563,11 +13575,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-14T13:03:09.510Z",
-      "added": 10,
-      "errors": 3
-    },
-    {
       "at": "2026-08-14T16:24:33.216Z",
       "added": 6,
       "errors": 3
@@ -13861,6 +13868,11 @@
       "at": "2026-08-26T09:27:35.347Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-26T12:57:07.734Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -13985,5 +13997,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-26T09:27:35.347Z"
+  "lastRun": "2026-08-26T12:57:07.734Z"
 }
