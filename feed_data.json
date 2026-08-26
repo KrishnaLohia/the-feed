@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=Hi-o13ynxfg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Can SEBI make Bonds mainstream? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=Hi-o13ynxfg",
+      "published": "2026-08-26T02:30:24.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nSEBI’s New Plan for Bond Distribution\n\nSEBI is proposing a new category of intermediaries called Fixed Income Channel Partners (FICPs) to help bring corporate bonds to more retail investors. The idea is similar to how mutual fund distributors expanded mutual fund penetration beyond large cities and wealthy investors. However, selling individual bonds is more complex due to credit risk, pricing challenges, low liquidity and the possibility of mis-selling. SEBI has therefore proposed strict rules aro…",
+      "thumbnail": "https://i1.ytimg.com/vi/Hi-o13ynxfg/hqdefault.jpg",
+      "firstSeen": "2026-08-26T02:57:23.771Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/india-sugar-prices-record-highs-hydrogen-railway-projects-electrification",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "India can’t find a sweet spot for its sugar policy",
+      "link": "https://thedailybrief.zerodha.com/p/india-sugar-prices-record-highs-hydrogen-railway-projects-electrification",
+      "published": "2026-08-26T01:33:52.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. India can’t find a sweet spot for its sugar policy Just months after approving 20 lakh tonnes in sugar exports to clear a perceived surplus, India executed a complete policy reversal as…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!muKw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb011921-2413-4ff2-9bfc-acf479566807_1536x1024.png",
+      "firstSeen": "2026-08-26T02:57:24.002Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=83kkfaoQNiE",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -13527,11 +13551,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-14T03:59:27.422Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-08-14T06:50:22.024Z",
       "added": 20,
       "errors": 13
@@ -13825,6 +13844,11 @@
       "at": "2026-08-25T16:16:26.064Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-08-26T03:04:55.122Z",
+      "added": 2,
+      "errors": 12
     }
   ],
   "directSources": [
@@ -13949,5 +13973,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-25T16:16:26.064Z"
+  "lastRun": "2026-08-26T03:04:55.122Z"
 }
