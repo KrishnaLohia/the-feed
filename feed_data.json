@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=dAC-LcTkdxc",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 28 August 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=dAC-LcTkdxc",
+      "published": "2026-08-27T15:07:56.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/dAC-LcTkdxc/hqdefault.jpg",
+      "firstSeen": "2026-08-27T16:37:38.326Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/5Snt3AbCe8E",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India's hydrogen train revolution!",
+      "link": "https://www.youtube.com/shorts/5Snt3AbCe8E",
+      "published": "2026-08-27T14:31:51.000Z",
+      "summary": "India’s hydrogen train is cool but its real job may not be carrying passengers. Read the full story on daily brief!\n\n[hydrogen train, India, Railways, NTPC, markets]",
+      "thumbnail": "https://i2.ytimg.com/vi/5Snt3AbCe8E/hqdefault.jpg",
+      "firstSeen": "2026-08-27T16:35:52.381Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/second-consecutive-close-at-the-days",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Second consecutive close at the day’s low as Nifty falls below 24,100",
+      "link": "https://aftermarketreport.zerodha.com/p/second-consecutive-close-at-the-days",
+      "published": "2026-08-27T13:15:15.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a 70-point gap up at 24,278, tracking slightly positive global cues following Nvidia’s stellar numbers, while softer oil prices also provided some relief. However, the positive opening failed to sustain, with the index quickly giving up the gap and slipping towards 24,200 in the opening hour. Selling pressure continued thereafter, taking Nifty gradually lower towards the 24,145–24,150 zone by around 11:15 AM. The index attempted a few recoveries through the remainder of the first half, but these were short-lived, keeping i…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!N_np!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd518e08d-6f98-4b57-b46e-0135df5337ee_1456x971.webp",
+      "firstSeen": "2026-08-27T16:35:53.126Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/7xcorHrxyMw",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Was Assam Floods Man Made?",
+      "link": "https://www.youtube.com/shorts/7xcorHrxyMw",
+      "published": "2026-08-27T12:30:22.000Z",
+      "summary": "Watch the full video to find out.\n\n#assamfloods #assamnews #assam #assamfloods2026 #northeastindia #northeast #floods #floodingcrisis #flood #indiafloods #floodaftermath #indianews #theclimatebrief #climatecrisis #climateaction",
+      "thumbnail": "https://i4.ytimg.com/vi/7xcorHrxyMw/hqdefault.jpg",
+      "firstSeen": "2026-08-27T16:39:57.318Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=yCtuvdbj86E",
       "platform": "youtube",
       "group": "Markets",
@@ -13719,11 +13767,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-15T05:47:18.488Z",
-      "added": 2,
-      "errors": 13
-    },
-    {
       "at": "2026-08-15T08:56:59.857Z",
       "added": 2,
       "errors": 3
@@ -14017,6 +14060,11 @@
       "at": "2026-08-27T12:19:18.583Z",
       "added": 7,
       "errors": 3
+    },
+    {
+      "at": "2026-08-27T16:43:24.727Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14141,5 +14189,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-27T12:19:18.583Z"
+  "lastRun": "2026-08-27T16:43:24.727Z"
 }
