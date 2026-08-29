@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/JsckM-ncMbM",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "4 UPI Traps That Make You Spend More🤯",
+      "link": "https://www.youtube.com/shorts/JsckM-ncMbM",
+      "published": "2026-08-29T11:00:30.000Z",
+      "summary": "UPI has made paying ridiculously easy. Here are some common UPI features that become a spending trap :👇:\n\nSmall Payment Illusion: C Tier \n\nSmall UPI payments don’t feel like a big expense individually, which makes them easy to ignore. But ₹100 here and ₹200 there can add up to a surprisingly large amount by the end of the month. Do a quick check of your UPI spends every weekend to stay on top of it.\n\nUPI Lite: D Tier \nIt makes payments even more frictionless by removing the need to enter your UPI PIN for eligible payments. Once you load money into the wallet, your brain may treat it as money that’s already been spent, making you more comfortable spending it freely. Convenient, but worth ke…",
+      "thumbnail": "https://i3.ytimg.com/vi/JsckM-ncMbM/hqdefault.jpg",
+      "firstSeen": "2026-08-29T11:46:43.523Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=7QU2expsglI",
       "platform": "youtube",
       "group": "Rainmatter",
@@ -53,7 +65,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Watch this Before Booking Your Next Foreign Trip!",
+      "title": "Foreign Trip - Tour Package or Book Everything Yourself?",
       "link": "https://www.youtube.com/watch?v=SmDqCilbBAs",
       "published": "2026-08-29T04:30:30.000Z",
       "summary": "Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nBefore you end up overpaying for your next international vacation. Compare the costs related to tour package and independent travel to see which option makes more sense financially. \n\nMany travellers assume bundled deals are cheaper, but they frequently overlook the real price of SIM cards, insurance, forex charges, etc. This breakdown helps you calculate the true cost of your trip so you can make an informed financial choice.\n\nAnd while there are many fixed costs, the budget of your trip also depends on the kind of traveller you are, the kind of experiences you aim to optimise for. \n\nSo, for your next international trip…",
@@ -13947,11 +13959,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-17T05:58:57.917Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-08-17T09:13:36.950Z",
       "added": 1,
       "errors": 3
@@ -14245,6 +14252,11 @@
       "at": "2026-08-29T08:35:49.708Z",
       "added": 7,
       "errors": 3
+    },
+    {
+      "at": "2026-08-29T11:50:15.502Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14369,5 +14381,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-29T08:35:49.708Z"
+  "lastRun": "2026-08-29T11:50:15.502Z"
 }
