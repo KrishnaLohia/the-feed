@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/Q7QL_4OnG2w",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "How Rain In Other States Caused Assam Floods",
+      "link": "https://www.youtube.com/shorts/Q7QL_4OnG2w",
+      "published": "2026-08-29T12:30:34.000Z",
+      "summary": "Watch the full video to find out.\n\n#assamfloods #assamnews #assam #assamfloods2026 #northeastindia #northeast #floods #floodingcrisis #flood #indiafloods #floodaftermath #indianews #theclimatebrief #climatecrisis #climateaction",
+      "thumbnail": "https://i2.ytimg.com/vi/Q7QL_4OnG2w/hqdefault.jpg",
+      "firstSeen": "2026-08-29T14:02:27.685Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/JsckM-ncMbM",
       "platform": "youtube",
       "group": "Zero1",
@@ -13959,11 +13971,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-17T09:13:36.950Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-17T12:41:58.129Z",
       "added": 8,
       "errors": 3
@@ -14257,6 +14264,11 @@
       "at": "2026-08-29T11:50:15.502Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-29T14:06:01.738Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14381,5 +14393,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-29T11:50:15.502Z"
+  "lastRun": "2026-08-29T14:06:01.738Z"
 }
