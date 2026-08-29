@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/9gzbaS6qrhg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "The Four Things That Make Space So Difficult",
+      "link": "https://www.youtube.com/shorts/9gzbaS6qrhg",
+      "published": "2026-08-29T17:10:56.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/9gzbaS6qrhg/hqdefault.jpg",
+      "firstSeen": "2026-08-29T18:46:00.294Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/Q7QL_4OnG2w",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -13971,11 +13983,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-17T15:53:52.914Z",
-      "added": 8,
-      "errors": 3
-    },
-    {
       "at": "2026-08-18T02:50:31.929Z",
       "added": 3,
       "errors": 3
@@ -14269,6 +14276,11 @@
       "at": "2026-08-29T16:22:38.365Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-08-29T18:53:50.227Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14393,5 +14405,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-29T16:22:38.365Z"
+  "lastRun": "2026-08-29T18:53:50.227Z"
 }
