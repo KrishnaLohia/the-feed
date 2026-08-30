@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=ti_E8NzBJsE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "The Story of the Indicator — Ep. 1: Moving Average | In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=ti_E8NzBJsE",
+      "published": "2026-08-30T03:30:06.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nIn this episode, I trace the origin story of the moving average, from ancient measurements to the line on your price chart today.\n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nEveryone quotes moving averages. Nifty above its 200 day, the 50 crossing the 200. But almost nobody asks where this idea actually came from. So I went back to the start; to ancient India, Greece, and centuries of astronomers, statisticians, and traders, to figure out who first thought of ave…",
+      "thumbnail": "https://i1.ytimg.com/vi/ti_E8NzBJsE/hqdefault.jpg",
+      "firstSeen": "2026-08-30T07:41:56.633Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/9gzbaS6qrhg",
       "platform": "youtube",
       "group": "Markets",
@@ -13983,11 +13995,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-18T02:50:31.929Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-08-18T05:53:32.872Z",
       "added": 0,
       "errors": 13
@@ -14281,6 +14288,11 @@
       "at": "2026-08-29T18:53:50.227Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-08-30T07:49:43.367Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14405,5 +14417,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-29T18:53:50.227Z"
+  "lastRun": "2026-08-30T07:49:43.367Z"
 }
