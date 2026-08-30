@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/ueXBc1jWnH0",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "The Western Himalayas Are WARMING UP!",
+      "link": "https://www.youtube.com/shorts/ueXBc1jWnH0",
+      "published": "2026-08-30T12:30:28.000Z",
+      "summary": "Western Himalayas are heating up after than the eastern ranges and this is cause for big concern! With snow lines receding with every year, this study points to what is wrong and why it is so important to stop this now!\n\n#himalayas #jammukashmir #jammuandkashmirnews #jammuandkashmir #ladakhnews #ladakh #climatechange #climatechangeimpact #climatechangeindia #theclimatebrief",
+      "thumbnail": "https://i2.ytimg.com/vi/ueXBc1jWnH0/hqdefault.jpg",
+      "firstSeen": "2026-08-30T14:00:52.871Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=xBksICtXnE8",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Is Assam’s Kaziranga Park Losing Its Protection?",
+      "link": "https://www.youtube.com/watch?v=xBksICtXnE8",
+      "published": "2026-08-30T11:30:18.000Z",
+      "summary": "Right after the devastating news of the Assam floods, there’s one more concern coming from the state: The government proposed to reduce Kaziranga’s eco-sensitive zone from 10 kms to 1. While you might have heard that, we dive into why this threat matters more than you think. In this episode, we break down what an eco-sensitive zone is, why it matters and why Assam’s greatest mistake could be in reducing this zone?\n\n0:00 - Introduction\n0:47 - Chapter 1: What Happened?\n2:16 - Chapter 2: The Debate Around Kaziranga's ESZ\n4:23 - Chapter 3: Why Does Protecting Kaziranga Matter?\n\n#kaziranga #assamgovernment #assam #assmannews #kaziranganationalpark #onehornedrhino #endangeredanimals #assamfloods…",
+      "thumbnail": "https://i1.ytimg.com/vi/xBksICtXnE8/hqdefault.jpg",
+      "firstSeen": "2026-08-30T14:00:52.871Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=ti_E8NzBJsE",
       "platform": "youtube",
       "group": "Markets",
@@ -13995,11 +14019,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-18T09:07:22.790Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-08-18T12:42:11.142Z",
       "added": 8,
       "errors": 3
@@ -14293,6 +14312,11 @@
       "at": "2026-08-30T10:40:43.007Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-08-30T14:04:24.238Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14417,5 +14441,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-30T10:40:43.007Z"
+  "lastRun": "2026-08-30T14:04:24.238Z"
 }
