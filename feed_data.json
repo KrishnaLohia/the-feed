@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=lOqlWuAAbXo",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "How to use Trade from Charts (TFC) on Kite app?",
+      "link": "https://www.youtube.com/watch?v=lOqlWuAAbXo",
+      "published": "2026-08-31T11:00:37.000Z",
+      "summary": "In this video, we walk you through Trade From Charts (TFC) on the Kite app and show how you can manage your trades directly from TradingView charts. You can place and modify orders, manage open positions, view market depth, use instant order placement, and switch between instruments without moving away from the chart.\n\nWe also cover multiple chart layouts, comparing instruments, reversing positions, and a few settings that can help customise your charting and trading experience.\n\nOpen a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 broker…",
+      "thumbnail": "https://i1.ytimg.com/vi/lOqlWuAAbXo/hqdefault.jpg",
+      "firstSeen": "2026-08-31T11:43:10.167Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/oNY823HVFdQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Your Trading Workspace Affects Your Trading | Innerworth Ep. 36",
+      "link": "https://www.youtube.com/shorts/oNY823HVFdQ",
+      "published": "2026-08-31T10:29:18.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/oNY823HVFdQ/hqdefault.jpg",
+      "firstSeen": "2026-08-31T11:41:25.108Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/NfWUqMDA8-E",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "All you need to know about: Purple Style Labs IPO",
+      "link": "https://www.youtube.com/shorts/NfWUqMDA8-E",
+      "published": "2026-08-31T08:59:54.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nExplore:\n\nTrade on Kite\nWeb → https://kite.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS → https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb → https://coin.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.coin\niOS → https://apps.apple.com/in/app/coin-by-zerodha-mu…",
+      "thumbnail": "https://i3.ytimg.com/vi/NfWUqMDA8-E/hqdefault.jpg",
+      "firstSeen": "2026-08-31T11:43:10.167Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/2Bc44XpdefQ",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -14079,11 +14115,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-19T05:56:23.399Z",
-      "added": 3,
-      "errors": 13
-    },
-    {
       "at": "2026-08-19T09:08:04.793Z",
       "added": 2,
       "errors": 3
@@ -14377,6 +14408,11 @@
       "at": "2026-08-31T08:03:49.876Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-08-31T11:48:56.841Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14501,5 +14537,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-31T08:03:49.876Z"
+  "lastRun": "2026-08-31T11:48:56.841Z"
 }
