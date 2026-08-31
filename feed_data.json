@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=WgX38k5H0jk",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 01 September 2026, Tuesday",
+      "link": "https://www.youtube.com/watch?v=WgX38k5H0jk",
+      "published": "2026-08-31T14:47:47.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/WgX38k5H0jk/hqdefault.jpg",
+      "firstSeen": "2026-08-31T16:21:26.751Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/45QgJSvvamI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Sugar prices hit record highs! Ft. Mridula",
+      "link": "https://www.youtube.com/shorts/45QgJSvvamI",
+      "published": "2026-08-31T13:34:04.000Z",
+      "summary": "India had too much sugar. Now, it may not have enough. 🍬\n\n[Sugar prices, sugarcane, India, food inflation, festive demand, exports, markets]",
+      "thumbnail": "https://i1.ytimg.com/vi/45QgJSvvamI/hqdefault.jpg",
+      "firstSeen": "2026-08-31T16:19:40.892Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/9PDQ_oRkaYU",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Why Investors Regret Even After Making the Right Decision? #varsity #zerodha #shorts #trading",
+      "link": "https://www.youtube.com/shorts/9PDQ_oRkaYU",
+      "published": "2026-08-31T13:30:18.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/9PDQ_oRkaYU/hqdefault.jpg",
+      "firstSeen": "2026-08-31T16:20:51.740Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/hsxigLMyWU0",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "The Climate Story Behind Nepal-Tibet Floods",
+      "link": "https://www.youtube.com/shorts/hsxigLMyWU0",
+      "published": "2026-08-31T13:24:20.000Z",
+      "summary": "Why did the Nepal floods happen? That’s the question we talk about as we tell you what happened and what early evidence tells us. Drop your thoughts in the comments below and as always, subscribe for more climate stories.\n\n#nepal #nepalflood2026 #nepalflood #climatechange #glacier #theclimatebrief",
+      "thumbnail": "https://i1.ytimg.com/vi/hsxigLMyWU0/hqdefault.jpg",
+      "firstSeen": "2026-08-31T16:23:45.656Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-slips-below-24000-intraday",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty slips below 24,000 intraday before recovering to close near 24,080",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-slips-below-24000-intraday",
+      "published": "2026-08-31T13:23:23.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a 58-point gap down at 24,118, tracking mixed global cues following the Fed Chair’s Jackson Hole speech, while a fresh flare-up in Middle East tensions pushed oil prices over 4% higher. The index came under pressure immediately after the open, slipping to 24,020 within the first 20 minutes. After a brief recovery attempt towards 24,050, selling resumed and dragged Nifty steadily lower through the first half. The index eventually slipped below 24,000 around 10:30 AM, marking the day’s low near 23,995, before beginning to re…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!flQi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52b9687b-a06d-48ee-acb7-9835499b4986_1456x971.webp",
+      "firstSeen": "2026-08-31T16:19:41.572Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/59P61U4kMRQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "How to choose your Mutual Fund! | Cash & Copium",
+      "link": "https://www.youtube.com/shorts/59P61U4kMRQ",
+      "published": "2026-08-31T11:44:43.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/59P61U4kMRQ/hqdefault.jpg",
+      "firstSeen": "2026-08-31T16:19:41.295Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=lOqlWuAAbXo",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -14115,11 +14187,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-19T09:08:04.793Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-08-19T12:45:18.154Z",
       "added": 16,
       "errors": 3
@@ -14413,6 +14480,11 @@
       "at": "2026-08-31T11:48:56.841Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-08-31T16:27:13.174Z",
+      "added": 6,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14537,5 +14609,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-31T11:48:56.841Z"
+  "lastRun": "2026-08-31T16:27:13.174Z"
 }
