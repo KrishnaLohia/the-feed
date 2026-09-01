@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/FJ7h13Ztx2U",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "What Are TREPS? Why Do Mutual Funds Invest in Them?",
+      "link": "https://www.youtube.com/shorts/FJ7h13Ztx2U",
+      "published": "2026-09-01T14:31:36.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/FJ7h13Ztx2U/hqdefault.jpg",
+      "firstSeen": "2026-09-01T16:06:15.103Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=A8xFj8JcbbI",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 02 September 2026, Wednesday",
+      "link": "https://www.youtube.com/watch?v=A8xFj8JcbbI",
+      "published": "2026-09-01T14:19:34.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/A8xFj8JcbbI/hqdefault.jpg",
+      "firstSeen": "2026-09-01T16:08:02.324Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/LSicbMA_yiw",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Kaziranga Is Under Threat!",
+      "link": "https://www.youtube.com/shorts/LSicbMA_yiw",
+      "published": "2026-09-01T14:13:54.000Z",
+      "summary": "Watch the full video on our channel!\n\n#kaziranga #assamgovernment #assam #assmannews #kaziranganationalpark #onehornedrhino #endangeredanimals #assamfloods #climateaction #climatecrisis #deforestation #bestinindia #indianews",
+      "thumbnail": "https://i1.ytimg.com/vi/LSicbMA_yiw/hqdefault.jpg",
+      "firstSeen": "2026-09-01T16:10:23.488Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/z8zWQKxFq_A",
       "platform": "youtube",
       "group": "Markets",
@@ -80,7 +116,7 @@
       "title": "What a government audit found in India’s EV subsidy scheme?",
       "link": "https://thedailybrief.zerodha.com/p/government-audit-india-ev-subsidy-scheme-global-fragrance-companies-probe",
       "published": "2026-09-01T01:47:08.000Z",
-      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . 1. What did a government audit find in India’s EV subsidy scheme? A CAG audit of India’s FAME EV scheme revealed major missteps, including misallocated budgets, widespread localisation rule violations by manufacturers, and sever…",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. What did a government audit find in India’s EV subsidy scheme? A CAG audit of India’s FAME EV scheme revealed major missteps, including misallocated budgets, widespread localisation rule…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!fsjU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd5ced07-db56-4ce0-aece-54f596632836_1536x1024.png",
       "firstSeen": "2026-09-01T07:02:10.888Z"
     },
@@ -14283,11 +14319,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-20T12:53:55.744Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-08-20T16:06:29.931Z",
       "added": 8,
       "errors": 3
@@ -14581,6 +14612,11 @@
       "at": "2026-09-01T13:46:09.633Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-09-01T16:13:53.552Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14705,5 +14741,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-01T13:46:09.633Z"
+  "lastRun": "2026-09-01T16:13:53.552Z"
 }
