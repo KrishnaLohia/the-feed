@@ -29,7 +29,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "Markets by Zerodha (YouTube)",
-      "title": "FAME under the scanner | Why are fragrance companies under investigation? | The Daily Brief #541",
+      "title": "The CAG found big holes in India’s EV scheme | Fragrance Giants in Trouble | The Daily Brief #541",
       "link": "https://www.youtube.com/watch?v=nIMmAqh3zvw",
       "published": "2026-09-01T01:32:43.000Z",
       "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover a story and a chart for the day shaping Indian and global markets:\n\n1. CAG Audit Finds Gaps in India’s EV Subsidy Scheme\nIndia’s FAME scheme helped accelerate EV adoption, but a CAG audit found major gaps in how the ₹11,500 crore programme was implemented. Subsidies were paid despite localisation violations and pricing loopholes, while much of the planned charging infrastructure never became operational.\n\nWe’ll cover:\nSubsidy loopholes: Manufacturers…",
@@ -14223,11 +14223,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-20T05:59:55.873Z",
-      "added": 0,
-      "errors": 13
-    },
-    {
       "at": "2026-08-20T09:14:24.977Z",
       "added": 7,
       "errors": 3
@@ -14521,6 +14516,11 @@
       "at": "2026-09-01T07:09:55.664Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-09-01T10:23:26.692Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14645,5 +14645,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-01T07:09:55.664Z"
+  "lastRun": "2026-09-01T10:23:26.692Z"
 }
