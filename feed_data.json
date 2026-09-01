@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=HJguYij1WHg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Personalised cancer treatment - What it means for Pharma | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=HJguYij1WHg",
+      "published": "2026-09-01T02:30:03.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nPersonalised Cancer Treatment: A New Model for Pharma\nModerna and Merck’s positive Phase 3 results have put personalised cancer treatment in the spotlight. Their approach combines Keytruda with a customised mRNA vaccine designed using mutations found in each patient’s tumour.\n\nIn this story, we look at:\nHow personalised cancer treatment works: Why Keytruda and Moderna’s vaccine play different roles in helping the immune system identify and attack cancer cells.\nWhy manufacturing gets complicated: In…",
+      "thumbnail": "https://i1.ytimg.com/vi/HJguYij1WHg/hqdefault.jpg",
+      "firstSeen": "2026-09-01T07:02:10.379Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/government-audit-india-ev-subsidy-scheme-global-fragrance-companies-probe",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "What a government audit found in India’s EV subsidy scheme?",
+      "link": "https://thedailybrief.zerodha.com/p/government-audit-india-ev-subsidy-scheme-global-fragrance-companies-probe",
+      "published": "2026-09-01T01:47:08.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . 1. What did a government audit find in India’s EV subsidy scheme? A CAG audit of India’s FAME EV scheme revealed major missteps, including misallocated budgets, widespread localisation rule violations by manufacturers, and sever…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!fsjU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd5ced07-db56-4ce0-aece-54f596632836_1536x1024.png",
+      "firstSeen": "2026-09-01T07:02:10.888Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=nIMmAqh3zvw",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "FAME under the scanner | Why are fragrance companies under investigation? | The Daily Brief #541",
+      "link": "https://www.youtube.com/watch?v=nIMmAqh3zvw",
+      "published": "2026-09-01T01:32:43.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover a story and a chart for the day shaping Indian and global markets:\n\n1. CAG Audit Finds Gaps in India’s EV Subsidy Scheme\nIndia’s FAME scheme helped accelerate EV adoption, but a CAG audit found major gaps in how the ₹11,500 crore programme was implemented. Subsidies were paid despite localisation violations and pricing loopholes, while much of the planned charging infrastructure never became operational.\n\nWe’ll cover:\nSubsidy loopholes: Manufacturers…",
+      "thumbnail": "https://i3.ytimg.com/vi/nIMmAqh3zvw/hqdefault.jpg",
+      "firstSeen": "2026-09-01T07:02:09.987Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=WgX38k5H0jk",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -14187,11 +14223,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-20T02:50:54.088Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-08-20T05:59:55.873Z",
       "added": 0,
       "errors": 13
@@ -14485,6 +14516,11 @@
       "at": "2026-08-31T21:06:39.851Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-01T07:09:55.664Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14609,5 +14645,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-08-31T21:06:39.851Z"
+  "lastRun": "2026-09-01T07:09:55.664Z"
 }
