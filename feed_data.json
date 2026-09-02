@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/tjpU5Jix2mg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "How finfluencers have impacted the Stock Market!",
+      "link": "https://www.youtube.com/shorts/tjpU5Jix2mg",
+      "published": "2026-09-02T05:49:39.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/tjpU5Jix2mg/hqdefault.jpg",
+      "firstSeen": "2026-09-02T09:44:43.913Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=raYwQ5AKyrI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "FAME EV scheme: What the CAG audit found | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=raYwQ5AKyrI",
+      "published": "2026-09-02T02:30:02.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nFAME Scheme: What Went Wrong?\nIndia’s EV adoption rose sharply between 2015 and 2023-24, with the government’s FAME scheme playing a key role through subsidies, charging infrastructure and support for local EV manufacturing. But a nine-year review by the CAG found serious problems in how the scheme was implemented.\nThe audit flagged unrealistic vehicle targets, weak checks on manufacturers, questionable subsidy claims, unreliable portal data, and major delays in building charging stations. It also…",
+      "thumbnail": "https://i3.ytimg.com/vi/raYwQ5AKyrI/hqdefault.jpg",
+      "firstSeen": "2026-09-02T09:44:43.757Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/qsr-dominos-kfc-pizzahut-recovery-parmesan-cheese-bank-loan-italy",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +35,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. What is eating into Indian QSR’s lunch? An ICRA study shows that while Indian quick-service restaurant (QSR) operators expanded revenues by adding new stores, sales at existing stores re…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!C6B3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F014aa3e0-3ff7-4783-b408-00f7b9b4bf64_1536x1024.png",
       "firstSeen": "2026-09-02T06:39:57.608Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=6un15qxMl8c",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Fast food, slower times for Indian QSR | Cheese as a collateral for loan | The Daily Brief #542",
+      "link": "https://www.youtube.com/watch?v=6un15qxMl8c",
+      "published": "2026-09-02T01:33:22.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover a story and a chart for the day shaping Indian and global markets:\n\n1. Indian QSRs: Growth vs Profit\nIndia’s QSR industry is showing early signs of recovery, but simply opening more stores is no longer enough. Domino’s, KFC, Pizza Hut and McDonald’s are taking different approaches to improve sales and profitability at existing outlets in Q1 FY27.\n\nWe’ll cover these points:\n●Why existing-store sales matter more than store expansion\n●How Domino’s, KFC,…",
+      "thumbnail": "https://i3.ytimg.com/vi/6un15qxMl8c/hqdefault.jpg",
+      "firstSeen": "2026-09-02T09:44:43.397Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=A8xFj8JcbbI",
@@ -14331,11 +14367,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-21T06:02:05.867Z",
-      "added": 0,
-      "errors": 13
-    },
-    {
       "at": "2026-08-21T09:17:24.245Z",
       "added": 1,
       "errors": 3
@@ -14629,6 +14660,11 @@
       "at": "2026-09-02T06:47:37.449Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-09-02T09:52:30.953Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14753,5 +14789,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-02T06:47:37.449Z"
+  "lastRun": "2026-09-02T09:52:30.953Z"
 }
