@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/rising-yields-and-oil-prices-drag",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Rising yields and oil prices drag Nifty decisively below 24,000",
+      "link": "https://aftermarketreport.zerodha.com/p/rising-yields-and-oil-prices-drag",
+      "published": "2026-09-02T12:13:26.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a big 198-point gap down at 23,858, tracking weak global markets amid a relentless surge in bond yields across the globe and rising oil prices. The index remained under pressure immediately after the open, briefly slipping towards 23,790 before attempting a recovery. Nifty gradually climbed back towards the 23,880–23,890 zone by around 10:30 AM, but the recovery failed to sustain. Selling resumed thereafter, dragging the index back towards 23,825 by 11 AM and eventually near 23,800 around noon. By the end of the first half…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!KJdB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ea858f6-8d05-4932-8ff5-998782743458_1456x971.webp",
+      "firstSeen": "2026-09-02T12:55:21.530Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-milky-mist-bluestone",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: Milky Mist, Bluestone, Leap India, Avanti & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-milky-mist-bluestone",
+      "published": "2026-09-02T12:03:12.000Z",
+      "summary": "Welcome to the 85th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 5 companies across 4 industries. FMCG Milky Mist Dairy Food Ltd Avanti Feeds Retail Bluestone Jewellery Engineering & Capital Goods Leap India Ltd Auto Ancillary Precision Camshafts…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!pZz3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff92ef84b-85ec-4a75-9e32-906825319069_2400x1350.png",
+      "firstSeen": "2026-09-02T12:55:21.739Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/tjpU5Jix2mg",
       "platform": "youtube",
       "group": "Markets",
@@ -14367,11 +14391,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-21T09:17:24.245Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-21T12:51:05.228Z",
       "added": 4,
       "errors": 3
@@ -14665,6 +14684,11 @@
       "at": "2026-09-02T09:52:30.953Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-09-02T13:03:07.720Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14789,5 +14813,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-02T09:52:30.953Z"
+  "lastRun": "2026-09-02T13:03:07.720Z"
 }
