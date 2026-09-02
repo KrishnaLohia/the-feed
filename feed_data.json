@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/qsr-dominos-kfc-pizzahut-recovery-parmesan-cheese-bank-loan-italy",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "What is eating into Indian QSR’s lunch?",
+      "link": "https://thedailybrief.zerodha.com/p/qsr-dominos-kfc-pizzahut-recovery-parmesan-cheese-bank-loan-italy",
+      "published": "2026-09-02T01:47:15.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. What is eating into Indian QSR’s lunch? An ICRA study shows that while Indian quick-service restaurant (QSR) operators expanded revenues by adding new stores, sales at existing stores re…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!C6B3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F014aa3e0-3ff7-4783-b408-00f7b9b4bf64_1536x1024.png",
+      "firstSeen": "2026-09-02T06:39:57.608Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=A8xFj8JcbbI",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -14319,11 +14331,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-21T03:02:27.514Z",
-      "added": 5,
-      "errors": 6
-    },
-    {
       "at": "2026-08-21T06:02:05.867Z",
       "added": 0,
       "errors": 13
@@ -14617,6 +14624,11 @@
       "at": "2026-09-01T18:51:58.299Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-02T06:47:37.449Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -14741,5 +14753,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-01T18:51:58.299Z"
+  "lastRun": "2026-09-02T06:47:37.449Z"
 }
