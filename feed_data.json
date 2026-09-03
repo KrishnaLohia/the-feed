@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=y0zNB7UqlkM",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "How to protect yourself from online financial scams",
+      "link": "https://www.youtube.com/watch?v=y0zNB7UqlkM",
+      "published": "2026-09-03T12:40:24.000Z",
+      "summary": "In this video, you will learn how to identify common patterns used by scammers and adopt essential safety practices to protect your financial accounts. Understanding tactics like artificial urgency, emotional pressure, and fake investment offers helps you avoid unauthorized fund transfers, fraudulent calls, and phishing links. By verifying SEBI-registered intermediaries, using official UPI payment handles, and safeguarding sensitive credentials such as passwords, OTPs, and personal identification documents, you can safely navigate online trading and prevent financial fraud.\n\nOpen a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Ope…",
+      "thumbnail": "https://i2.ytimg.com/vi/y0zNB7UqlkM/hqdefault.jpg",
+      "firstSeen": "2026-09-03T12:59:34.929Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/BwEBWYeAvzs",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "What do VCs view as a red flag in a founder's TAM pitch?",
+      "link": "https://www.youtube.com/shorts/BwEBWYeAvzs",
+      "published": "2026-09-03T12:30:24.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/BwEBWYeAvzs/hqdefault.jpg",
+      "firstSeen": "2026-09-03T13:01:18.936Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/EDXOLzzYeDE",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "3 Numbers You MUST Check Before Buying Health Insurance 🚨",
+      "link": "https://www.youtube.com/shorts/EDXOLzzYeDE",
+      "published": "2026-09-03T11:00:23.000Z",
+      "summary": "3 Checks you should do before buying a Life Insurance.\n\n1.Claim Settlement Ratio:\nThe Claim Settlement ratio basically tells you of every 100 people who made a claim, how many claims did the Insurance company actually settle.\nAs a Policy Buyer the higher the ratio the better for you, a lower ratio might indicate that there is friction from the Insurance Company at the time of paying of the claim amount.\n\nAlways make sure to check the Claim Settlement Ratio over 2-3 years to ensure that the Insurer has a reliable track record.\n\n2.Complaint Volume:\nThis metric tells us of every 10,000 claims how many people were dissatisfied and files a complaint against the insurer. A lower ratio tells that…",
+      "thumbnail": "https://i2.ytimg.com/vi/EDXOLzzYeDE/hqdefault.jpg",
+      "firstSeen": "2026-09-03T13:01:53.840Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/ewnKvuxjafc",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -14487,11 +14523,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-22T09:06:28.998Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-08-22T12:43:30.465Z",
       "added": 1,
       "errors": 3
@@ -14785,6 +14816,11 @@
       "at": "2026-09-03T10:04:59.351Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-09-03T13:05:21.922Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14909,5 +14945,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-03T10:04:59.351Z"
+  "lastRun": "2026-09-03T13:05:21.922Z"
 }
