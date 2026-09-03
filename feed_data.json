@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/a-self-purge-inside-the-worlds-largest",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "A self-purge inside the world’s largest nickel player",
+      "link": "https://thedailybrief.zerodha.com/p/a-self-purge-inside-the-worlds-largest",
+      "published": "2026-09-03T01:57:01.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. A self-purge inside the world’s largest nickel player Indonesia has launched an aggressive nationalisation campaign, seizing nearly 6 million hectares of palm oil plantations and cutting…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ukTg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1e276de-b8fc-42f1-af73-a738ee1df076_1536x1024.png",
+      "firstSeen": "2026-09-03T06:42:24.428Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=Rme1wS7wneI",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -14439,11 +14451,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-22T02:55:23.941Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-22T05:57:10.863Z",
       "added": 1,
       "errors": 13
@@ -14737,6 +14744,11 @@
       "at": "2026-09-02T18:59:30.615Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-03T06:50:03.658Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -14861,5 +14873,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-02T18:59:30.615Z"
+  "lastRun": "2026-09-03T06:50:03.658Z"
 }
