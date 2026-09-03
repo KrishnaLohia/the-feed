@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/m2qQBYxw1kA",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why Kaziranga Is Making Headlines",
+      "link": "https://www.youtube.com/shorts/m2qQBYxw1kA",
+      "published": "2026-09-03T14:02:29.000Z",
+      "summary": "Watch the full video on our channel!\n\n#kaziranga #assamgovernment #assam #assmannews #kaziranganationalpark #onehornedrhino #endangeredanimals #assamfloods #climateaction #climatecrisis #deforestation #bestinindia #indianews",
+      "thumbnail": "https://i2.ytimg.com/vi/m2qQBYxw1kA/hqdefault.jpg",
+      "firstSeen": "2026-09-03T15:53:50.217Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=XAy4LPMimZA",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 04 September 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=XAy4LPMimZA",
+      "published": "2026-09-03T13:35:35.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/XAy4LPMimZA/hqdefault.jpg",
+      "firstSeen": "2026-09-03T15:51:31.180Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Y8Cq5bnLQt8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "The Truth About India’s Market Cap Indexes | The Long & The Short Ep. 50",
+      "link": "https://www.youtube.com/watch?v=Y8Cq5bnLQt8",
+      "published": "2026-09-03T13:35:13.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to The Long and The Short, a show where you can expect an honest take on trading and investing, something you won't hear elsewhere.\n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst - INH000013059).\n\nIn this episode, we take a closer look at India's market-cap based indexes — from the Nifty 50 and Nifty Next 50 to the Midcap 150, Smallcap 250 and Nifty 500.\n\nWe compare seven major indexes to see how they differ in composition, performance, risk and diversification, and look at w…",
+      "thumbnail": "https://i2.ytimg.com/vi/Y8Cq5bnLQt8/hqdefault.jpg",
+      "firstSeen": "2026-09-03T15:49:45.520Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/8Nhxle0Y2BI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "What the CAG found in India's EV Subsidy Ft. Vignesh",
+      "link": "https://www.youtube.com/shorts/8Nhxle0Y2BI",
+      "published": "2026-09-03T13:17:07.000Z",
+      "summary": "₹10 crore for EV awareness. Most of it was never spent. ⚡\n\n[EV, CAG, FAME scheme, electric vehicles, India]",
+      "thumbnail": "https://i1.ytimg.com/vi/8Nhxle0Y2BI/hqdefault.jpg",
+      "firstSeen": "2026-09-03T15:49:45.350Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/early-optimism-around-strong-rupee",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Early optimism around strong rupee & record FCNR flows fails to impress markets",
+      "link": "https://aftermarketreport.zerodha.com/p/early-optimism-around-strong-rupee",
+      "published": "2026-09-03T13:02:54.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with an 84-point gap up at 23,998, tracking positive global cues as global markets saw some relief despite elevated bond yields and oil prices. Positive sentiment in banking stocks, following record FCNR flows and a strong recovery in the rupee towards 94.5 against the dollar, also supported the opening. The index extended its gains immediately after the open, moving above 24,000 and touching the day’s high near 24,025 within the first hour. However, the early strength faded quickly, with Nifty slipping back below 24,000 and gr…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ixMB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41418685-a0ec-467a-a6f8-637f8520cb01_1456x971.webp",
+      "firstSeen": "2026-09-03T15:49:46.149Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=y0zNB7UqlkM",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -14523,11 +14583,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-22T12:43:30.465Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-22T15:55:16.710Z",
       "added": 0,
       "errors": 3
@@ -14821,6 +14876,11 @@
       "at": "2026-09-03T13:05:21.922Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-09-03T15:57:18.077Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14945,5 +15005,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-03T13:05:21.922Z"
+  "lastRun": "2026-09-03T15:57:18.077Z"
 }
