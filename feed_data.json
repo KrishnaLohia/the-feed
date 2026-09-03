@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=XAy4LPMimZA",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 04 September 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=XAy4LPMimZA",
+      "published": "2026-09-03T17:35:55.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/XAy4LPMimZA/hqdefault.jpg",
+      "firstSeen": "2026-09-03T15:51:31.180Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/m2qQBYxw1kA",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -11,18 +23,6 @@
       "summary": "Watch the full video on our channel!\n\n#kaziranga #assamgovernment #assam #assmannews #kaziranganationalpark #onehornedrhino #endangeredanimals #assamfloods #climateaction #climatecrisis #deforestation #bestinindia #indianews",
       "thumbnail": "https://i2.ytimg.com/vi/m2qQBYxw1kA/hqdefault.jpg",
       "firstSeen": "2026-09-03T15:53:50.217Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=XAy4LPMimZA",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 04 September 2026, Friday",
-      "link": "https://www.youtube.com/watch?v=XAy4LPMimZA",
-      "published": "2026-09-03T13:35:35.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i1.ytimg.com/vi/XAy4LPMimZA/hqdefault.jpg",
-      "firstSeen": "2026-09-03T15:51:31.180Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=Y8Cq5bnLQt8",
@@ -14583,11 +14583,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-22T15:55:16.710Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-23T03:03:32.652Z",
       "added": 0,
       "errors": 3
@@ -14881,6 +14876,11 @@
       "at": "2026-09-03T15:57:18.077Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-09-03T18:57:52.329Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15005,5 +15005,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-03T15:57:18.077Z"
+  "lastRun": "2026-09-03T18:57:52.329Z"
 }
