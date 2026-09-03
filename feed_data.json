@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/ewnKvuxjafc",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Zerodha Kite Info widget: How to view MCX futures and options contract details",
+      "link": "https://www.youtube.com/shorts/ewnKvuxjafc",
+      "published": "2026-09-03T07:50:06.000Z",
+      "summary": "Learn how to find crucial details for MCX contracts on Zerodha Kite by using the dedicated Info widget. Users can access this feature by selecting any MCX contract from the watch list and clicking the info button to open a detailed panel. The Zerodha Kite Info widget displays the contract expiry date, the final trading date, contract sizes, and the exact Zerodha cutoff time for allowed trading. Understanding these timelines assists traders in managing commodity positions effectively and maintaining compliance with exchange regulations before executing a trade.\n\nOpen a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat…",
+      "thumbnail": "https://i2.ytimg.com/vi/ewnKvuxjafc/hqdefault.jpg",
+      "firstSeen": "2026-09-03T09:59:05.247Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Wj51Fk8EUnI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "India’s QSR Industry is at a turning point | Domino’s, KFC & McDonald’s | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=Wj51Fk8EUnI",
+      "published": "2026-09-03T02:30:26.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s QSR Industry: Beyond Opening More Stores\nIndia’s quick-service restaurant (QSR) industry is seeing signs of a demand recovery, but growth is becoming less about opening new outlets and more about making existing stores profitable. The story looks at how Jubilant FoodWorks, Devyani International, Sapphire Foods and Westlife Foodworld are responding to this shift.\nWe examine Domino’s improving delivery-led growth and dine-in strategy, the Devyani-Sapphire merger and the contrasting fortunes o…",
+      "thumbnail": "https://i4.ytimg.com/vi/Wj51Fk8EUnI/hqdefault.jpg",
+      "firstSeen": "2026-09-03T09:57:17.034Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/a-self-purge-inside-the-worlds-largest",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +35,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. A self-purge inside the world’s largest nickel player Indonesia has launched an aggressive nationalisation campaign, seizing nearly 6 million hectares of palm oil plantations and cutting…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!ukTg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1e276de-b8fc-42f1-af73-a738ee1df076_1536x1024.png",
       "firstSeen": "2026-09-03T06:42:24.428Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Cp2odsyv9Mk",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Indonesia’s resource war could hurt India | What’s wrong with sardines? | The Daily Brief #543",
+      "link": "https://www.youtube.com/watch?v=Cp2odsyv9Mk",
+      "published": "2026-09-03T01:43:03.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover a story and a chart for the day shaping Indian and global markets:\n\n1. Indonesia’s Resource Gamble\nIndonesia is tightening control over its vast reserves of nickel, palm oil and coal through mining quotas, higher royalties, state-run commodity trading and large-scale seizures. The crackdown is aimed at keeping more resource wealth within the country, but it could also disrupt global supply chains. For India, the biggest risks are higher nickel, palm o…",
+      "thumbnail": "https://i4.ytimg.com/vi/Cp2odsyv9Mk/hqdefault.jpg",
+      "firstSeen": "2026-09-03T09:57:16.648Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=Rme1wS7wneI",
@@ -14451,11 +14487,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-22T05:57:10.863Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-08-22T09:06:28.998Z",
       "added": 5,
       "errors": 3
@@ -14749,6 +14780,11 @@
       "at": "2026-09-03T06:50:03.658Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-09-03T10:04:59.351Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -14873,5 +14909,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-03T06:50:03.658Z"
+  "lastRun": "2026-09-03T10:04:59.351Z"
 }
