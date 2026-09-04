@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/global-strength-fails-to-rub-off",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Global strength fails to rub off on Nifty; ends the week near 23,900",
+      "link": "https://aftermarketreport.zerodha.com/p/global-strength-fails-to-rub-off",
+      "published": "2026-09-04T13:42:16.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a small 37-point gap up at 23,911, despite a strong showing by global markets, as the weak trend in Indian equities continued. The index initially traded around 23,895-23,900 for 15-20 minutes, but recovered sharply thereafter, moving past 23,960 within the first hour. The recovery gathered momentum through the morning, with Nifty steadily climbing towards 23,980 before briefly touching the 24,000 mark around 11:30 AM. However, the gains proved difficult to sustain, and the index quickly retreated towards 23,960 by noon. I…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!LJxr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F634de6a2-098e-40a9-8372-39c937df14a6_1456x971.webp",
+      "firstSeen": "2026-09-04T15:48:01.586Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/DNBAk6Aslb0",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "ChatGPT is becoming Google! Ft. Mridula",
+      "link": "https://www.youtube.com/shorts/DNBAk6Aslb0",
+      "published": "2026-09-04T13:41:35.000Z",
+      "summary": "ChatGPT may soon have something very familiar: ads. 👀\n\n[ChatGPT, OpenAI, AI ads, advertising, artificial intelligence, tech]",
+      "thumbnail": "https://i1.ytimg.com/vi/DNBAk6Aslb0/hqdefault.jpg",
+      "firstSeen": "2026-09-04T15:48:00.675Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=qyudC07oPOI",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Why Rupee Keeps Falling? | Depreciation, Foreign Flows & Market Reflexivity Explained",
+      "link": "https://www.youtube.com/watch?v=qyudC07oPOI",
+      "published": "2026-09-04T13:30:36.000Z",
+      "summary": "The Indian rupee has gone from 65 to 95 against the dollar in less than a decade — but does the number itself actually matter? \n\nIn this wide-ranging conversation, former currency trader and ex-SEBI whole-time member Ananth Narayan joins Nithin Sasikumar and Pranav Agarwal to unpack what's really driving the rupee, and why the psychology around \"100\" might matter more than the fundamentals.\n\nThey discussed:\n•Why currency levels are secondary to per capita income, growth, and employment\n•Why India's labour force participation rate and female workforce participation remain critical weak points\n•George Soros's concept of reflexivity — and how self-fulfilling narratives move markets\n•RBI's inte…",
+      "thumbnail": "https://i2.ytimg.com/vi/qyudC07oPOI/hqdefault.jpg",
+      "firstSeen": "2026-09-04T15:49:12.999Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-sebi-chairman-maruti",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: SEBI Chairman, Maruti Suzuki, Lumino, Indian Bank & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-sebi-chairman-maruti",
+      "published": "2026-09-04T13:21:22.000Z",
+      "summary": "Welcome to the 86th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered the SEBI Chairman’s Address & 5 companies across 5 industries. Regulator SEBI Chairman Automobile Maruti Suzuki India Limited FMCG United Breweries Limited Financial Services Indian…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!mt6O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F456cac35-6734-44d0-a091-51293926e88b_2400x1350.png",
+      "firstSeen": "2026-09-04T15:48:01.862Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=5umrqj1urWo",
       "platform": "youtube",
       "group": "Markets",
@@ -14619,11 +14667,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-23T12:44:26.218Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-23T15:56:07.610Z",
       "added": 1,
       "errors": 3
@@ -14917,6 +14960,11 @@
       "at": "2026-09-04T13:00:32.954Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-04T15:55:42.044Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15041,5 +15089,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-04T13:00:32.954Z"
+  "lastRun": "2026-09-04T15:55:42.044Z"
 }
