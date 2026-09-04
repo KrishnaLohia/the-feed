@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=5umrqj1urWo",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Why Indonesia is tightening control over Nickel, Palm Oil & Coal | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=5umrqj1urWo",
+      "published": "2026-09-04T02:30:04.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndonesia’s Resource Nationalism: A Global Market Risk?\nIndonesia is tightening control over its natural resources by cutting nickel and coal quotas, raising mining royalties, seizing palm oil plantations and bringing commodity exports under greater state control. The crackdown aims to increase domestic value addition and government revenues, but also reflects concerns over corruption and dependence on Chinese companies.\nThese changes could push up global commodity prices and create risks for India…",
+      "thumbnail": "https://i2.ytimg.com/vi/5umrqj1urWo/hqdefault.jpg",
+      "firstSeen": "2026-09-04T09:45:49.698Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/governments-suing-meta-addiction-teen-design-sebi-trafiksol-ipo",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +23,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. When did social media stop looking innocent? How did social media evolve from a tool for human connection into an alleged youth mental health crisis? Driven by addictive design choices l…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!OaYM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd5bafe3-7dc0-435c-b808-a2482f4175b6_1536x1024.png",
       "firstSeen": "2026-09-04T06:47:07.704Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Fof5nQLxnXc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Governments vs Meta: The $18 bn lawsuit | The fraud behind Trafiksol’s IPO | The Daily Brief #544",
+      "link": "https://www.youtube.com/watch?v=Fof5nQLxnXc",
+      "published": "2026-09-04T01:36:16.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover a story and a chart for the day shaping Indian and global markets:\n\n1. Why Governments Are Suing Meta for $18 Billion\nMeta has agreed to an $18 billion multistate settlement over allegations that Facebook and Instagram used features designed to keep children and teenagers engaged for longer. The story looks at how social media evolved from a tool for connection into an attention-driven business, the evidence around its impact on young users, and why g…",
+      "thumbnail": "https://i3.ytimg.com/vi/Fof5nQLxnXc/hqdefault.jpg",
+      "firstSeen": "2026-09-04T09:45:49.311Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=XAy4LPMimZA",
@@ -14595,11 +14619,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-23T05:59:17.693Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-08-23T09:06:59.618Z",
       "added": 1,
       "errors": 3
@@ -14893,6 +14912,11 @@
       "at": "2026-09-04T06:54:56.862Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-09-04T09:53:26.789Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15017,5 +15041,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-04T06:54:56.862Z"
+  "lastRun": "2026-09-04T09:53:26.789Z"
 }
