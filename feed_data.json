@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/YBc6ilw2VXM",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Is Reducing Kaziranga’s ESZ Good?",
+      "link": "https://www.youtube.com/shorts/YBc6ilw2VXM",
+      "published": "2026-09-04T16:43:48.000Z",
+      "summary": "Watch the full video on our channel!\n\n#kaziranga #assamgovernment #assam #assmannews #kaziranganationalpark #onehornedrhino #endangeredanimals #assamfloods #climateaction #climatecrisis #deforestation #bestinindia #indianews",
+      "thumbnail": "https://i2.ytimg.com/vi/YBc6ilw2VXM/hqdefault.jpg",
+      "firstSeen": "2026-09-04T18:36:11.767Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/global-strength-fails-to-rub-off",
       "platform": "substack",
       "group": "Markets",
@@ -14667,11 +14679,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-23T15:56:07.610Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-24T03:03:50.972Z",
       "added": 3,
       "errors": 3
@@ -14965,6 +14972,11 @@
       "at": "2026-09-04T15:55:42.044Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-09-04T18:39:48.734Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15089,5 +15101,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-04T15:55:42.044Z"
+  "lastRun": "2026-09-04T18:39:48.734Z"
 }
