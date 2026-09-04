@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/governments-suing-meta-addiction-teen-design-sebi-trafiksol-ipo",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Why governments are suing Meta for $18 billion",
+      "link": "https://thedailybrief.zerodha.com/p/governments-suing-meta-addiction-teen-design-sebi-trafiksol-ipo",
+      "published": "2026-09-04T01:58:53.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. When did social media stop looking innocent? How did social media evolve from a tool for human connection into an alleged youth mental health crisis? Driven by addictive design choices l…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!OaYM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd5bafe3-7dc0-435c-b808-a2482f4175b6_1536x1024.png",
+      "firstSeen": "2026-09-04T06:47:07.704Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=XAy4LPMimZA",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -14583,11 +14595,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-23T03:03:32.652Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-23T05:59:17.693Z",
       "added": 2,
       "errors": 3
@@ -14881,6 +14888,11 @@
       "at": "2026-09-03T18:57:52.329Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-04T06:54:56.862Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -15005,5 +15017,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-03T18:57:52.329Z"
+  "lastRun": "2026-09-04T06:54:56.862Z"
 }
