@@ -65,7 +65,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "In The Money (YouTube)",
-      "title": "The Truth About India’s Market Cap Indexes | The Long & The Short Ep. 50",
+      "title": "Nifty 500, Midcap 150, Smallcap 250: What Are You Really Buying? | The Long & The Short Ep. 50",
       "link": "https://www.youtube.com/watch?v=Y8Cq5bnLQt8",
       "published": "2026-09-03T13:35:13.000Z",
       "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to The Long and The Short, a show where you can expect an honest take on trading and investing, something you won't hear elsewhere.\n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst - INH000013059).\n\nIn this episode, we take a closer look at India's market-cap based indexes — from the Nifty 50 and Nifty Next 50 to the Midcap 150, Smallcap 250 and Nifty 500.\n\nWe compare seven major indexes to see how they differ in composition, performance, risk and diversification, and look at w…",
@@ -14619,11 +14619,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-23T09:06:59.618Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-23T12:44:26.218Z",
       "added": 1,
       "errors": 3
@@ -14917,6 +14912,11 @@
       "at": "2026-09-04T09:53:26.789Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-09-04T13:00:32.954Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15041,5 +15041,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-04T09:53:26.789Z"
+  "lastRun": "2026-09-04T13:00:32.954Z"
 }
