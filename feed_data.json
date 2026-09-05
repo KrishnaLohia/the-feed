@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/Y7nrYHyZEh8",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Checks before buying a HOUSE! 🏠",
+      "link": "https://www.youtube.com/shorts/Y7nrYHyZEh8",
+      "published": "2026-09-05T11:00:09.000Z",
+      "summary": "Home buying is a DREAM for most of us Indians. \n\nBut it becomes important to  Plan this decision so that it doesn't become a burden on your Finances later. \n\nCheck 1: Home Buying just like buying a Car is an Emotional Purchase, you go out to buy a 2 Crore home and then you like the one that's a little more expensive and this never ends. And you never realise when this goes above 30% of your monthly Income. \n\nIdeally all your EMIs together including the home loan should be within 30% of your monthly income. \n\nCheck 2: The House is not just what is advertised a lot of costs comes along when you buy the house, to avoid unwanted surprises ideally add 20-25% extra to whatever your budget is. \n\nC…",
+      "thumbnail": "https://i2.ytimg.com/vi/Y7nrYHyZEh8/hqdefault.jpg",
+      "firstSeen": "2026-09-05T12:02:40.915Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-3",
       "platform": "substack",
       "group": "Markets",
@@ -14775,11 +14787,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-24T09:32:35.279Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-24T12:54:47.862Z",
       "added": 2,
       "errors": 3
@@ -15073,6 +15080,11 @@
       "at": "2026-09-05T09:18:15.796Z",
       "added": 8,
       "errors": 3
+    },
+    {
+      "at": "2026-09-05T12:06:16.982Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15197,5 +15209,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-05T09:18:15.796Z"
+  "lastRun": "2026-09-05T12:06:16.982Z"
 }
