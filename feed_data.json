@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=hfzGWty8oRI",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Bengaluru’s Tragedy: Why The City Lost Its Iconic Lakes",
+      "link": "https://www.youtube.com/watch?v=hfzGWty8oRI",
+      "published": "2026-09-06T11:30:02.000Z",
+      "summary": "Bengaluru was once called the City of Lakes. Yet today, you hardly have any healthy lakes in the city. What happened to the City of Lakes? Where did the lakes disappear? And why should you care?\n\nWatch the full video to find out!\n\n0:00 - Introduction\n0:40 - Chapter 1: How Bengaluru Built Over Its Lakes\n4:28 - Chapter 2: Why Lakes Are Important\n7:03 - Chapter 3: Can We Revive Bengaluru's Lakes?\n\n#bengaluru #bengalurulakes #bengalurunews #bangalorenews #bangalore #watercrisis #bengalurulakes #lakes #waterconservation #indianews #majestic #kanteeravastadium #theclimatebrief #climateaction #climatecrisis",
+      "thumbnail": "https://i1.ytimg.com/vi/hfzGWty8oRI/hqdefault.jpg",
+      "firstSeen": "2026-09-06T12:20:47.820Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=SBWoC8E5khI",
       "platform": "youtube",
       "group": "Markets",
@@ -14811,11 +14823,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-25T09:16:56.105Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-08-25T12:51:22.889Z",
       "added": 3,
       "errors": 3
@@ -15109,6 +15116,11 @@
       "at": "2026-09-06T09:39:43.907Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-06T12:24:21.118Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15233,5 +15245,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-06T09:39:43.907Z"
+  "lastRun": "2026-09-06T12:24:21.118Z"
 }
