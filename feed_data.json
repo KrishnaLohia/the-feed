@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=SBWoC8E5khI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "The Story of the Indicator — Ep. 2: Fibonacci Levels | In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=SBWoC8E5khI",
+      "published": "2026-09-06T03:30:06.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst - INH000013059).\n\nIn this episode, we trace the story of Fibonacci levels, from their origins in ancient India to their use on modern stock charts. We look at how the Fibonacci sequence was connected to Sanskrit poetry, how Leonardo of Pisa brought the numbers to Europe, and how they eventually found their way into market analysis. \n\nWe also examine whether Fibonacci levels actually work in markets, and what psychology and anchoring have…",
+      "thumbnail": "https://i4.ytimg.com/vi/SBWoC8E5khI/hqdefault.jpg",
+      "firstSeen": "2026-09-06T06:42:07.396Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/OPrBuIPDY08",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -14799,11 +14811,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-25T02:59:42.860Z",
-      "added": 1,
-      "errors": 8
-    },
-    {
       "at": "2026-08-25T06:01:52.829Z",
       "added": 0,
       "errors": 13
@@ -15097,6 +15104,11 @@
       "at": "2026-09-05T17:36:14.533Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-06T06:49:58.616Z",
+      "added": 1,
+      "errors": 11
     }
   ],
   "directSources": [
@@ -15221,5 +15233,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-05T17:36:14.533Z"
+  "lastRun": "2026-09-06T06:49:58.616Z"
 }
