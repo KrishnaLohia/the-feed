@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/supreme-court-ruling-noida-real-estate-homebuyers-ev-subsidy-india",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Indian homebuyers get a much needed painkiller",
+      "link": "https://thedailybrief.zerodha.com/p/supreme-court-ruling-noida-real-estate-homebuyers-ev-subsidy-india",
+      "published": "2026-09-07T01:39:27.000Z",
+      "summary": "Real estate is quite the ground for movie scripts. Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Indian homebuyers get a much-needed painkiller Why did the Supreme Court intervene in Noida's stalled real estate market? Local authori…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!uY4y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e65b3c4-e084-4cfb-a9ed-49a624aafc64_1536x1024.png",
+      "firstSeen": "2026-09-07T06:50:37.538Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=WvXmqTP-pEQ",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -14835,11 +14847,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-26T03:04:55.122Z",
-      "added": 2,
-      "errors": 12
-    },
-    {
       "at": "2026-08-26T06:03:46.409Z",
       "added": 0,
       "errors": 13
@@ -15133,6 +15140,11 @@
       "at": "2026-09-06T17:46:32.780Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-09-07T06:58:28.183Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -15257,5 +15269,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-06T17:46:32.780Z"
+  "lastRun": "2026-09-07T06:58:28.183Z"
 }
