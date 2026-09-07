@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=aO_L-YdAWHg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Meta vs Governments: The fight over teen social media use | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=aO_L-YdAWHg",
+      "published": "2026-09-07T02:30:26.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nMeta’s Social Media Battle\nMeta has agreed to an $18 billion settlement with US states over allegations that Facebook and Instagram were designed to keep children and teenagers engaged for longer. The settlement could bring major changes, including daily usage limits, fewer notifications, overnight restrictions and stronger age checks. The story also explores the evidence linking social media to youth mental health, how countries such as Australia and India are responding, and why regulators and co…",
+      "thumbnail": "https://i2.ytimg.com/vi/aO_L-YdAWHg/hqdefault.jpg",
+      "firstSeen": "2026-09-07T10:31:52.177Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/supreme-court-ruling-noida-real-estate-homebuyers-ev-subsidy-india",
       "platform": "substack",
       "group": "Markets",
@@ -8,9 +20,21 @@
       "title": "Indian homebuyers get a much needed painkiller",
       "link": "https://thedailybrief.zerodha.com/p/supreme-court-ruling-noida-real-estate-homebuyers-ev-subsidy-india",
       "published": "2026-09-07T01:39:27.000Z",
-      "summary": "Real estate is quite the ground for movie scripts. Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Indian homebuyers get a much-needed painkiller Why did the Supreme Court intervene in Noida's stalled real estate market? Local authori…",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Indian homebuyers get a much-needed painkiller Why did the Supreme Court intervene in Noida's stalled real estate market? Local authorities tried to force homebuyer groups, who were self…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!uY4y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e65b3c4-e084-4cfb-a9ed-49a624aafc64_1536x1024.png",
       "firstSeen": "2026-09-07T06:50:37.538Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=WancYYMAOrY",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Indian homebuyers get a big legal relief | The end of India’s EV subsidies | The Daily Brief #545",
+      "link": "https://www.youtube.com/watch?v=WancYYMAOrY",
+      "published": "2026-09-07T01:30:07.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today's episode of The Daily Brief, we cover a story and a chart for the day shaping Indian and global markets:\n\n1. Indian Homebuyers Get a Legal Relief\nThe Supreme Court has given Indian homebuyers a major relief in the Granite Gate case, ruling that they cannot be forced to pay penalties caused by a bankrupt developer. We look at Noida’s real estate crisis, how homebuyers got trapped in stalled projects, and what the ruling means for property buyers across India.\n\nWe’ll cover:\n●How Noida’s rea…",
+      "thumbnail": "https://i4.ytimg.com/vi/WancYYMAOrY/hqdefault.jpg",
+      "firstSeen": "2026-09-07T10:31:51.833Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=WvXmqTP-pEQ",
@@ -14847,11 +14871,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-26T06:03:46.409Z",
-      "added": 0,
-      "errors": 13
-    },
-    {
       "at": "2026-08-26T09:27:35.347Z",
       "added": 1,
       "errors": 3
@@ -15145,6 +15164,11 @@
       "at": "2026-09-07T06:58:28.183Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-09-07T10:39:44.014Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15269,5 +15293,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-07T06:58:28.183Z"
+  "lastRun": "2026-09-07T10:39:44.014Z"
 }
