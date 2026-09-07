@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=H2sf_HdMzLE",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 08 September 2026, Tuesday",
+      "link": "https://www.youtube.com/watch?v=H2sf_HdMzLE",
+      "published": "2026-09-07T16:27:43.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/H2sf_HdMzLE/hqdefault.jpg",
+      "firstSeen": "2026-09-07T14:25:29.102Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/er3BRs6pXaA",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "The Market Is Not Out to Get You | Innerworth Ep. 37",
+      "link": "https://www.youtube.com/shorts/er3BRs6pXaA",
+      "published": "2026-09-07T16:05:00.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/er3BRs6pXaA/hqdefault.jpg",
+      "firstSeen": "2026-09-07T17:17:39.162Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/H-Jr5OwyVAI",
       "platform": "youtube",
       "group": "Varsity",
@@ -35,18 +59,6 @@
       "summary": "Watch the full video on our channel!\n\n#bengaluru #bengalurulakes #bengalurunews #bangalorenews #bangalore #watercrisis #bengalurulakes #lakes #waterconservation #indianews #majestic #kanteeravastadium #theclimatebrief #climateaction #climatecrisis",
       "thumbnail": "https://i1.ytimg.com/vi/xRf2NgILJAU/hqdefault.jpg",
       "firstSeen": "2026-09-07T14:27:50.163Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=H2sf_HdMzLE",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 08 September 2026, Tuesday",
-      "link": "https://www.youtube.com/watch?v=H2sf_HdMzLE",
-      "published": "2026-09-07T13:02:52.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i1.ytimg.com/vi/H2sf_HdMzLE/hqdefault.jpg",
-      "firstSeen": "2026-09-07T14:25:29.102Z"
     },
     {
       "id": "https://www.youtube.com/shorts/ZxaupAbBf54",
@@ -14931,11 +14943,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-26T12:57:07.734Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-26T16:44:27.013Z",
       "added": 5,
       "errors": 3
@@ -15229,6 +15236,11 @@
       "at": "2026-09-07T14:31:20.410Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-09-07T17:25:21.983Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15353,5 +15365,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-07T14:31:20.410Z"
+  "lastRun": "2026-09-07T17:25:21.983Z"
 }
