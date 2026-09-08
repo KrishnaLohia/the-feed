@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/SgtqB9sKzuk",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "What’s Happening to the City Of Lakes?",
+      "link": "https://www.youtube.com/shorts/SgtqB9sKzuk",
+      "published": "2026-09-08T12:41:43.000Z",
+      "summary": "Watch the full video on our channel!\n\n#bengaluru #bengalurulakes #bengalurunews #bangalorenews #bangalore #watercrisis #bengalurulakes #lakes #waterconservation #indianews #majestic #kanteeravastadium #theclimatebrief #climateaction #climatecrisis",
+      "thumbnail": "https://i4.ytimg.com/vi/SgtqB9sKzuk/hqdefault.jpg",
+      "firstSeen": "2026-09-08T13:07:21.711Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/vqrqdHSsDs0",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "₹6.3 Lakh Petrol vs ₹8 Lakh EV: Which One Should You Buy? 💰🚗",
+      "link": "https://www.youtube.com/shorts/vqrqdHSsDs0",
+      "published": "2026-09-08T11:45:27.000Z",
+      "summary": "EV vs Petrol: Which one actually makes financial sense? \n\nThere’s no universal winner between an EV and a petrol car. The financially better choice can change completely depending on how much you drive, where you live, how you finance the car, and how long you keep it. \n\nOwning an ICE car:\nLet’s assume, you’re gonna own a TATA Tiago petrol car for the next 5 years and you drive roughly 900 Kms a month. The loan is at 9% with a down payment of 20%, so you’re gonna pay roughly 6.31 Lakhs right? OFC NOT! This is the X showroom price.\n\nIf you’re someone who lives in Delhi, on road tax rate comes out to be 7%, so that’s about Rs. 44,190. Apart from this there’s insurance, miscellaneous charges,…",
+      "thumbnail": "https://i3.ytimg.com/vi/vqrqdHSsDs0/hqdefault.jpg",
+      "firstSeen": "2026-09-08T13:07:21.482Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/W86wr4iN0JQ",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "All you need to know about: Prasol Chemicals IPO",
+      "link": "https://www.youtube.com/shorts/W86wr4iN0JQ",
+      "published": "2026-09-08T10:05:16.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nExplore:\n\nTrade on Kite\nWeb → https://kite.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS → https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb → https://coin.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.coin\niOS → https://apps.apple.com/in/app/coin-by-zerodha-mu…",
+      "thumbnail": "https://i4.ytimg.com/vi/W86wr4iN0JQ/hqdefault.jpg",
+      "firstSeen": "2026-09-08T13:05:02.614Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=nThjHHNXkHo",
       "platform": "youtube",
       "group": "Markets",
@@ -14979,11 +15015,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-27T19:21:12.980Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-27T21:56:24.152Z",
       "added": 0,
       "errors": 3
@@ -15277,6 +15308,11 @@
       "at": "2026-09-08T10:00:02.686Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-09-08T13:10:49.381Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15401,5 +15437,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-08T10:00:02.686Z"
+  "lastRun": "2026-09-08T13:10:49.381Z"
 }
