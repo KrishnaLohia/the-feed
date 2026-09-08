@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/W8eZPaJZ2WY",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Catching a Falling Knife: What Does It Mean?",
+      "link": "https://www.youtube.com/shorts/W8eZPaJZ2WY",
+      "published": "2026-09-08T15:07:56.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/W8eZPaJZ2WY/hqdefault.jpg",
+      "firstSeen": "2026-09-08T16:01:58.290Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=6FE3Uuyudw4",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 09 September 2026, Wednesday",
+      "link": "https://www.youtube.com/watch?v=6FE3Uuyudw4",
+      "published": "2026-09-08T15:01:10.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i3.ytimg.com/vi/6FE3Uuyudw4/hqdefault.jpg",
+      "firstSeen": "2026-09-08T16:03:44.085Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/rv2f2damw3Q",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "All you need to know about: Kanohar Electricals IPO",
+      "link": "https://www.youtube.com/shorts/rv2f2damw3Q",
+      "published": "2026-09-08T14:00:06.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nExplore:\n\nTrade on Kite\nWeb → https://kite.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS → https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb → https://coin.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.coin\niOS → https://apps.apple.com/in/app/coin-by-zerodha-mu…",
+      "thumbnail": "https://i3.ytimg.com/vi/rv2f2damw3Q/hqdefault.jpg",
+      "firstSeen": "2026-09-08T16:03:44.085Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/oil-boils-towards-100-market-falls",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Oil boils towards $100; Market falls for 7th straight session",
+      "link": "https://aftermarketreport.zerodha.com/p/oil-boils-towards-100-market-falls",
+      "published": "2026-09-08T13:19:36.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a 36-point gap down at 23,743, tracking weak global cues amid a sharp flare-up in oil prices, with Brent crude nearing $100 per barrel. The index came under pressure immediately after the open, quickly falling below 23,700 and slipping towards 23,670 within the first half-hour. A recovery attempt around 10 AM briefly took Nifty above 23,700, but it failed to sustain, with the index falling back towards 23,660–23,680. The weakness persisted through the rest of the first half, with Nifty gradually drifting lower towards 23,6…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!1B2F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36749dca-0b80-4ae8-95b6-28b1418d9804_1456x971.webp",
+      "firstSeen": "2026-09-08T16:01:58.818Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/lFdO5md9odg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Whats interesting ft. Kulsum",
+      "link": "https://www.youtube.com/shorts/lFdO5md9odg",
+      "published": "2026-09-08T13:02:39.000Z",
+      "summary": "How does the Indian government shop online? Through GeM. 🛒\n\n[GeM, government, India, public spending]",
+      "thumbnail": "https://i1.ytimg.com/vi/lFdO5md9odg/hqdefault.jpg",
+      "firstSeen": "2026-09-08T16:01:58.184Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/SgtqB9sKzuk",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -15015,11 +15075,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-27T21:56:24.152Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-28T00:38:41.953Z",
       "added": 0,
       "errors": 3
@@ -15313,6 +15368,11 @@
       "at": "2026-09-08T13:10:49.381Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-09-08T16:09:34.085Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15437,5 +15497,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-08T13:10:49.381Z"
+  "lastRun": "2026-09-08T16:09:34.085Z"
 }
