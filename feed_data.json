@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/isro--drdo-tech-private-manufacture-tech-india-cctv-market-new-rules",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The logic behind ISRO and DRDO’s tech transfers",
+      "link": "https://thedailybrief.zerodha.com/p/isro--drdo-tech-private-manufacture-tech-india-cctv-market-new-rules",
+      "published": "2026-09-08T01:49:14.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The logic behind ISRO and DRDO’s tech transfers Why are ISRO and DRDO handing perfected technologies to private firms? Public labs excel at R&D, not factory mass production. To scale up…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!-CNf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e20a1b8-d229-4382-969f-649ee5a9b3cf_1536x1024.png",
+      "firstSeen": "2026-09-08T06:46:37.754Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=H2sf_HdMzLE",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -14943,11 +14955,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-27T12:19:18.583Z",
-      "added": 7,
-      "errors": 3
-    },
-    {
       "at": "2026-08-27T16:43:24.727Z",
       "added": 4,
       "errors": 3
@@ -15241,6 +15248,11 @@
       "at": "2026-09-07T19:28:02.918Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-08T06:54:26.588Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -15365,5 +15377,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-07T19:28:02.918Z"
+  "lastRun": "2026-09-08T06:54:26.588Z"
 }
