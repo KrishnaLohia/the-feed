@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/ai-agents-upi-payments-silver-jewellery-hallmarking",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "When AI starts spending your money",
+      "link": "https://thedailybrief.zerodha.com/p/ai-agents-upi-payments-silver-jewellery-hallmarking",
+      "published": "2026-09-09T01:48:02.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. When AI starts spending your money Why are NPCI and card networks building frameworks for agentic payments? While AI can already compare products and find deals, completing purchases cur…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!FMGB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff80ae248-acd4-4e2f-849d-64383acf313e_1536x1024.png",
+      "firstSeen": "2026-09-09T06:55:25.212Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=6FE3Uuyudw4",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -15075,11 +15087,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-28T13:44:16.824Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-08-28T17:38:53.593Z",
       "added": 2,
       "errors": 3
@@ -15373,6 +15380,11 @@
       "at": "2026-09-08T19:00:50.530Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-09T07:03:16.347Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -15497,5 +15509,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-08T19:00:50.530Z"
+  "lastRun": "2026-09-09T07:03:16.347Z"
 }
