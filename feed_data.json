@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/uKBi6X8vyQE",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "The Full Story of Bengaluru’s Lakes",
+      "link": "https://www.youtube.com/shorts/uKBi6X8vyQE",
+      "published": "2026-09-09T12:30:01.000Z",
+      "summary": "Watch the full video on our channel!\n\n#bengaluru #bengalurulakes #bengalurunews #bangalorenews #bangalore #watercrisis #bengalurulakes #lakes #waterconservation #indianews #majestic #kanteeravastadium #theclimatebrief #climateaction #climatecrisis",
+      "thumbnail": "https://i2.ytimg.com/vi/uKBi6X8vyQE/hqdefault.jpg",
+      "firstSeen": "2026-09-09T13:10:38.724Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-hul-fortis-shiprocket",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: HUL, Fortis, Shiprocket & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-hul-fortis-shiprocket",
+      "published": "2026-09-09T12:03:10.000Z",
+      "summary": "Welcome to the 87th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 5 companies across 5 industries. FMCG Hindustan Unilever Limited Financial Services Asset Reconstruction Company (India) Healthcare Fortis Healthcare Limited Information Technology S…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ZdLW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff46562eb-3012-4b3f-821b-95fc308addb1_2400x1350.png",
+      "firstSeen": "2026-09-09T13:06:16.181Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/6IZsJbdMZhE",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "All you need to know about: Manipal Payment and Identity Solutions IPO",
+      "link": "https://www.youtube.com/shorts/6IZsJbdMZhE",
+      "published": "2026-09-09T10:30:24.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nExplore:\n\nTrade on Kite\nWeb → https://kite.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS → https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb → https://coin.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.coin\niOS → https://apps.apple.com/in/app/coin-by-zerodha-mu…",
+      "thumbnail": "https://i3.ytimg.com/vi/6IZsJbdMZhE/hqdefault.jpg",
+      "firstSeen": "2026-09-09T13:08:07.059Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/_3V0PlCLun0",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -1241,7 +1277,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "Subtext (YouTube)",
-      "title": "Stop Over-complicating Your Investments: How to Build a Simple Portfolio! | Cash & Copium Ep. 4",
+      "title": "What Your Mutual Fund Distributor Isn't Telling You! | Cash & Copium Ep. 4",
       "link": "https://www.youtube.com/watch?v=fnVGhoNHyQg",
       "published": "2026-08-29T04:30:28.000Z",
       "summary": "Open a free demat account → https://zerodha.com/open-account/?c=ZAPVVI\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\n\nWelcome to Cash & Copium, the show where we break down finance concepts that directly move money in and out of your pocket—without jargon or corporate fluff.  \n\nIn Episode 4, Abid Hassan, Bhuvan, and Aakanksha dive into the mutual fund value chain to uncover the hidden incentives driving mutual fund distributors (MFDs) and bank relationship managers. While good advisors…",
@@ -15123,11 +15159,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-28T20:27:27.691Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-28T21:51:28.332Z",
       "added": 0,
       "errors": 3
@@ -15421,6 +15452,11 @@
       "at": "2026-09-09T10:03:20.133Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-09-09T13:14:16.740Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15545,5 +15581,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-09T10:03:20.133Z"
+  "lastRun": "2026-09-09T13:14:16.739Z"
 }
