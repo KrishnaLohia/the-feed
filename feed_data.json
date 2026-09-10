@@ -7,7 +7,7 @@
       "sourceName": "Zerodha Online (YouTube)",
       "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 11 September 2026, Friday",
       "link": "https://www.youtube.com/watch?v=T9Dtc1xqfCI",
-      "published": "2026-09-10T14:24:09.000Z",
+      "published": "2026-09-10T16:23:33.000Z",
       "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
       "thumbnail": "https://i1.ytimg.com/vi/T9Dtc1xqfCI/hqdefault.jpg",
       "firstSeen": "2026-09-10T15:54:06.684Z"
@@ -15387,11 +15387,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-29T16:22:38.365Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-29T18:53:50.227Z",
       "added": 1,
       "errors": 3
@@ -15685,6 +15680,11 @@
       "at": "2026-09-10T16:00:01.295Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-09-10T18:45:35.900Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15809,5 +15809,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-10T16:00:01.295Z"
+  "lastRun": "2026-09-10T18:45:35.900Z"
 }
