@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=T9Dtc1xqfCI",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 11 September 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=T9Dtc1xqfCI",
+      "published": "2026-09-10T14:24:09.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/T9Dtc1xqfCI/hqdefault.jpg",
+      "firstSeen": "2026-09-10T15:54:06.684Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/late-cas-recovery-rescues-nifty-from",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Late CAS recovery rescues Nifty from another red close",
+      "link": "https://aftermarketreport.zerodha.com/p/late-cas-recovery-rescues-nifty-from",
+      "published": "2026-09-10T13:40:25.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened flat at 23,447, with little change in the global and domestic backdrop as crude remained above $100 per barrel and sentiment continued to remain weak, particularly in domestic markets. The index saw choppy movement immediately after the open as Volatility continued through the first hour, with Nifty repeatedly moving between the 23,410 and 23,445 zones. After11 AM, the index staged a stronger recovery and climbed steadily to an intraday high near 23,470 around noon. However, the recovery failed to sustain as Nifty gradually gav…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!1B2F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36749dca-0b80-4ae8-95b6-28b1418d9804_1456x971.webp",
+      "firstSeen": "2026-09-10T15:52:19.101Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/V7HcQqZfH04",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India's food safety crackdown Ft.Kulsum",
+      "link": "https://www.youtube.com/shorts/V7HcQqZfH04",
+      "published": "2026-09-10T13:15:46.000Z",
+      "summary": "What’s really going into your packaged food and can you trust the label? 👀\n\n[FSSAI, food safety, packaged food, food labels, nutrition, India]",
+      "thumbnail": "https://i3.ytimg.com/vi/V7HcQqZfH04/hqdefault.jpg",
+      "firstSeen": "2026-09-10T15:52:17.883Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/nQGv_gxIZLE",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -15351,11 +15387,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-29T14:06:01.738Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-29T16:22:38.365Z",
       "added": 0,
       "errors": 3
@@ -15649,6 +15680,11 @@
       "at": "2026-09-10T13:11:46.475Z",
       "added": 6,
       "errors": 3
+    },
+    {
+      "at": "2026-09-10T16:00:01.295Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15773,5 +15809,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-10T13:11:46.475Z"
+  "lastRun": "2026-09-10T16:00:01.295Z"
 }
