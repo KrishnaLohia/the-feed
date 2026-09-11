@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-rbi-governor-rbi-deputy",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: RBI Governor, RBI Deputy Governor, KEI Industries, Cochin Shipyard & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-rbi-governor-rbi-deputy",
+      "published": "2026-09-11T12:03:36.000Z",
+      "summary": "Welcome to the 88th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered the RBI Governor, Deputy Governor’s Address & 3 companies across 4 industries. Regulator RBI Governor RBI Deputy Governor Defence Cochin Shipyard Engineering & Capital Goods KEI Indu…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!y_HY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff8261f8-3140-4c1f-82a3-e5981259f4e8_2400x1350.png",
+      "firstSeen": "2026-09-11T12:58:43.807Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=22bH1OjAghw",
       "platform": "youtube",
       "group": "Markets",
@@ -15423,11 +15435,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-30T10:40:43.007Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-30T14:04:24.238Z",
       "added": 2,
       "errors": 3
@@ -15721,6 +15728,11 @@
       "at": "2026-09-11T09:59:47.842Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-09-11T13:06:17.644Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15845,5 +15857,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-11T09:59:47.842Z"
+  "lastRun": "2026-09-11T13:06:17.644Z"
 }
