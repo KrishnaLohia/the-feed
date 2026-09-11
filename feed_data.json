@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/kdR7pgdHXms",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Meta's $18B settlement Ft. Mridula",
+      "link": "https://www.youtube.com/shorts/kdR7pgdHXms",
+      "published": "2026-09-11T14:15:57.000Z",
+      "summary": "What if the apps keeping you hooked now have to help you log off? 👀\nTo know more see the full story on the daily brief!\n\n[Meta, Instagram, Facebook, social media, addictive design, teen safety, regulation]",
+      "thumbnail": "https://i4.ytimg.com/vi/kdR7pgdHXms/hqdefault.jpg",
+      "firstSeen": "2026-09-11T15:54:54.716Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/oil-eases-from-highs-helping-markets",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Oil eases from highs, helping Markets stage a strong recovery",
+      "link": "https://aftermarketreport.zerodha.com/p/oil-eases-from-highs-helping-markets",
+      "published": "2026-09-11T14:02:36.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a big 208-point gap down at 23,270, tracking weak global cues as Brent crude surged to $107 per barrel, triggering a sell-off in global equities and a sharp rise in bond yields. The index remained under pressure immediately after the open, slipping towards 23,250 and hovering near the lows through the first half hour. A gradual recovery followed, taking Nifty towards 23,300 by 10:30 AM, before another brief dip towards 23,270. Buying then picked up sharply around 11 AM, pushing the index above 23,340, after which it remain…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!LvyT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb94cb2c1-d0f8-4597-baa6-b13635118f35_1456x971.webp",
+      "firstSeen": "2026-09-11T15:54:55.440Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=6qmGO1ipb_o",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Why Some Nifty ETFs Beat Others?",
+      "link": "https://www.youtube.com/watch?v=6qmGO1ipb_o",
+      "published": "2026-09-11T13:30:36.000Z",
+      "summary": "If there are 20 ETFs tracking the same index, does it really matter which one you choose? Turns out, the answer isn’t as straightforward as you might think. In this video, Aastha Khurana breaks down 4 key things to look out for before choosing an ETF — because even ETFs tracking the same index can have some important differences.\n\nTime Stamps\n00:00 Introduction \n01:30 First Key Point\n04:15 Second Key Point\n06:29 Third Key Point\n09:45 Fourth Key Point\n11:36 Things to Remember\n12:16 Conclusion \n__________________________________________________________________\n\nWatch this before you invest in an ETF | NAV vs iNAV: https://youtu.be/DeGzj9BJmcY?si=oIsmsXJz_-k3Re8c\n\nOver 2 crore Indians invest w…",
+      "thumbnail": "https://i3.ytimg.com/vi/6qmGO1ipb_o/hqdefault.jpg",
+      "firstSeen": "2026-09-11T15:56:05.606Z"
+    },
+    {
       "id": "https://thechatter.zerodha.com/p/the-chatter-rbi-governor-rbi-deputy",
       "platform": "substack",
       "group": "Markets",
@@ -15435,11 +15471,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-30T14:04:24.238Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-08-30T16:13:14.469Z",
       "added": 1,
       "errors": 3
@@ -15733,6 +15764,11 @@
       "at": "2026-09-11T13:06:17.644Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-09-11T16:02:28.007Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15857,5 +15893,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-11T13:06:17.644Z"
+  "lastRun": "2026-09-11T16:02:28.007Z"
 }
