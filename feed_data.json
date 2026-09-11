@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/india-floating-solar-tokenised-corporate-bonds",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Why is India paying more for floating solar?",
+      "link": "https://thedailybrief.zerodha.com/p/india-floating-solar-tokenised-corporate-bonds",
+      "published": "2026-09-11T01:42:20.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Why is India paying more for floating solar? Floating solar costs more than conventional solar, but India is betting that avoiding land constraints, reusing existing grid infrastructure,…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!bJi7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bee0a47-90e9-481c-9038-a56744d04011_1536x1024.png",
+      "firstSeen": "2026-09-11T06:51:34.548Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=T9Dtc1xqfCI",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -15387,11 +15399,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-29T18:53:50.227Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-30T07:49:43.367Z",
       "added": 1,
       "errors": 3
@@ -15685,6 +15692,11 @@
       "at": "2026-09-10T18:45:35.900Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-11T06:59:06.162Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -15809,5 +15821,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-10T18:45:35.900Z"
+  "lastRun": "2026-09-11T06:59:06.162Z"
 }
