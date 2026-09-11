@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=22bH1OjAghw",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Can India electrify its factories? - The industrial heat challenge | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=22bH1OjAghw",
+      "published": "2026-09-11T02:30:05.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s Industrial Heat Challenge\nIndia’s decarbonisation push cannot focus only on cleaning up electricity. A large part of industrial energy use still comes from coal, gas and oil burned directly in factories to generate heat for processes such as steelmaking, cement production, chemicals and textiles. The Solar Energy Corporation of India (SECI) is exploring a plan to aggregate industrial demand and procure cheaper renewable power for these applications.\nThe video looks at how this proposed mode…",
+      "thumbnail": "https://i3.ytimg.com/vi/22bH1OjAghw/hqdefault.jpg",
+      "firstSeen": "2026-09-11T09:51:53.862Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/india-floating-solar-tokenised-corporate-bonds",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +23,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Why is India paying more for floating solar? Floating solar costs more than conventional solar, but India is betting that avoiding land constraints, reusing existing grid infrastructure,…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!bJi7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bee0a47-90e9-481c-9038-a56744d04011_1536x1024.png",
       "firstSeen": "2026-09-11T06:51:34.548Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=_zSKKOs9KTg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why India wants to put solar panels on water | India’s first tokenized bond | The Daily Brief #549",
+      "link": "https://www.youtube.com/watch?v=_zSKKOs9KTg",
+      "published": "2026-09-11T01:30:15.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Floating Solar: Why Is India Paying More?\nIndia already has 168 GW of solar capacity, but it is now looking to put more solar panels on water. The government’s PM-SSY scheme aims to support 5 GW of floating solar with energy storage. But floating solar is more expensive and complicated than land-based solar, raising questions about whether its benefits justify…",
+      "thumbnail": "https://i4.ytimg.com/vi/_zSKKOs9KTg/hqdefault.jpg",
+      "firstSeen": "2026-09-11T09:51:53.568Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=T9Dtc1xqfCI",
@@ -113,7 +137,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "FD vs Arbitrage Fund : Which One Is Better? 💰🤯",
+      "title": "In a High Tax Bracket? Don’t Ignore Arbitrage Funds 💰🤯",
       "link": "https://www.youtube.com/shorts/8UQssf3ie4A",
       "published": "2026-09-10T11:00:26.000Z",
       "summary": "Both Fixed Deposit and Arbitrage Fund are popular ways of Short Term Investing but which one should you choose!\n\nAn Arbitrage Fund basically makes money by executing arbitrage opportunities in the equity markets.\nPrimarily It finds these opportunities in Equity Shares priced differently across the Spot Market or the Futures market.\nFor example if the Share of ABC Ltd is trading at 98 in the cash market and at 100 in the futures market the arbitrage fund will buy the stock in the cash market and sell in the futures market to make the profit of 2rs per share.\nIt can do the same if the same stock is priced differently across the 2 exchanges.\n\nOne of the biggest advantages that an Arbitrage Fun…",
@@ -677,7 +701,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "The Real story behind Zero1 by Zerodha",
+      "title": "Zerodha took a Bet on us. This is what we Built.",
       "link": "https://www.youtube.com/watch?v=gxED-fFZalA",
       "published": "2026-09-05T04:30:39.000Z",
       "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUTASB\n\nThree years of Zero1byZerodha ❤️\nSomewhere along the way, we started wondering:\nIs any of this actually making a difference?\n\nSo for Teacher’s Day, we decided to ask you.\nHas Zero1 ever helped you make a financial decision? Changed the way you think about money? Made you sit down with your family and have a conversation you otherwise wouldn't have had?\n\nWe got some incredible stories back. People who changed their buying decisions after watching a video. Families who started talking about money together. Young people who started investing. And plenty of feedback on what we could do better.\n\nThis video is a small thank y…",
@@ -15399,11 +15423,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-30T07:49:43.367Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-08-30T10:40:43.007Z",
       "added": 0,
       "errors": 3
@@ -15697,6 +15716,11 @@
       "at": "2026-09-11T06:59:06.162Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-09-11T09:59:47.842Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15821,5 +15845,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-11T06:59:06.162Z"
+  "lastRun": "2026-09-11T09:59:47.842Z"
 }
