@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-4",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Weekly Tidbits #4",
+      "link": "https://thedailybrief.zerodha.com/p/weekly-tidbits-4",
+      "published": "2026-09-12T04:31:52.000Z",
+      "summary": "Hi everyone, I’m Mridula , and welcome to the fourth edition of Weekly Tidbits. We spend a lot of time reading interesting stories that never make it into a full Daily Brief piece. So, once a week, we pick some of the best ones and add a little context. We sort them into EIC: Economy, Industry and Company. We also come across a LOT of interesting global stories that don’t fit neatly into EIC. Should we add a global section too? Let us know. And should we add more news items to each section? It would make the edition longer, but if you’re game, so are we 🙂 With that said, let’s get started! If you prefer watching the video, here’s the link: E — Economy [1] India’s carbon market can now lowe…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!1_v3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4abb5148-ad9c-4ca6-a4ca-563aee98463a_726x484.png",
+      "firstSeen": "2026-09-12T06:43:37.579Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/kdR7pgdHXms",
       "platform": "youtube",
       "group": "Markets",
@@ -15471,11 +15483,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-30T18:51:51.666Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-08-31T08:03:49.876Z",
       "added": 4,
       "errors": 3
@@ -15769,6 +15776,11 @@
       "at": "2026-09-11T18:50:06.848Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-12T06:51:20.182Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -15893,5 +15905,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-11T18:50:06.848Z"
+  "lastRun": "2026-09-12T06:51:20.182Z"
 }
