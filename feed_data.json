@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/S1kB4-fPQ7c",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "5 Dark Patterns That Make You Spend More Money 💸🤯",
+      "link": "https://www.youtube.com/shorts/S1kB4-fPQ7c",
+      "published": "2026-09-12T11:00:23.000Z",
+      "summary": "Food Delivery and Quick Commerce have become an integral part of our daily lives.\nAnd we have all faced this,  you want to buy a single item but after seeing all the offers,the progress bar and so much more  you end up spending much more.\n\n\n\n1. The Progress Bar: The Bar just tempts you, you are just 47 rupees away from unlocking a discount and you end up adding things you never intended to buy, while the number looks small all of it adds up!\n\n2. The Price Comparison: Most of the things on these apps are available in quantities that we don’t refer to in our daily life. Comparing 430kgs of tomato with what your local vendor sells is a task for the brain and oftentimes you skip doing the compa…",
+      "thumbnail": "https://i4.ytimg.com/vi/S1kB4-fPQ7c/hqdefault.jpg",
+      "firstSeen": "2026-09-12T12:23:27.376Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=dyJA88XQJUk",
       "platform": "youtube",
       "group": "Markets",
@@ -15543,11 +15555,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-31T11:48:56.841Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-08-31T16:27:13.174Z",
       "added": 6,
       "errors": 3
@@ -15841,6 +15848,11 @@
       "at": "2026-09-12T09:35:33.487Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-09-12T12:27:00.013Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15965,5 +15977,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-12T09:35:33.487Z"
+  "lastRun": "2026-09-12T12:27:00.013Z"
 }
