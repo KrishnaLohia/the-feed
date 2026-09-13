@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=wxXbSNWNJao",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why Bengaluru & Delhi Have Different Skies (It’s Not Just Pollution)",
+      "link": "https://www.youtube.com/watch?v=wxXbSNWNJao",
+      "published": "2026-09-13T14:28:32.000Z",
+      "summary": "Have you ever wondered WHY the sky is blue? And why that blue looks so different from one city to another? \nIn this episode, we’re looking at Bengaluru’s famously blue skies and unpacking what makes them look so different from cities like Delhi. Is it JUST pollution? Or is there something more that determines the colour? Watch the full video to find out!\n\n0:00 - Introduction\n0:42 - Chapter 1: Why Are Skies Blue?\n2:35 - Chapter 2: Why Bengaluru Has Bluer Skies?\n\n#bengaluruweather #bengaluru #bangalorenews #delhi #delhipollution #skyblue #skies #indianskies #science #blue #climateaction #theclimatebrief #airpollution #climatechange",
+      "thumbnail": "https://i4.ytimg.com/vi/wxXbSNWNJao/hqdefault.jpg",
+      "firstSeen": "2026-09-13T15:43:46.010Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=iHobGz8frEw",
       "platform": "youtube",
       "group": "Markets",
@@ -15567,11 +15579,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-01T13:46:09.633Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-09-01T16:13:53.552Z",
       "added": 3,
       "errors": 3
@@ -15865,6 +15872,11 @@
       "at": "2026-09-13T13:32:40.346Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-13T15:47:18.020Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15989,5 +16001,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-13T13:32:40.346Z"
+  "lastRun": "2026-09-13T15:47:18.020Z"
 }
