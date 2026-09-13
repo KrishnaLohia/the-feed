@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=iHobGz8frEw",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "What You’re Really Seeing in Order Flow — Part 2 | In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=iHobGz8frEw",
+      "published": "2026-09-13T03:30:06.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst - INH000013059).\n\nIn this episode, we continue our look at order flow and go deeper into the market data that sits behind the market depth and charts traders see every day.\n\nWe look at how much of the order book you can actually see, and explore the difference between Market by Price (MBP) and Market by Order (MBO). We also look at tick-by-tick data, why retail traders may not get access to every order, and what this data means in practic…",
+      "thumbnail": "https://i2.ytimg.com/vi/iHobGz8frEw/hqdefault.jpg",
+      "firstSeen": "2026-09-13T07:00:53.207Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/S1kB4-fPQ7c",
       "platform": "youtube",
       "group": "Zero1",
@@ -15555,11 +15567,6 @@
   },
   "runs": [
     {
-      "at": "2026-08-31T21:06:39.851Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-01T07:09:55.664Z",
       "added": 3,
       "errors": 3
@@ -15853,6 +15860,11 @@
       "at": "2026-09-12T17:55:25.932Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-13T07:08:34.496Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -15977,5 +15989,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-12T17:55:25.932Z"
+  "lastRun": "2026-09-13T07:08:34.496Z"
 }
