@@ -104,7 +104,7 @@
       "title": "How are Indians earning ₹1 Lakh Buying ₹50 Lakh Cars",
       "link": "https://www.youtube.com/watch?v=yzqgyYqAz_0",
       "published": "2026-09-12T04:30:18.000Z",
-      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUTASB\n\nAbhishek just got a new car, and this one is special this is a \n“Luxury Car”. But he technically did not buy it, he got it on a lease!\n\nBut what exactly is a LEASE ?\nWhat are the costs that come along with leasing?\nWhat are the legal clauses attached ? and\nIs it really cheaper than buying? \n\nAbhishek has planned for none of these and in this video we breakdown everything that you should know about leasing a Luxury Car. \n\nPlease check the below excel to fill out your numbers to understand the math of leasing! \nhttps://docs.google.com/spreadsheets/d/1Qlnrwyn326P8F2SfHuTUtAxgQ2SUbR9Tcx8GY3acBvA/edit?usp=sharing\n\n*This vide…",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUTASB\n\nCar Courtesy: Bird Automotive, Gurugram \n\nAbhishek just got a new car, and this one is special this is a \n“Luxury Car”. But he technically did not buy it, he got it on a lease!\n\nBut what exactly is a LEASE ?\nWhat are the costs that come along with leasing?\nWhat are the legal clauses attached ? and\nIs it really cheaper than buying? \n\nAbhishek has planned for none of these and in this video we breakdown everything that you should know about leasing a Luxury Car. \n\nPlease check the below excel to fill out your numbers to understand the math of leasing! \nhttps://docs.google.com/spreadsheets/d/1Qlnrwyn326P8F2SfHuTUtAxgQ2SUbR…",
       "thumbnail": "https://i2.ytimg.com/vi/yzqgyYqAz_0/hqdefault.jpg",
       "firstSeen": "2026-09-12T09:32:05.607Z"
     },
@@ -15579,11 +15579,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-01T18:51:58.299Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-02T06:47:37.449Z",
       "added": 1,
       "errors": 13
@@ -15877,6 +15872,11 @@
       "at": "2026-09-13T18:25:33.676Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-14T07:31:41.195Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16001,5 +16001,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-13T18:25:33.676Z"
+  "lastRun": "2026-09-14T07:31:41.195Z"
 }
