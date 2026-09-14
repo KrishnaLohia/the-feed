@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=TrE6qTaZ47A",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 15 September 2026, Tuesday",
+      "link": "https://www.youtube.com/watch?v=TrE6qTaZ47A",
+      "published": "2026-09-14T14:41:19.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/TrE6qTaZ47A/hqdefault.jpg",
+      "firstSeen": "2026-09-14T15:13:10.836Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/amEsQd5-H84",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Why You Need to Get Better at Losing | Innerworth Ep. 38",
+      "link": "https://www.youtube.com/shorts/amEsQd5-H84",
+      "published": "2026-09-14T14:12:24.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/amEsQd5-H84/hqdefault.jpg",
+      "firstSeen": "2026-09-14T15:11:25.202Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/kYtt0x3nW1E",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "The Cheapest ETF Isn’t Always the Best. Here’s Why? #varsity #zerodha #etf #shorts",
+      "link": "https://www.youtube.com/shorts/kYtt0x3nW1E",
+      "published": "2026-09-14T13:30:01.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/kYtt0x3nW1E/hqdefault.jpg",
+      "firstSeen": "2026-09-14T15:12:35.855Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/MuKt6q9Dkc8",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "3 Checks You MUST Do on Your Portfolio Right Now! 📊🤯",
+      "link": "https://www.youtube.com/shorts/MuKt6q9Dkc8",
+      "published": "2026-09-14T11:00:35.000Z",
+      "summary": "Here are 3 Portfolio Checks you should do:\n\n1. Rebalancing:\nSay many years ago you invested 100, Rs 80 in equity and 20 in Debt, say for example your equity is now up to 120 and the debt becomes 25.\nYour New Ratio now is NO More 80:20, ideally if you don’t want your portfolio to be concentrated in 1 asset. You should rebalance and bring the diversification ratio back to original levels.\n\n2. Align your Goals: \nAll assets are not the default right match for any kind of goal. Ideally you should match the nature of the asset with the timeline of your goal. For example equities might not be the best choice to fund your vacation next year, equity markets are volatile, they have cycles and 1 year…",
+      "thumbnail": "https://i2.ytimg.com/vi/MuKt6q9Dkc8/hqdefault.jpg",
+      "firstSeen": "2026-09-14T15:15:28.552Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=wxXbSNWNJao",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -15579,11 +15627,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-02T09:52:30.953Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-09-02T13:03:07.720Z",
       "added": 2,
       "errors": 3
@@ -15877,6 +15920,11 @@
       "at": "2026-09-14T10:56:35.506Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-14T15:18:56.103Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16001,5 +16049,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-14T10:56:35.506Z"
+  "lastRun": "2026-09-14T15:18:56.103Z"
 }
