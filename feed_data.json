@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/soaring-oil-and-bond-yields-hammer",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Soaring oil and bond yields hammer Nifty; closes near 23,100",
+      "link": "https://aftermarketreport.zerodha.com/p/soaring-oil-and-bond-yields-hammer",
+      "published": "2026-09-15T14:36:55.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a 178-point gap up at 23,576, led primarily by IT stocks amid hopes that a slowing pace of improvement in AI models could benefit software companies. However, the upmove faded almost immediately as fragile global equities, elevated bond yields and high crude oil prices continued to weigh on sentiment. Nifty briefly touched 23,590 in the opening minutes before steadily giving up gains, slipping below 23,400 by around 10 AM. The decline continued through the first half, with the index drifting towards the 23,330–23,350 zone…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!pVrx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfa0ebb2-5814-4584-ab97-e664c5b58219_1456x971.webp",
+      "firstSeen": "2026-09-15T16:19:23.239Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/1SLe4rz_Kg0",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -15735,11 +15747,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-03T13:05:21.922Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-09-03T15:57:18.077Z",
       "added": 5,
       "errors": 3
@@ -16033,6 +16040,11 @@
       "at": "2026-09-15T13:56:08.628Z",
       "added": 6,
       "errors": 3
+    },
+    {
+      "at": "2026-09-15T16:27:05.350Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16157,5 +16169,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-15T13:56:08.628Z"
+  "lastRun": "2026-09-15T16:27:05.350Z"
 }
