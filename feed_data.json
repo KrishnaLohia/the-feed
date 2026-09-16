@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=UsZP_POZ2rc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "India’s Satellite Internet plan - Pricing, Starlink & network control | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=UsZP_POZ2rc",
+      "published": "2026-09-16T02:30:11.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s Satellite Internet Race\nIndia is moving closer to satellite internet services from Starlink, Jio and Airtel, with the Digital Communications Commission reportedly backing a new spectrum pricing formula. The video looks at the economics of satellite internet, where it can work best, and how it could complement India’s existing fibre and mobile networks.\nIt also explores who controls these satellite networks and how India is addressing regulatory and security concerns, while looking at the fu…",
+      "thumbnail": "https://i2.ytimg.com/vi/UsZP_POZ2rc/hqdefault.jpg",
+      "firstSeen": "2026-09-16T07:01:53.276Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/india-elder-care-industry-andhra-pradesh-data-centres-undersea-internet",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "How India's elder-care industry works",
+      "link": "https://thedailybrief.zerodha.com/p/india-elder-care-industry-andhra-pradesh-data-centres-undersea-internet",
+      "published": "2026-09-16T01:44:11.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. How India's elder-care industry works As shrinking families and migration strain traditional support systems, a new commercial elder-care industry is emerging in India. However, high mon…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!2ZPo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe594f91d-d2e4-44f1-89ee-36ffa0fc3a16_1536x1024.png",
+      "firstSeen": "2026-09-16T07:01:53.741Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=cpiQml-S55o",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "How India’s elder-care industry works | India’s new internet gateway | The Daily Brief #551",
+      "link": "https://www.youtube.com/watch?v=cpiQml-S55o",
+      "published": "2026-09-16T01:30:26.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. How India’s elder-care industry works\nIndia’s ageing population, smaller families, migration and longer lifespans are creating a growing need for organised elder care. A new industry is emerging around senior housing, home care, nursing and assisted living, but affordability and a shortage of trained caregivers remain major challenges.\n\nWe’ll cover:\n●Why India…",
+      "thumbnail": "https://i4.ytimg.com/vi/cpiQml-S55o/hqdefault.jpg",
+      "firstSeen": "2026-09-16T07:01:52.784Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=2lXcAUG0rcw",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -15747,11 +15783,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-03T18:57:52.329Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-04T06:54:56.862Z",
       "added": 1,
       "errors": 13
@@ -16045,6 +16076,11 @@
       "at": "2026-09-15T19:16:39.213Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-16T07:09:37.218Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16169,5 +16205,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-15T19:16:39.213Z"
+  "lastRun": "2026-09-16T07:09:37.218Z"
 }
