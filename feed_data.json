@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/all-eyes-on-fed-as-nifty-recovers",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "All eyes on Fed as Nifty recovers modestly to close above 23,200",
+      "link": "https://aftermarketreport.zerodha.com/p/all-eyes-on-fed-as-nifty-recovers",
+      "published": "2026-09-16T15:31:17.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now looking at market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. The idea is to bring different datasets together in one place and help traders and investors get a clearer picture of what’s actually happening beneath the surface of the market. This is still a work in progress, so we’d reall…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!_Dxy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d75c66a-8749-4fb4-815b-99d11760ba0a_1456x971.webp",
+      "firstSeen": "2026-09-16T16:11:17.704Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/PtGqYIkbZXY",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "Can you really raise VC funding without a pitch deck?",
+      "link": "https://www.youtube.com/shorts/PtGqYIkbZXY",
+      "published": "2026-09-16T15:18:27.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/PtGqYIkbZXY/hqdefault.jpg",
+      "firstSeen": "2026-09-16T16:14:45.609Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=aHpj_YXkQSw",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 17 September 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=aHpj_YXkQSw",
+      "published": "2026-09-16T15:13:55.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/aHpj_YXkQSw/hqdefault.jpg",
+      "firstSeen": "2026-09-16T16:13:02.384Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/K5qiyr4MdNA",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "UPI Isn’t Free Anymore? Here’s the Truth! 🚨🤯",
+      "link": "https://www.youtube.com/shorts/K5qiyr4MdNA",
+      "published": "2026-09-16T14:30:11.000Z",
+      "summary": "UPI isn’t becoming “paid” for everyone. There’s a new MDR structure for certain merchant transactions, but the important question is who actually pays it?\n\nMDR, or Merchant Discount Rate, is the fee charged to a merchant when they accept a digital payment. Cards have had MDR for years, while UPI has had 0 MDR since 2020.\n\nUnder the new structure:\n• Person-to-person UPI payments: Still free, with no transaction limit\n• Merchant payments up to ₹2,000: No MDR\n• Merchant payments above ₹2,000: 0.4% MDR, capped at ₹300 per transaction\n• Railways, telecom, insurance, fuel and utility bills: ₹5 flat charge for certain transactions above ₹2,000\n• Mutual funds and broker payments: 0.02%\n• Auto SIPs:…",
+      "thumbnail": "https://i4.ytimg.com/vi/K5qiyr4MdNA/hqdefault.jpg",
+      "firstSeen": "2026-09-16T16:15:20.862Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/kJ0bMaN6ljE",
       "platform": "youtube",
       "group": "Varsity",
@@ -15843,11 +15891,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-04T13:00:32.954Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-04T15:55:42.044Z",
       "added": 4,
       "errors": 3
@@ -16141,6 +16184,11 @@
       "at": "2026-09-16T13:48:15.935Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-09-16T16:18:47.478Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16265,5 +16313,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-16T13:48:15.935Z"
+  "lastRun": "2026-09-16T16:18:47.478Z"
 }
