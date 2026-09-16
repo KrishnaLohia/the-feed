@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/kJ0bMaN6ljE",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "How Volatility Affects Your Straddle Strategy? #varsity #zerodha #shorts #optionstrading",
+      "link": "https://www.youtube.com/shorts/kJ0bMaN6ljE",
+      "published": "2026-09-16T13:30:02.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/kJ0bMaN6ljE/hqdefault.jpg",
+      "firstSeen": "2026-09-16T13:41:55.308Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Q0SKkk-zq9w",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Christopher Nolan knows his finance ft, Manie",
+      "link": "https://www.youtube.com/shorts/Q0SKkk-zq9w",
+      "published": "2026-09-16T13:04:08.000Z",
+      "summary": "Did Christopher Nolan hide a massive finance lesson inside Tenet? 👀\n\n[Christopher Nolan, Tenet, finance, freeports, movies, money laundering]",
+      "thumbnail": "https://i2.ytimg.com/vi/Q0SKkk-zq9w/hqdefault.jpg",
+      "firstSeen": "2026-09-16T13:40:44.259Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/1sePOotDjB4",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Bengaluru’s Blue Sky Story",
+      "link": "https://www.youtube.com/shorts/1sePOotDjB4",
+      "published": "2026-09-16T12:43:13.000Z",
+      "summary": "Watch the full video on our YouTube channel!\n\n#bengaluruweather #bengaluru #bangalorenews #delhi #delhipollution #skyblue #skies #indianskies #science #blue #climateaction #theclimatebrief #airpollution #climatechange",
+      "thumbnail": "https://i2.ytimg.com/vi/1sePOotDjB4/hqdefault.jpg",
+      "firstSeen": "2026-09-16T13:44:48.729Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-solar-industries-phonepe",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: Solar Industries, PhonePe, Coforge, Senco & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-solar-industries-phonepe",
+      "published": "2026-09-16T12:02:07.000Z",
+      "summary": "Welcome to the 89th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 5 companies across 5 industries. Chemicals Solar Industries India Ltd Fintech PhonePe Software Services Coforge Ltd Healthcare IOL Chem & Pharma Retail Senco Gold Chemicals Solar Ind…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!B-by!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66ebed0d-0b29-4633-81e7-a2d482011d34_2400x1350.png",
+      "firstSeen": "2026-09-16T13:40:45.310Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=aCfTY4VxNUY",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NSE IPO: Business model, financials, risks & how to apply",
+      "link": "https://www.youtube.com/watch?v=aCfTY4VxNUY",
+      "published": "2026-09-16T11:14:45.000Z",
+      "summary": "The NSE IPO opens on 17 September 2026 and ends on 21 September 2026. Here's how the exchange actually makes money, and how to apply for the issue through Zerodha Kite.\n\nIn this video: we explain how NSE earns most of its revenue from transaction fees on every trade, and break down its other revenue lines, data connectivity, listing fees, index licensing and clearing services. We compare NSE's income and profit growth from FY24 to FY26, and compare NSE with BSE on revenue, market share and margins. We cover the IPO structure, price band, lot size and issue size, and explain why NSE has no promoter, under SEBI's rules for market infrastructure institutions.\n\nFinally, we walk through applying…",
+      "thumbnail": "https://i2.ytimg.com/vi/aCfTY4VxNUY/hqdefault.jpg",
+      "firstSeen": "2026-09-16T13:42:30.080Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=UsZP_POZ2rc",
       "platform": "youtube",
       "group": "Markets",
@@ -15783,11 +15843,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-04T09:53:26.789Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-09-04T13:00:32.954Z",
       "added": 0,
       "errors": 3
@@ -16081,6 +16136,11 @@
       "at": "2026-09-16T10:13:53.699Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-16T13:48:15.935Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16205,5 +16265,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-16T10:13:53.699Z"
+  "lastRun": "2026-09-16T13:48:15.935Z"
 }
