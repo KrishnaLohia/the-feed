@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=aHpj_YXkQSw",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 17 September 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=aHpj_YXkQSw",
+      "published": "2026-09-16T16:54:11.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/aHpj_YXkQSw/hqdefault.jpg",
+      "firstSeen": "2026-09-16T16:13:02.384Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/all-eyes-on-fed-as-nifty-recovers",
       "platform": "substack",
       "group": "Markets",
@@ -23,18 +35,6 @@
       "summary": "",
       "thumbnail": "https://i1.ytimg.com/vi/PtGqYIkbZXY/hqdefault.jpg",
       "firstSeen": "2026-09-16T16:14:45.609Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=aHpj_YXkQSw",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 17 September 2026, Thursday",
-      "link": "https://www.youtube.com/watch?v=aHpj_YXkQSw",
-      "published": "2026-09-16T15:13:55.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i2.ytimg.com/vi/aHpj_YXkQSw/hqdefault.jpg",
-      "firstSeen": "2026-09-16T16:13:02.384Z"
     },
     {
       "id": "https://www.youtube.com/shorts/K5qiyr4MdNA",
@@ -15891,11 +15891,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-04T15:55:42.044Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-09-04T18:39:48.734Z",
       "added": 1,
       "errors": 3
@@ -16189,6 +16184,11 @@
       "at": "2026-09-16T16:18:47.478Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-09-16T19:08:17.616Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16313,5 +16313,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-16T16:18:47.478Z"
+  "lastRun": "2026-09-16T19:08:17.616Z"
 }
