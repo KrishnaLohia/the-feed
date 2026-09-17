@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=ro1LJY7ZyBg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Dual Momentum: When to Buy and When to Stay Out Part 2 | The Long & The Short Ep. 52",
+      "link": "https://www.youtube.com/watch?v=ro1LJY7ZyBg",
+      "published": "2026-09-17T07:54:02.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhat if the stock that's falling the least in a bear market is still not worth buying? Relative momentum might say yes. Absolute momentum might say no. So what happens when you combine the two?\n\nThis episode of The Long & The Short looks at Dual Momentum — an approach that combines relative and absolute momentum. We go back to where the idea came from, look at Gary Antonacci's Global Equities Momentum (GEM) strategy, and then build a similar approach for the Indian market using Nifty and gold.\n\nTow…",
+      "thumbnail": "https://i3.ytimg.com/vi/ro1LJY7ZyBg/hqdefault.jpg",
+      "firstSeen": "2026-09-17T10:09:21.756Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Sb_M8uai81o",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "All you need to know about NSE IPO",
+      "link": "https://www.youtube.com/shorts/Sb_M8uai81o",
+      "published": "2026-09-17T04:15:59.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/Sb_M8uai81o/hqdefault.jpg",
+      "firstSeen": "2026-09-17T10:11:10.101Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=qVEy-hDG4d4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "India is ageing. Who will take care of the elderly? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=qVEy-hDG4d4",
+      "published": "2026-09-17T02:30:01.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s Growing Elder-Care Industry\nIndia’s families are getting smaller and more geographically spread out, while people are living longer. This is creating a growing need for organised elder care as fewer family members are available to look after ageing parents. The emerging elder-care industry now offers everything from home-care subscriptions and nursing to senior housing and assisted living.\nThe video explores how India’s elder-care industry works, its different business models, why care rema…",
+      "thumbnail": "https://i2.ytimg.com/vi/qVEy-hDG4d4/hqdefault.jpg",
+      "firstSeen": "2026-09-17T10:09:21.899Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/brics-payment-dollar-dedollarisation-uk-india-carbon-market-exports",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +47,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The fragile compromises of the BRICS summit The 18th BRICS summit in Delhi produced an 18,000-word joint declaration, but deep internal divisions stalled any concrete progress on a share…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!ISFB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1076cf87-8859-4041-a7fb-a1f051d78ca0_1536x1024.png",
       "firstSeen": "2026-09-17T06:57:22.112Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=rfWJ7uPQb9w",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India’s BRICS summit, decoded | UK recognizes India’s carbon market | The Daily Brief #552",
+      "link": "https://www.youtube.com/watch?v=rfWJ7uPQb9w",
+      "published": "2026-09-17T01:30:13.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. The BRICS Summit: What Was Actually Achieved?\nThe 18th BRICS Summit in Delhi brought together 11 countries with very different geopolitical and economic interests. While the New Delhi Declaration covered issues ranging from de-dollarisation and payment systems to trade and technology, the summit also highlighted how difficult it is for the expanded bloc to rea…",
+      "thumbnail": "https://i3.ytimg.com/vi/rfWJ7uPQb9w/hqdefault.jpg",
+      "firstSeen": "2026-09-17T10:09:21.498Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=aHpj_YXkQSw",
@@ -344,7 +392,7 @@
       "title": "The Truth About Order Flow: What Are You Really Seeing? — Part 2 | In The Money by Zerodha",
       "link": "https://www.youtube.com/watch?v=iHobGz8frEw",
       "published": "2026-09-13T03:30:06.000Z",
-      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhen you open a stock on Kite, you see market depth — a few rows of bids and offers. But how much of the order book are you really seeing? And when someone shows you an order flow chart, where do those numbers even come from, and can you trust them? This episode of The Long & The Short goes underneath market depth and order flow charts to answer exactly that. \n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst - INH000013059). \n\n📌 In this video \n\n00:00 - Intro\n01:44 - How Much of the Or…",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhen you open a stock on Kite, you see market depth — a few rows of bids and offers. But how much of the order book are you really seeing? And when someone shows you an order flow chart, where do those numbers even come from, and can you trust them? This episode of The Long & The Short goes underneath market depth and order flow charts to answer exactly that. \n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst - INH000013059). \n\n📌 In this video \n\n00:00 - Intro\n01:44 – Market by Price (M…",
       "thumbnail": "https://i2.ytimg.com/vi/iHobGz8frEw/hqdefault.jpg",
       "firstSeen": "2026-09-13T07:00:53.207Z"
     },
@@ -15903,11 +15951,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-05T06:40:15.011Z",
-      "added": 0,
-      "errors": 13
-    },
-    {
       "at": "2026-09-05T09:18:15.796Z",
       "added": 8,
       "errors": 3
@@ -16201,6 +16244,11 @@
       "at": "2026-09-17T07:04:52.182Z",
       "added": 1,
       "errors": 9
+    },
+    {
+      "at": "2026-09-17T10:17:03.352Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16325,5 +16373,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-17T07:04:52.182Z"
+  "lastRun": "2026-09-17T10:17:03.352Z"
 }
