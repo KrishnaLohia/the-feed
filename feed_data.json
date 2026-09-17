@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=imY9oK__DVQ",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 18 September 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=imY9oK__DVQ",
+      "published": "2026-09-17T16:14:49.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/imY9oK__DVQ/hqdefault.jpg",
+      "firstSeen": "2026-09-17T16:19:16.650Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=7iPLpb2HGvc",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Jindal Supreme IPO: Business model, financials, risks & how to apply",
+      "link": "https://www.youtube.com/watch?v=7iPLpb2HGvc",
+      "published": "2026-09-17T16:00:21.000Z",
+      "summary": "The Jindal Supreme (India) Limited IPO opened on 16 September 2026 and closes on 18 September 2026. Here is how the steel fabrication company actually makes money, and how you can apply for the issue through Zerodha Kite\nIn this video, we explain how Jindal Supreme earns most of its revenue from steel piping (mild steel black & galvanised pipes), and break down its newer, higher-margin infrastructure lines like metal beam highway crash barriers and street lighting poles. We analyse Jindal Supreme's income and profit growth from FY25 to FY26, and compare its Return on Net Worth (RoNW) with listed peers like Vibhor Steel Tubes, Sambhv Steel Tubes, and Hi-Tech Pipes. We cover the IPO structure…",
+      "thumbnail": "https://i4.ytimg.com/vi/7iPLpb2HGvc/hqdefault.jpg",
+      "firstSeen": "2026-09-17T16:19:16.650Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/market-struggles-at-higher-levels",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Market struggles at higher levels as immediate positive triggers remain elusive",
+      "link": "https://aftermarketreport.zerodha.com/p/market-struggles-at-higher-levels",
+      "published": "2026-09-17T14:42:23.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now looking at market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. The idea is to bring different datasets together in one place and help traders and investors get a clearer picture of what’s actually happening beneath the surface of the market. This is still a work in progress, so we’d reall…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!_Dxy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d75c66a-8749-4fb4-815b-99d11760ba0a_1456x971.webp",
+      "firstSeen": "2026-09-17T16:17:30.515Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/vJarpr-5CEQ",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -15999,11 +16035,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-05T12:06:16.982Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-05T14:45:40.177Z",
       "added": 1,
       "errors": 3
@@ -16297,6 +16328,11 @@
       "at": "2026-09-17T13:51:03.172Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-09-17T16:25:05.847Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16421,5 +16457,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-17T13:51:03.171Z"
+  "lastRun": "2026-09-17T16:25:05.847Z"
 }
