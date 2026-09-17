@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/vJarpr-5CEQ",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "The Science Behind Blue Skies!",
+      "link": "https://www.youtube.com/shorts/vJarpr-5CEQ",
+      "published": "2026-09-17T13:37:41.000Z",
+      "summary": "Watch the full video on our YouTube channel!\n\n#bengaluruweather #bengaluru #bangalorenews #delhi #delhipollution #skyblue #skies #indianskies #science #blue #climateaction #theclimatebrief #airpollution #climatechange",
+      "thumbnail": "https://i3.ytimg.com/vi/vJarpr-5CEQ/hqdefault.jpg",
+      "firstSeen": "2026-09-17T13:47:32.151Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Shri7vY9XkI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "How do developing nations go green? ft. CSE India | Subtext by Zerodha",
+      "link": "https://www.youtube.com/watch?v=Shri7vY9XkI",
+      "published": "2026-09-17T13:20:20.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nPranav sits down with Avantika Goswami and Trishant Dev from the Center for Science and Environment (CSE) to unpack the messy reality of green industrialization. They discuss India's solar tariffs and PLI schemes, China's grip on clean tech supply chains, whether joint ventures actually deliver technology transfer, and how CBAM shifts the burden of decarbonization onto poorer nations.\n\nThe conversation also gets into coal, what a \"just transition\" really means for states like Jharkhand and Odisha,…",
+      "thumbnail": "https://i4.ytimg.com/vi/Shri7vY9XkI/hqdefault.jpg",
+      "firstSeen": "2026-09-17T13:43:24.476Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Ksl8FCqO1pE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India's iPhone pricing dilemma ft. Mridula",
+      "link": "https://www.youtube.com/shorts/Ksl8FCqO1pE",
+      "published": "2026-09-17T13:00:02.000Z",
+      "summary": "India makes 25% of the world's iPhones, so why aren't they getting any cheaper? 📱\n\n[Apple, iPhone, Made in India, tech, manufacturing, economy]",
+      "thumbnail": "https://i4.ytimg.com/vi/Ksl8FCqO1pE/hqdefault.jpg",
+      "firstSeen": "2026-09-17T13:43:24.053Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=nKRlTtVk-rM",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "SS Retail IPO: Business model, financials, risks & how to apply",
+      "link": "https://www.youtube.com/watch?v=nKRlTtVk-rM",
+      "published": "2026-09-17T12:49:15.000Z",
+      "summary": "The SS Retail Limited IPO opened on 16 September 2026 and closes on 18 September 2026. Here is how the retail chain actually makes money and how to apply for the issue through Zerodha Kite\n\nIn this video: we explain how SS Retail earns most of its revenue from smartphone and electronics retail, and break down its three distinct retail formats: Company Owned Franchise Operated (COFO), Company Owned Company Operated (COCO), and Franchise Owned Franchise Operated (FOFO). We compare SS Retail's income and profit growth from FY24 to FY26, and compare SS Retail with listed peers like Aditya Vision, Jay Jalaram Technologies, and Electronics Mart India on store count, productivity, and return ratio…",
+      "thumbnail": "https://i3.ytimg.com/vi/nKRlTtVk-rM/hqdefault.jpg",
+      "firstSeen": "2026-09-17T13:45:11.942Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=ro1LJY7ZyBg",
       "platform": "youtube",
       "group": "Markets",
@@ -15951,11 +15999,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-05T09:18:15.796Z",
-      "added": 8,
-      "errors": 3
-    },
-    {
       "at": "2026-09-05T12:06:16.982Z",
       "added": 1,
       "errors": 3
@@ -16249,6 +16292,11 @@
       "at": "2026-09-17T10:17:03.352Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-09-17T13:51:03.172Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16373,5 +16421,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-17T10:17:03.352Z"
+  "lastRun": "2026-09-17T13:51:03.171Z"
 }
