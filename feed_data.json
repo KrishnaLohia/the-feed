@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/sensex-logs-longest-weekly-losing",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Sensex logs longest weekly losing streak since 2020",
+      "link": "https://aftermarketreport.zerodha.com/p/sensex-logs-longest-weekly-losing",
+      "published": "2026-09-18T14:56:43.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now looking at market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. The idea is to bring different datasets together in one place and help traders and investors get a clearer picture of what’s actually happening beneath the surface of the market. This is still a work in progress, so we’d reall…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!-ISq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b65243f-8038-40e5-add3-b6e4afd779d1_1456x971.webp",
+      "firstSeen": "2026-09-18T15:53:00.274Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/44sMZYWOAek",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Bengaluru’s Blue Sky Lottery",
+      "link": "https://www.youtube.com/shorts/44sMZYWOAek",
+      "published": "2026-09-18T13:56:07.000Z",
+      "summary": "Watch the full video on our YouTube channel!\n\n#bengaluruweather #bengaluru #bangalorenews #delhi #delhipollution #skyblue #skies #indianskies #science #blue #climateaction #theclimatebrief #airpollution #climatechange",
+      "thumbnail": "https://i1.ytimg.com/vi/44sMZYWOAek/hqdefault.jpg",
+      "firstSeen": "2026-09-18T15:57:03.847Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=dq44PB-rs2k",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "CTC vs Gross Salary vs In-Hand Salary, Explained!",
+      "link": "https://www.youtube.com/watch?v=dq44PB-rs2k",
+      "published": "2026-09-18T13:30:03.000Z",
+      "summary": "Does a ₹15 lakh CTC really mean you'll receive ₹1.25 lakh in your bank account every month? In this video, Aastha Khurana breaks down a salary slip to explain the difference between CTC, Gross Salary and Net Salary, along with the common components you should understand before accepting a job offer. If you've ever been confused by your salary structure, this video is for you.\n\nTime Stamps\n00:00 Introduction \n00:35 What is CTC?\n01:16 What is Gross Salary?\n01:28 Basic salary\n01:50 HRA\n02:30 Dearness Allowance\n02:48 Fixed allowance vs other allowance\n03:28 Performance bonus\n03:45 Leave encashment\n05:05 What is Net salary or Salary in Hand?\n05:20 PF (or VPF)\n06:24 PT\n06:54 Insurance\n07:26 TDS\n0…",
+      "thumbnail": "https://i1.ytimg.com/vi/dq44PB-rs2k/hqdefault.jpg",
+      "firstSeen": "2026-09-18T15:54:10.372Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/Yo9a_HtIdIs",
       "platform": "youtube",
       "group": "Markets",
@@ -16143,11 +16179,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-06T12:24:21.118Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-06T15:05:51.210Z",
       "added": 0,
       "errors": 3
@@ -16441,6 +16472,11 @@
       "at": "2026-09-18T13:13:45.384Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-09-18T16:00:31.155Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16565,5 +16601,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-18T13:13:45.384Z"
+  "lastRun": "2026-09-18T16:00:31.155Z"
 }
