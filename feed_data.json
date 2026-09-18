@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/india-copper-recycling-coal-renewable-power-industrial-use",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "India’s untapped pool of copper",
+      "link": "https://thedailybrief.zerodha.com/p/india-copper-recycling-coal-renewable-power-industrial-use",
+      "published": "2026-09-18T01:48:30.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. India’s untapped pool of copper With copper demand soaring and India importing over 90% of its concentrate, the country is sitting on a massive, untapped “above-ground” reservoir of copp…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!qvu6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F170c26b0-96c0-40b6-a695-424975aedd65_1536x1024.png",
+      "firstSeen": "2026-09-18T06:54:09.641Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=imY9oK__DVQ",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -16035,11 +16047,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-05T17:36:14.533Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-06T06:49:58.616Z",
       "added": 1,
       "errors": 11
@@ -16333,6 +16340,11 @@
       "at": "2026-09-17T19:18:36.308Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-18T07:01:49.685Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -16457,5 +16469,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-17T19:18:36.308Z"
+  "lastRun": "2026-09-18T07:01:49.685Z"
 }
