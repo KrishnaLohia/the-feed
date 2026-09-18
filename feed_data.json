@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/Yo9a_HtIdIs",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Global food price hike ft. Kulsum",
+      "link": "https://www.youtube.com/shorts/Yo9a_HtIdIs",
+      "published": "2026-09-18T12:51:17.000Z",
+      "summary": "Why are your daily groceries and favorite snacks quietly getting more expensive? 🛒\n\n[food prices, inflation, edible oil, agriculture, economy, India]",
+      "thumbnail": "https://i2.ytimg.com/vi/Yo9a_HtIdIs/hqdefault.jpg",
+      "firstSeen": "2026-09-18T13:06:02.308Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-sebi-chairman-mazagon",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: SEBI Chairman, Mazagon Dock Shipbuilders, Mphasis, Redington & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-sebi-chairman-mazagon",
+      "published": "2026-09-18T12:44:08.000Z",
+      "summary": "Welcome to the 90th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 5 companies across 5 industries and a Regulator’s Speech. Regulator Chairman, SEBI Defence Mazagon Dock Shipbuilders Limited Software Services Mphasis Limited Trading Redington Limit…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!RBgI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F354b5912-d039-4913-8b5d-2055e4b59d04_2400x1350.png",
+      "firstSeen": "2026-09-18T13:06:03.475Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/m10pT4gigRM",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "All you need to know about NSE IPO",
+      "link": "https://www.youtube.com/shorts/m10pT4gigRM",
+      "published": "2026-09-18T11:52:28.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/m10pT4gigRM/hqdefault.jpg",
+      "firstSeen": "2026-09-18T13:07:50.382Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/oWRhSb3dFvg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "SEBI wants to change CAS again: here's what you need to know",
+      "link": "https://www.youtube.com/shorts/oWRhSb3dFvg",
+      "published": "2026-09-18T11:02:31.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/oWRhSb3dFvg/hqdefault.jpg",
+      "firstSeen": "2026-09-18T13:06:02.318Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/UFyLV4akTYQ",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Why Is the iPhone Duo ₹3 Lakh in India?🤯",
+      "link": "https://www.youtube.com/shorts/UFyLV4akTYQ",
+      "published": "2026-09-18T11:00:21.000Z",
+      "summary": "Why is the new iPhone Duo so expensive in India?\n\nApple’s latest launch has pushed iPhone prices to new highs, with the iPhone Duo starting at around ₹3 lakh and the iPhone 18 Pro at ₹1.64 lakh in India.\n\nHere are 2 big reasons:\n\nIndia’s 18% GST + pricing differences\nAn iPhone that costs around ₹1.14 lakh in the US can cost ₹1.64 lakh in India, making it roughly 43% more expensive. Depending on the model and current exchange rates, buying it in certain other countries can work out cheaper.\n\n2. Memory chips have become much more expensive\nAccording to WSJ and TrendForce, RAM and storage now make up around 34% of an iPhone’s component cost, compared to about 10% a year ago, and this could cro…",
+      "thumbnail": "https://i2.ytimg.com/vi/UFyLV4akTYQ/hqdefault.jpg",
+      "firstSeen": "2026-09-18T13:10:12.489Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=0bqq1tGOvps",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -16083,11 +16143,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-06T09:39:43.907Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-06T12:24:21.118Z",
       "added": 1,
       "errors": 3
@@ -16381,6 +16436,11 @@
       "at": "2026-09-18T10:03:18.719Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-09-18T13:13:45.384Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16505,5 +16565,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-18T10:03:18.719Z"
+  "lastRun": "2026-09-18T13:13:45.384Z"
 }
