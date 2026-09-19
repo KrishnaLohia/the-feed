@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-5",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Weekly Tidbits #5",
+      "link": "https://thedailybrief.zerodha.com/p/weekly-tidbits-5",
+      "published": "2026-09-19T05:30:53.000Z",
+      "summary": "Hi everyone, I’m Kulsum , and welcome to the fifth edition of Weekly Tidbits. Mridula is away collecting her degree at her convocation, so I’m filling in for her this week. We spend a lot of time reading interesting stories that never make it into a full Daily Brief piece. So, once a week, we pick some of the best ones and add a little context. We sort them into GEIC: Global, Economy, Industry and Company. You asked for a global section last week, so we’ve added one. Let us know if it works or makes the edition too long. With that said, let’s get started! If you prefer watching the video, here’s the link: G — Global [1] US regulator eases rules for trading tokenised stocks The US securities…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!aqoX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe70ec092-faab-4edd-89f2-3250997a8611_1024x683.png",
+      "firstSeen": "2026-09-19T06:52:58.890Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/sensex-logs-longest-weekly-losing",
       "platform": "substack",
       "group": "Markets",
@@ -16179,11 +16191,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-06T17:46:32.780Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-07T06:58:28.183Z",
       "added": 1,
       "errors": 13
@@ -16477,6 +16484,11 @@
       "at": "2026-09-18T18:44:01.326Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-19T07:00:43.927Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -16601,5 +16613,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-18T18:44:01.326Z"
+  "lastRun": "2026-09-19T07:00:43.927Z"
 }
