@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/E6EWVXxIUV4",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Can India face 100% Tariffs 🤯",
+      "link": "https://www.youtube.com/shorts/E6EWVXxIUV4",
+      "published": "2026-09-19T11:00:31.000Z",
+      "summary": "The US Congress just approved a law giving the US Govt a power to apply a 100% tariff on Russian Oil Importers such as India and China.  \n\nIndia being a net importer of Oil is heavily dependent on meeting its energy needs through imports, after the tensions in the middle east India has been a large buyer of the Russian.\n\nThe US and Russia are on the opposite ends in the current geopolitical scenario. The US wants the Russian government to be economically isolated and virtually block anyway Russia can make profits.\n\nIndia and US have a long standing Trade Relationship with US being India’s largest trade partner. Indian has been a large exporter of both goods and services to the US however th…",
+      "thumbnail": "https://i2.ytimg.com/vi/E6EWVXxIUV4/hqdefault.jpg",
+      "firstSeen": "2026-09-19T12:43:10.829Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-5",
       "platform": "substack",
       "group": "Markets",
@@ -16275,11 +16287,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-07T10:39:44.014Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-09-07T14:31:20.410Z",
       "added": 5,
       "errors": 3
@@ -16573,6 +16580,11 @@
       "at": "2026-09-19T09:44:33.963Z",
       "added": 7,
       "errors": 3
+    },
+    {
+      "at": "2026-09-19T12:46:41.188Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16697,5 +16709,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-19T09:44:33.963Z"
+  "lastRun": "2026-09-19T12:46:41.188Z"
 }
