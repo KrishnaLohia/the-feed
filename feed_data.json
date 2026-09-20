@@ -161,7 +161,7 @@
       "platform": "youtube",
       "group": "Varsity",
       "sourceName": "Varsity by Zerodha (YouTube)",
-      "title": "CTC vs Gross Salary vs In-Hand Salary, Explained!",
+      "title": "How to Read Your Salary Slip?",
       "link": "https://www.youtube.com/watch?v=dq44PB-rs2k",
       "published": "2026-09-18T13:30:03.000Z",
       "summary": "Does a ₹15 lakh CTC really mean you'll receive ₹1.25 lakh in your bank account every month? In this video, Aastha Khurana breaks down a salary slip to explain the difference between CTC, Gross Salary and Net Salary, along with the common components you should understand before accepting a job offer. If you've ever been confused by your salary structure, this video is for you.\n\nTime Stamps\n00:00 Introduction \n00:35 What is CTC?\n01:16 What is Gross Salary?\n01:28 Basic salary\n01:50 HRA\n02:30 Dearness Allowance\n02:48 Fixed allowance vs other allowance\n03:28 Performance bonus\n03:45 Leave encashment\n05:05 What is Net salary or Salary in Hand?\n05:20 PF (or VPF)\n06:24 PT\n06:54 Insurance\n07:26 TDS\n0…",
@@ -16311,11 +16311,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-08T16:09:34.085Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-09-08T19:00:50.530Z",
       "added": 0,
       "errors": 3
@@ -16609,6 +16604,11 @@
       "at": "2026-09-20T15:37:44.740Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-20T18:23:28.786Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16733,5 +16733,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-20T15:37:44.740Z"
+  "lastRun": "2026-09-20T18:23:28.786Z"
 }
