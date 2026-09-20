@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=fEva34WyOFg",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "How This Odisha Village Went From Bird Poachers to Protectors",
+      "link": "https://www.youtube.com/watch?v=fEva34WyOFg",
+      "published": "2026-09-20T11:30:03.000Z",
+      "summary": "In just over 2 decades, Odisha’s Mangaljodi has gone from being a bird poaching hotspot to a bird watchers paradise! How did this happen and why does India need more stories like this? Find out as we deep dive into a small village in Odisha, where a success story has unfolded - Taking bird populations from 5000 to over 3 lakhs today!\n\n0:00 - Introduction\n0:48 - Chapter 1: From Poachers to Protectors\n4:47 - Chapter 2: Why Are Wetlands Important?\n\n#odisha #odishanews #bubaneswar #birdpoaching #indianwetland #birdwatchingdestination #ecotourism #ecotourist #climateaction #wildlifeconservation #climateaction #theclimatebrief",
+      "thumbnail": "https://i3.ytimg.com/vi/fEva34WyOFg/hqdefault.jpg",
+      "firstSeen": "2026-09-20T13:14:46.050Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=XRNBJ4Sxvkw",
       "platform": "youtube",
       "group": "Markets",
@@ -16299,11 +16311,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-08T10:00:02.686Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-09-08T13:10:49.381Z",
       "added": 3,
       "errors": 3
@@ -16597,6 +16604,11 @@
       "at": "2026-09-20T10:01:00.801Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-20T13:18:12.801Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16721,5 +16733,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-20T10:01:00.801Z"
+  "lastRun": "2026-09-20T13:18:12.801Z"
 }
