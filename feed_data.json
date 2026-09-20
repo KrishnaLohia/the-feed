@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=XRNBJ4Sxvkw",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Market Legends — Ep. 1: Jim Simons — From Codebreaker to Billionaire | In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=XRNBJ4Sxvkw",
+      "published": "2026-09-20T06:17:10.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nIs there anybody out there who has consistently beaten the market? Not for a year or a few years, but for decades? That's the question we start with in this episode, and it leads us to Jim Simons.\n\nA mathematician, professor and Cold War codebreaker, Simons eventually moved from academia into trading and built Renaissance Technologies and the Medallion Fund. But his journey wasn't straightforward. He started with discretionary trading before moving towards a more systematic and mathematical approac…",
+      "thumbnail": "https://i1.ytimg.com/vi/XRNBJ4Sxvkw/hqdefault.jpg",
+      "firstSeen": "2026-09-20T07:17:57.789Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/E6EWVXxIUV4",
       "platform": "youtube",
       "group": "Zero1",
@@ -344,7 +356,7 @@
       "title": "Dual Momentum: When to Buy and When to Stay Out Part 2 | The Long & The Short Ep. 52",
       "link": "https://www.youtube.com/watch?v=ro1LJY7ZyBg",
       "published": "2026-09-17T07:54:02.000Z",
-      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhat if the stock that's falling the least in a bear market is still not worth buying? Relative momentum might say yes. Absolute momentum might say no. So what happens when you combine the two?\n\nThis episode of The Long & The Short looks at Dual Momentum — an approach that combines relative and absolute momentum. We go back to where the idea came from, look at Gary Antonacci's Global Equities Momentum (GEM) strategy, and then build a similar approach for the Indian market using Nifty and gold.\n\nTow…",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=Z...\n\nWhat if the stock that's falling the least in a bear market is still not worth buying? Relative momentum might say yes. Absolute momentum might say no. So what happens when you combine the two?\n\nThis episode of The Long & The Short looks at Dual Momentum — an approach that combines relative and absolute momentum. We go back to where the idea came from, look at Gary Antonacci's Global Equities Momentum (GEM) strategy, and then build a similar approach for the Indian market using Nifty and gold.\n\nTowar…",
       "thumbnail": "https://i3.ytimg.com/vi/ro1LJY7ZyBg/hqdefault.jpg",
       "firstSeen": "2026-09-17T10:09:21.756Z"
     },
@@ -16287,11 +16299,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-07T19:28:02.918Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-08T06:54:26.588Z",
       "added": 1,
       "errors": 13
@@ -16585,6 +16592,11 @@
       "at": "2026-09-19T18:17:22.486Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-20T07:25:35.956Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16709,5 +16721,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-19T18:17:22.486Z"
+  "lastRun": "2026-09-20T07:25:35.956Z"
 }
