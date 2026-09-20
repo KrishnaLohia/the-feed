@@ -104,7 +104,7 @@
       "title": "Weekly Tidbits: 19th Sept | Tokenised Stocks, Inflation, EVs & Semiconductors",
       "link": "https://www.youtube.com/watch?v=D_JQ-sJ6r3w",
       "published": "2026-09-19T04:20:10.000Z",
-      "summary": "Welcome to the 3rd edition of Weekly Tidbits, where we pick interesting stories that often don’t make it into a full Daily Brief and add some context around them.\n\nThis week, we cover 12 stories across Global, Economy, Industry and Company — from tokenised stocks and carbon storage to India’s inflation, electronics imports and the semiconductor push.\n\nHere’s what we’re looking at:\n\nG — Global\n00:40 Tokenised stocks: The US regulator has eased rules around blockchain-based stocks, potentially making it easier for platforms to offer them.\n01:39 Carbon storage: The EU’s first full-scale carbon-storage project has begun operations, testing whether the technology can work at an industrial scale.…",
+      "summary": "Welcome to the 3rd edition of Weekly Tidbits, where we pick interesting stories that often don’t make it into a full Daily Brief and add some context around them.\n\nThis week, we cover 12 stories across Global, Economy, Industry and Company — from tokenised stocks and carbon storage to India’s inflation, electronics imports and the semiconductor push.\n\nHere’s what we’re looking at:\n\nG — Global\n00:00 - Intro\n00:40 Tokenised stocks: The US regulator has eased rules around blockchain-based stocks, potentially making it easier for platforms to offer them.\n01:39 Carbon storage: The EU’s first full-scale carbon-storage project has begun operations, testing whether the technology can work at an ind…",
       "thumbnail": "https://i1.ytimg.com/vi/D_JQ-sJ6r3w/hqdefault.jpg",
       "firstSeen": "2026-09-19T09:37:04.507Z"
     },
@@ -16299,11 +16299,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-08T06:54:26.588Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-09-08T10:00:02.686Z",
       "added": 2,
       "errors": 3
@@ -16597,6 +16592,11 @@
       "at": "2026-09-20T07:25:35.956Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-09-20T10:01:00.801Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16721,5 +16721,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-20T07:25:35.956Z"
+  "lastRun": "2026-09-20T10:01:00.801Z"
 }
