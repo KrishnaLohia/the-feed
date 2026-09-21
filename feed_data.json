@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/sSLgt6sF92o",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "One interesting thing about the NSE IPO",
+      "link": "https://www.youtube.com/shorts/sSLgt6sF92o",
+      "published": "2026-09-21T03:49:47.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/sSLgt6sF92o/hqdefault.jpg",
+      "firstSeen": "2026-09-21T07:29:28.302Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=F3eN4Hv1MHc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Can copper recycling teduce India’s import dependence? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=F3eN4Hv1MHc",
+      "published": "2026-09-21T02:30:31.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nCan Copper Recycling Reduce India’s Import Dependence?\nIndia’s copper demand is rising rapidly due to electrification, EVs, renewables, grid expansion and data infrastructure. At the same time, the country imports more than 90% of its copper concentrate requirements, making **secondary copper from old cables, motors, transformers and e-waste** increasingly important. \nThe story explores how copper scrap is collected and processed, why clean scrap can be remelted while contaminated scrap needs sophi…",
+      "thumbnail": "https://i3.ytimg.com/vi/F3eN4Hv1MHc/hqdefault.jpg",
+      "firstSeen": "2026-09-21T07:27:41.581Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/india-private-nuclear-power-push-tea-industry-crisis",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "How private is India’s private nuclear push?",
+      "link": "https://thedailybrief.zerodha.com/p/india-private-nuclear-power-push-tea-industry-crisis",
+      "published": "2026-09-21T01:50:14.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. How private is India’s private nuclear push? The SHANTI Act has legally allowed private companies to own and operate nuclear power plants in India, but actual implementation remains far…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Xd62!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79f3b67-5cc6-471b-bed4-5848259e6ce0_1536x1024.png",
+      "firstSeen": "2026-09-21T07:27:42.094Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=RYONu_yNiyA",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "How private is India’s private nuclear push? | India’s tea industry crisis | The Daily Brief #554",
+      "link": "https://www.youtube.com/watch?v=RYONu_yNiyA",
+      "published": "2026-09-21T01:30:28.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. India’s Private Nuclear Push\nIndia is opening up its nuclear power sector to greater private participation, but the shift is more gradual than it may seem. The SHANTI Act allows private companies to potentially own and operate nuclear reactors, while companies are already involved in construction, financing and technology development. The story breaks down wha…",
+      "thumbnail": "https://i3.ytimg.com/vi/RYONu_yNiyA/hqdefault.jpg",
+      "firstSeen": "2026-09-21T07:27:41.342Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=fEva34WyOFg",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -16311,11 +16359,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-08T19:00:50.530Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-09T07:03:16.347Z",
       "added": 1,
       "errors": 13
@@ -16609,6 +16652,11 @@
       "at": "2026-09-20T18:23:28.786Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-21T07:35:17.607Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16733,5 +16781,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-20T18:23:28.786Z"
+  "lastRun": "2026-09-21T07:35:17.607Z"
 }
