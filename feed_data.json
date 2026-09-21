@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=7D1ZOSs8h0o",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 22 September 2026, Tuesday",
+      "link": "https://www.youtube.com/watch?v=7D1ZOSs8h0o",
+      "published": "2026-09-21T15:49:25.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/7D1ZOSs8h0o/hqdefault.jpg",
+      "firstSeen": "2026-09-21T15:18:47.729Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/crude-cools-markets-breathe-easier",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Crude cools, markets breathe easier",
+      "link": "https://aftermarketreport.zerodha.com/p/crude-cools-markets-breathe-easier",
+      "published": "2026-09-21T15:15:42.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now looking at market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. The idea is to bring different datasets together in one place and help traders and investors get a clearer picture of what’s actually happening beneath the surface of the market. This is still a work in progress, so we’d reall…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!SZjw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7eca7a1-fbc8-4db3-b1ac-d262099928ec_1456x971.webp",
+      "firstSeen": "2026-09-21T17:53:52.565Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/eek9UzuhCoU",
       "platform": "youtube",
       "group": "Varsity",
@@ -11,18 +35,6 @@
       "summary": "",
       "thumbnail": "https://i2.ytimg.com/vi/eek9UzuhCoU/hqdefault.jpg",
       "firstSeen": "2026-09-21T15:18:13.053Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=7D1ZOSs8h0o",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 22 September 2026, Tuesday",
-      "link": "https://www.youtube.com/watch?v=7D1ZOSs8h0o",
-      "published": "2026-09-21T13:10:14.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i4.ytimg.com/vi/7D1ZOSs8h0o/hqdefault.jpg",
-      "firstSeen": "2026-09-21T15:18:47.729Z"
     },
     {
       "id": "https://www.youtube.com/shorts/Mv3IfjnC57U",
@@ -16431,11 +16443,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-09T13:14:16.740Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-09-09T16:05:31.259Z",
       "added": 6,
       "errors": 3
@@ -16729,6 +16736,11 @@
       "at": "2026-09-21T15:24:34.575Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-09-21T18:01:23.681Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16853,5 +16865,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-21T15:24:34.575Z"
+  "lastRun": "2026-09-21T18:01:23.681Z"
 }
