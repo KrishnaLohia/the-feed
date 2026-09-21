@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/eBlNf9g8fIw",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Fear of Success: Can Traders Be Afraid to Win? | Innerworth Ep. 39",
+      "link": "https://www.youtube.com/shorts/eBlNf9g8fIw",
+      "published": "2026-09-21T10:00:34.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/eBlNf9g8fIw/hqdefault.jpg",
+      "firstSeen": "2026-09-21T10:52:24.416Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/sSLgt6sF92o",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -16359,11 +16371,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-09T07:03:16.347Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-09-09T10:03:20.133Z",
       "added": 3,
       "errors": 3
@@ -16657,6 +16664,11 @@
       "at": "2026-09-21T07:35:17.607Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-09-21T11:00:03.127Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16781,5 +16793,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-21T07:35:17.607Z"
+  "lastRun": "2026-09-21T11:00:03.127Z"
 }
