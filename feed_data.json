@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/eek9UzuhCoU",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "What is a CTC that you are offered? #salary #shorts #varsity #zerodha #ctc",
+      "link": "https://www.youtube.com/shorts/eek9UzuhCoU",
+      "published": "2026-09-21T13:30:23.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/eek9UzuhCoU/hqdefault.jpg",
+      "firstSeen": "2026-09-21T15:18:13.053Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=7D1ZOSs8h0o",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 22 September 2026, Tuesday",
+      "link": "https://www.youtube.com/watch?v=7D1ZOSs8h0o",
+      "published": "2026-09-21T13:10:14.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/7D1ZOSs8h0o/hqdefault.jpg",
+      "firstSeen": "2026-09-21T15:18:47.729Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Mv3IfjnC57U",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why foreign investors misjudge India? ft. Manie",
+      "link": "https://www.youtube.com/shorts/Mv3IfjnC57U",
+      "published": "2026-09-21T13:00:25.000Z",
+      "summary": "From \"Fragile Five\" to \"BRICS\" - why bucketing India into global themes rarely works 🤔\n\nWatch the full episode: https://youtu.be/_2N-fElbAiM?si=UFE-ZxJJ9BV3rseS\n\n[India, investing, foreign investors, economy, GDP, markets]",
+      "thumbnail": "https://i2.ytimg.com/vi/Mv3IfjnC57U/hqdefault.jpg",
+      "firstSeen": "2026-09-21T15:17:02.288Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/GwqvehU_fhc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Easiest way to Avoid Losing Your Money! | Cash & Copium Short",
+      "link": "https://www.youtube.com/shorts/GwqvehU_fhc",
+      "published": "2026-09-21T12:30:02.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/GwqvehU_fhc/hqdefault.jpg",
+      "firstSeen": "2026-09-21T15:17:02.734Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/WQWwhgD_tmI",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "₹2 Lakh/Month Retirement Income? How Much Do You Need?🤔💰",
+      "link": "https://www.youtube.com/shorts/WQWwhgD_tmI",
+      "published": "2026-09-21T11:00:12.000Z",
+      "summary": "SWP (Systematic Withdrawal Plan) allows you to withdraw a fixed amount from your mutual fund investments at regular intervals, while the rest of your corpus remains invested.\n\nFor example, if you retire with ₹2 crore, instead of withdrawing the entire amount, you could set up an SWP to receive a monthly amount for your expenses. But the key is figuring out how much you can safely withdraw.\n\nWithdraw too little and you may not enjoy the money you worked so hard to build. Withdraw too much and you risk running out of your corpus. Your SWP needs to account for:\n→ Inflation\n→ Market volatility\n→ Taxes\n→ Your asset allocation\n→ How long the corpus needs to last\n\nComment 'Zero1' and I’ll send you…",
+      "thumbnail": "https://i4.ytimg.com/vi/WQWwhgD_tmI/hqdefault.jpg",
+      "firstSeen": "2026-09-21T15:21:05.899Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/eBlNf9g8fIw",
       "platform": "youtube",
       "group": "Markets",
@@ -29,7 +89,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "Markets by Zerodha Hindi (YouTube)",
-      "title": "Can copper recycling teduce India’s import dependence? | The Daily Brief Hindi",
+      "title": "Can copper recycling reduce India’s import dependence? | The Daily Brief Hindi",
       "link": "https://www.youtube.com/watch?v=F3eN4Hv1MHc",
       "published": "2026-09-21T02:30:31.000Z",
       "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nCan Copper Recycling Reduce India’s Import Dependence?\nIndia’s copper demand is rising rapidly due to electrification, EVs, renewables, grid expansion and data infrastructure. At the same time, the country imports more than 90% of its copper concentrate requirements, making **secondary copper from old cables, motors, transformers and e-waste** increasingly important. \nThe story explores how copper scrap is collected and processed, why clean scrap can be remelted while contaminated scrap needs sophi…",
@@ -16371,11 +16431,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-09T10:03:20.133Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-09-09T13:14:16.740Z",
       "added": 3,
       "errors": 3
@@ -16669,6 +16724,11 @@
       "at": "2026-09-21T11:00:03.127Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-09-21T15:24:34.575Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16793,5 +16853,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-21T11:00:03.127Z"
+  "lastRun": "2026-09-21T15:24:34.575Z"
 }
