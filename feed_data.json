@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/lq4Hkmf1cPQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Noida developer goes bankrupt ft. Manie",
+      "link": "https://www.youtube.com/shorts/lq4Hkmf1cPQ",
+      "published": "2026-09-22T12:44:28.000Z",
+      "summary": "When a Noida developer went bankrupt, homebuyers faced a total loss. So, they did something crazy: they took over the construction. 🏠😲\n\nWatch the full story here: https://youtu.be/WancYYMAOrY?si=4RL492AKdrzKok6U\n\n[real estate, Noida, homebuyers, bankruptcy, property, India]",
+      "thumbnail": "https://i1.ytimg.com/vi/lq4Hkmf1cPQ/hqdefault.jpg",
+      "firstSeen": "2026-09-22T13:36:40.679Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yPMDN0umYeU",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "How to use the option chain on Kite for multi-leg strategies",
+      "link": "https://www.youtube.com/watch?v=yPMDN0umYeU",
+      "published": "2026-09-22T11:00:32.000Z",
+      "summary": "In this video, you will learn how to build, analyse, and execute multi-leg option strategies directly from the Kite Option Chain using basket orders. Placing multi-leg options strategies like spreads, straddles, strangles, or iron condors requires executing multiple buy and sell orders in a specific sequence to optimise margin requirements. The option chain on Kite allows you to add individual legs directly to a basket, view required and final margin in real time, reorder leg execution to maximise hedge benefits, and analyse payoff scenarios before placing the complete trade. \n\nRead more: https://support.zerodha.com/category/trading-and-markets/trading-faqs/f-otrading/articles/option-chain-…",
+      "thumbnail": "https://i2.ytimg.com/vi/yPMDN0umYeU/hqdefault.jpg",
+      "firstSeen": "2026-09-22T13:38:29.679Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/k_Ow5yHmxFM",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -2009,7 +2033,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Don’t Buy Health Insurance Before Checking These 3 Numbers 🚨",
+      "title": "Don’t Buy Life Insurance Before Checking These 3 Numbers 🚨",
       "link": "https://www.youtube.com/shorts/EDXOLzzYeDE",
       "published": "2026-09-03T11:00:23.000Z",
       "summary": "3 Checks you should do before buying a Life Insurance.\n\n1.Claim Settlement Ratio:\nThe Claim Settlement ratio basically tells you of every 100 people who made a claim, how many claims did the Insurance company actually settle.\nAs a Policy Buyer the higher the ratio the better for you, a lower ratio might indicate that there is friction from the Insurance Company at the time of paying of the claim amount.\n\nAlways make sure to check the Claim Settlement Ratio over 2-3 years to ensure that the Insurer has a reliable track record.\n\n2.Complaint Volume:\nThis metric tells us of every 10,000 claims how many people were dissatisfied and files a complaint against the insurer. A lower ratio tells that…",
@@ -16503,11 +16527,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-10T13:11:46.475Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-09-10T16:00:01.295Z",
       "added": 3,
       "errors": 3
@@ -16801,6 +16820,11 @@
       "at": "2026-09-22T10:14:50.985Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-22T13:44:19.512Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16925,5 +16949,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-22T10:14:50.985Z"
+  "lastRun": "2026-09-22T13:44:19.512Z"
 }
