@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/A4UTT4MMDdo",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "All you need to know about: Varmora Granito IPO",
+      "link": "https://www.youtube.com/shorts/A4UTT4MMDdo",
+      "published": "2026-09-23T04:58:40.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nExplore:\n\nTrade on Kite\nWeb → https://kite.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS → https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb → https://coin.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.coin\niOS → https://apps.apple.com/in/app/coin-by-zerodha-mu…",
+      "thumbnail": "https://i2.ytimg.com/vi/A4UTT4MMDdo/hqdefault.jpg",
+      "firstSeen": "2026-09-23T07:05:10.181Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=YiOS7kX582Y",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Can Gwalior become India’s telecom manufacturing hub? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=YiOS7kX582Y",
+      "published": "2026-09-23T02:30:26.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s New Telecom Manufacturing Hub\nIndia is setting up a 350-acre Telecom Manufacturing Zone (TMZ) in Gwalior to reduce its dependence on imported telecom equipment, particularly from China. The zone has attracted applications from 24 companies with proposed investments of around ₹5,500 crore.\nThe video explains how the TMZ will work, why Gwalior was chosen, and the challenges around infrastructure, skilled labour and actually converting proposed investments into domestic manufacturing.\nWe’ll co…",
+      "thumbnail": "https://i2.ytimg.com/vi/YiOS7kX582Y/hqdefault.jpg",
+      "firstSeen": "2026-09-23T07:03:21.413Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/electronic-appliances-festive-discounts-india-jute-industry",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "A not-so-festive season for electronic appliances",
+      "link": "https://thedailybrief.zerodha.com/p/electronic-appliances-festive-discounts-india-jute-industry",
+      "published": "2026-09-23T01:53:55.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. A not-so-festive season for electronic appliances Ahead of the festive shopping season, prices for home appliances like ACs, refrigerators, and TVs have surged by 5% to 17% due to rising…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!0wkf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e4ba0bd-dafc-417b-b326-5954c1adc9b3_1536x1024.png",
+      "firstSeen": "2026-09-23T07:03:21.886Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=WiMuyuDXrHU",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "A not-so-festive season for electronic appliances? | The Daily Brief #556",
+      "link": "https://www.youtube.com/watch?v=WiMuyuDXrHU",
+      "published": "2026-09-23T01:34:34.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Why Electronics Prices Are Rising\nACs, refrigerators and TVs have become more expensive in India as manufacturers deal with rising costs of copper, aluminium, memory chips, plastics, freight and a weaker rupee. The festive season adds another layer of complexity, with companies offering bigger discounts even as underlying prices rise.\nWe’ll cover:\n- Why AC, re…",
+      "thumbnail": "https://i4.ytimg.com/vi/WiMuyuDXrHU/hqdefault.jpg",
+      "firstSeen": "2026-09-23T07:03:20.999Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=YiO5dxXBqsE",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -16575,11 +16623,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-11T06:59:06.162Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-09-11T09:59:47.842Z",
       "added": 2,
       "errors": 3
@@ -16873,6 +16916,11 @@
       "at": "2026-09-22T19:09:34.307Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-23T07:11:01.403Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -16997,5 +17045,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-22T19:09:34.307Z"
+  "lastRun": "2026-09-23T07:11:01.403Z"
 }
