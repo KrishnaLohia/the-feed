@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=ma3QcUaFOHQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Beyond Momentum: The World of Factor Investing Part 3 | The Long & Short Ep. 53",
+      "link": "https://www.youtube.com/watch?v=ma3QcUaFOHQ",
+      "published": "2026-09-23T15:29:00.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhat actually drives stock returns over long periods? And if momentum is just one way to build a portfolio, what are the other factors investors can look at?\n\nThis is Part 3 of our series on momentum, but this time we step away from momentum and look at factor investing more broadly. We start with where the idea of a “factor” came from, how the concept moved from psychology into finance, and how economists and researchers developed the framework used today.\n\nWe then look at factor investing in prac…",
+      "thumbnail": "https://i2.ytimg.com/vi/ma3QcUaFOHQ/hqdefault.jpg",
+      "firstSeen": "2026-09-23T16:09:51.476Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-closes-higher-near-23450-as",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty closes higher near 23,450 as global tensions ease slightly",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-closes-higher-near-23450-as",
+      "published": "2026-09-23T15:17:49.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!774K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56d6c272-ffa1-440a-9bf8-edef03e5b54d_1456x971.webp",
+      "firstSeen": "2026-09-23T16:09:52.036Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=3r6WGFIlZEE",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 24 September 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=3r6WGFIlZEE",
+      "published": "2026-09-23T15:04:55.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/3r6WGFIlZEE/hqdefault.jpg",
+      "firstSeen": "2026-09-23T16:11:36.696Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/SvQdvqJd740",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Odisha’s Success Story!",
+      "link": "https://www.youtube.com/shorts/SvQdvqJd740",
+      "published": "2026-09-23T14:15:55.000Z",
+      "summary": "Watch the full video on our YouTube channel!\n\n#odisha #odishanews #bubaneswar #birdpoaching #indianwetland #birdwatchingdestination #ecotourism #ecotourist #climateaction #wildlifeconservation #climateaction #theclimatebrief",
+      "thumbnail": "https://i4.ytimg.com/vi/SvQdvqJd740/hqdefault.jpg",
+      "firstSeen": "2026-09-23T16:13:54.974Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/HG-xhLo1agc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Behind your daily chai ft,Kulsum",
+      "link": "https://www.youtube.com/shorts/HG-xhLo1agc",
+      "published": "2026-09-23T13:49:38.000Z",
+      "summary": "Your daily cup of chai is getting more expensive to grow, so why aren't you paying more for it yet? 👀   \n\nWatch the full story here: https://youtu.be/RYONu_yNiyA?si=mLL6tO4Laa6kuyZa\n\n[chai, tea prices, agriculture, climate change, India, economy]",
+      "thumbnail": "https://i1.ytimg.com/vi/HG-xhLo1agc/hqdefault.jpg",
+      "firstSeen": "2026-09-23T16:09:51.370Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/KRV7FfLxqjc",
       "platform": "youtube",
       "group": "Varsity",
@@ -16683,11 +16743,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-11T16:02:28.007Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-09-11T18:50:06.848Z",
       "added": 0,
       "errors": 3
@@ -16981,6 +17036,11 @@
       "at": "2026-09-23T13:55:45.573Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-09-23T16:17:21.913Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17105,5 +17165,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-23T13:55:45.573Z"
+  "lastRun": "2026-09-23T16:17:21.913Z"
 }
