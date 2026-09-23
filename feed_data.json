@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/KRV7FfLxqjc",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "How Time Affects Your Options Strategy? #varsity #zerodha #shorts #optionstrading",
+      "link": "https://www.youtube.com/shorts/KRV7FfLxqjc",
+      "published": "2026-09-23T13:30:31.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/KRV7FfLxqjc/hqdefault.jpg",
+      "firstSeen": "2026-09-23T13:49:21.669Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/MCCBre7paQ4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Should you buy a house in your 20s? | Cash & Copium",
+      "link": "https://www.youtube.com/shorts/MCCBre7paQ4",
+      "published": "2026-09-23T12:30:39.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/MCCBre7paQ4/hqdefault.jpg",
+      "firstSeen": "2026-09-23T13:48:10.544Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/-BuUnieSHXg",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "All you need to know about: ArMee Infotech IPO",
+      "link": "https://www.youtube.com/shorts/-BuUnieSHXg",
+      "published": "2026-09-23T12:30:30.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nExplore:\n\nTrade on Kite\nWeb → https://kite.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS → https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb → https://coin.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.coin\niOS → https://apps.apple.com/in/app/coin-by-zerodha-mu…",
+      "thumbnail": "https://i2.ytimg.com/vi/-BuUnieSHXg/hqdefault.jpg",
+      "firstSeen": "2026-09-23T13:49:56.686Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-maruti-suzuki-uday-kotak",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: Maruti Suzuki, Uday Kotak, Hy-Tech, Symbiotec & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-maruti-suzuki-uday-kotak",
+      "published": "2026-09-23T12:03:59.000Z",
+      "summary": "Welcome to the 91st edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 4 companies across 4 industries and an Interview. Automobile Maruti Suzuki Interview Uday Kotak Engineering & Capital Goods Hy-Tech Engineers Healthcare Symbiotec Pharmalab Ltd Logis…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!F7tl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9b3098b-04d4-4f9f-886b-75a52d71d52c_2400x1350.png",
+      "firstSeen": "2026-09-23T13:48:11.354Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/5jOIZNqealA",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Your Money, Your Right: Are You Missing Out?💰🤯",
+      "link": "https://www.youtube.com/shorts/5jOIZNqealA",
+      "published": "2026-09-23T11:00:05.000Z",
+      "summary": "Indians have more than 1 Lakh crores of funds sitting with different government and statutory bodies.\nAbout 78,000 Crore is money that is in unclaimed savings accounts, current accounts, FDs, RDs etc.\n\n14,000 Crore is in Unclaimed Insurance and the rest of it is across Unclaimed Dividends, Mutual Funds, Unclaimed Pension, PF or other retirement benefits.\n\nWhile it is common for people to lose track of funds because of address changes, missed communication, missing names for nominees or sometimes just that grandparents forget to tell they ever had an account.\n\nBut now the government has launched the Your Money, Your Right Campaign, where you can check respective portals for Bank Deposit, Div…",
+      "thumbnail": "https://i2.ytimg.com/vi/5jOIZNqealA/hqdefault.jpg",
+      "firstSeen": "2026-09-23T13:52:16.168Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/A4UTT4MMDdo",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -16623,11 +16683,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-11T13:06:17.644Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-11T16:02:28.007Z",
       "added": 3,
       "errors": 3
@@ -16921,6 +16976,11 @@
       "at": "2026-09-23T10:17:09.558Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-23T13:55:45.573Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17045,5 +17105,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-23T10:17:09.558Z"
+  "lastRun": "2026-09-23T13:55:45.573Z"
 }
