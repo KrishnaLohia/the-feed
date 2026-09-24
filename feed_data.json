@@ -1,13 +1,25 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-tumbles-towards-23100-closes",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty tumbles below 23,100; closes at three-month low",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-tumbles-towards-23100-closes",
+      "published": "2026-09-24T15:58:54.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!-IKH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2067f7f-7833-472e-8812-242f17e8fe69_1456x971.webp",
+      "firstSeen": "2026-09-24T16:33:00.239Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=13mUUm-CECo",
       "platform": "youtube",
       "group": "Zerodha Online",
       "sourceName": "Zerodha Online (YouTube)",
       "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 25 September 2026, Friday",
       "link": "https://www.youtube.com/watch?v=13mUUm-CECo",
-      "published": "2026-09-24T13:28:07.000Z",
+      "published": "2026-09-24T15:57:09.000Z",
       "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
       "thumbnail": "https://i2.ytimg.com/vi/13mUUm-CECo/hqdefault.jpg",
       "firstSeen": "2026-09-24T13:45:51.356Z"
@@ -16827,11 +16839,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-12T15:09:27.992Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-12T17:55:25.932Z",
       "added": 0,
       "errors": 3
@@ -17125,6 +17132,11 @@
       "at": "2026-09-24T13:51:38.978Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-09-24T16:40:41.997Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17249,5 +17261,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-24T13:51:38.978Z"
+  "lastRun": "2026-09-24T16:40:41.997Z"
 }
