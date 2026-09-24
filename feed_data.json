@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=13mUUm-CECo",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 25 September 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=13mUUm-CECo",
+      "published": "2026-09-24T13:28:07.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/13mUUm-CECo/hqdefault.jpg",
+      "firstSeen": "2026-09-24T13:45:51.356Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/KN8TMybB4PQ",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Thane’s Protest EVERYONE Needs To Know About",
+      "link": "https://www.youtube.com/shorts/KN8TMybB4PQ",
+      "published": "2026-09-24T12:30:32.000Z",
+      "summary": "Thane’s residents just did something India needs to see! When an AI data centre was proposed, almost a thousands Thanekars came to protest! But why is this fight so important? Watch the video to find out!\n\n#thane #thanenews #mumbai #datacenters #indiandatacenters #datacentersindia #climateaction #watercrisis #indianews #wakeupthanekar #theclimatebrief",
+      "thumbnail": "https://i4.ytimg.com/vi/KN8TMybB4PQ/hqdefault.jpg",
+      "firstSeen": "2026-09-24T13:48:11.540Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/ZdpErvSEff4",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "All you need to know about Moneyview IPO",
+      "link": "https://www.youtube.com/shorts/ZdpErvSEff4",
+      "published": "2026-09-24T12:20:40.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/ZdpErvSEff4/hqdefault.jpg",
+      "firstSeen": "2026-09-24T13:45:51.356Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/figuring-things-out",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Figuring things out",
+      "link": "https://thedailybrief.zerodha.com/p/figuring-things-out",
+      "published": "2026-09-24T11:35:45.000Z",
+      "summary": "Hello, I’m Mridula and I’m 21 years old. I recently joined the team, and what follows is basically a dump of thoughts from the journey so far :) A few days ago, I was on a Rapido ride back from the office when the driver asked me, “Ma’am, I know NSE and BSE. But what is MCX?” I told him it was a commodity exchange. Just like stocks trade on an exchange, commodities such as gold and silver trade on MCX. I was pleasantly surprised at myself. Three months ago, if someone had asked me the same question, I probably would have stared at them for a few seconds, said “yeah, yeah,” and gone down a Google rabbit hole later. I came here straight out of college after spending four years studying biotec…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!dKwv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33233805-4bd8-41fd-a8fa-79b9f3989404_5712x4284.jpeg",
+      "firstSeen": "2026-09-24T13:44:06.888Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=eYHL_v2HSkk",
       "platform": "youtube",
       "group": "Markets",
@@ -16779,11 +16827,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-12T12:27:00.013Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-12T15:09:27.992Z",
       "added": 0,
       "errors": 3
@@ -17077,6 +17120,11 @@
       "at": "2026-09-24T10:28:59.784Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-09-24T13:51:38.978Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17201,5 +17249,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-24T10:28:59.784Z"
+  "lastRun": "2026-09-24T13:51:38.978Z"
 }
