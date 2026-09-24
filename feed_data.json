@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/hotels-long-weekends-trai-voice-only-plans-telecom-jio-airtel-vi",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Sunday joys, Monday blues for the hotel business",
+      "link": "https://thedailybrief.zerodha.com/p/hotels-long-weekends-trai-voice-only-plans-telecom-jio-airtel-vi",
+      "published": "2026-09-24T01:50:48.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Sunday joys, Monday blues for the hotel business Why are major Indian hotel chains suddenly acquiring boutique weekend villas and heritage resorts instead of building new ones? Driven by…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!VG7W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06fcf38b-dc86-40a8-a207-d780d64961e0_1536x1024.png",
+      "firstSeen": "2026-09-24T06:59:15.750Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=3r6WGFIlZEE",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -113,7 +125,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Your Money, Your Right: Are You Missing Out?💰🤯",
+      "title": "₹1 Lakh Crore Is Unclaimed — You Might Have Some! 💰🤯",
       "link": "https://www.youtube.com/shorts/5jOIZNqealA",
       "published": "2026-09-23T11:00:05.000Z",
       "summary": "Indians have more than 1 Lakh crores of funds sitting with different government and statutory bodies.\nAbout 78,000 Crore is money that is in unclaimed savings accounts, current accounts, FDs, RDs etc.\n\n14,000 Crore is in Unclaimed Insurance and the rest of it is across Unclaimed Dividends, Mutual Funds, Unclaimed Pension, PF or other retirement benefits.\n\nWhile it is common for people to lose track of funds because of address changes, missed communication, missing names for nominees or sometimes just that grandparents forget to tell they ever had an account.\n\nBut now the government has launched the Your Money, Your Right Campaign, where you can check respective portals for Bank Deposit, Div…",
@@ -16743,11 +16755,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-12T06:51:20.182Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-09-12T09:35:33.487Z",
       "added": 5,
       "errors": 3
@@ -17041,6 +17048,11 @@
       "at": "2026-09-23T19:17:24.218Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-24T07:07:00.324Z",
+      "added": 1,
+      "errors": 7
     }
   ],
   "directSources": [
@@ -17165,5 +17177,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-23T19:17:24.218Z"
+  "lastRun": "2026-09-24T07:07:00.324Z"
 }
