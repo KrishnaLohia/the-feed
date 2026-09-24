@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=eYHL_v2HSkk",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "The Jute comeback: Can India revive its Golden Fibre? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=eYHL_v2HSkk",
+      "published": "2026-09-24T02:30:19.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s Jute Industry: From Raw Material Crisis to a Potential Recovery\nAfter two years of declining sales, India’s jute industry is expected to see a 15% rise in volumes this year, helped by better crop output and lower raw-jute prices. The story looks at how raw-material shortages hurt mills, how government-mandated jute packaging provides a captive market, and why the industry still struggles with high costs and limited modernisation.\nIt also explores the impact of Partition, India’s dependence…",
+      "thumbnail": "https://i2.ytimg.com/vi/eYHL_v2HSkk/hqdefault.jpg",
+      "firstSeen": "2026-09-24T10:14:46.031Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/hotels-long-weekends-trai-voice-only-plans-telecom-jio-airtel-vi",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +23,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Sunday joys, Monday blues for the hotel business Why are major Indian hotel chains suddenly acquiring boutique weekend villas and heritage resorts instead of building new ones? Driven by…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!VG7W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06fcf38b-dc86-40a8-a207-d780d64961e0_1536x1024.png",
       "firstSeen": "2026-09-24T06:59:15.750Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=mG01dNq3Q4Q",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India's hotels have a Monday problem | An unbundling in Indian telecom | The Daily Brief #557",
+      "link": "https://www.youtube.com/watch?v=mG01dNq3Q4Q",
+      "published": "2026-09-24T01:30:50.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. India’s Hotels Have a Monday Problem\nIndia’s hotel industry is increasingly betting on the boom in weekend getaways, with major hotel chains acquiring resorts, villas and boutique properties. Leisure hotels can command higher room rates, but their heavy dependence on weekends creates a major challenge: low weekday occupancy. The story looks at how hotel compan…",
+      "thumbnail": "https://i2.ytimg.com/vi/mG01dNq3Q4Q/hqdefault.jpg",
+      "firstSeen": "2026-09-24T10:14:45.736Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=3r6WGFIlZEE",
@@ -16755,11 +16779,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-12T09:35:33.487Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-09-12T12:27:00.013Z",
       "added": 1,
       "errors": 3
@@ -17053,6 +17072,11 @@
       "at": "2026-09-24T07:07:00.324Z",
       "added": 1,
       "errors": 7
+    },
+    {
+      "at": "2026-09-24T10:28:59.784Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17177,5 +17201,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-24T07:07:00.324Z"
+  "lastRun": "2026-09-24T10:28:59.784Z"
 }
