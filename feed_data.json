@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/insurance-commissions-cut-irdai-distributors-credit-rating-country-debt",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "What happens when insurance commissions are cut?",
+      "link": "https://thedailybrief.zerodha.com/p/insurance-commissions-cut-irdai-distributors-credit-rating-country-debt",
+      "published": "2026-09-25T01:41:57.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. What happens when insurance commissions are cut? India’s insurance regulator, IRDAI, has proposed reintroducing strict product-level commission caps and lowering overall Expenses of Mana…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Pqvk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc10c116d-26cd-4180-9425-ae9e3a232c68_1536x1024.png",
+      "firstSeen": "2026-09-25T06:54:17.137Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-tumbles-towards-23100-closes",
       "platform": "substack",
       "group": "Markets",
@@ -16839,11 +16851,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-13T07:08:34.496Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-13T10:32:02.597Z",
       "added": 0,
       "errors": 3
@@ -17137,6 +17144,11 @@
       "at": "2026-09-24T19:32:39.594Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-25T07:01:45.333Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -17261,5 +17273,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-24T19:32:39.594Z"
+  "lastRun": "2026-09-25T07:01:45.333Z"
 }
