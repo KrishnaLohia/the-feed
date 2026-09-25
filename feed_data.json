@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-finds-some-relief-ends-a-difficult",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty finds some relief, ends a difficult week near 23,150",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-finds-some-relief-ends-a-difficult",
+      "published": "2026-09-25T14:40:15.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!uCrw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd27a603-5abb-42c4-b709-0f4863d594ac_1456x971.webp",
+      "firstSeen": "2026-09-25T16:36:40.010Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/XQPQkk4tSvU",
       "platform": "youtube",
       "group": "Markets",
@@ -16959,11 +16971,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-13T15:47:18.020Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-13T18:25:33.676Z",
       "added": 0,
       "errors": 3
@@ -17257,6 +17264,11 @@
       "at": "2026-09-25T14:13:29.507Z",
       "added": 7,
       "errors": 3
+    },
+    {
+      "at": "2026-09-25T16:44:19.600Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17381,5 +17393,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-25T14:13:29.507Z"
+  "lastRun": "2026-09-25T16:44:19.600Z"
 }
