@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=E6AmsXSuFiI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "The weekend getaway boom is changing Indian Hotels | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=E6AmsXSuFiI",
+      "published": "2026-09-25T02:30:13.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nWeekend Getaway Boom: Why Hotels Are Betting Big on Leisure Travel\nIndia’s hotel industry is increasingly betting on short weekend getaways, with travellers choosing nearby destinations over longer international trips. Hotel chains such as IHCL, The Leela, Chalet and SAMHI are expanding their leisure portfolios, often by acquiring existing resorts, villas and boutique hotels rather than building new properties.\nBut the weekend getaway boom comes with a challenge: high room rates and strong weekend…",
+      "thumbnail": "https://i2.ytimg.com/vi/E6AmsXSuFiI/hqdefault.jpg",
+      "firstSeen": "2026-09-25T10:19:25.947Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/insurance-commissions-cut-irdai-distributors-credit-rating-country-debt",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +23,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. What happens when insurance commissions are cut? India’s insurance regulator, IRDAI, has proposed reintroducing strict product-level commission caps and lowering overall Expenses of Mana…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!Pqvk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc10c116d-26cd-4180-9425-ae9e3a232c68_1536x1024.png",
       "firstSeen": "2026-09-25T06:54:17.137Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=flsfyWrjVVw",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "IRDAI wants to cut insurance commissions | Is India’s Credit Rating Fair? | The Daily Brief #558",
+      "link": "https://www.youtube.com/watch?v=flsfyWrjVVw",
+      "published": "2026-09-25T01:30:39.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Insurance Commissions: What Is IRDAI Changing?\nIRDAI has proposed major changes to insurance commissions, including bringing back product-specific caps and tightening overall spending limits. The move could reduce distribution costs for insurers and potentially improve customer value, but it could also pressure distributors and affect how insurance is sold.\n\nW…",
+      "thumbnail": "https://i3.ytimg.com/vi/flsfyWrjVVw/hqdefault.jpg",
+      "firstSeen": "2026-09-25T10:19:25.460Z"
     },
     {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-tumbles-towards-23100-closes",
@@ -16851,11 +16875,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-13T10:32:02.597Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-13T13:32:40.346Z",
       "added": 0,
       "errors": 3
@@ -17149,6 +17168,11 @@
       "at": "2026-09-25T07:01:45.333Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-09-25T10:27:10.528Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17273,5 +17297,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-25T07:01:45.333Z"
+  "lastRun": "2026-09-25T10:27:10.528Z"
 }
