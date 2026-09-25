@@ -1,6 +1,90 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/XQPQkk4tSvU",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Jim Simons: from codebreaker to billionaire",
+      "link": "https://www.youtube.com/shorts/XQPQkk4tSvU",
+      "published": "2026-09-25T14:02:15.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/XQPQkk4tSvU/hqdefault.jpg",
+      "firstSeen": "2026-09-25T14:05:59.205Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/VW1Tk0XpxOI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India's energy transition explained ft.Mridula",
+      "link": "https://www.youtube.com/shorts/VW1Tk0XpxOI",
+      "published": "2026-09-25T13:36:56.000Z",
+      "summary": "Nuclear offers 24/7 clean power, and our solar and wind capacity is booming. So why isn't that enough to replace coal in India? 👀\n\n[India, renewable energy, nuclear power, coal, energy transition, climate change]",
+      "thumbnail": "https://i3.ytimg.com/vi/VW1Tk0XpxOI/hqdefault.jpg",
+      "firstSeen": "2026-09-25T14:05:59.003Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=i9O0FZxpCRE",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Can a Home Loan Overdraft Save You Interest?",
+      "link": "https://www.youtube.com/watch?v=i9O0FZxpCRE",
+      "published": "2026-09-25T13:30:15.000Z",
+      "summary": "Can a home loan overdraft really help you reduce your interest cost, or is it only useful for a certain type of borrower? In this video, Aastha Khurana explains how a home loan overdraft works, how it differs from a regular home loan, and the situations where it can actually make sense. If you're planning to take a home loan or already have one, this is a feature worth understanding.\n\nTime Stamps\n00:00 Introduction \n00:48 Overdraft on home loan\n01:30 Comparing regular vs overdraft (calculation)\n03:02 Advantages\n06:46 Disadvantages \n08:18 Difference between a regular and overdraft home loan\n08:30 Is overdraft on a home loan for you?\n___________________________________________________________…",
+      "thumbnail": "https://i2.ytimg.com/vi/i9O0FZxpCRE/hqdefault.jpg",
+      "firstSeen": "2026-09-25T14:07:09.453Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/WYdwh00MCdo",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "The best investment you can make in your 20s! | Cash & Copium",
+      "link": "https://www.youtube.com/shorts/WYdwh00MCdo",
+      "published": "2026-09-25T12:30:14.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/WYdwh00MCdo/hqdefault.jpg",
+      "firstSeen": "2026-09-25T14:05:59.470Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-rbi-sebi-nse-ongc-and",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: RBI, SEBI, NSE, ONGC & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-rbi-sebi-nse-ongc-and",
+      "published": "2026-09-25T12:01:18.000Z",
+      "summary": "Welcome to the 92nd edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 5 companies across 5 industries and 2 addresses by Regulators. Regulator Reserve Bank of India Securities and Exchange Board of India Financial Services National Stock Exchange of In…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!hCMT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16d04f3b-fdbd-4ab8-aa11-09d1e237168c_1672x941.png",
+      "firstSeen": "2026-09-25T14:06:00.170Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=CvZYWBKaUX0",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "How to use the Scalper layout in Kite's Terminal mode",
+      "link": "https://www.youtube.com/watch?v=CvZYWBKaUX0",
+      "published": "2026-09-25T11:24:29.000Z",
+      "summary": "The Scalper layout in Kite's Terminal Mode combines your chart, option chain, and order window into a single workspace for faster options trading. You can monitor live P&L and funds, track price movements on the ticker bar, and view linked charts that automatically update when you change the underlying asset. Execute orders instantly through the quick order window or option chain, manage active positions, and customise your screen with calculators and open interest widgets to streamline your scalping workflow.\n\nRead more: https://support.zerodha.com/category/trading-and-uide/trading-faqs/terminal-mode/articles/what-is-kite-terminal-mode\nSee also: https://youtu.be/8vKZTnrntgE?si=tNIU4CoZz3_4…",
+      "thumbnail": "https://i4.ytimg.com/vi/CvZYWBKaUX0/hqdefault.jpg",
+      "firstSeen": "2026-09-25T14:07:44.125Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/E6eEMXK1a9k",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "3 Numbers You MUST Check Before Buying Health Insurance 🚨🤔",
+      "link": "https://www.youtube.com/shorts/E6eEMXK1a9k",
+      "published": "2026-09-25T11:00:15.000Z",
+      "summary": "1 out of every 12 Health Insurance claims in India gets rejected!\n\nThis can be easily avoided by keeping just a few things in mind.\n\n1. The Room Rent Clause:\n\nIf you have an Insurance of 5 Lakh rupees and the Insurance document says “Room Rent Limit capped at 1% of insured amount” you can basically take a room that has a rent of 5,000 per day. But in case you wish to upgrade yourself to a better room of 10k, chances are only 50% of your claim would be accepted.\n\nWhen you exceed the room rent limit, ‘proportionate deduction kicks in’. Since the Insurance only covered 50% of the room rent you actually paid, your expenses like Doctor Consultation Fees, Surgeon Fees, Diagnostics Fees etc would…",
+      "thumbnail": "https://i2.ytimg.com/vi/E6eEMXK1a9k/hqdefault.jpg",
+      "firstSeen": "2026-09-25T14:10:02.451Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=E6AmsXSuFiI",
       "platform": "youtube",
       "group": "Markets",
@@ -16875,11 +16959,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-13T13:32:40.346Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-13T15:47:18.020Z",
       "added": 1,
       "errors": 3
@@ -17173,6 +17252,11 @@
       "at": "2026-09-25T10:27:10.528Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-09-25T14:13:29.507Z",
+      "added": 7,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17297,5 +17381,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-25T10:27:10.528Z"
+  "lastRun": "2026-09-25T14:13:29.507Z"
 }
