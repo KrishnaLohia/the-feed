@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=DVS24z0b7u0",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 28 September 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=DVS24z0b7u0",
+      "published": "2026-09-27T12:43:20.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/DVS24z0b7u0/hqdefault.jpg",
+      "firstSeen": "2026-09-27T14:15:25.832Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/5jTJcGtlIto",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Applying for an IPO? Check These 2 Things First! 🚨",
+      "link": "https://www.youtube.com/shorts/5jTJcGtlIto",
+      "published": "2026-09-27T11:00:07.000Z",
+      "summary": "Every year, IPOs launch in the market and social media and the internet make it feel like it’s a great opportunity. But at the end of the day, an IPO is still a company asking you for money.\n\nSo you have to be cautious.\n\nDon't ignore these 2 things while investing in an IPO:\n\n1. How will the company use the money? Is it a Fresh Issue, an Offer for Sale (OFS), or a mix of both?\n\n2. What are the risks? Read the Risk Factors section in the DRHP to understand what the company itself says could go wrong.\n\nComment ‘Zero1’ and I’ll send you the link to all current DRHPs.\n\nFollow @zero1byzerodha for more such content",
+      "thumbnail": "https://i2.ytimg.com/vi/5jTJcGtlIto/hqdefault.jpg",
+      "firstSeen": "2026-09-27T14:17:47.028Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=yGPSEvbNtZM",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -17067,11 +17091,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-15T13:56:08.628Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-09-15T16:27:05.350Z",
       "added": 1,
       "errors": 3
@@ -17365,6 +17384,11 @@
       "at": "2026-09-27T10:45:06.515Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-27T14:21:18.941Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17489,5 +17513,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-27T10:45:06.515Z"
+  "lastRun": "2026-09-27T14:21:18.941Z"
 }
