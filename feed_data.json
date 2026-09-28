@@ -1,13 +1,49 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=WGLg7cE3kjQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "IRDAI’s new Insurance Proposal explained | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=WGLg7cE3kjQ",
+      "published": "2026-09-28T02:30:01.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIRDAI’s Insurance Commission Shake-up\nIRDAI has proposed new commission caps and lower limits on insurers’ distribution expenses, aiming to reduce selling costs and improve insurance affordability. The changes could significantly impact distributors, insurers, banks and NBFCs.\nFor customers, the proposals also include tighter checks on mis-selling, restrictions on compulsory insurance bundling and easier access to product information. But lower commissions could also make serving rural and first-ti…",
+      "thumbnail": "https://i4.ytimg.com/vi/WGLg7cE3kjQ/hqdefault.jpg",
+      "firstSeen": "2026-09-28T08:01:38.691Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/india-irrigation-groundwater-crisis-import-timber-teak",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The ebbs and flows of India’s irrigation story",
+      "link": "https://thedailybrief.zerodha.com/p/india-irrigation-groundwater-crisis-import-timber-teak",
+      "published": "2026-09-28T01:45:34.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The ebbs and flows of India’s irrigation story While expanded irrigation has insulated India’s food security from monsoon shocks, it has created severe tradeoffs. Early dam projects left…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!qr2r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb5992f0-82fa-4459-be15-cca17cbadddc_1536x1024.png",
+      "firstSeen": "2026-09-28T08:01:39.084Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=lc20AY9QLSc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "The ups and downs of India’s irrigation story | Why does India import teak? | The Daily Brief #559",
+      "link": "https://www.youtube.com/watch?v=lc20AY9QLSc",
+      "published": "2026-09-28T01:30:25.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. India’s Irrigation Story\nIndia’s irrigation system has come a long way from large dams to widespread groundwater use. While irrigation has made Indian agriculture more resilient to weak monsoons, the shift has also created problems such as groundwater depletion, rising electricity subsidies and inefficient water use. The story traces how each solution to India…",
+      "thumbnail": "https://i1.ytimg.com/vi/lc20AY9QLSc/hqdefault.jpg",
+      "firstSeen": "2026-09-28T08:01:38.377Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=DVS24z0b7u0",
       "platform": "youtube",
       "group": "Zerodha Online",
       "sourceName": "Zerodha Online (YouTube)",
       "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 28 September 2026, Monday",
       "link": "https://www.youtube.com/watch?v=DVS24z0b7u0",
-      "published": "2026-09-27T12:43:20.000Z",
+      "published": "2026-09-27T19:29:25.000Z",
       "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
       "thumbnail": "https://i1.ytimg.com/vi/DVS24z0b7u0/hqdefault.jpg",
       "firstSeen": "2026-09-27T14:15:25.832Z"
@@ -17091,11 +17127,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-16T07:09:37.218Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-09-16T10:13:53.699Z",
       "added": 0,
       "errors": 3
@@ -17389,6 +17420,11 @@
       "at": "2026-09-27T19:18:10.804Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-28T08:09:08.755Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17513,5 +17549,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-27T19:18:10.804Z"
+  "lastRun": "2026-09-28T08:09:08.755Z"
 }
