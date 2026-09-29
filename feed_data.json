@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/RVQysmgF83Y",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India takes solar to water ft. Kulsum",
+      "link": "https://www.youtube.com/shorts/RVQysmgF83Y",
+      "published": "2026-09-29T12:59:57.000Z",
+      "summary": "Floating solar panels cost 25% more to build than regular ones. So why is India planning to put 5 gigawatts of solar power on water? ☀️💧\n\nWatch the full story here: https://youtu.be/_zSKKOs9KTg?si=B28nhxYem1oMqBaS\n\n[solar power, renewable energy, India, climate change, floating solar, infrastructure]",
+      "thumbnail": "https://i3.ytimg.com/vi/RVQysmgF83Y/hqdefault.jpg",
+      "firstSeen": "2026-09-29T15:01:30.895Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/l9U4nJleVgA",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "How Rice Farming Works In India",
+      "link": "https://www.youtube.com/shorts/l9U4nJleVgA",
+      "published": "2026-09-29T12:30:36.000Z",
+      "summary": "Watch the full video on our channel!\n\n\n#ricefarming #riceagriculture #farming #biryani #indianrice #agriculture #climatechange #climatecrisis #theclimatebrief #climateaction #indianews #globalwarming #riceharvesting",
+      "thumbnail": "https://i1.ytimg.com/vi/l9U4nJleVgA/hqdefault.jpg",
+      "firstSeen": "2026-09-29T15:05:41.200Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/lgsLwqasGiI",
       "platform": "youtube",
       "group": "Zero1",
@@ -17247,11 +17271,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-17T13:51:03.172Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-09-17T16:25:05.847Z",
       "added": 3,
       "errors": 3
@@ -17545,6 +17564,11 @@
       "at": "2026-09-29T11:34:13.356Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-09-29T15:09:13.268Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17669,5 +17693,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-29T11:34:13.356Z"
+  "lastRun": "2026-09-29T15:09:13.268Z"
 }
