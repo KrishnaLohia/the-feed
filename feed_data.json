@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=_Cw-tLlnjOU",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 30 September 2026, Wednesday",
+      "link": "https://www.youtube.com/watch?v=_Cw-tLlnjOU",
+      "published": "2026-09-29T16:43:22.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/_Cw-tLlnjOU/hqdefault.jpg",
+      "firstSeen": "2026-09-29T17:42:58.824Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-absorbs-early-panic-to-close",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty absorbs early panic to close above 22,700",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-absorbs-early-panic-to-close",
+      "published": "2026-09-29T16:07:58.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!GdJD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ce20304-fe85-4658-8f26-f9d7181849f4_1456x971.webp",
+      "firstSeen": "2026-09-29T17:41:13.431Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/RVQysmgF83Y",
       "platform": "youtube",
       "group": "Markets",
@@ -17271,11 +17295,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-17T16:25:05.847Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-09-17T19:18:36.308Z",
       "added": 0,
       "errors": 3
@@ -17569,6 +17588,11 @@
       "at": "2026-09-29T15:09:13.268Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-09-29T17:48:45.959Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17693,5 +17717,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-29T15:09:13.268Z"
+  "lastRun": "2026-09-29T17:48:45.959Z"
 }
