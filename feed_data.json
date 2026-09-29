@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/lgsLwqasGiI",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "You Paid ₹70 Lakh for Your Wedding. What If It Gets Cancelled? 😳",
+      "link": "https://www.youtube.com/shorts/lgsLwqasGiI",
+      "published": "2026-09-29T11:00:19.000Z",
+      "summary": "Planning a wedding involves much more than choosing the venue, food, outfits and guest list. For many families, a wedding is also one of the biggest financial commitments they will make.\n\nBut what happens if, just days before the wedding, something unexpected forces you to cancel or postpone the event?\n\nA large amount of money may already have been paid to hotels, vendors, decorators, photographers and other service providers and depending on their cancellation and refund policies, you may not be able to recover all of it.\n\nThis is where Insurance can become relevant.\n\nThe Wedding Insurance can potentially cover you from: \n\n• Event cancellation or postponement \n• Damage to wedding-related p…",
+      "thumbnail": "https://i1.ytimg.com/vi/lgsLwqasGiI/hqdefault.jpg",
+      "firstSeen": "2026-09-29T11:30:46.702Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=R1oaO1sGRvk",
       "platform": "youtube",
       "group": "Markets",
@@ -17235,11 +17247,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-17T10:17:03.352Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-09-17T13:51:03.172Z",
       "added": 4,
       "errors": 3
@@ -17533,6 +17540,11 @@
       "at": "2026-09-29T07:50:15.556Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-09-29T11:34:13.356Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17657,5 +17669,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-29T07:50:15.556Z"
+  "lastRun": "2026-09-29T11:34:13.356Z"
 }
