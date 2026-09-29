@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=R1oaO1sGRvk",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "The hidden crisis behind India’s Irrigation system | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=R1oaO1sGRvk",
+      "published": "2026-09-29T02:30:13.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s Irrigation Revolution: From Dams to Groundwater\nIndia’s irrigation system has transformed dramatically since Independence. Large dams and canal networks initially drove irrigation and food security, but gaps in last-mile delivery, rising costs and repeated droughts pushed India towards groundwater and tubewells. This shift helped make India more resilient to monsoon shocks and a net grain exporter, but it also created serious challenges around groundwater depletion, subsidised electricity a…",
+      "thumbnail": "https://i3.ytimg.com/vi/R1oaO1sGRvk/hqdefault.jpg",
+      "firstSeen": "2026-09-29T07:42:47.000Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/solar-green-transition-jobs-coal-shortage-power-plants",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The Indian states that solar is forgetting",
+      "link": "https://thedailybrief.zerodha.com/p/solar-green-transition-jobs-coal-shortage-power-plants",
+      "published": "2026-09-29T02:02:06.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The Indian states that solar is forgetting As India’s renewable transition accelerates, solar growth remains concentrated in six affluent states, leaving coal-rich regions like Jharkhand…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!zn0_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61c05770-2b47-4608-b79f-a1dfb1fc2b12_1536x1024.png",
+      "firstSeen": "2026-09-29T07:42:47.284Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=CKvuc0NEAaQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "The Indian states solar is forgetting | Why power plants run short on coal | The Daily Brief #560",
+      "link": "https://www.youtube.com/watch?v=CKvuc0NEAaQ",
+      "published": "2026-09-29T01:53:43.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. The Indian states solar is forgetting\nIndia’s renewable energy growth is concentrated in a handful of richer states, while coal-rich states such as Jharkhand, Chhattisgarh and Odisha face the risk of being left behind. As India moves towards cleaner energy, these states could lose coal-linked revenues and jobs, while replacing them with new industries and “gre…",
+      "thumbnail": "https://i4.ytimg.com/vi/CKvuc0NEAaQ/hqdefault.jpg",
+      "firstSeen": "2026-09-29T07:42:46.781Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=LWqCJ9we3IU",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -17199,11 +17235,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-17T07:04:52.182Z",
-      "added": 1,
-      "errors": 9
-    },
-    {
       "at": "2026-09-17T10:17:03.352Z",
       "added": 4,
       "errors": 3
@@ -17497,6 +17528,11 @@
       "at": "2026-09-28T21:27:31.033Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-29T07:50:15.556Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17621,5 +17657,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-28T21:27:31.033Z"
+  "lastRun": "2026-09-29T07:50:15.556Z"
 }
