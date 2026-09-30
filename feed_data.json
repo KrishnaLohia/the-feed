@@ -401,7 +401,7 @@
       "platform": "youtube",
       "group": "Rainmatter Foundation",
       "sourceName": "The Climate Brief (YouTube)",
-      "title": "India’s Beloved Rice is UNDER THREAT!",
+      "title": "The Rice We Eat is Changing… Thanks to Climate Change",
       "link": "https://www.youtube.com/watch?v=yGPSEvbNtZM",
       "published": "2026-09-26T14:15:35.000Z",
       "summary": "India’s rich culinary story is coloured by many grains, but one that stands out is RICE! In today’s episode, we talk about how India’s rice cultivation is contributing to climate change. But that’s not the full story!\n\nClimate change is also affecting our beloved rice! Watch the full video to deep dive into a fascinating story of rice, climate change and what you can do to change this!\n\n0:00 - Introduction\n0:37 - Chapter 1: The History of Rice\n2:35 - Chapter 2: The Climate Cost of Rice\n\n#ricefarming #riceagriculture #farming #biryani #indianrice #agriculture #climatechange #climatecrisis #theclimatebrief #climateaction #indianews #globalwarming #riceharvesting",
@@ -17463,11 +17463,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-18T18:44:01.326Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-19T07:00:43.927Z",
       "added": 1,
       "errors": 13
@@ -17761,6 +17756,11 @@
       "at": "2026-09-30T17:46:31.169Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-09-30T20:21:02.773Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17885,5 +17885,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-09-30T17:46:31.169Z"
+  "lastRun": "2026-09-30T20:21:02.773Z"
 }
