@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/brutal-end-to-a-tough-week-as-multiple",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Brutal end to a tough week as multiple headwinds wreak havoc on markets",
+      "link": "https://aftermarketreport.zerodha.com/p/brutal-end-to-a-tough-week-as-multiple",
+      "published": "2026-10-01T15:29:01.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!GdJD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ce20304-fe85-4658-8f26-f9d7181849f4_1456x971.webp",
+      "firstSeen": "2026-10-01T15:36:16.782Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/YBwLwLMMXn4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India's microfinance enters recovery",
+      "link": "https://www.youtube.com/shorts/YBwLwLMMXn4",
+      "published": "2026-10-01T13:00:03.000Z",
+      "summary": "As banks step back from microfinance, NBFCs are stepping up. But can the sector grow without pushing the most vulnerable borrowers deeper into debt? 🏦\n\nRead the full story here: https://pointsandfigures.substack.com/p/microfinance-is-finally-out-of-trouble\n\n[India, microfinance, banking, loans, NBFC, economy]",
+      "thumbnail": "https://i2.ytimg.com/vi/YBwLwLMMXn4/hqdefault.jpg",
+      "firstSeen": "2026-10-01T15:36:16.133Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=pD89ysx0xiQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Welcome to In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=pD89ysx0xiQ",
+      "published": "2026-10-01T12:41:16.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nMost trading content makes it look easy: a setup, a screenshot, a big number at the end.\n\nBut trading is hard, and the parts that rarely make it to the screen are the ones that matter most: the losing streaks, the uncertainty, the strategies that stop working, and the person behind the trade.\n\nWelcome to In The Money by Zerodha.\n\nWe're not here to give you stock tips or tell you what to buy and sell. Instead, we look at the markets through data, context, research, and the experience of people who h…",
+      "thumbnail": "https://i1.ytimg.com/vi/pD89ysx0xiQ/hqdefault.jpg",
+      "firstSeen": "2026-10-01T15:36:16.271Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/koYw6VFNGrE",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why India Will See 16,000 MORE Deaths",
+      "link": "https://www.youtube.com/shorts/koYw6VFNGrE",
+      "published": "2026-10-01T12:30:02.000Z",
+      "summary": "Watch the full video to really understand what El Niño is doing to our country!\n\n#elnino #elninoeffect #indianews #climatenews #globalwarming #climatechange #theclimatebrief",
+      "thumbnail": "https://i4.ytimg.com/vi/koYw6VFNGrE/hqdefault.jpg",
+      "firstSeen": "2026-10-01T15:40:22.421Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=g10AbgBO7Xk",
       "platform": "youtube",
       "group": "Markets",
@@ -17499,11 +17547,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-19T12:46:41.188Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-19T15:31:57.884Z",
       "added": 0,
       "errors": 3
@@ -17797,6 +17840,11 @@
       "at": "2026-10-01T11:49:54.780Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-01T15:43:49.452Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17921,5 +17969,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-01T11:49:54.780Z"
+  "lastRun": "2026-10-01T15:43:49.452Z"
 }
