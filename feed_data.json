@@ -44,7 +44,7 @@
       "title": "Welcome to In The Money by Zerodha",
       "link": "https://www.youtube.com/watch?v=pD89ysx0xiQ",
       "published": "2026-10-01T12:41:16.000Z",
-      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nMost trading content makes it look easy: a setup, a screenshot, a big number at the end.\n\nBut trading is hard, and the parts that rarely make it to the screen are the ones that matter most: the losing streaks, the uncertainty, the strategies that stop working, and the person behind the trade.\n\nWelcome to In The Money by Zerodha.\n\nWe're not here to give you stock tips or tell you what to buy and sell. Instead, we look at the markets through data, context, research, and the experience of people who h…",
+      "summary": "Most trading content makes it look easy: a setup, a screenshot, a big number at the end.\n\nBut trading is hard, and the parts that rarely make it to the screen are the ones that matter most: the losing streaks, the uncertainty, the strategies that stop working, and the person behind the trade.\n\nWelcome to In The Money by Zerodha.\n\nWe're not here to give you stock tips or tell you what to buy and sell. Instead, we look at the markets through data, context, research, and the experience of people who have spent years and decades in them.\n\nHow does a trading system actually get built? How do you test an idea before risking money on it? What happens to your order after you hit buy? And how much o…",
       "thumbnail": "https://i1.ytimg.com/vi/pD89ysx0xiQ/hqdefault.jpg",
       "firstSeen": "2026-10-01T15:36:16.271Z"
     },
@@ -17559,11 +17559,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-20T10:01:00.801Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-20T13:18:12.801Z",
       "added": 1,
       "errors": 3
@@ -17857,6 +17852,11 @@
       "at": "2026-10-02T07:54:56.652Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-10-02T11:19:21.297Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17981,5 +17981,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-02T07:54:56.652Z"
+  "lastRun": "2026-10-02T11:19:21.297Z"
 }
