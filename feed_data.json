@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=2XSMNwuhuHs",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Weekly Market Metrics | Week 40 (28 Sep–1 Oct 2026) | NIFTY’s 8-Week Losing Streak",
+      "link": "https://www.youtube.com/watch?v=2XSMNwuhuHs",
+      "published": "2026-10-02T07:06:27.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to Weekly Market Metrics — your weekend wrap-up of everything that mattered in the markets this week, plus a quick peek into what’s coming up next!\n\nI’m your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nWe’re in Week 40 of 2026, with just 12 weeks left in the year.\n\nMarkets entered uncharted territory this week, with NIFTY falling 3% and extending its losing streak to eight consecutive weeks — the longest such streak in 25 years. At the same time, the US 30-year Tre…",
+      "thumbnail": "https://i3.ytimg.com/vi/2XSMNwuhuHs/hqdefault.jpg",
+      "firstSeen": "2026-10-02T07:47:19.060Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/brutal-end-to-a-tough-week-as-multiple",
       "platform": "substack",
       "group": "Markets",
@@ -17547,11 +17559,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-20T07:25:35.956Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-20T10:01:00.801Z",
       "added": 0,
       "errors": 3
@@ -17845,6 +17852,11 @@
       "at": "2026-10-01T20:33:37.080Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-02T07:54:56.652Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17969,5 +17981,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-01T20:33:37.080Z"
+  "lastRun": "2026-10-02T07:54:56.652Z"
 }
