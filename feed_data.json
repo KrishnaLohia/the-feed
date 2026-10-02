@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=pLmt5WEqrc8",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "How Banks Actually Create Money in India | Ex-SEBI Official Explains",
+      "link": "https://www.youtube.com/watch?v=pLmt5WEqrc8",
+      "published": "2026-10-02T13:30:31.000Z",
+      "summary": "In this Zerodha Varsity bootcamp session, Ananth Narayan, former Whole Time Member at SEBI,  starts from first principles: what money is and who creates it. Using the combined balance sheet of India's banking system and the Reserve Bank of Inida, he shows why loans create deposits and not the other way around as everyone believes, how government spending and forex flows add or drain money, and why banks can be flush with liquidity yet short of deposits.\n\nHe discussed how suppressed interest rates and high taxation on fixed income pushed household savings into equities, how stretched valuations drove away FPI and FDI, and how a narrow rupee–dollar rate differential made hedging and speculati…",
+      "thumbnail": "https://i1.ytimg.com/vi/pLmt5WEqrc8/hqdefault.jpg",
+      "firstSeen": "2026-10-02T14:56:39.474Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=CPISElKbFFg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "What is an AI-native firm? ft. Sidu Ponnappa | Subtext by Zerodha",
+      "link": "https://www.youtube.com/watch?v=CPISElKbFFg",
+      "published": "2026-10-02T12:39:27.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nSidu Ponnappa sold his first company to Gojek, led engineering there for years, and then started Realfast, a startup promising AI-enabled IT services at superhuman speed. His argument is that building a manpower company, long considered the kiss of death in venture-funded startups, is now the only durable strategy, because the one invariant in an era of step-change model improvements is the human in the loop.\n\nHe joins Subtext for a wide-ranging conversation on agents as extensions of the subconsci…",
+      "thumbnail": "https://i4.ytimg.com/vi/CPISElKbFFg/hqdefault.jpg",
+      "firstSeen": "2026-10-02T14:55:29.135Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/r5f0_NPx0ys",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "4 Credit Card Mistakes That Are Costing You Money 💳💸",
+      "link": "https://www.youtube.com/shorts/r5f0_NPx0ys",
+      "published": "2026-10-02T12:30:31.000Z",
+      "summary": "Many of us use Credit Cards in our day to day life to get the points and rewards! But using the credit card the wrong way can cause great harm to your financial health!\n\nHere are the 3 things you should take care when you use your credit card next:\n\nCredit Card Limit:\nCredit beaures have never said anything about the 30% threshold, but it’s a good personal finance practice to keep your credit limit below this number. Don’t use more than 30% of your available credit card limit. If all your credit cards combined give you a limit of 5 lakhs, the best practice is to utilise less than 30% (1.5Lakhs) of the limit at any given point of time. Generally exceeding more than 30% very frequently might…",
+      "thumbnail": "https://i3.ytimg.com/vi/r5f0_NPx0ys/hqdefault.jpg",
+      "firstSeen": "2026-10-02T14:59:33.296Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=2XSMNwuhuHs",
       "platform": "youtube",
       "group": "Markets",
@@ -17559,11 +17595,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-20T13:18:12.801Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-20T15:37:44.740Z",
       "added": 0,
       "errors": 3
@@ -17857,6 +17888,11 @@
       "at": "2026-10-02T11:19:21.297Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-02T15:03:01.267Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -17981,5 +18017,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-02T11:19:21.297Z"
+  "lastRun": "2026-10-02T15:03:01.267Z"
 }
