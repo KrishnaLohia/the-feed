@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-extends-losing-streak-to-eight",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty extends losing streak to eight weeks !",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-extends-losing-streak-to-eight",
+      "published": "2026-10-03T12:25:43.000Z",
+      "summary": "Welcome to the first weekly edition of Aftermarket Report, where we wrap up the week in the markets and take you through everything that mattered, both in India and globally. What data points and transformations do you want to see? We’re also experimenting with a weekly edition of the Aftermarket Report, and we’d love to know what you’d find useful in it. Unlike the daily report, the idea here is to step back from individual trading sessions and look at the bigger picture — what changed over the week, where trends are building, how sectors and themes are moving, how positioning has shifted, and what the data tells us when viewed over a longer timeframe. We’re exploring everything from weekl…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!iLGY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa802422b-a120-4edd-8984-0f651f3e32b4_1456x971.webp",
+      "firstSeen": "2026-10-03T13:37:50.682Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=66L7JNMYnj0",
       "platform": "youtube",
       "group": "Rainmatter",
@@ -17655,11 +17667,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-21T15:24:34.575Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-09-21T18:01:23.681Z",
       "added": 1,
       "errors": 3
@@ -17953,6 +17960,11 @@
       "at": "2026-10-03T10:36:54.205Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-03T13:45:33.214Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18077,5 +18089,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-03T10:36:54.205Z"
+  "lastRun": "2026-10-03T13:45:33.214Z"
 }
