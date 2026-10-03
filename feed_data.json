@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-irdai-chairman-bajaj",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: IRDAI Chairman, Bajaj Auto, SBI & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-irdai-chairman-bajaj",
+      "published": "2026-10-03T14:08:16.000Z",
+      "summary": "Welcome to the 94th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 4 companies across 4 industries and a Regulator’s interview. Regulator IRDAI Chairman Automobile Bajaj Auto Financial Services State Bank Of India FMCG Emami Agrotech Building Materi…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!MKrk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F801a2b64-374d-485e-a121-2a03d9710d3a_2400x1350.png",
+      "firstSeen": "2026-10-03T15:45:53.241Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-extends-losing-streak-to-eight",
       "platform": "substack",
       "group": "Markets",
@@ -17667,11 +17679,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-21T18:01:23.681Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-21T20:13:12.170Z",
       "added": 0,
       "errors": 3
@@ -17965,6 +17972,11 @@
       "at": "2026-10-03T13:45:33.214Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-10-03T15:53:33.360Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18089,5 +18101,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-03T13:45:33.214Z"
+  "lastRun": "2026-10-03T15:53:33.360Z"
 }
