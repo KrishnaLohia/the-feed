@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=MNAlu0nPMUk",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "We Investigated Why India’s Power Demand Hit a High in September",
+      "link": "https://www.youtube.com/watch?v=MNAlu0nPMUk",
+      "published": "2026-10-03T16:05:22.000Z",
+      "summary": "On September 10, India’s peak electricity demand touched 269 gigawatts (GW) – the HIGHEST recorded in any September. This is also close to the year’s all-time high of 270.82 GW on May 21, right in the middle of the heatwave season! But why did September 2026 hit such a new high? And why does this matter?\n\nWatch the full video to find out!\n\n0:00 - Introduction\n0:46 - Chapter 1: What's the Unusual Thing That Happened?\n2:26 - Chapter 2: What's Driving This Unusual Surge?\n\n#september2026 #indiapower #indiaelectricity #indiapeakpowerdemand #indianews #bestinindia #electricitydemand #hydroelectricity #climatechange #heatwave #elnino #elnino2026 #theclimatebrief #globalwarming",
+      "thumbnail": "https://i2.ytimg.com/vi/MNAlu0nPMUk/hqdefault.jpg",
+      "firstSeen": "2026-10-03T18:51:33.045Z"
+    },
+    {
       "id": "https://thechatter.zerodha.com/p/the-chatter-irdai-chairman-bajaj",
       "platform": "substack",
       "group": "Markets",
@@ -17679,11 +17691,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-21T20:13:12.170Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-22T07:13:33.491Z",
       "added": 5,
       "errors": 3
@@ -17977,6 +17984,11 @@
       "at": "2026-10-03T15:53:33.360Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-10-03T18:55:02.954Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18101,5 +18113,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-03T15:53:33.360Z"
+  "lastRun": "2026-10-03T18:55:02.954Z"
 }
