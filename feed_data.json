@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=ApoVGFF4W8A",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "The Day Black-Scholes Broke — And the Origins of Option Greeks | In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=ApoVGFF4W8A",
+      "published": "2026-10-04T03:56:00.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhat if the option Greeks didn't come from a separate discovery, but were always hiding inside the Black-Scholes formula itself? And what if the one input you can't look up — volatility, turned out to be the most interesting story in all of it?\n\nThis episode goes back to where the option Greeks came from. We look at how they came straight out of the Black-Scholes formula, how traders on the floors of the late '70s and '80s gave them their names, and why one of them isn't even a Greek letter.\n\nThen…",
+      "thumbnail": "https://i2.ytimg.com/vi/ApoVGFF4W8A/hqdefault.jpg",
+      "firstSeen": "2026-10-04T07:36:46.865Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=MNAlu0nPMUk",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -17691,11 +17703,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-22T07:13:33.491Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-09-22T10:14:50.985Z",
       "added": 0,
       "errors": 3
@@ -17989,6 +17996,11 @@
       "at": "2026-10-03T18:55:02.954Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-10-04T07:44:24.805Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18113,5 +18125,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-03T18:55:02.954Z"
+  "lastRun": "2026-10-04T07:44:24.805Z"
 }
