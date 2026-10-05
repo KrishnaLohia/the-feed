@@ -1,6 +1,90 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=o60T9pG1-tM",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 06 October 2026, Tuesday",
+      "link": "https://www.youtube.com/watch?v=o60T9pG1-tM",
+      "published": "2026-10-05T17:00:18.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/o60T9pG1-tM/hqdefault.jpg",
+      "firstSeen": "2026-10-05T17:21:18.977Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/JrhutxZ0GRM",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Why Traders Blame the Market for Their Losses | Innerworth Ep.30",
+      "link": "https://www.youtube.com/shorts/JrhutxZ0GRM",
+      "published": "2026-10-05T15:20:46.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/JrhutxZ0GRM/hqdefault.jpg",
+      "firstSeen": "2026-10-05T17:19:32.386Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-closes-above-22500-on-stable",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty closes above 22,500 on stable global cues & quarterly updates",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-closes-above-22500-on-stable",
+      "published": "2026-10-05T14:57:39.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Lkly!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63f77ab3-cee3-49de-bf0c-bd565d6fd3cf_1456x971.webp",
+      "firstSeen": "2026-10-05T17:19:33.162Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/d0tamCNzI5g",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "BTS of Varsity Live with Nithin Kamath & Karthik Rangappa #varsity #zerodha #shorts #stockmarket",
+      "link": "https://www.youtube.com/shorts/d0tamCNzI5g",
+      "published": "2026-10-05T13:30:32.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/d0tamCNzI5g/hqdefault.jpg",
+      "firstSeen": "2026-10-05T17:20:43.848Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/bxzdzNaggz0",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why 99% of government job aspirants lose money and time ft. Manie",
+      "link": "https://www.youtube.com/shorts/bxzdzNaggz0",
+      "published": "2026-10-05T13:23:37.000Z",
+      "summary": "Why would an aspirant choose a ₹50,000 government role over a ₹3,00,000 private sector job? 🤔   \n\nThe hidden economics of government exams reveal a massive long-term cost for millions of young Indians. \n  \n[governmentjobs, employment, economy, UPSC, career, India]",
+      "thumbnail": "https://i3.ytimg.com/vi/bxzdzNaggz0/hqdefault.jpg",
+      "firstSeen": "2026-10-05T17:19:32.234Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/DM0xqg7292U",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "Why top-down TAM fails: VCs on market creation vs share, timing, and founder execution.",
+      "link": "https://www.youtube.com/shorts/DM0xqg7292U",
+      "published": "2026-10-05T12:30:07.000Z",
+      "summary": "In this new episode of Highlights, venture investors Bala Srinivasa @ArkamVC and Prathap P S (Rainmatter Health) break down why top-down TAM slides often fail, the difference between market share vs. market creation, and what examples like Webvan, Shopify, and the early automobile industry teach us about market timing and founder execution.",
+      "thumbnail": "https://i1.ytimg.com/vi/DM0xqg7292U/hqdefault.jpg",
+      "firstSeen": "2026-10-05T17:23:03.730Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=E9UTqgaHrU4",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "How to open Zerodha demat account - Indian Sign Language",
+      "link": "https://www.youtube.com/watch?v=E9UTqgaHrU4",
+      "published": "2026-10-05T12:29:19.000Z",
+      "summary": "Want to open a demat and trading account with Zerodha? In this video, we’ll walk you through the complete step-by-step process, right from the documents required to Aadhaar verification, Digilocker, webcam verification, nominee addition, and the final e-sign to successfully complete your account opening.\n\nTo open a Zerodha account, visit: https://signup.zerodha.com/\n\nCheck documents required for opening a Zerodha account here: https://support.zerodha.com/category/...\n\nExplore:\n\nTrade on Kite\nWeb → https://kite.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS → https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb → http…",
+      "thumbnail": "https://i2.ytimg.com/vi/E9UTqgaHrU4/hqdefault.jpg",
+      "firstSeen": "2026-10-05T17:21:18.978Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=5k5LRAVKiF4",
       "platform": "youtube",
       "group": "Markets",
@@ -77,7 +161,7 @@
       "platform": "youtube",
       "group": "Rainmatter Foundation",
       "sourceName": "The Climate Brief (YouTube)",
-      "title": "We Investigated Why India’s Power Demand Hit a High in September",
+      "title": "Why India’s Power Demand Hit a Peak In September",
       "link": "https://www.youtube.com/watch?v=MNAlu0nPMUk",
       "published": "2026-10-03T16:05:22.000Z",
       "summary": "On September 10, India’s peak electricity demand touched 269 gigawatts (GW) – the HIGHEST recorded in any September. This is also close to the year’s all-time high of 270.82 GW on May 21, right in the middle of the heatwave season! But why did September 2026 hit such a new high? And why does this matter?\n\nWatch the full video to find out!\n\n0:00 - Introduction\n0:46 - Chapter 1: What's the Unusual Thing That Happened?\n2:26 - Chapter 2: What's Driving This Unusual Surge?\n\n#september2026 #indiapower #indiaelectricity #indiapeakpowerdemand #indianews #bestinindia #electricitydemand #hydroelectricity #climatechange #heatwave #elnino #elnino2026 #theclimatebrief #globalwarming",
@@ -17763,11 +17847,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-23T13:55:45.573Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-09-23T16:17:21.913Z",
       "added": 5,
       "errors": 3
@@ -18061,6 +18140,11 @@
       "at": "2026-10-05T12:32:33.687Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-05T17:27:08.566Z",
+      "added": 7,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18185,5 +18269,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-05T12:32:33.687Z"
+  "lastRun": "2026-10-05T17:27:08.566Z"
 }
