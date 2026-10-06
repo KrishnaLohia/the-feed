@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-rallies-above-22750-ahead-of",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty rallies above 22,750 ahead of key RBI event",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-rallies-above-22750-ahead-of",
+      "published": "2026-10-06T15:09:38.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!wj9-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6737a2eb-5eb0-41f0-9dd7-4e54f2d5d87b_1456x971.webp",
+      "firstSeen": "2026-10-06T15:23:59.156Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=NmVqlaoW3Uo",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 07 October 2026, Wednesday",
+      "link": "https://www.youtube.com/watch?v=NmVqlaoW3Uo",
+      "published": "2026-10-06T13:10:23.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i3.ytimg.com/vi/NmVqlaoW3Uo/hqdefault.jpg",
+      "firstSeen": "2026-10-06T15:25:47.029Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/EmctnndeIJg",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Do These 4 Checks to Fix Your Finances 💰",
+      "link": "https://www.youtube.com/shorts/EmctnndeIJg",
+      "published": "2026-10-06T12:30:15.000Z",
+      "summary": "How much you earn doesn’t tell you if you’re good with money. Your habits do.\n\nHere are 4 simple checks you can do today:\n\n1. EMI-to-Income Ratio\nAdd up all your monthly EMIs and divide them by your monthly in-hand income. Ideally, this number should be below 30%. The higher your EMIs, the less room you have to save, invest, or deal with unexpected expenses.\n\n2. What are you buying on credit?\nThink about everything you’ve purchased on EMIs or with your credit card. Is it helping you earn more or build your future (an asset)? Or is it simply something that loses value the moment you buy it (a liability)? If most of your debt is funding liabilities, it may be time to rethink your spending hab…",
+      "thumbnail": "https://i2.ytimg.com/vi/EmctnndeIJg/hqdefault.jpg",
+      "firstSeen": "2026-10-06T15:28:07.787Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Bs0KXRxn6Q4",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "India’s Power Demand Problem",
+      "link": "https://www.youtube.com/shorts/Bs0KXRxn6Q4",
+      "published": "2026-10-06T12:30:06.000Z",
+      "summary": "Watch the full video on our YouTube channel!\n\n\n#september2026 #indiapower #indiaelectricity #indiapeakpowerdemand #indianews #bestinindia #electricitydemand #hydroelectricity #climatechange #heatwave #elnino #elnino2026 #theclimatebrief #globalwarming",
+      "thumbnail": "https://i3.ytimg.com/vi/Bs0KXRxn6Q4/hqdefault.jpg",
+      "firstSeen": "2026-10-06T15:28:08.253Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/wheres-the-last-mile-of-indias-lpg",
       "platform": "substack",
       "group": "Markets",
@@ -17883,11 +17931,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-24T10:28:59.784Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-09-24T13:51:38.978Z",
       "added": 4,
       "errors": 3
@@ -18181,6 +18224,11 @@
       "at": "2026-10-06T12:14:31.854Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-06T15:31:39.433Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18305,5 +18353,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-06T12:14:31.854Z"
+  "lastRun": "2026-10-06T15:31:39.433Z"
 }
