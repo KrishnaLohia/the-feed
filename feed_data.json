@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/wheres-the-last-mile-of-indias-lpg",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Where’s the last-mile of India’s LPG revolution?",
+      "link": "https://thedailybrief.zerodha.com/p/wheres-the-last-mile-of-indias-lpg",
+      "published": "2026-10-06T03:01:02.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Where’s the last-mile of India’s LPG revolution? Despite Pradhan Mantri Ujjwala Yojana expanding LPG coverage to over 10.5 crore women, many low-income households continue to rely on tra…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!3YBL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faca239a0-08dc-4c5a-8ef3-a31fdba372b8_1536x1024.png",
+      "firstSeen": "2026-10-06T08:22:18.934Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=TVK6CgKYeEA",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "India’s financial boom vs its real economy | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=TVK6CgKYeEA",
+      "published": "2026-10-06T02:30:35.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s Financial Economy vs Productive Economy\nIndia’s financial markets are expanding, but private investment, manufacturing and productive capacity remain weak. An Azim Premji University report highlights how households are shifting savings towards market-linked assets while increasingly relying on credit, raising questions about the sustainability of India’s growth.\n\nWe'll cover:\n- Clean corporate balance sheets, but weak private investment\n- Rising financialisation and household borrowing\n- We…",
+      "thumbnail": "https://i1.ytimg.com/vi/TVK6CgKYeEA/hqdefault.jpg",
+      "firstSeen": "2026-10-06T08:22:18.431Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=vM4WkJAp-8s",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why isn't gas connection enough in India? | Why airlines resist Navi Mumbai | The Daily Brief #564",
+      "link": "https://www.youtube.com/watch?v=vM4WkJAp-8s",
+      "published": "2026-10-06T01:30:12.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Why LPG Connections Aren’t Enough\nIndia has dramatically expanded LPG access through the Ujjwala scheme, but getting a gas connection hasn’t meant giving up firewood and traditional chulhas. High refill costs, documentation hurdles and last-mile access mean many poorer households still struggle to use LPG as their primary cooking fuel.\n\nWe’ll cover:\n- Why many…",
+      "thumbnail": "https://i3.ytimg.com/vi/vM4WkJAp-8s/hqdefault.jpg",
+      "firstSeen": "2026-10-06T08:22:18.042Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=o60T9pG1-tM",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -17,7 +53,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "In The Money (YouTube)",
-      "title": "Why Traders Blame the Market for Their Losses | Innerworth Ep.30",
+      "title": "Why Traders Blame the Market for Their Losses | Innerworth Ep. 40",
       "link": "https://www.youtube.com/shorts/JrhutxZ0GRM",
       "published": "2026-10-05T15:20:46.000Z",
       "summary": "",
@@ -17847,11 +17883,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-23T19:17:24.218Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-24T07:07:00.324Z",
       "added": 1,
       "errors": 7
@@ -18145,6 +18176,11 @@
       "at": "2026-10-05T22:15:46.202Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-06T08:30:01.887Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18269,5 +18305,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-05T22:15:46.202Z"
+  "lastRun": "2026-10-06T08:30:01.887Z"
 }
