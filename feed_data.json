@@ -260,7 +260,7 @@
       "title": "Build an Income that pays after You STOP Working",
       "link": "https://www.youtube.com/watch?v=YUMl5LUlSRk",
       "published": "2026-10-03T04:30:28.000Z",
-      "summary": "Over 2 crore Indians invest with Zerodha. Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nIndia has one of the largest working population in the world and in the next few decades most of this population will retire. But a majority of this population is not prepared for the retired life. \n\nNPS can be one of the ways for looking at a Retired Life and given the NPS is one of the few ways to save taxes in the New Regime, it is worthwhile to understand the product.\n\nIn this video we breakdown \n1. What NPS actually is and how does it work ?\n2. What are the ways NPS deposits and withdrawals work ?\n3. What are few of the Pros and Cons of NPS \n\nand finally \n4. What are some of…",
+      "summary": "Over 2 crore Indians invest with Zerodha. Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nIndia has one of the largest working population in the world and in the next few decades most of this population will retire. But a majority of this population is not prepared for the retired life. \n\nNPS can be one of the ways for looking at a Retired Life and given the NPS is one of the few ways to Save Taxes in the New Regime, it is worthwhile to understand the product.\n\nIn this video we breakdown \n1. What NPS actually is and how does it work ?\n2. What are the ways NPS deposits and withdrawals work ?\n3. What are few of the Pros and Cons of NPS \n\nand finally \n4. What are some of…",
       "thumbnail": "https://i2.ytimg.com/vi/YUMl5LUlSRk/hqdefault.jpg",
       "firstSeen": "2026-10-03T07:25:54.688Z"
     },
@@ -17883,11 +17883,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-24T07:07:00.324Z",
-      "added": 1,
-      "errors": 7
-    },
-    {
       "at": "2026-09-24T10:28:59.784Z",
       "added": 2,
       "errors": 3
@@ -18181,6 +18176,11 @@
       "at": "2026-10-06T08:30:01.887Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-10-06T12:14:31.854Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18305,5 +18305,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-06T08:30:01.887Z"
+  "lastRun": "2026-10-06T12:14:31.854Z"
 }
