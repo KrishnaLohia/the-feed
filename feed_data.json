@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=dB9-ueuWnN8",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "September updates: Everything new across Zerodha",
+      "link": "https://www.youtube.com/watch?v=dB9-ueuWnN8",
+      "published": "2026-10-07T11:36:45.000Z",
+      "summary": "A rundown of Zerodha's September 2026 updates across Kite, Varsity, and Zerodha Fund House: including Trade From Charts on the Kite app, revamped Stock SIPs on Kite web, option chain for NSE Commodities, new pre-open session rules and ETF price bands, the Zerodha Life Cycle Fund 2031, Varsity Live mutual fund sessions, the Fourth Cross open-source collective, and The Back Office episode with Karthik Rangappa. Everything we shipped this month is explained, so you know exactly what's changed and how to use it.\n\nTrade From Charts is now on the Kite app - https://zerodha.com/z-connect/business-updates/introducing-trade-from-charts-tfc-on-kite-app\nRevamped Stock SIPs on Kite web - https://www.yo…",
+      "thumbnail": "https://i1.ytimg.com/vi/dB9-ueuWnN8/hqdefault.jpg",
+      "firstSeen": "2026-10-07T11:54:17.592Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=58h5HEPTzsA",
       "platform": "youtube",
       "group": "Markets",
@@ -17967,11 +17979,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-25T07:01:45.333Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-09-25T10:27:10.528Z",
       "added": 2,
       "errors": 3
@@ -18265,6 +18272,11 @@
       "at": "2026-10-07T08:06:08.350Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-10-07T12:00:04.504Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18389,5 +18401,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-07T08:06:08.350Z"
+  "lastRun": "2026-10-07T12:00:04.504Z"
 }
