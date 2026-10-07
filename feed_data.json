@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=i6Rypd6_RgU",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 08 October 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=i6Rypd6_RgU",
+      "published": "2026-10-07T16:25:49.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/i6Rypd6_RgU/hqdefault.jpg",
+      "firstSeen": "2026-10-07T15:44:43.986Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Fk4LriCyhEc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "What Happens After a Stock Hits a 52-Week High? | The Long & Short Ep. 55",
+      "link": "https://www.youtube.com/watch?v=Fk4LriCyhEc",
+      "published": "2026-10-07T15:50:08.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhat happens after a stock makes a new 52-week high? Is it a sign that the stock has already run too far, or could it actually tell us something about where the stock goes next?\n\nThe 52-week high is one of the most visible numbers in any stock screener. But despite being so widely available, many investors instinctively avoid stocks making new highs.\n\nWe start with William O'Neil's observation that 98% of investors he surveyed said they did not buy stocks making new highs, even though buying stocks…",
+      "thumbnail": "https://i3.ytimg.com/vi/Fk4LriCyhEc/hqdefault.jpg",
+      "firstSeen": "2026-10-07T18:27:51.847Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-cools-off-to-22600-after-rbis",
       "platform": "substack",
       "group": "Markets",
@@ -23,18 +47,6 @@
       "summary": "Today, RBI increased the repo rate by 25 basis points, from 5.25% to 5.50%, for the first time since February 2023.\n\nBut why does RBI increase rates?\n\nOne major reason is inflation. India’s CPI inflation rose to around 4.8% in August 2026, while higher crude prices, geopolitical risks and rupee weakness have also added to inflationary pressure.\n\nBut does that mean your home loan EMI will automatically become more expensive?\nNot always.\nBroadly, home loans can have two types of interest rates: fixed and floating.\nIf you have a fixed-rate home loan, your interest rate usually stays the same during the fixed period.\nBut if you have a floating-rate home loan, your rate can change when the bench…",
       "thumbnail": "https://i4.ytimg.com/vi/Sek1MVmTBWY/hqdefault.jpg",
       "firstSeen": "2026-10-07T15:47:03.081Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=i6Rypd6_RgU",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 08 October 2026, Thursday",
-      "link": "https://www.youtube.com/watch?v=i6Rypd6_RgU",
-      "published": "2026-10-07T14:13:51.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i2.ytimg.com/vi/i6Rypd6_RgU/hqdefault.jpg",
-      "firstSeen": "2026-10-07T15:44:43.986Z"
     },
     {
       "id": "https://thechatter.zerodha.com/p/the-chatter-pnb-central-bank-of-india",
@@ -18063,11 +18075,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-25T14:13:29.507Z",
-      "added": 7,
-      "errors": 3
-    },
-    {
       "at": "2026-09-25T16:44:19.600Z",
       "added": 1,
       "errors": 3
@@ -18361,6 +18368,11 @@
       "at": "2026-10-07T15:50:29.876Z",
       "added": 7,
       "errors": 3
+    },
+    {
+      "at": "2026-10-07T18:35:23.422Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18485,5 +18497,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-07T15:50:29.876Z"
+  "lastRun": "2026-10-07T18:35:23.422Z"
 }
