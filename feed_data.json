@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=58h5HEPTzsA",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "India’s LPG Problem: Connections vs Actual Usage | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=58h5HEPTzsA",
+      "published": "2026-10-07T02:30:20.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nWhy India’s LPG Access Isn’t Enough\nIndia has expanded LPG access through the Ujjwala scheme, but millions of households still struggle to use it regularly. New CEEW studies reveal how high refill costs, irregular incomes and limited access to formal LPG connections force rural households and migrant workers to rely on alternative cooking fuels.\n\nWe’ll cover:\n- Why households continue using firewood despite having LPG connections.\n- How affordability and access challenges affect rural families, urb…",
+      "thumbnail": "https://i2.ytimg.com/vi/58h5HEPTzsA/hqdefault.jpg",
+      "firstSeen": "2026-10-07T07:58:32.459Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/does-indian-steel-really-need-so",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Does Indian steel really need so much protection?",
+      "link": "https://thedailybrief.zerodha.com/p/does-indian-steel-really-need-so",
+      "published": "2026-10-07T01:58:08.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Does Indian steel really need so much protection? Despite being the world’s second-largest steel producer, India’s steel sector relies heavily on domestic policy architecture—including 3…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Ai5P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e0185b-a611-464a-a5b1-c7d95551336c_1536x1024.png",
+      "firstSeen": "2026-10-07T07:58:32.811Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=se-sdo1R_00",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Does Indian steel need so much protection? | India finalises CAFE 3 norms | The Daily Brief #565",
+      "link": "https://www.youtube.com/watch?v=se-sdo1R_00",
+      "published": "2026-10-07T01:44:48.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Indian Steel: Too Much Protection?\nIndia is the world’s second-largest steel producer, but its steel industry is protected by tariffs, export duties and quality-control rules. We look at whether these policies are helping Indian steelmakers—or making steel more expensive and hurting downstream industries.\n\nWe’ll cover:\n- Why Indian steel is cheaper to produce…",
+      "thumbnail": "https://i4.ytimg.com/vi/se-sdo1R_00/hqdefault.jpg",
+      "firstSeen": "2026-10-07T07:58:32.165Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=NmVqlaoW3Uo",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -17931,11 +17967,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-24T19:32:39.594Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-25T07:01:45.333Z",
       "added": 1,
       "errors": 13
@@ -18229,6 +18260,11 @@
       "at": "2026-10-06T20:36:30.054Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-07T08:06:08.350Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18353,5 +18389,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-06T20:36:30.054Z"
+  "lastRun": "2026-10-07T08:06:08.350Z"
 }
