@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=mPdgRDZdV-M",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Is India overprotecting its Steel Industry? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=mPdgRDZdV-M",
+      "published": "2026-10-08T03:04:04.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nDoes Indian Steel Need So Much Protection?\nIndia is the world’s second-largest steel producer, but its steel remains more expensive than Chinese and Japanese steel despite lower production costs. Two CSEP papers argue that tariffs, iron ore export duties and quality-control rules are helping sustain high margins while raising costs for other industries.\n\nWe’ll cover:\n- Why Indian steel is low-cost but expensive to buy\n- How government protection supports steelmakers\n- What could happen if these pro…",
+      "thumbnail": "https://i2.ytimg.com/vi/mPdgRDZdV-M/hqdefault.jpg",
+      "firstSeen": "2026-10-08T08:12:52.885Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/the-chinese-whispers-in-indias-ev",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The Chinese whispers in India’s EV batteries",
+      "link": "https://thedailybrief.zerodha.com/p/the-chinese-whispers-in-indias-ev",
+      "published": "2026-10-08T02:11:20.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The Chinese whispers in India’s EV batteries Despite PLI scheme incentives, Indian conglomerates like JSW, Reliance, and Tata are struggling to scale battery-cell factories due to tight…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!YlFN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b8d39c-bdd9-4273-971e-51d4f6112cd7_1536x1024.png",
+      "firstSeen": "2026-10-08T08:12:53.253Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=25Tqp2wT6ag",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why China won't teach India battery tech? | Why airlines want cheaper fuel | The Daily Brief #566",
+      "link": "https://www.youtube.com/watch?v=25Tqp2wT6ag",
+      "published": "2026-10-08T02:07:58.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. India’s EV Battery Problem\nIndia is pushing to build its own EV battery-cell manufacturing capacity, but Chinese technology remains difficult to access. JSW, Tata and Reliance have all faced challenges in licensing Chinese battery technology, forcing them to explore alternatives ranging from in-house R&D to acquiring technology and patents.\n\nWe’ll cover:\n- Why…",
+      "thumbnail": "https://i3.ytimg.com/vi/25Tqp2wT6ag/hqdefault.jpg",
+      "firstSeen": "2026-10-08T08:12:52.631Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=i6Rypd6_RgU",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -17,7 +53,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "In The Money (YouTube)",
-      "title": "What Happens After a Stock Hits a 52-Week High? | The Long & Short Ep. 55",
+      "title": "What Happens After a Stock Hits a 52-Week High? | The Long & The Short Ep. 55",
       "link": "https://www.youtube.com/watch?v=Fk4LriCyhEc",
       "published": "2026-10-07T15:50:08.000Z",
       "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhat happens after a stock makes a new 52-week high? Is it a sign that the stock has already run too far, or could it actually tell us something about where the stock goes next?\n\nThe 52-week high is one of the most visible numbers in any stock screener. But despite being so widely available, many investors instinctively avoid stocks making new highs.\n\nWe start with William O'Neil's observation that 98% of investors he surveyed said they did not buy stocks making new highs, even though buying stocks…",
@@ -641,7 +677,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "In The Money (YouTube)",
-      "title": "We Tested Covered Calls on 10 Indian Stocks | The Long & Short Ep. 54",
+      "title": "We Tested Covered Calls on 10 Indian Stocks | The Long & The Short Ep. 54",
       "link": "https://www.youtube.com/watch?v=k7aMpM-OSBI",
       "published": "2026-09-30T14:42:32.000Z",
       "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nIs there really such a thing as \"free money\" in the markets? And if covered calls are one of the most popular option strategies ever sold to investors, why was the man who co-created the Black-Scholes formula not convinced?\n\nWe start with how covered calls are pitched to investors, as a way to earn \"free money\" on stocks you already own, and why even Fischer Black, co-creator of the Black-Scholes formula, was skeptical of the idea.\n\nWe then look at the history of the strategy, how it was sold by br…",
@@ -1349,7 +1385,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "In The Money (YouTube)",
-      "title": "Beyond Momentum: The World of Factor Investing Part 3 | The Long & Short Ep. 53",
+      "title": "Beyond Momentum: The World of Factor Investing Part 3 | The Long & The Short Ep. 53",
       "link": "https://www.youtube.com/watch?v=ma3QcUaFOHQ",
       "published": "2026-09-23T15:29:00.000Z",
       "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhat actually drives stock returns over long periods? And if momentum is just one way to build a portfolio, what are the other factors investors can look at?\n\nThis is Part 3 of our series on momentum, but this time we step away from momentum and look at factor investing more broadly. We start with where the idea of a “factor” came from, how the concept moved from psychology into finance, and how economists and researchers developed the framework used today.\n\nWe then look at factor investing in prac…",
@@ -18075,11 +18111,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-25T19:34:25.268Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-26T07:02:17.779Z",
       "added": 1,
       "errors": 13
@@ -18373,6 +18404,11 @@
       "at": "2026-10-07T20:50:23.538Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-08T08:20:30.568Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18497,5 +18533,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-07T20:50:23.537Z"
+  "lastRun": "2026-10-08T08:20:30.568Z"
 }
