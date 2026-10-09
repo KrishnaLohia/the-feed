@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/7VyAb6ShlOs",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "How did we go from Black-Scholes to Volatility Smile to Fear Index?",
+      "link": "https://www.youtube.com/shorts/7VyAb6ShlOs",
+      "published": "2026-10-09T10:37:49.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/7VyAb6ShlOs/hqdefault.jpg",
+      "firstSeen": "2026-10-09T11:59:15.207Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=9Zj85DnKYss",
       "platform": "youtube",
       "group": "Markets",
@@ -18219,11 +18231,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-27T07:31:29.775Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-27T10:45:06.515Z",
       "added": 0,
       "errors": 3
@@ -18517,6 +18524,11 @@
       "at": "2026-10-09T08:21:39.963Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-10-09T12:06:44.873Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18641,5 +18653,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-09T08:21:39.963Z"
+  "lastRun": "2026-10-09T12:06:44.873Z"
 }
