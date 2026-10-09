@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=9Zj85DnKYss",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Can India break China’s grip on EV batteries? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=9Zj85DnKYss",
+      "published": "2026-10-09T02:30:12.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nWhy India Is Struggling to Make EV Batteries\nIndia’s biggest companies, including Tata, Reliance and JSW, are investing in electric vehicle (EV) battery manufacturing. But a major challenge stands in their way: access to Chinese technology and manufacturing expertise. While some companies are trying to develop battery technology themselves, others are exploring acquisitions and partnerships. We look at why manufacturing battery cells at scale is so difficult, how China’s restrictions are affecting…",
+      "thumbnail": "https://i2.ytimg.com/vi/9Zj85DnKYss/hqdefault.jpg",
+      "firstSeen": "2026-10-09T08:13:53.705Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/inside-indias-first-household-travel",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Inside India’s first household travel survey",
+      "link": "https://thedailybrief.zerodha.com/p/inside-indias-first-household-travel",
+      "published": "2026-10-09T02:08:48.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Inside India’s first household travel survey The NSO’s first travel survey shows the average Indian worker commutes to work in ~25 minutes, with two-wheelers (42.6%) and walking (28.3%)…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!cntb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6821fdf2-f7ae-4dc2-b195-c70146459584_1536x1024.png",
+      "firstSeen": "2026-10-09T08:13:54.056Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=x1s8tzt3jqk",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Inside India’s first household travel survey | Can cancer drugs get cheaper? | The Daily Brief #567",
+      "link": "https://www.youtube.com/watch?v=x1s8tzt3jqk",
+      "published": "2026-10-09T02:04:38.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. India’s 25-Minute Commute\nIndia’s first National Household Travel Survey offers a detailed look at how Indians travel for work, education and family obligations. While the average worker reaches their workplace in about 25 minutes, the data also reveals how transport costs, limited public transit and gender differences shape access to jobs and opportunities.…",
+      "thumbnail": "https://i1.ytimg.com/vi/x1s8tzt3jqk/hqdefault.jpg",
+      "firstSeen": "2026-10-09T08:13:53.289Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=19FXE3noHoE",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -18183,11 +18219,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-26T18:48:00.950Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-27T07:31:29.775Z",
       "added": 0,
       "errors": 3
@@ -18481,6 +18512,11 @@
       "at": "2026-10-08T20:53:11.636Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-09T08:21:39.963Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18605,5 +18641,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-08T20:53:11.636Z"
+  "lastRun": "2026-10-09T08:21:39.963Z"
 }
