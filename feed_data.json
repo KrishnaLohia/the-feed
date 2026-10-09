@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-reclaims-22500-after-broad",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty reclaims 22,500 after broad based rally",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-reclaims-22500-after-broad",
+      "published": "2026-10-09T15:08:28.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!4qny!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe02bc4bd-731a-4bab-8ceb-c7038b8ba30c_1456x971.webp",
+      "firstSeen": "2026-10-09T15:30:39.856Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/cHmHx5J0NCo",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Where did the Greeks come from?",
+      "link": "https://www.youtube.com/shorts/cHmHx5J0NCo",
+      "published": "2026-10-09T14:56:20.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/cHmHx5J0NCo/hqdefault.jpg",
+      "firstSeen": "2026-10-09T15:30:38.743Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=M2SO-du5PVc",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Build a Fully Automated Trading Algo with AI | Part 2 | No Coding Required",
+      "link": "https://www.youtube.com/watch?v=M2SO-du5PVc",
+      "published": "2026-10-09T13:30:06.000Z",
+      "summary": "In our first video, we built a semi-automated algo that identified trading signals. In Part 2, we take the next step: building a fully automated algo that can place orders and monitor them.\nKarthik Rangappa, an experienced trader but a non-programmer, joins Akshay to build a price and volume breakout strategy using simple natural-language prompts and an AI coding assistant. They build on the previous dashboard, scan Nifty 100 stocks, verify the signals on Kite charts, and add automatic buy GTT placement with stop-loss logic after the buy is completed, without writing a single line of code.\nThe video covers setting up a static IP, tracking existing orders, preventing duplicate orders, and ru…",
+      "thumbnail": "https://i2.ytimg.com/vi/M2SO-du5PVc/hqdefault.jpg",
+      "firstSeen": "2026-10-09T15:31:51.985Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-tcs-maruti-suzuki-pb",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: TCS, Maruti Suzuki, PB Fintech (Policybazaar) & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-tcs-maruti-suzuki-pb",
+      "published": "2026-10-09T13:24:05.000Z",
+      "summary": "Welcome to the 96th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 5 companies across 4 industries. Software Services Tata Consultancy Services Automobile Maruti Suzuki India Limited Financial Services PB Fintech Limited (Policy Bazaar) JM Financial…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!DuSp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb973fe1e-ab43-4beb-a5d8-ff9f2b021250_2400x1350.png",
+      "firstSeen": "2026-10-09T15:30:40.163Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/bXC6qSxWFaE",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why India’s Power Demand Surged in September",
+      "link": "https://www.youtube.com/shorts/bXC6qSxWFaE",
+      "published": "2026-10-09T12:30:27.000Z",
+      "summary": "Watch the full video on our YouTube channel!\n\n\n#september2026 #indiapower #indiaelectricity #indiapeakpowerdemand #indianews #bestinindia #electricitydemand #hydroelectricity #climatechange #heatwave #elnino #elnino2026 #theclimatebrief #globalwarming",
+      "thumbnail": "https://i3.ytimg.com/vi/bXC6qSxWFaE/hqdefault.jpg",
+      "firstSeen": "2026-10-09T15:34:49.495Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/QqQ1nCfiTPE",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "3 SIP Myths You MUST Stop Believing! 💰🤯",
+      "link": "https://www.youtube.com/shorts/QqQ1nCfiTPE",
+      "published": "2026-10-09T12:30:22.000Z",
+      "summary": "3 SIP myths you should know before you start investing :👇:\n\n1. Any SIP will give similar results if you stay invested long enough\nNot true. A SIP in large caps, mid caps and small caps can have completely different outcomes. In a specific period, small and mid caps may offer higher returns, but they also come with deeper drawdowns and a higher chance of negative returns over shorter periods. What you invest in matters just as much as how long you stay invested.\n\n2. The best-performing fund will keep giving the best returns\nOne year’s No. 1 fund can drop far down the rankings the very next year. Instead of chasing last year’s winner, choose funds based on your goals, time horizon and overal…",
+      "thumbnail": "https://i2.ytimg.com/vi/QqQ1nCfiTPE/hqdefault.jpg",
+      "firstSeen": "2026-10-09T15:34:49.145Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/7VyAb6ShlOs",
       "platform": "youtube",
       "group": "Markets",
@@ -18231,11 +18303,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-27T10:45:06.515Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-27T14:21:18.941Z",
       "added": 2,
       "errors": 3
@@ -18529,6 +18596,11 @@
       "at": "2026-10-09T12:06:44.873Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-10-09T15:38:20.188Z",
+      "added": 6,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18653,5 +18725,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-09T12:06:44.873Z"
+  "lastRun": "2026-10-09T15:38:20.188Z"
 }
