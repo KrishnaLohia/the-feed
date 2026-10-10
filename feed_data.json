@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=biH_rY0x_gs",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Weekly Market Metrics | Week 41 (5–9 Oct 2026) | NIFTY’s First Bounce in 9 Weeks",
+      "link": "https://www.youtube.com/watch?v=biH_rY0x_gs",
+      "published": "2026-10-10T05:53:05.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to Weekly Market Metrics — your weekend wrap-up of everything that mattered in the markets this week, plus a quick peek into what’s coming up next!\n\nI’m your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nWe’re in Week 41 of 2026. After eight straight weeks of losses, NIFTY finally managed a modest recovery, gaining 0.44% to close at 22,520. But with the index still trading below all its key moving averages, elevated volatility, and continued pressure across broader i…",
+      "thumbnail": "https://i3.ytimg.com/vi/biH_rY0x_gs/hqdefault.jpg",
+      "firstSeen": "2026-10-10T07:56:26.002Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JMb4hLtpHXo",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Weekly Tidbits: 10th Oct | GST Reforms, ITC, SpaceX & India Exports",
+      "link": "https://www.youtube.com/watch?v=JMb4hLtpHXo",
+      "published": "2026-10-10T05:50:08.000Z",
+      "summary": "Welcome to the 6th edition of Weekly Tidbits by Markets by Zerodha, where we bring you interesting stories that may not make it to a full Daily Brief but still deserve a closer look.\n\nThis week, we cover 12 tidbits across Global, Economy, Industry and Company (GEIC), from Europe's gas supplies and India's export ambitions to ITC's block deal and SpaceX's satellite mobile plans.\n\n00:00 Intro\nGlobal\n00:27 Europe's Gas Winter Could Tighten Supplies for Asia\n01:24 America's Farm Debt May Be Bigger Than It Looks\n02:15 Finland Halts Work at Two Google Data-Centre Sites\nEconomy\n03:20 The GST Council Wants to Make Compliance Easier\n04:38 India Is Aiming for $1 Trillion in Exports\n06:00 Rice Prices…",
+      "thumbnail": "https://i3.ytimg.com/vi/JMb4hLtpHXo/hqdefault.jpg",
+      "firstSeen": "2026-10-10T07:56:25.878Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-8",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Weekly Tidbits #8",
+      "link": "https://thedailybrief.zerodha.com/p/weekly-tidbits-8",
+      "published": "2026-10-10T05:01:53.000Z",
+      "summary": "Hi everyone, I’m Mridula , and welcome to the eighth edition of Weekly Tidbits. We spend a lot of time reading interesting stories that never make it into a full Daily Brief piece. So, once a week, we pick some of the best ones and add a little context. We sort them into GEIC: Global, Economy, Industry and Company. Let’s get started! If you prefer watching the video, here’s the link: G — Global [1] Europe’s gas winter could tighten supplies for Asia Europe is heading into winter with less gas in storage than usual. The European Commission says the region can still meet demand, but it may have to rely more on liquefied natural gas, or LNG. Storage works like a winter savings account. Countri…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!vta1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1beae2b0-7662-48df-be35-1f5ae8f7ccd7_1536x1024.png",
+      "firstSeen": "2026-10-10T07:56:26.661Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=2IItJOsaDOQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "When should you actually take a loan? (And when to avoid) | Cash & Copium Ep. 8",
+      "link": "https://www.youtube.com/watch?v=2IItJOsaDOQ",
+      "published": "2026-10-10T04:30:33.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=ZAPVVI\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nWelcome to Cash & Copium, the show where we break down finance concepts that directly move money in and out of your pocket - without jargon or corporate fluff. \n\nIn Episode 8 of Cash & Copium, Abid, Bhuvan, and Aakanksha dissect India's growing credit boom, dipping household savings (now at 5%), and the rising trend of borrowing for consumables like smartphones, vacations…",
+      "thumbnail": "https://i3.ytimg.com/vi/2IItJOsaDOQ/hqdefault.jpg",
+      "firstSeen": "2026-10-10T07:56:26.415Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=J5_MUlHwIX8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Can India Become a Global Semiconductor Hub? | Markets by Zerodha Hindi",
+      "link": "https://www.youtube.com/watch?v=J5_MUlHwIX8",
+      "published": "2026-10-10T04:30:17.000Z",
+      "summary": "Semiconductors are becoming critical to the global economy, and India is investing heavily to reduce its import dependence and build a domestic semiconductor ecosystem. With billions in government support and fresh investments from Indian and global companies, can India become a global semiconductor hub?\nIn this video, we explore:\nPART 1: How the global semiconductor supply chain works and which countries dominate it.\nPART 2: India’s semiconductor push, government initiatives, major investments and companies building capabilities across the value chain.\n\nChapters:\n0:00 – Semiconductor demand & India's ambitions\n0:24 – Global market size & India's import dependence\n1:59 – Welcome & video str…",
+      "thumbnail": "https://i3.ytimg.com/vi/J5_MUlHwIX8/hqdefault.jpg",
+      "firstSeen": "2026-10-10T07:56:26.268Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=pOxdqHsUL_s",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Your parents could be their next Target",
+      "link": "https://www.youtube.com/watch?v=pOxdqHsUL_s",
+      "published": "2026-10-10T04:30:17.000Z",
+      "summary": "Between 2021 and 2025 India received more than 65 Lakh complaints related to Cyber Fraud, all these claims together were worth more than 55 thousand crores! \n\nAnd yet most of us think that we are smart enough that this would never happen with us, but the reality is everybody is equally at risk! \n\nSo in this video we decided to break down 3 of such scams.\n\nEverything you should know about them \nWhat should you tell your friends and family about them\nAnd \nHow can you safeguard yourself and get your money back! \n\nIf you have any stories around such experiences please let us know in the comments and help me make more and more people aware regarding such frauds. \n\nGujarat Police advisory on AePS…",
+      "thumbnail": "https://i1.ytimg.com/vi/pOxdqHsUL_s/hqdefault.jpg",
+      "firstSeen": "2026-10-10T08:00:33.431Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-reclaims-22500-after-broad",
       "platform": "substack",
       "group": "Markets",
@@ -18303,11 +18375,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-27T19:18:10.804Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-28T08:09:08.755Z",
       "added": 3,
       "errors": 3
@@ -18601,6 +18668,11 @@
       "at": "2026-10-09T20:22:02.971Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-10T08:04:02.795Z",
+      "added": 6,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18725,5 +18797,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-09T20:22:02.971Z"
+  "lastRun": "2026-10-10T08:04:02.795Z"
 }
