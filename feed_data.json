@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=Yzq7gZFSDds",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Kerala Is Fighting a Silent DISASTER",
+      "link": "https://www.youtube.com/watch?v=Yzq7gZFSDds",
+      "published": "2026-10-10T15:15:57.000Z",
+      "summary": "When you think of floods, don’t you imagine a gush of water destroying everything in its path? But what if we tell you that floods aren’t always dramatic but can be incredibly destructive. In this episode of The Climate Brief, we breakdown one of Kerala’s recurrent problems - Tidal flooding. \n\nLet’s dive into what it is, why it’s such a big problem and how over 20,000 people live with tidal flooding\n\n0:00 - Introduction\n0:38 - Chapter 1: What is Tidal Flooding?\n3:44 - Chapter 2: Why Tidal Flooding Is Becoming Severe?\n\n#keralanews #kerala #tidalflooding #flooding #climatechange #climatecrisis #indianews #bestinindia #theclimatebrief #keralafloods",
+      "thumbnail": "https://i2.ytimg.com/vi/Yzq7gZFSDds/hqdefault.jpg",
+      "firstSeen": "2026-10-10T17:03:55.006Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/niftys-first-green-week-in-nine-but",
       "platform": "substack",
       "group": "Markets",
@@ -18387,11 +18399,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-28T17:05:00.738Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-09-28T19:24:12.885Z",
       "added": 0,
       "errors": 3
@@ -18685,6 +18692,11 @@
       "at": "2026-10-10T14:46:03.111Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-10-10T17:07:26.261Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18809,5 +18821,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-10T14:46:03.111Z"
+  "lastRun": "2026-10-10T17:07:26.261Z"
 }
