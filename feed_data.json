@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=RuVa_SsiAXg",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 12 October 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=RuVa_SsiAXg",
+      "published": "2026-10-11T14:01:26.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i3.ytimg.com/vi/RuVa_SsiAXg/hqdefault.jpg",
+      "firstSeen": "2026-10-11T15:03:47.649Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/EaWBs2XTmg4",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "No-Cost EMI Is NOT Free! Here’s What You Actually Pay 💸🤯",
+      "link": "https://www.youtube.com/shorts/EaWBs2XTmg4",
+      "published": "2026-10-11T12:30:04.000Z",
+      "summary": "No Cost EMI is not actually free.\n\nLet’s say, you bought a phone worth ₹1 lakh phone.\nIn a regular EMI, the bank charges you interest. So the ₹1 lakh gets converted into a loan, interest is added say 10% and you repay the amount over a number of months.\nBut in a No-Cost EMI, you still buy the ₹1 lakh phone and divide the payment across the EMI tenure but there is no interest!\nSo where did the interest go?\nIt’s still there. The retailer paid it on your behalf! \nWhy?\nBecause the retailer wants to sell more phones and  saying “₹1 lakh today” feels very different from saying “just ₹8,153 per month.”\nThe smaller monthly payment can make the purchase feel more affordable, which can help the retai…",
+      "thumbnail": "https://i2.ytimg.com/vi/EaWBs2XTmg4/hqdefault.jpg",
+      "firstSeen": "2026-10-11T15:06:08.471Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=M1QDcYBlGe4",
       "platform": "youtube",
       "group": "Markets",
@@ -104,7 +128,7 @@
       "title": "Your parents could be their next Target",
       "link": "https://www.youtube.com/watch?v=pOxdqHsUL_s",
       "published": "2026-10-10T04:30:17.000Z",
-      "summary": "Between 2021 and 2025 India received more than 65 Lakh complaints related to Cyber Fraud, all these claims together were worth more than 55 thousand crores! \n\nAnd yet most of us think that we are smart enough that this would never happen with us, but the reality is everybody is equally at risk! \n\nSo in this video we decided to break down 3 of such scams.\n\nEverything you should know about them \nWhat should you tell your friends and family about them\nAnd \nHow can you safeguard yourself and get your money back! \n\nIf you have any stories around such experiences please let us know in the comments and help me make more and more people aware regarding such frauds. \n\nGujarat Police advisory on AePS…",
+      "summary": "Between 2021 and 2025 India received more than 65 Lakh complaints related to Cyber Fraud, all these claims together were worth more than 55 thousand crores! \n\nAnd yet most of us think that we are smart enough that this would never happen with us, but the reality is everybody is equally at risk! \n\nSo in this video we decided to break down 3 of such scams.\n1. Impersonation Scams\n2. WhatsApp Scams \n3. Biometric Scam\n\nWe cover everything you should know about them, \nWhat should you tell your friends and family about them\nAnd \nHow can you safeguard yourself and get your money back! \n\nIf you have any stories around such experiences please let us know in the comments and help us make more and more…",
       "thumbnail": "https://i1.ytimg.com/vi/pOxdqHsUL_s/hqdefault.jpg",
       "firstSeen": "2026-10-10T08:00:33.431Z"
     },
@@ -18411,11 +18435,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-29T11:34:13.356Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-09-29T15:09:13.268Z",
       "added": 2,
       "errors": 3
@@ -18709,6 +18728,11 @@
       "at": "2026-10-11T11:36:44.673Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-11T15:09:38.572Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18833,5 +18857,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-11T11:36:44.673Z"
+  "lastRun": "2026-10-11T15:09:38.572Z"
 }
