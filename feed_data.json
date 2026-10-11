@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=M1QDcYBlGe4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Market Legends Ep.2: Paul Tudor Jones: The Man Who Saw Black Monday Coming | In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=M1QDcYBlGe4",
+      "published": "2026-10-11T05:24:40.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nIn 1987, Paul Tudor Jones spotted a striking similarity between the stock market of the 1980s and the 1920s. The correlation was reportedly close to 90%. What followed was one of the most remarkable years in trading history.\n\nIn this episode of Market Legends, we explore the story of Paul Tudor Jones, the legendary macro trader known for his approach to risk management and his role during the 1987 stock market crash. From an early career setback in cotton trading to the lessons he took away from Si…",
+      "thumbnail": "https://i2.ytimg.com/vi/M1QDcYBlGe4/hqdefault.jpg",
+      "firstSeen": "2026-10-11T08:04:08.978Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=Yzq7gZFSDds",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -18399,11 +18411,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-28T21:27:31.033Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-29T07:50:15.556Z",
       "added": 3,
       "errors": 3
@@ -18697,6 +18704,11 @@
       "at": "2026-10-10T19:34:01.016Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-11T08:11:46.218Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18821,5 +18833,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-10T19:34:01.016Z"
+  "lastRun": "2026-10-11T08:11:46.218Z"
 }
