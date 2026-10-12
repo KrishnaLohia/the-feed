@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=vjBcfw9-OY4",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 13 October 2026, Tuesday",
+      "link": "https://www.youtube.com/watch?v=vjBcfw9-OY4",
+      "published": "2026-10-12T16:18:07.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i3.ytimg.com/vi/vjBcfw9-OY4/hqdefault.jpg",
+      "firstSeen": "2026-10-12T18:10:25.123Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/2oFa6DbPp8k",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Kerala’s “Nuisance Floods” Problem",
+      "link": "https://www.youtube.com/shorts/2oFa6DbPp8k",
+      "published": "2026-10-12T16:09:03.000Z",
+      "summary": "Watch the full video on our channel!\n\n#keralanews #kerala #tidalflooding #flooding #climatechange #climatecrisis #indianews #bestinindia #theclimatebrief #keralafloods",
+      "thumbnail": "https://i3.ytimg.com/vi/2oFa6DbPp8k/hqdefault.jpg",
+      "firstSeen": "2026-10-12T18:12:46.092Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-slides-towards-22350-as-weak",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty slides towards 22,350 as weak domestic sentiment continues to weigh",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-slides-towards-22350-as-weak",
+      "published": "2026-10-12T14:57:38.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Pr_R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5cc36d9-6054-44a8-b2a0-9e8a349abbe1_1456x971.webp",
+      "firstSeen": "2026-10-12T18:08:39.155Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/rIQBSoA5N2Y",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Trading is Gambling. But, Are You a Professional Gambler? | Innerworth Ep. 41",
+      "link": "https://www.youtube.com/shorts/rIQBSoA5N2Y",
+      "published": "2026-10-12T14:14:51.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/rIQBSoA5N2Y/hqdefault.jpg",
+      "firstSeen": "2026-10-12T18:08:38.292Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=tV2WNXw92HI",
       "platform": "youtube",
       "group": "Markets",
@@ -18471,11 +18519,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-30T07:53:17.975Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-09-30T11:22:13.191Z",
       "added": 0,
       "errors": 3
@@ -18769,6 +18812,11 @@
       "at": "2026-10-12T08:28:18.970Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-10-12T18:16:15.637Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18893,5 +18941,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-12T08:28:18.970Z"
+  "lastRun": "2026-10-12T18:16:15.637Z"
 }
