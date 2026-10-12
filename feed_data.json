@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/hW_fVVXDLzc",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "What is an HUF and who all are a part of it? #varsity #zerodha #shorts #tax",
+      "link": "https://www.youtube.com/shorts/hW_fVVXDLzc",
+      "published": "2026-10-12T18:30:13.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/hW_fVVXDLzc/hqdefault.jpg",
+      "firstSeen": "2026-10-12T20:57:27.613Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=vjBcfw9-OY4",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -18519,11 +18531,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-30T11:22:13.191Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-30T15:18:29.774Z",
       "added": 10,
       "errors": 3
@@ -18817,6 +18824,11 @@
       "at": "2026-10-12T18:16:15.637Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-10-12T21:03:56.760Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18941,5 +18953,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-12T18:16:15.637Z"
+  "lastRun": "2026-10-12T21:03:56.760Z"
 }
