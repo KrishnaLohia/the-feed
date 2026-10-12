@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=tV2WNXw92HI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "How transport limits job opportunities in India | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=tV2WNXw92HI",
+      "published": "2026-10-12T02:30:32.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nHow Do Indians Really Commute to Work?\nIndia’s National Household Travel Survey reveals how Indians travel to work, school, and for personal reasons. While most workers reach their workplace in under 30 minutes, the findings highlight deeper issues around public transport, job opportunities, and women’s mobility.\n\nWe’ll cover:\n●Why two-wheelers dominate Indian commutes despite massive investments in metro infrastructure.\n●What India’s 25-minute average commute reveals about job access, travel costs…",
+      "thumbnail": "https://i1.ytimg.com/vi/tV2WNXw92HI/hqdefault.jpg",
+      "firstSeen": "2026-10-12T08:20:48.193Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/84000-crore-oil-exploration-rice-prices-india-grain-reserves",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Can ₹84,000 crore get India drilling?",
+      "link": "https://thedailybrief.zerodha.com/p/84000-crore-oil-exploration-rice-prices-india-grain-reserves",
+      "published": "2026-10-12T01:45:56.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Can ₹84,000 crore get India drilling? Despite solar and EV pushes, India imports ~89% of its crude oil as domestic output fell 27% since FY12. To counter a 6–7% annual natural field decl…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!FXfU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e4d95fc-2c2b-47c6-b4e0-ba3888084e47_1536x1024.png",
+      "firstSeen": "2026-10-12T08:20:48.540Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=uTn8fnBIZnk",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Can ₹84,000 crore get India drilling? | India’s rice paradox | The Daily Brief #568",
+      "link": "https://www.youtube.com/watch?v=uTn8fnBIZnk",
+      "published": "2026-10-12T01:30:04.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Can ₹84,000 Crore Help India Find More Oil?\nIndia imports nearly 89% of its crude oil requirements, while domestic production continues to decline. The government’s ₹84,084-crore Samudra Manthan scheme aims to encourage offshore oil and gas exploration by sharing drilling costs, improving geological data and funding common infrastructure. But will these incent…",
+      "thumbnail": "https://i2.ytimg.com/vi/uTn8fnBIZnk/hqdefault.jpg",
+      "firstSeen": "2026-10-12T08:20:47.905Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=RuVa_SsiAXg",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -18435,11 +18471,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-29T20:16:21.523Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-30T07:53:17.975Z",
       "added": 4,
       "errors": 3
@@ -18733,6 +18764,11 @@
       "at": "2026-10-11T19:46:45.028Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-12T08:28:18.970Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18857,5 +18893,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-11T19:46:45.028Z"
+  "lastRun": "2026-10-12T08:28:18.970Z"
 }
