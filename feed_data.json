@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=Dx1xaGH4HVY",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Samudra Manthan: Can India reduce its oil imports? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=Dx1xaGH4HVY",
+      "published": "2026-10-13T02:30:34.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nSamudra Manthan: Can India Reduce Its Dependence on Oil Imports?\nIndia imports nearly 89% of its crude oil requirements, while domestic production has been declining for years. To reverse this trend, the government has approved the Samudra Manthan scheme, an ₹84,084 crore programme aimed at boosting offshore oil and gas exploration.\nThe scheme combines financial support, better geological data, shared infrastructure and policy reforms to encourage companies to explore India's underdeveloped offshor…",
+      "thumbnail": "https://i1.ytimg.com/vi/Dx1xaGH4HVY/hqdefault.jpg",
+      "firstSeen": "2026-10-13T08:45:27.003Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/the-us-is-one-step-away-from-banning",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The US is one step away from banning green cards",
+      "link": "https://thedailybrief.zerodha.com/p/the-us-is-one-step-away-from-banning",
+      "published": "2026-10-13T01:49:11.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The US is one step away from banning green cards The US Department of Labour indefinitely suspended eight major tech firms—including Microsoft, TCS, Infosys, Wipro, and Cognizant—from th…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!JaRM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43d682af-9b4d-4453-a367-21ee5ebd7164_1536x1024.png",
+      "firstSeen": "2026-10-13T08:45:27.510Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=7hD-3040qpE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Indian IT vs US immigration rules | India’s housing boom has narrowed | The Daily Brief #569",
+      "link": "https://www.youtube.com/watch?v=7hD-3040qpE",
+      "published": "2026-10-13T01:40:48.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. The US Is Tightening Green Card Rules\nThe Trump administration has indefinitely suspended green card-related PERM applications for eight major technology companies, making it harder for skilled foreign workers to obtain permanent residency in the US. But with Indian IT firms already reducing their dependence on H-1B visas and green card applications, the move…",
+      "thumbnail": "https://i4.ytimg.com/vi/7hD-3040qpE/hqdefault.jpg",
+      "firstSeen": "2026-10-13T08:45:26.785Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/hW_fVVXDLzc",
       "platform": "youtube",
       "group": "Varsity",
@@ -18531,11 +18567,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-30T17:46:31.169Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-09-30T20:21:02.773Z",
       "added": 0,
       "errors": 3
@@ -18829,6 +18860,11 @@
       "at": "2026-10-12T22:40:40.779Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-13T08:53:05.492Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18953,5 +18989,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-12T22:40:40.779Z"
+  "lastRun": "2026-10-13T08:53:05.492Z"
 }
