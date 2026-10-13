@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/SzGSNWVr71Y",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "₹17 Lakh Car vs Your Salary: Can You Afford It?🚗💸",
+      "link": "https://www.youtube.com/shorts/SzGSNWVr71Y",
+      "published": "2026-10-13T12:30:01.000Z",
+      "summary": "Can you actually afford the car you’re planning to buy? :🚗:\n\nMost of us look at the car price and EMI and decide whether we can afford it. But the EMI is only one part of the cost. Fuel, insurance, maintenance and other running costs can add up to a lot more every month.\n\nSo I have made a simple car affordability calculator to calculate the actual monthly cost of owning a car.\nFor example, I assumed a ₹17 lakh car, a ₹1 lakh monthly in-hand salary, 30% down payment, a 7-year loan at 9% interest, and 30 km of daily driving. I also added fuel, mileage, maintenance and insurance costs.\n\nCheck out the full reel to understand what the actual cost of owning the car came out to be. And this is th…",
+      "thumbnail": "https://i4.ytimg.com/vi/SzGSNWVr71Y/hqdefault.jpg",
+      "firstSeen": "2026-10-13T12:52:52.926Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=Dx1xaGH4HVY",
       "platform": "youtube",
       "group": "Markets",
@@ -18567,11 +18579,6 @@
   },
   "runs": [
     {
-      "at": "2026-09-30T20:21:02.773Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-01T08:12:08.565Z",
       "added": 3,
       "errors": 3
@@ -18865,6 +18872,11 @@
       "at": "2026-10-13T08:53:05.492Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-10-13T12:56:26.601Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -18989,5 +19001,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-13T08:53:05.492Z"
+  "lastRun": "2026-10-13T12:56:26.601Z"
 }
