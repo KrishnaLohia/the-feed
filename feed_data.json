@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=giZw_E2NJc0",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Trump’s Green Card Ban: Who takes the biggest hit? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=giZw_E2NJc0",
+      "published": "2026-10-14T02:30:34.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nUS PERM Ban: What It Means for Indian IT Companies\nThe Trump administration has suspended PERM green card applications for eight major technology companies, including TCS, Infosys, Wipro and Cognizant. However, Indian IT firms have already reduced their dependence on US work visas and green card sponsorships by shifting work offshore and hiring more locally. The bigger impact could fall on American tech giants like Microsoft and Adobe, which rely more heavily on these programmes. Meanwhile, AI is c…",
+      "thumbnail": "https://i4.ytimg.com/vi/giZw_E2NJc0/hqdefault.jpg",
+      "firstSeen": "2026-10-14T10:22:18.727Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/the-business-behind-zetwerks-5000",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +23,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The business behind Zetwerk’s ₹5,000 crore IPO B2B manufacturing platform Zetwerk is launching its ₹5,012 crore IPO, raising ₹2,830 crore in fresh equity to repay heavy operating loans.…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!S4KM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F695b07e1-60fd-40d8-ba7f-0bd7e3870769_1536x1024.png",
       "firstSeen": "2026-10-14T06:55:51.288Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=GHsulThB7v8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Inside Zetwerk’s ₹5,000 Crore IPO | Who pays when it’s too hot to work? | The Daily Brief #570",
+      "link": "https://www.youtube.com/watch?v=GHsulThB7v8",
+      "published": "2026-10-14T01:30:18.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Inside Zetwerk’s ₹5,000 Crore IPO\nZetwerk is a manufacturing services company that manages production through its own factories and a large network of suppliers. As it prepares for its ₹5,000 crore IPO, we look at how its business works, its financial performance, and the challenges it faces in turning growth into cash.\n\nWe’ll cover:\n- How Zetwerk connects man…",
+      "thumbnail": "https://i4.ytimg.com/vi/GHsulThB7v8/hqdefault.jpg",
+      "firstSeen": "2026-10-14T10:22:18.311Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=YrXMoDNVEP0",
@@ -41,7 +65,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "₹17 Lakh Car vs Your Salary: Can You Afford It?🚗💸",
+      "title": "The REAL Cost of Owning a ₹17 Lakh Car 🚗💸",
       "link": "https://www.youtube.com/shorts/SzGSNWVr71Y",
       "published": "2026-10-13T12:30:01.000Z",
       "summary": "Can you actually afford the car you’re planning to buy? :🚗:\n\nMost of us look at the car price and EMI and decide whether we can afford it. But the EMI is only one part of the cost. Fuel, insurance, maintenance and other running costs can add up to a lot more every month.\n\nSo I have made a simple car affordability calculator to calculate the actual monthly cost of owning a car.\nFor example, I assumed a ₹17 lakh car, a ₹1 lakh monthly in-hand salary, 30% down payment, a 7-year loan at 9% interest, and 30 km of daily driving. I also added fuel, mileage, maintenance and insurance costs.\n\nCheck out the full reel to understand what the actual cost of owning the car came out to be. And this is th…",
@@ -18615,11 +18639,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-01T20:33:37.080Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-02T07:54:56.652Z",
       "added": 1,
       "errors": 3
@@ -18913,6 +18932,11 @@
       "at": "2026-10-14T07:03:33.943Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-10-14T10:30:00.489Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19037,5 +19061,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-14T07:03:33.943Z"
+  "lastRun": "2026-10-14T10:30:00.489Z"
 }
