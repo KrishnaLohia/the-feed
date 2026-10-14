@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/HctYcwPOOqw",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "The Science Behind High Tides!",
+      "link": "https://www.youtube.com/shorts/HctYcwPOOqw",
+      "published": "2026-10-14T12:30:03.000Z",
+      "summary": "Watch the full video on our channel!\n\n#keralanews #kerala #tidalflooding #flooding #climatechange #climatecrisis #indianews #bestinindia #theclimatebrief #keralafloods",
+      "thumbnail": "https://i1.ytimg.com/vi/HctYcwPOOqw/hqdefault.jpg",
+      "firstSeen": "2026-10-14T14:02:00.993Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-hcltech-rbl-bank-canara",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: HCLTech, RBL Bank, Canara Bank Zetwerk, IKEA India & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-hcltech-rbl-bank-canara",
+      "published": "2026-10-14T11:48:29.000Z",
+      "summary": "Welcome to the 97th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 7 companies across 4 industries. Software Services HCL Technologies IBM India Financial Services RBL Bank Limited Canara Bank Anand Rathi Wealth Limited Manufacturing Zetwerk Retail…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!jYay!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3ade4d1-ca5b-4c55-a501-b0e65aa7d0c9_2400x1350.png",
+      "firstSeen": "2026-10-14T13:57:55.250Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=giZw_E2NJc0",
       "platform": "youtube",
       "group": "Markets",
@@ -18639,11 +18663,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-02T07:54:56.652Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-10-02T11:19:21.297Z",
       "added": 0,
       "errors": 3
@@ -18937,6 +18956,11 @@
       "at": "2026-10-14T10:30:00.489Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-10-14T14:05:29.330Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19061,5 +19085,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-14T10:30:00.489Z"
+  "lastRun": "2026-10-14T14:05:29.330Z"
 }
