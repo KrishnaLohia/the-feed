@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=KVS64-VLhwU",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "We Backtested Weinstein Stage 2 on NIFTY 500 Stocks | The Long & The Short Ep. 56",
+      "link": "https://www.youtube.com/watch?v=KVS64-VLhwU",
+      "published": "2026-10-14T14:44:31.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nCan a method built around reading charts be turned into a set of rules that we can test? And what happens when we apply Stan Weinstein’s Stage Analysis to Indian stocks?\n\nStan Weinstein’s approach to the stock market is largely discretionary. It involves reading charts, identifying trends, and making judgements about where a stock stands in its cycle. Weinstein himself questioned whether every breakout could be treated equally by a computer.\n\nIn this episode, we take a rules-based approach to Stage…",
+      "thumbnail": "https://i4.ytimg.com/vi/KVS64-VLhwU/hqdefault.jpg",
+      "firstSeen": "2026-10-14T16:35:58.292Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-struggles-at-higher-levels",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty struggles at higher levels as rising oil prices pull index back near 22,600",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-struggles-at-higher-levels",
+      "published": "2026-10-14T14:31:38.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!4piP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec7ea074-c540-4389-b3d1-372b800669ff_1456x971.webp",
+      "firstSeen": "2026-10-14T16:35:59.050Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=lJJ7hvzjVzo",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 15 October 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=lJJ7hvzjVzo",
+      "published": "2026-10-14T14:23:38.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/lJJ7hvzjVzo/hqdefault.jpg",
+      "firstSeen": "2026-10-14T16:37:43.054Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/HctYcwPOOqw",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -18663,11 +18699,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-02T11:19:21.297Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-02T15:03:01.267Z",
       "added": 3,
       "errors": 3
@@ -18961,6 +18992,11 @@
       "at": "2026-10-14T14:05:29.330Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-10-14T16:43:29.397Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19085,5 +19121,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-14T14:05:29.330Z"
+  "lastRun": "2026-10-14T16:43:29.397Z"
 }
