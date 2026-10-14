@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/the-business-behind-zetwerks-5000",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The business behind Zetwerk's ₹5,000 crore IPO",
+      "link": "https://thedailybrief.zerodha.com/p/the-business-behind-zetwerks-5000",
+      "published": "2026-10-14T01:48:40.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The business behind Zetwerk’s ₹5,000 crore IPO B2B manufacturing platform Zetwerk is launching its ₹5,012 crore IPO, raising ₹2,830 crore in fresh equity to repay heavy operating loans.…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!S4KM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F695b07e1-60fd-40d8-ba7f-0bd7e3870769_1536x1024.png",
+      "firstSeen": "2026-10-14T06:55:51.288Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=YrXMoDNVEP0",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -18603,11 +18615,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-01T18:11:33.697Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-01T20:33:37.080Z",
       "added": 0,
       "errors": 3
@@ -18901,6 +18908,11 @@
       "at": "2026-10-13T20:54:26.657Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-14T07:03:33.943Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -19025,5 +19037,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-13T20:54:26.657Z"
+  "lastRun": "2026-10-14T07:03:33.943Z"
 }
