@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/8uNRWBzGUk8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "We tested Top 10 Stocks vs. NIFTY 50 | Backtest | Ep. 2",
+      "link": "https://www.youtube.com/shorts/8uNRWBzGUk8",
+      "published": "2026-10-15T16:05:02.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/8uNRWBzGUk8/hqdefault.jpg",
+      "firstSeen": "2026-10-15T16:21:43.731Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/indian-markets-emerge-as-an-ai-hedge",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Indian markets emerge as an AI hedge play; Nifty surges towards 23,000",
+      "link": "https://aftermarketreport.zerodha.com/p/indian-markets-emerge-as-an-ai-hedge",
+      "published": "2026-10-15T14:55:26.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!iGE4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a65b968-db0c-43dd-84df-8acde5af26f6_1456x971.webp",
+      "firstSeen": "2026-10-15T16:21:44.275Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/c0LPjmzkkfo",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "Is experience everything in the VC world? Here's how young VCs really see it.",
+      "link": "https://www.youtube.com/shorts/c0LPjmzkkfo",
+      "published": "2026-10-15T13:41:37.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/c0LPjmzkkfo/hqdefault.jpg",
+      "firstSeen": "2026-10-15T16:25:15.497Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=3tZY-8xoeVE",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -18771,11 +18807,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-03T10:36:54.205Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-03T13:45:33.214Z",
       "added": 1,
       "errors": 3
@@ -19069,6 +19100,11 @@
       "at": "2026-10-15T13:45:42.609Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-10-15T16:29:18.808Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19193,5 +19229,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-15T13:45:42.609Z"
+  "lastRun": "2026-10-15T16:29:18.807Z"
 }
