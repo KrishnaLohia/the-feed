@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=3tZY-8xoeVE",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 16 October 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=3tZY-8xoeVE",
+      "published": "2026-10-15T12:48:37.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/3tZY-8xoeVE/hqdefault.jpg",
+      "firstSeen": "2026-10-15T13:39:46.746Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/nqy68orW1F0",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Kerala Has A BIG Problem",
+      "link": "https://www.youtube.com/shorts/nqy68orW1F0",
+      "published": "2026-10-15T12:30:30.000Z",
+      "summary": "Watch the full video on our channel!\n\n#keralanews #kerala #tidalflooding #flooding #climatechange #climatecrisis #indianews #bestinindia #theclimatebrief #keralafloods",
+      "thumbnail": "https://i3.ytimg.com/vi/nqy68orW1F0/hqdefault.jpg",
+      "firstSeen": "2026-10-15T13:42:09.733Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/13KDfTl5RyE",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -1124,7 +1148,7 @@
       "title": "Build an Income that pays after You STOP Working",
       "link": "https://www.youtube.com/watch?v=YUMl5LUlSRk",
       "published": "2026-10-03T04:30:28.000Z",
-      "summary": "Over 2 crore Indians invest with Zerodha. Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nYou can Open your NPS or Track your NPS/PRAN Account through PensionBox. \nhttps://pensionbox.in/getstarted?c=zero1byzerod-5846\n\nIndia has one of the largest working population in the world and in the next few decades most of this population will retire. But a majority of this population is not prepared for the retired life. \n\nNPS can be one of the ways for looking at a Retired Life and given the NPS is one of the few ways to Save Taxes in the New Regime, it is worthwhile to understand the product.\n\nIn this video we breakdown \n1. What NPS actually is and how does it work ?\n2. What…",
+      "summary": "Over 2 crore Indians invest with Zerodha. Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nYou can Open your NPS or Track your NPS/PRAN Account through PensionBox. \nhttps://pensionbox.in/getstarted?c=zero1byzerod-5846\n\nTo know more about NPS, you can attend the detailed session on NPS\nhttps://varsitylive.zerodha.com/programmes/74b57e21-81be-4bbb-ad22-a11a35ad7106\n\n\nIndia has one of the largest working population in the world and in the next few decades most of this population will retire. But a majority of this population is not prepared for the retired life. \n\nNPS can be one of the ways for looking at a Retired Life and given the NPS is one of the few ways to Save Tax…",
       "thumbnail": "https://i2.ytimg.com/vi/YUMl5LUlSRk/hqdefault.jpg",
       "firstSeen": "2026-10-03T07:25:54.688Z"
     },
@@ -18747,11 +18771,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-03T07:29:35.534Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-10-03T10:36:54.205Z",
       "added": 0,
       "errors": 3
@@ -19045,6 +19064,11 @@
       "at": "2026-10-15T10:15:16.598Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-10-15T13:45:42.609Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19169,5 +19193,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-15T10:15:16.598Z"
+  "lastRun": "2026-10-15T13:45:42.609Z"
 }
