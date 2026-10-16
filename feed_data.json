@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/x1WpNH29-qA",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Pay 1 Extra EMI Every Year & Save Lakhs on Your Home Loan 💰",
+      "link": "https://www.youtube.com/shorts/x1WpNH29-qA",
+      "published": "2026-10-16T12:30:35.000Z",
+      "summary": "Paying one extra EMI every year may not sound like a big change, but over a long home loan, it can make a significant difference.\nIn the initial years of a home loan, a large part of your EMI goes towards interest rather than reducing the principal. So when you make an extra payment towards the loan, it directly reduces the outstanding principal.\n\nFor example, on a ₹50 lakh home loan at 8.5% for 20 years, you could end up paying around ₹54 lakh in interest if you continue with regular EMIs.\nBut by paying just one extra EMI every year, you can reduce the total interest significantly and also finish the loan several years earlier.\n\nThe key is that the earlier you reduce your principal, the le…",
+      "thumbnail": "https://i1.ytimg.com/vi/x1WpNH29-qA/hqdefault.jpg",
+      "firstSeen": "2026-10-16T13:32:06.924Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=vbO4UfrbhHM",
       "platform": "youtube",
       "group": "Markets",
@@ -18843,11 +18855,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-04T07:44:24.805Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-10-04T11:18:48.426Z",
       "added": 0,
       "errors": 3
@@ -19141,6 +19148,11 @@
       "at": "2026-10-16T10:05:37.374Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-10-16T13:35:33.874Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19265,5 +19277,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-16T10:05:37.374Z"
+  "lastRun": "2026-10-16T13:35:33.874Z"
 }
