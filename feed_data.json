@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-shrugs-off-global-uncertainty",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty shrugs off global uncertainty, extends gains for second straight day",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-shrugs-off-global-uncertainty",
+      "published": "2026-10-16T15:00:43.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!iGE4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a65b968-db0c-43dd-84df-8acde5af26f6_1456x971.webp",
+      "firstSeen": "2026-10-16T16:07:47.814Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/CJdZGUp69aM",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Jio vs Airtel - Subscribers, ARPU, the opportunity to upsell",
+      "link": "https://www.youtube.com/shorts/CJdZGUp69aM",
+      "published": "2026-10-16T14:06:52.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nExplore:\n\nTrade on Kite\nWeb → https://kite.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS → https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb → https://coin.zerodha.com\nAndroid → https://play.google.com/store/apps/details?id=com.zerodha.coin\niOS → https://apps.apple.com/in/app/coin-by-zerodha-mu…",
+      "thumbnail": "https://i4.ytimg.com/vi/CJdZGUp69aM/hqdefault.jpg",
+      "firstSeen": "2026-10-16T16:09:35.173Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-sebi-rbi-dipam-jio-wipro",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: SEBI, RBI, DIPAM, Jio, Wipro & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-sebi-rbi-dipam-jio-wipro",
+      "published": "2026-10-16T13:48:46.000Z",
+      "summary": "Welcome to the 98th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 4 companies across 4 industries and 3 Interviews & 1 speech from Regulators. Regulators Securities and Exchange Board of India Reserve Bank of India Department of Investment and Publ…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!6Ipl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6339df88-c87e-40ba-9483-096a69570908_2400x1350.png",
+      "firstSeen": "2026-10-16T16:07:47.948Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ykrxgCfcMt4",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Can an HUF Really Reduce Your Tax? Explained with Examples?",
+      "link": "https://www.youtube.com/watch?v=ykrxgCfcMt4",
+      "published": "2026-10-16T13:30:26.000Z",
+      "summary": "Can an HUF really help you save taxes, or is it only useful for a handful of families? In this video, Aastha Khurana explains how an HUF works, who can create one, and the situations where it can actually make a difference to your tax planning. Watch till the end to understand whether an HUF is the right fit for your family.\n\nTime Stamps\n00:00 Introduction \n00:26 How HUF can help save taxes?\n00:58 Point 1\n03:09 Point 2\n05:00 Point 3\n07:00 Point 4\n08:11 Point 5\n10:22 What is HUF & its Structure?\n10:52 Karta\n11:05 Difference between Members & Co-parceners\n12:11 Who can open an HUF?\n12:29 Amendment\n13:07 How is capital brought in HUF?\n15:26 Loan from HUF\n16:16 Dissolution of HUF\n17:33 Is HUF f…",
+      "thumbnail": "https://i2.ytimg.com/vi/ykrxgCfcMt4/hqdefault.jpg",
+      "firstSeen": "2026-10-16T16:08:59.589Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/x1WpNH29-qA",
       "platform": "youtube",
       "group": "Zero1",
@@ -18855,11 +18903,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-04T11:18:48.426Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-04T14:25:40.470Z",
       "added": 2,
       "errors": 3
@@ -19153,6 +19196,11 @@
       "at": "2026-10-16T13:35:33.874Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-10-16T16:15:29.758Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19277,5 +19325,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-16T13:35:33.874Z"
+  "lastRun": "2026-10-16T16:15:29.758Z"
 }
