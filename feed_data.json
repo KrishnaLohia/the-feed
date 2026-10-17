@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/it-rally-powers-nifty-to-a-strong",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "IT rally powers Nifty to a strong weekly close above 23,100",
+      "link": "https://aftermarketreport.zerodha.com/p/it-rally-powers-nifty-to-a-strong",
+      "published": "2026-10-17T11:29:43.000Z",
+      "summary": "Welcome to the weekly edition of Aftermarket Report, where we wrap up the week in the markets and take you through everything that mattered, both in India and globally. What data points and transformations do you want to see? We’re also experimenting with a weekly edition of the Aftermarket Report, and we’d love to know what you’d find useful in it. Unlike the daily report, the idea here is to step back from individual trading sessions and look at the bigger picture — what changed over the week, where trends are building, how sectors and themes are moving, how positioning has shifted, and what the data tells us when viewed over a longer timeframe. We’re exploring everything from weekly mark…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!bCrO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa172d1c2-9305-47ed-8807-543abb1cbba3_1456x971.webp",
+      "firstSeen": "2026-10-17T12:20:15.547Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=nhJkEzxtwPE",
       "platform": "youtube",
       "group": "Markets",
@@ -18975,11 +18987,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-05T08:07:39.303Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-10-05T12:32:33.687Z",
       "added": 0,
       "errors": 3
@@ -19273,6 +19280,11 @@
       "at": "2026-10-17T09:38:20.624Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-10-17T12:27:50.233Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19397,5 +19409,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-17T09:38:20.624Z"
+  "lastRun": "2026-10-17T12:27:50.233Z"
 }
