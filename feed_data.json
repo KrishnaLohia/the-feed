@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=TPNHUwbM260",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why is Nepal Holding the World Accountable Post Glacier Collapse",
+      "link": "https://www.youtube.com/watch?v=TPNHUwbM260",
+      "published": "2026-10-17T13:38:37.000Z",
+      "summary": "On August 26th, Nepal changed forever. The Nepal Tibet floods killed over a 1000 people, with over 5000 missing to this day and caused an estimated $2.7 Billion worth of physical damages. But Nepal has demanded $20M as climate justice, calling for more grants and support from the international community not as a loan but as justice for climate damage that they never did but are paying a hefty price for.\n\nIn this episode, we ask what climate justice really is, why a nation contributing less than 0.1% of greenhouse gas emissions has to pay the price for global warming?\n\n0:00 - Introduction\n0:55 - Chapter 1: What is Nepal Demanding?\n2:28 - Chapter 2: What is Climate Justice?\n\n\n#nepalfloods #ne…",
+      "thumbnail": "https://i1.ytimg.com/vi/TPNHUwbM260/hqdefault.jpg",
+      "firstSeen": "2026-10-17T15:04:08.984Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/it-rally-powers-nifty-to-a-strong",
       "platform": "substack",
       "group": "Markets",
@@ -18987,11 +18999,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-05T12:32:33.687Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-05T17:27:08.566Z",
       "added": 7,
       "errors": 3
@@ -19285,6 +19292,11 @@
       "at": "2026-10-17T12:27:50.233Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-10-17T15:07:41.822Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19409,5 +19421,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-17T12:27:50.233Z"
+  "lastRun": "2026-10-17T15:07:41.822Z"
 }
