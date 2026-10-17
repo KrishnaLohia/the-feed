@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-9",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Weekly Tidbits #9",
+      "link": "https://thedailybrief.zerodha.com/p/weekly-tidbits-9",
+      "published": "2026-10-17T05:01:27.000Z",
+      "summary": "Hi everyone, I’m Mridula, and welcome to the ninth edition of Weekly Tidbits. We spend a lot of time reading interesting stories that never make it into a full Daily Brief piece. So, once a week, we pick some of the best ones and add a little context. We sort them into GEIC: Global, Economy, Industry and Company. Let’s get started! If you prefer watching the video, here’s the link: G — Global [1] Investors are getting nervous about CoreWeave’s debt CoreWeave rents computing power to AI developers. It buys thousands of expensive GPUs, the chips used to run AI models, and installs them in data centres it mostly leases from other companies. Customers then pay to use that computing power. The b…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!CTWz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47a113b0-a0eb-4340-a0fe-915b79a8652f_1536x1024.png",
+      "firstSeen": "2026-10-17T06:24:57.529Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-shrugs-off-global-uncertainty",
       "platform": "substack",
       "group": "Markets",
@@ -18903,11 +18915,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-04T16:36:36.190Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-04T18:51:53.913Z",
       "added": 0,
       "errors": 3
@@ -19201,6 +19208,11 @@
       "at": "2026-10-16T19:02:52.553Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-17T06:32:27.380Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -19325,5 +19337,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-16T19:02:52.553Z"
+  "lastRun": "2026-10-17T06:32:27.380Z"
 }
