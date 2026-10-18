@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/o9Y7VWJZfy0",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "3 Things You MUST Check Before Investing in Mutual Funds 🚨",
+      "link": "https://www.youtube.com/shorts/o9Y7VWJZfy0",
+      "published": "2026-10-18T12:30:00.000Z",
+      "summary": "Mutual funds are a great way to build long term wealth. But there are few things that you should keep in mind:\n\n1. Every Mutual Fund is available in 2 forms - Direct and Regular\n\nWhen you buy a direct mutual fund, you are basically buying the mutual funds directly from the Mutual Fund Company the AMC.\n\nWhile in a regular fund you are buying the Mutual fund through a distributor.\n\nNow Regular Mutual funds have a higher expense ratio than that of direct mutual funds, because it is expected that the distributor or the middleman is helping you. BUT if you are a do it yourself investor like Siya, buying a direct fund might make more sense for you.\n\nBut if your distributor or the advisor actually…",
+      "thumbnail": "https://i4.ytimg.com/vi/o9Y7VWJZfy0/hqdefault.jpg",
+      "firstSeen": "2026-10-18T12:49:32.066Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=TPNHUwbM260",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -18999,11 +19011,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-06T12:14:31.854Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-06T15:31:39.433Z",
       "added": 4,
       "errors": 3
@@ -19297,6 +19304,11 @@
       "at": "2026-10-18T09:51:54.096Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-18T12:53:05.129Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19421,5 +19433,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-18T09:51:54.096Z"
+  "lastRun": "2026-10-18T12:53:05.129Z"
 }
