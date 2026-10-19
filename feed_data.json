@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/private-bank-heavyweights-and-global",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Private bank heavyweights and global headwinds drag Nifty back below 22,900",
+      "link": "https://aftermarketreport.zerodha.com/p/private-bank-heavyweights-and-global",
+      "published": "2026-10-19T15:29:51.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Te8M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F789f19d9-241f-46c8-84fe-d2e8ba8789bc_1456x971.webp",
+      "firstSeen": "2026-10-19T15:49:08.991Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/s1HjUdJH2X0",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Nepal’s Fight for Climate Justice",
+      "link": "https://www.youtube.com/shorts/s1HjUdJH2X0",
+      "published": "2026-10-19T15:05:19.000Z",
+      "summary": "Watch the full video on our channel!\n\n#nepalfloods #nepalnews #nepal #nepalfloods2026 #climatechange #globalwarming #climatejustice #climatedisaster #climatecrisis #theclimatebrief",
+      "thumbnail": "https://i4.ytimg.com/vi/s1HjUdJH2X0/hqdefault.jpg",
+      "firstSeen": "2026-10-19T15:53:21.508Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/z9vuDXTYUPg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Petrol at your doorstep ft. Mridula",
+      "link": "https://www.youtube.com/shorts/z9vuDXTYUPg",
+      "published": "2026-10-19T12:30:26.000Z",
+      "summary": "The earliest petrol deliveries were actually made by horse-drawn carts 🐴⛽   \n\nBefore the modern petrol pump became ordinary, fueling a car was a chaotic experiment—just like EV charging is today.\n\n[history, EVs, electricvehicles, auto, infrastructure, innovation]",
+      "thumbnail": "https://i3.ytimg.com/vi/z9vuDXTYUPg/hqdefault.jpg",
+      "firstSeen": "2026-10-19T15:49:07.786Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/_aQ-jjBKJ0s",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Are You Limiting Your Own Potential as a Trader | Innerworth Ep. 42",
+      "link": "https://www.youtube.com/shorts/_aQ-jjBKJ0s",
+      "published": "2026-10-19T11:30:29.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/_aQ-jjBKJ0s/hqdefault.jpg",
+      "firstSeen": "2026-10-19T15:49:08.147Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=cgysFWp4ORU",
       "platform": "youtube",
       "group": "Markets",
@@ -19071,11 +19119,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-07T12:00:04.504Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-10-07T15:50:29.876Z",
       "added": 7,
       "errors": 3
@@ -19369,6 +19412,11 @@
       "at": "2026-10-19T11:06:40.956Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-19T15:56:53.464Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19493,5 +19541,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-19T11:06:40.956Z"
+  "lastRun": "2026-10-19T15:56:53.464Z"
 }
