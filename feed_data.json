@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/7uFYoUfQskA",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Same Mutual Fund Returns, But Different Risk? 🤔",
+      "link": "https://www.youtube.com/shorts/7uFYoUfQskA",
+      "published": "2026-10-20T12:30:19.000Z",
+      "summary": "Two mutual funds can give you almost the same returns, but that doesn’t mean they both are equally risky.\nOne way to check this risk difference is Standard Deviation.\n\nStandard deviation tells you how much a mutual fund’s returns have moved around its average return in the past. A higher standard deviation generally means bigger fluctuations, while a lower standard deviation means returns have stayed relatively closer to the average.\n\nBut there is no single “good” standard deviation number. It should ideally be compared with other funds in the same category and over the same time period.\nAnd a lower standard deviation does not automatically make a fund better.  That is why you should look a…",
+      "thumbnail": "https://i4.ytimg.com/vi/7uFYoUfQskA/hqdefault.jpg",
+      "firstSeen": "2026-10-20T13:51:48.066Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/G306X5hl-YU",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "We Tested Top 10 Stocks vs NIFTY Next 50 | Backtest | Ep. 3",
+      "link": "https://www.youtube.com/shorts/G306X5hl-YU",
+      "published": "2026-10-20T11:42:19.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/G306X5hl-YU/hqdefault.jpg",
+      "firstSeen": "2026-10-20T13:47:41.729Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/private-bank-heavyweights-and-global",
       "platform": "substack",
       "group": "Markets",
@@ -19119,11 +19143,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-08T12:15:29.607Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-08T15:56:19.665Z",
       "added": 6,
       "errors": 3
@@ -19417,6 +19436,11 @@
       "at": "2026-10-20T10:20:11.227Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-20T13:55:15.170Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19541,5 +19565,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-20T10:20:11.227Z"
+  "lastRun": "2026-10-20T13:55:15.170Z"
 }
