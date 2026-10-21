@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/nQMMjQ2TPJE",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "2 years of negative market returns, how are you dealing with your investments right now? #shorts",
+      "link": "https://www.youtube.com/shorts/nQMMjQ2TPJE",
+      "published": "2026-10-21T13:30:37.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/nQMMjQ2TPJE/hqdefault.jpg",
+      "firstSeen": "2026-10-21T14:04:26.807Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=CBRQOOpteJ4",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 22 October 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=CBRQOOpteJ4",
+      "published": "2026-10-21T13:18:37.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/CBRQOOpteJ4/hqdefault.jpg",
+      "firstSeen": "2026-10-21T14:05:02.189Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/_3FOy4CtJYo",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India's battery cell problem ft. Vignesh",
+      "link": "https://www.youtube.com/shorts/_3FOy4CtJYo",
+      "published": "2026-10-21T13:00:04.000Z",
+      "summary": "India imported over ₹41,000 crore worth of lithium-ion battery cells last year, and 84% of them came directly from China. So why are India's auto giants still struggling to manufacture their own cells? 🤔   \n\nWatch the full story here: https://youtu.be/25Tqp2wT6ag?si=telo0GcoQac3obNx\n\n[EVs, electric vehicles, India, China, batteries, auto]",
+      "thumbnail": "https://i4.ytimg.com/vi/_3FOy4CtJYo/hqdefault.jpg",
+      "firstSeen": "2026-10-21T14:03:15.451Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/U_fM74mbT5g",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Should you take loans for your lifestyle? | Cash & Copium",
+      "link": "https://www.youtube.com/shorts/U_fM74mbT5g",
+      "published": "2026-10-21T12:30:30.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/U_fM74mbT5g/hqdefault.jpg",
+      "firstSeen": "2026-10-21T14:03:15.838Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-dlf-ultratech-cement",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: DLF, UltraTech Cement, Yes Bank & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-dlf-ultratech-cement",
+      "published": "2026-10-21T11:59:47.000Z",
+      "summary": "Welcome to the 99th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 6 companies across 5 industries Real Estate DLF Limited Building Materials UltraTech Cement Limited Software Services L&T Technology Services Limited Financial Services Union Bank of…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!1hXu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F360e3460-faff-4903-8189-0536d34b2319_2400x1350.png",
+      "firstSeen": "2026-10-21T14:03:16.355Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=CIYqLLl3sZI",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -19215,11 +19275,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-09T12:06:44.873Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-10-09T15:38:20.188Z",
       "added": 6,
       "errors": 3
@@ -19513,6 +19568,11 @@
       "at": "2026-10-21T10:29:37.478Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-10-21T14:10:50.033Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19637,5 +19697,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-21T10:29:37.478Z"
+  "lastRun": "2026-10-21T14:10:50.033Z"
 }
