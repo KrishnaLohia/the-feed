@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/foreign-mines-critical-minerals-india-biocon-roche-chepear-cancer-drug",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "What does owning a foreign mine actually buy India?",
+      "link": "https://thedailybrief.zerodha.com/p/foreign-mines-critical-minerals-india-biocon-roche-chepear-cancer-drug",
+      "published": "2026-10-21T01:58:33.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . Just a quick heads-up before we dive in. The Jio Platforms IPO opened today. We wrote about it then, and you can read the full story here . In today’s edition of The Daily Brief: 1. What does owning a foreign mine actually buy I…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!NZtV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F593e326c-de0a-49bb-884a-11f79f278208_1536x1024.png",
+      "firstSeen": "2026-10-21T06:50:25.855Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=ZIdGxBTRf3w",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -19155,11 +19167,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-08T20:53:11.636Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-09T08:21:39.963Z",
       "added": 3,
       "errors": 3
@@ -19453,6 +19460,11 @@
       "at": "2026-10-20T19:37:27.124Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-21T06:58:02.789Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -19577,5 +19589,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-20T19:37:27.124Z"
+  "lastRun": "2026-10-21T06:58:02.789Z"
 }
