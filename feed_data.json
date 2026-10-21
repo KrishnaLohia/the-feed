@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=BZGcmIFZ3WE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Steve Burns: What It Takes to Succeed in Trading | In The Money by Zerodha Podcast 09 | Teaser",
+      "link": "https://www.youtube.com/watch?v=BZGcmIFZ3WE",
+      "published": "2026-10-21T15:14:37.000Z",
+      "summary": "Steve Burns, bestselling trading author, and founder of New Trader U, has spent over three decades navigating the financial markets and studying what it takes to become a successful trader.\n\nThe author of more than 15 books, including 'New Trader, Rich Trader' and 'Trading Is Math', Steve is known for his straightforward approach to trading, emphasizing risk management, market psychology, discipline, and the mathematics behind consistent decision-making.\n\nIn this episode of the In The Money Podcast by Zerodha, Steve shares his journey from building wealth while working a regular job to developing his own trading approach, why he gravitated towards trend following, and how the lessons from m…",
+      "thumbnail": "https://i3.ytimg.com/vi/BZGcmIFZ3WE/hqdefault.jpg",
+      "firstSeen": "2026-10-21T16:39:26.682Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-gives-up-strong-opening-gains",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty gives up strong opening gains as oil price concerns drag index near 22,800",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-gives-up-strong-opening-gains",
+      "published": "2026-10-21T14:20:46.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Te8M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F789f19d9-241f-46c8-84fe-d2e8ba8789bc_1456x971.webp",
+      "firstSeen": "2026-10-21T16:39:27.504Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/nQMMjQ2TPJE",
       "platform": "youtube",
       "group": "Varsity",
@@ -19275,11 +19299,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-09T15:38:20.188Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-10-09T18:06:50.686Z",
       "added": 0,
       "errors": 3
@@ -19573,6 +19592,11 @@
       "at": "2026-10-21T14:10:50.033Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-10-21T16:47:12.008Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19697,5 +19721,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-21T14:10:50.033Z"
+  "lastRun": "2026-10-21T16:47:12.008Z"
 }
