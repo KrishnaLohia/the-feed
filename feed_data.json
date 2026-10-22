@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/bajaj-finance-has-started-behaving",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Bajaj Finance has started behaving like a bank",
+      "link": "https://thedailybrief.zerodha.com/p/bajaj-finance-has-started-behaving",
+      "published": "2026-10-22T02:16:50.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . Just a quick heads-up before we dive in. The Jio Platforms IPO opened yesterday. We wrote about it then, and you can read the full story here . In today’s edition of The Daily Brief: 1. Bajaj Finance has started behaving like a…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ZNuI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F248d7d9d-6d75-4f5c-b8aa-094eba936a64_1536x1024.png",
+      "firstSeen": "2026-10-22T06:53:20.858Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=CBRQOOpteJ4",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -19299,11 +19311,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-09T20:22:02.971Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-10T08:04:02.795Z",
       "added": 6,
       "errors": 3
@@ -19597,6 +19604,11 @@
       "at": "2026-10-21T19:36:12.923Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-22T07:00:56.117Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -19721,5 +19733,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-21T19:36:12.923Z"
+  "lastRun": "2026-10-22T07:00:56.117Z"
 }
