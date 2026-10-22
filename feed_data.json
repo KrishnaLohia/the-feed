@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=Dzqd9DXu1uY",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 23 October 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=Dzqd9DXu1uY",
+      "published": "2026-10-22T12:36:26.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/Dzqd9DXu1uY/hqdefault.jpg",
+      "firstSeen": "2026-10-22T14:03:19.780Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/lYPdVBKCN6o",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "What Nepal Is Asking From the World?",
+      "link": "https://www.youtube.com/shorts/lYPdVBKCN6o",
+      "published": "2026-10-22T12:34:17.000Z",
+      "summary": "Watch the full video on our channel!\n\n#nepalfloods #nepalnews #nepal #nepalfloods2026 #climatechange #globalwarming #climatejustice #climatedisaster #climatecrisis #theclimatebrief",
+      "thumbnail": "https://i1.ytimg.com/vi/lYPdVBKCN6o/hqdefault.jpg",
+      "firstSeen": "2026-10-22T14:05:42.113Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/hyPhZRNOV58",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -19347,11 +19371,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-10T11:23:20.250Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-10T14:46:03.111Z",
       "added": 1,
       "errors": 3
@@ -19645,6 +19664,11 @@
       "at": "2026-10-22T10:28:08.496Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-10-22T14:09:15.002Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19769,5 +19793,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-22T10:28:08.496Z"
+  "lastRun": "2026-10-22T14:09:15.002Z"
 }
