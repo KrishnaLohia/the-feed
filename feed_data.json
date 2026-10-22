@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-falls-for-third-straight-day",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty falls for third straight day as oil concerns overshadow recovery attempts",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-falls-for-third-straight-day",
+      "published": "2026-10-22T15:08:31.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!yVGE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd074c96-1bcd-4451-a13c-c5c10b69d38b_1456x971.webp",
+      "firstSeen": "2026-10-22T16:40:27.415Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=Dzqd9DXu1uY",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -19371,11 +19383,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-10T14:46:03.111Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-10-10T17:07:26.261Z",
       "added": 1,
       "errors": 3
@@ -19669,6 +19676,11 @@
       "at": "2026-10-22T14:09:15.002Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-10-22T16:48:08.629Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19793,5 +19805,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-22T14:09:15.002Z"
+  "lastRun": "2026-10-22T16:48:08.629Z"
 }
