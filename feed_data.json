@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/brutal-selling-grips-broader-markets",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Brutal selling grips broader markets as rising oil prices deepen market weakness",
+      "link": "https://aftermarketreport.zerodha.com/p/brutal-selling-grips-broader-markets",
+      "published": "2026-10-23T14:53:49.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!yVGE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd074c96-1bcd-4451-a13c-c5c10b69d38b_1456x971.webp",
+      "firstSeen": "2026-10-23T16:30:33.033Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=fQesBt0nUbM",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Good Question Ep. 1: Answering Your Trading Questions | In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=fQesBt0nUbM",
+      "published": "2026-10-23T14:53:28.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG \n\nWelcome to Good Question, an In The Money by Zerodha series where we answer the questions you ask.\n\nFrom understanding market movements and reading charts to trading strategies, risk management, and the psychology of trading, we break down trading concepts and tackle common doubts in a simple, practical, and easy-to-understand way.\n\nWhether you're just starting out or have been trading and investing for years, Good Question is here to help you make sense of the markets, one question at a time.\n\nBe…",
+      "thumbnail": "https://i3.ytimg.com/vi/fQesBt0nUbM/hqdefault.jpg",
+      "firstSeen": "2026-10-23T16:30:32.290Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=QVlX_tKUQBs",
       "platform": "youtube",
       "group": "Varsity",
@@ -19515,11 +19539,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-11T15:09:38.572Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-10-11T17:29:53.760Z",
       "added": 0,
       "errors": 3
@@ -19813,6 +19832,11 @@
       "at": "2026-10-23T13:51:37.270Z",
       "added": 7,
       "errors": 3
+    },
+    {
+      "at": "2026-10-23T16:38:06.940Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19937,5 +19961,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-23T13:51:37.270Z"
+  "lastRun": "2026-10-23T16:38:06.940Z"
 }
