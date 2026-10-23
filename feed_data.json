@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=fHWuTp6Uo_A",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Steve Burns: Discipline, Perseverance, and Reality of Trading | In The Money by Zerodha Podcast 09",
+      "link": "https://www.youtube.com/watch?v=fHWuTp6Uo_A",
+      "published": "2026-10-23T04:21:47.000Z",
+      "summary": "Welcome to the In The Money Podcast by Zerodha, where we bring you the sharpest minds from around the world in trading, markets, and active investing.\n\nIn this episode, we sit down with Steve Burns, a veteran trader, author of more than 15 trading books, and the founder of New Trader U. With over three decades of experience in the markets, Steve has spent years studying trend following, technical analysis, risk management, and the psychology behind successful trading.\n\nWe trace his journey from discovering the stock market as a teenager and building his capital while working a regular job, to navigating major market drawdowns, developing a systematic approach to trading, and learning to sep…",
+      "thumbnail": "https://i3.ytimg.com/vi/fHWuTp6Uo_A/hqdefault.jpg",
+      "firstSeen": "2026-10-23T10:15:49.702Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=voS4cvaFc0c",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Bajaj Finance: The risks behind its rapid growth | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=voS4cvaFc0c",
+      "published": "2026-10-23T02:30:13.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nBajaj Finance: Growth, Rising Risks and a Shift in Strategy\nBajaj Finance continues to grow rapidly, with its assets under management reaching ₹5.85 lakh crore and profits rising 29%. But as the company expands, rising borrowing costs, regulatory changes and stress in some loan segments are creating new challenges. The company is responding by raising fresh capital, reducing leverage and setting aside extra provisions to protect itself against potential losses.\nIn this video, we explore why Bajaj F…",
+      "thumbnail": "https://i3.ytimg.com/vi/voS4cvaFc0c/hqdefault.jpg",
+      "firstSeen": "2026-10-23T10:15:49.826Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/indias-ai-boom-runs-through-a-strand",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +35,18 @@
       "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . Just a quick heads-up before we dive in. The Jio Platforms IPO opened yesterday. We wrote about it then, and you can read the full story here . In today’s edition of The Daily Brief: 1. India’s AI boom runs through a strand of g…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!oo-J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26502b55-5d49-4fd0-994c-59e5f935f98a_1536x1024.png",
       "firstSeen": "2026-10-23T06:47:10.027Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=5CcxTp3PG24",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "The fiber optics powering India’s AI play | India’s maize ethanol push | The Daily Brief #576",
+      "link": "https://www.youtube.com/watch?v=5CcxTp3PG24",
+      "published": "2026-10-23T01:30:13.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. The Fiber Optics Powering India’s AI Boom\nIndia’s AI boom is creating a surge in demand for optical fiber cables, which carry data using pulses of light. Companies like Sterlite Technologies (STL) and HFCL are benefiting from this demand as data centres need increasingly large amounts of fiber. But manufacturing these cables depends on specialised technology a…",
+      "thumbnail": "https://i2.ytimg.com/vi/5CcxTp3PG24/hqdefault.jpg",
+      "firstSeen": "2026-10-23T10:15:49.591Z"
     },
     {
       "id": "https://www.youtube.com/watch?v=Dzqd9DXu1uY",
@@ -19395,11 +19431,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-11T08:11:46.218Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-10-11T11:36:44.673Z",
       "added": 0,
       "errors": 3
@@ -19693,6 +19724,11 @@
       "at": "2026-10-23T06:54:46.683Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-10-23T10:23:28.450Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19817,5 +19853,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-23T06:54:46.683Z"
+  "lastRun": "2026-10-23T10:23:28.450Z"
 }
