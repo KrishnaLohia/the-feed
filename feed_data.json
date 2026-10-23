@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/indias-ai-boom-runs-through-a-strand",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "India’s AI boom runs through a strand of glass",
+      "link": "https://thedailybrief.zerodha.com/p/indias-ai-boom-runs-through-a-strand",
+      "published": "2026-10-23T01:43:08.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . Just a quick heads-up before we dive in. The Jio Platforms IPO opened yesterday. We wrote about it then, and you can read the full story here . In today’s edition of The Daily Brief: 1. India’s AI boom runs through a strand of g…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!oo-J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26502b55-5d49-4fd0-994c-59e5f935f98a_1536x1024.png",
+      "firstSeen": "2026-10-23T06:47:10.027Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=Dzqd9DXu1uY",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -19383,11 +19395,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-10T19:34:01.016Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-11T08:11:46.218Z",
       "added": 1,
       "errors": 3
@@ -19681,6 +19688,11 @@
       "at": "2026-10-22T19:29:19.956Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-23T06:54:46.683Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -19805,5 +19817,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-22T19:29:19.956Z"
+  "lastRun": "2026-10-23T06:54:46.683Z"
 }
