@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/uPWqw1HIxyE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "The real business of no-cost EMI? | Cash & Copium",
+      "link": "https://www.youtube.com/shorts/uPWqw1HIxyE",
+      "published": "2026-10-24T12:30:02.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/uPWqw1HIxyE/hqdefault.jpg",
+      "firstSeen": "2026-10-24T12:52:45.279Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=B4O_jD2sQw4",
       "platform": "youtube",
       "group": "Rainmatter",
@@ -19623,11 +19635,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-12T18:16:15.637Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-10-12T21:03:56.760Z",
       "added": 1,
       "errors": 3
@@ -19921,6 +19928,11 @@
       "at": "2026-10-24T09:46:14.152Z",
       "added": 6,
       "errors": 3
+    },
+    {
+      "at": "2026-10-24T13:00:15.153Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20045,5 +20057,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-24T09:46:14.152Z"
+  "lastRun": "2026-10-24T13:00:15.153Z"
 }
