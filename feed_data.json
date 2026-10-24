@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-10",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Weekly Tidbits #10",
+      "link": "https://thedailybrief.zerodha.com/p/weekly-tidbits-10",
+      "published": "2026-10-24T05:01:00.000Z",
+      "summary": "Hi everyone, I’m Mridula , and welcome to the tenth edition of Weekly Tidbits. We spend a lot of time reading interesting stories that never make it into a full Daily Brief piece. So, once a week, we pick some of the best ones and add a little context. We sort them into GEIC: Global, Economy, Industry and Company. Let’s get started! If you prefer watching the video, here’s the link: G — Global [1] France is paying more to borrow money France’s 10-year government bond yield crossed 5% on October 21. That’s its highest level since 2002. Investors are worried about France’s growing debt and its struggle to control spending. Source Governments borrow money by selling bonds. Buyers earn interest…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!0hyc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb38da223-d30e-4dab-a681-f72c020eda36_1536x1024.png",
+      "firstSeen": "2026-10-24T06:42:24.506Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/brutal-selling-grips-broader-markets",
       "platform": "substack",
       "group": "Markets",
@@ -19539,11 +19551,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-11T19:46:45.028Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-12T08:28:18.970Z",
       "added": 3,
       "errors": 3
@@ -19837,6 +19844,11 @@
       "at": "2026-10-23T19:35:50.358Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-24T06:50:06.955Z",
+      "added": 1,
+      "errors": 13
     }
   ],
   "directSources": [
@@ -19961,5 +19973,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-23T19:35:50.358Z"
+  "lastRun": "2026-10-24T06:50:06.955Z"
 }
