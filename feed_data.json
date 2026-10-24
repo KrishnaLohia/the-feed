@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=B4O_jD2sQw4",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "How This Startup Recycles Sewage Water to Power Factories |Boson Whitewater | Founder Notes Ep 3",
+      "link": "https://www.youtube.com/watch?v=B4O_jD2sQw4",
+      "published": "2026-10-24T06:34:22.000Z",
+      "summary": "In this episode of Founder Notes, Vikas Brahmavar, founder of Boson Whitewater, joins us for a conversation on why wastewater is the biggest untapped resource in India's cities.\n\nHe walks us through the full journey of water in an apartment complex; from the Kaveri river or borewell, through mandatory STPs, to the excess treated water that cities don't know what to do with. He explains how Boson steps in to treat this wastewater, turning it into high-quality water sold to data centers, laundries, electroplating and boiler units, industries that would otherwise be drawing from the same exploited groundwater. He also gets candid about the perception battle around recycled water, why Boson cho…",
+      "thumbnail": "https://i3.ytimg.com/vi/B4O_jD2sQw4/hqdefault.jpg",
+      "firstSeen": "2026-10-24T09:42:06.564Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=zL92npXg3xc",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Share price vs. valuation: What new investors get wrong",
+      "link": "https://www.youtube.com/watch?v=zL92npXg3xc",
+      "published": "2026-10-24T06:30:27.000Z",
+      "summary": "Many new investors instinctively confuse a low share price with a cheap stock, assuming that a lower nominal price represents a better bargain. However, the price of a single share only represents a fraction of a company, and its true scale is determined by market capitalisation rather than the price on the screen. By comparing share prices with total market value and understanding structural events like stock splits, investors can look beyond the psychological appeal of owning more shares to focus on the actual value of their investment.\n\nLinks:\nMarket Capitalisation: https://support.zerodha.com/category/account-opening/glossary/stock-markets/articles/market-capitalisation\n\nWhat is Market…",
+      "thumbnail": "https://i3.ytimg.com/vi/zL92npXg3xc/hqdefault.jpg",
+      "firstSeen": "2026-10-24T09:40:19.977Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=4wxKZAYW6-I",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Weekly Tidbits: 24th Oct | France’s Debt, India’s Trade Deal & DLF’s Housing Bet",
+      "link": "https://www.youtube.com/watch?v=4wxKZAYW6-I",
+      "published": "2026-10-24T05:43:52.000Z",
+      "summary": "Welcome to the 8th edition of Weekly Tidbits by Markets by Zerodha, where we bring you interesting stories that may not make it to a full Daily Brief but still deserve a closer look.\n\nIn this edition of Weekly Tidbits, we cover 12 stories across Global, Economy, Industry and Company (GEIC) — from France’s rising borrowing costs and Japan’s slowing factory growth to India’s trade deal with New Zealand, the satellite internet debate, and major corporate investments.\n\n00:00 Intro\nG — Global\n00:23 France’s 10-year bond yield crosses 5% amid concerns over debt and spending.\n01:18 SK Hynix drops plans to list its US chip business, Solidigm.\n02:14 Japan’s manufacturing growth slows to a seven-mont…",
+      "thumbnail": "https://i1.ytimg.com/vi/4wxKZAYW6-I/hqdefault.jpg",
+      "firstSeen": "2026-10-24T09:38:30.527Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=O46SWrj_iJw",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Weekly Market Metrics | Week 43 (19–23 Oct 2026) | Is There More Pain Ahead?",
+      "link": "https://www.youtube.com/watch?v=O46SWrj_iJw",
+      "published": "2026-10-24T05:17:04.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to Weekly Market Metrics — your weekend wrap-up of everything that mattered in the markets this week, plus a quick peek into what’s coming up next!\n\nI’m your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nWe’re in Week 43 of 2026, and markets are under significant pressure. NIFTY fell 2.36% this week to close at 22,600, taking its decline to around 14% from its yearly peak. The correction has been particularly sharp in small- and mid-cap stocks, while India VIX surged…",
+      "thumbnail": "https://i4.ytimg.com/vi/O46SWrj_iJw/hqdefault.jpg",
+      "firstSeen": "2026-10-24T09:38:30.745Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-10",
       "platform": "substack",
       "group": "Markets",
@@ -11,6 +59,30 @@
       "summary": "Hi everyone, I’m Mridula , and welcome to the tenth edition of Weekly Tidbits. We spend a lot of time reading interesting stories that never make it into a full Daily Brief piece. So, once a week, we pick some of the best ones and add a little context. We sort them into GEIC: Global, Economy, Industry and Company. Let’s get started! If you prefer watching the video, here’s the link: G — Global [1] France is paying more to borrow money France’s 10-year government bond yield crossed 5% on October 21. That’s its highest level since 2002. Investors are worried about France’s growing debt and its struggle to control spending. Source Governments borrow money by selling bonds. Buyers earn interest…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!0hyc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb38da223-d30e-4dab-a681-f72c020eda36_1536x1024.png",
       "firstSeen": "2026-10-24T06:42:24.506Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=0Ga_YTnC4Yc",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Should you BUY A House Or Invest in Stock Market?",
+      "link": "https://www.youtube.com/watch?v=0Ga_YTnC4Yc",
+      "published": "2026-10-24T04:30:32.000Z",
+      "summary": "Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nBuying a home is often considered one of the biggest financial milestones in India. But what if, instead of paying a home loan EMI, you rented a flat and invested the difference in mutual funds?\n\nIn this video, we compare two people: one who buys a flat and another who rents and invests in SIPs. We break down their expenses, investment returns, property appreciation, and net wealth over 5, 10, and 20 years to understand which option comes out ahead.\n\nWe've also created a calculator so you can enter your own numbers and compare both options before making a decision.\n\nhttps://docs.google.com/spreadsheets/d/1SIoJ9e1O0rX_mcC…",
+      "thumbnail": "https://i1.ytimg.com/vi/0Ga_YTnC4Yc/hqdefault.jpg",
+      "firstSeen": "2026-10-24T09:42:42.661Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=KaAUkmyrd1Y",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Why is Indigo Changing its Business Model | Markets by Zerodha Hindi",
+      "link": "https://www.youtube.com/watch?v=KaAUkmyrd1Y",
+      "published": "2026-10-24T04:30:05.000Z",
+      "summary": "IndiGo is planning to increase aircraft ownership from 20% to 30–40% by 2030, moving away from its long-standing asset-light model. But why change a strategy that helped the airline grow?\nIn this video, we explore:\nPART 1: How the sale-and-leaseback model works and why IndiGo adopted it.\nPART 2: Why IndiGo is shifting towards aircraft ownership and the challenges it faces.\nWas sale and leaseback really the secret behind IndiGo’s success?\n\nChapters: \n0:00 Introduction: Indigo's Business Model Change\n1:00 Video Overview & Structure\n1:35 Why the Airline Business is Tricky\n2:25 Major Costs: Fuel & Aircraft Ownership\n3:20 Types of Aircraft Leases Explained\n4:30 Why Airlines Use Damp Lease\n6:10 S…",
+      "thumbnail": "https://i4.ytimg.com/vi/KaAUkmyrd1Y/hqdefault.jpg",
+      "firstSeen": "2026-10-24T09:38:30.942Z"
     },
     {
       "id": "https://aftermarketreport.zerodha.com/p/brutal-selling-grips-broader-markets",
@@ -19551,11 +19623,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-12T08:28:18.970Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-10-12T18:16:15.637Z",
       "added": 4,
       "errors": 3
@@ -19849,6 +19916,11 @@
       "at": "2026-10-24T06:50:06.955Z",
       "added": 1,
       "errors": 13
+    },
+    {
+      "at": "2026-10-24T09:46:14.152Z",
+      "added": 6,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -19973,5 +20045,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-24T06:50:06.955Z"
+  "lastRun": "2026-10-24T09:46:14.152Z"
 }
