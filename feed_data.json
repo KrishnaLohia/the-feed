@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=M-Uascqyrmk",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 26 October 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=M-Uascqyrmk",
+      "published": "2026-10-25T14:03:59.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/M-Uascqyrmk/hqdefault.jpg",
+      "firstSeen": "2026-10-25T15:37:20.483Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/surging-oil-prices-drag-nifty-to",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Surging oil prices drag Nifty to 22,600; Broader markets take a bigger hit",
+      "link": "https://aftermarketreport.zerodha.com/p/surging-oil-prices-drag-nifty-to",
+      "published": "2026-10-25T14:00:06.000Z",
+      "summary": "Welcome to the weekly edition of Aftermarket Report, where we wrap up the week in the markets and take you through everything that mattered, both in India and globally. What data points and transformations do you want to see? We’re also experimenting with a weekly edition of the Aftermarket Report, and we’d love to know what you’d find useful in it. Unlike the daily report, the idea here is to step back from individual trading sessions and look at the bigger picture — what changed over the week, where trends are building, how sectors and themes are moving, how positioning has shifted, and what the data tells us when viewed over a longer timeframe. We’re exploring everything from weekly mark…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!avv2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23dbb21c-efba-4b4c-bb4c-0370497f3689_1456x971.webp",
+      "firstSeen": "2026-10-25T15:35:34.762Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/-9VtdS-Cgt0",
       "platform": "youtube",
       "group": "Zero1",
@@ -19683,11 +19707,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-13T19:01:56.696Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-13T20:54:26.657Z",
       "added": 0,
       "errors": 3
@@ -19981,6 +20000,11 @@
       "at": "2026-10-25T13:26:37.601Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-10-25T15:43:10.754Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20105,5 +20129,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-25T13:26:37.600Z"
+  "lastRun": "2026-10-25T15:43:10.754Z"
 }
