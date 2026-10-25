@@ -7,7 +7,7 @@
       "sourceName": "Zerodha Online (YouTube)",
       "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 26 October 2026, Monday",
       "link": "https://www.youtube.com/watch?v=M-Uascqyrmk",
-      "published": "2026-10-25T14:03:59.000Z",
+      "published": "2026-10-25T17:39:39.000Z",
       "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
       "thumbnail": "https://i2.ytimg.com/vi/M-Uascqyrmk/hqdefault.jpg",
       "firstSeen": "2026-10-25T15:37:20.483Z"
@@ -41,7 +41,7 @@
       "platform": "youtube",
       "group": "Rainmatter Foundation",
       "sourceName": "The Climate Brief (YouTube)",
-      "title": "Why These Droughts Should Worry YOU",
+      "title": "Maharashtra, Karnataka, AP Declare Drought! (And it’s Not Just El Nino)",
       "link": "https://www.youtube.com/watch?v=gJXp9l5C6-M",
       "published": "2026-10-25T11:28:04.000Z",
       "summary": "Karnataka, Maharashtra and Andhra Pradesh have one thing in common right now - A DROUGHT. This year’s erratic monsoon has left several districts grappling with lowered agricultural yield and a growing reliance on groundwater. On today’s episode, watch us travel across three separate states dealing with very similar problems. We investigate WHY this happened, HOW this will affect all of India and most importantly, how it will affect YOU!\n\n0:00 - Introduction\n1:05 - Chapter 1: Karnataka: Drought on Repeat\n3:31 - Chapter 2: Flood to Drought\n6:03 - Chapter 3: Andhra's Chronic Drought\n\n#karnatakanews #andhrapradeshnews #maharastranews #indianews #drought #indiadrought #elnino #elnino2026 #climat…",
@@ -149,7 +149,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Should you BUY A House Or Invest in Stock Market?",
+      "title": "₹1 Crore - Buy a house or Invest in Stocks?",
       "link": "https://www.youtube.com/watch?v=0Ga_YTnC4Yc",
       "published": "2026-10-24T04:30:32.000Z",
       "summary": "Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nBuying a home is often considered one of the biggest financial milestones in India. But what if, instead of paying a home loan EMI, you rented a flat and invested the difference in mutual funds?\n\nIn this video, we compare two people: one who buys a flat and another who rents and invests in SIPs. We break down their expenses, investment returns, property appreciation, and net wealth over 5, 10, and 20 years to understand which option comes out ahead.\n\nWe've also created a calculator so you can enter your own numbers and compare both options before making a decision.\n\nhttps://docs.google.com/spreadsheets/d/1SIoJ9e1O0rX_mcC…",
@@ -19707,11 +19707,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-13T20:54:26.657Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-14T07:03:33.943Z",
       "added": 1,
       "errors": 13
@@ -20005,6 +20000,11 @@
       "at": "2026-10-25T15:43:10.754Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-10-25T18:38:43.822Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20129,5 +20129,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-25T15:43:10.754Z"
+  "lastRun": "2026-10-25T18:38:43.822Z"
 }
