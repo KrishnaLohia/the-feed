@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=ESh90a5sNEs",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "RSI: The Indicator Most Traders Misunderstand | Story of the Indicators Ep. 3",
+      "link": "https://www.youtube.com/watch?v=ESh90a5sNEs",
+      "published": "2026-10-25T03:30:56.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst - INH000013059).\n\nIn this episode, we trace the story of the Relative Strength Index (RSI), one of the most widely used indicators in technical analysis. We look at how J. Welles Wilder developed the RSI, the problems it was designed to solve, and how it compares to the momentum oscillators that came before it. We also explore the man behind the indicator, why he chose the familiar 14-day lookback period and the 70 and 30 levels, and how…",
+      "thumbnail": "https://i2.ytimg.com/vi/ESh90a5sNEs/hqdefault.jpg",
+      "firstSeen": "2026-10-25T07:08:17.983Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=nxeFRomBgLg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Weekly Tidbits Hindi: 25th Oct | Silver, RBI, Tesla & Indonesia",
+      "link": "https://www.youtube.com/watch?v=nxeFRomBgLg",
+      "published": "2026-10-25T03:30:08.000Z",
+      "summary": "This week on Weekly Tidbits, we cover 8 stories across Companies, Industry, Economy and Global markets that could have a bigger impact than their headlines suggest.\n\n00:00 Intro\nCOMPANY\n01:03 Silver driving Hindustan Zinc’s business: How rising silver prices and lower production costs boosted Q2 FY27 profits.\n02:46 Tech Mahindra’s SpaceX collaboration: How the company is adopting AI tools to adapt to changes in the IT services industry.\nINDUSTRY\n03:56 Government to privatise 11 airports: Why India is bundling airports to attract private investors and support smaller airports.\n05:05 Building India’s tunnel boring machine ecosystem: How China’s export restrictions could affect India’s infrast…",
+      "thumbnail": "https://i3.ytimg.com/vi/nxeFRomBgLg/hqdefault.jpg",
+      "firstSeen": "2026-10-25T07:08:18.246Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/uPWqw1HIxyE",
       "platform": "youtube",
       "group": "Markets",
@@ -125,7 +149,7 @@
       "platform": "youtube",
       "group": "Varsity",
       "sourceName": "Varsity by Zerodha (YouTube)",
-      "title": "Is Saving 10% Enough for Retirement?",
+      "title": "Are You Saving Enough for Retirement?",
       "link": "https://www.youtube.com/watch?v=QVlX_tKUQBs",
       "published": "2026-10-23T13:30:40.000Z",
       "summary": "Is saving 10% of your income really enough for retirement, or could it leave you with a significant shortfall? In this video, Aastha Khurana walks through the numbers, explains the 33x retirement rule, and explores a practical strategy that can make long-term retirement planning more achievable. If you're building your retirement plan, this is a calculation worth understanding.\n\nTime Stamps\n00:00 Introduction \n00:38 Retirement Calculation\n02:32 Is 10% of your savings enough?\n04:27 Step up Strategy to build corpus\n06:00 Where to invest for retirement?\n07:32 Things to Remember\n08:27 Conclusion \n___________________________________________________________________________\n\nOver 2 crore Indians i…",
@@ -19635,11 +19659,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-13T08:53:05.492Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-10-13T12:56:26.601Z",
       "added": 1,
       "errors": 3
@@ -19933,6 +19952,11 @@
       "at": "2026-10-24T18:25:33.382Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-25T07:16:01.202Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20057,5 +20081,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-24T18:25:33.381Z"
+  "lastRun": "2026-10-25T07:16:01.202Z"
 }
