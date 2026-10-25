@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/-9VtdS-Cgt0",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "3 Numbers You MUST Check Before Investing in Mutual Funds 📊",
+      "link": "https://www.youtube.com/shorts/-9VtdS-Cgt0",
+      "published": "2026-10-25T12:30:00.000Z",
+      "summary": "Before picking a mutual fund, looking only at returns may not tell you the complete story.\nHere are 3 numbers that can help you understand a fund better:\n 1. Rolling Returns: Imagine you’re checking how a mutual fund performed over 3 years. If you simply look at its “3 year return”, you’re looking at one specific 3-year period. But what if that period happened to be particularly good for the market?\nRolling returns solve this by checking several 3-year periods \n\nfor example, 2018–2021, 2019–2022, 2020–2023 and so on. This gives you a better idea of whether the fund has performed consistently across different market conditions, rather than being good only during one particular period. \n\n2. S…",
+      "thumbnail": "https://i2.ytimg.com/vi/-9VtdS-Cgt0/hqdefault.jpg",
+      "firstSeen": "2026-10-25T13:23:10.742Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=gJXp9l5C6-M",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why These Droughts Should Worry YOU",
+      "link": "https://www.youtube.com/watch?v=gJXp9l5C6-M",
+      "published": "2026-10-25T11:28:04.000Z",
+      "summary": "Karnataka, Maharashtra and Andhra Pradesh have one thing in common right now - A DROUGHT. This year’s erratic monsoon has left several districts grappling with lowered agricultural yield and a growing reliance on groundwater. On today’s episode, watch us travel across three separate states dealing with very similar problems. We investigate WHY this happened, HOW this will affect all of India and most importantly, how it will affect YOU!\n\n0:00 - Introduction\n1:05 - Chapter 1: Karnataka: Drought on Repeat\n3:31 - Chapter 2: Flood to Drought\n6:03 - Chapter 3: Andhra's Chronic Drought\n\n#karnatakanews #andhrapradeshnews #maharastranews #indianews #drought #indiadrought #elnino #elnino2026 #climat…",
+      "thumbnail": "https://i4.ytimg.com/vi/gJXp9l5C6-M/hqdefault.jpg",
+      "firstSeen": "2026-10-25T13:23:11.030Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=ESh90a5sNEs",
       "platform": "youtube",
       "group": "Markets",
@@ -19659,11 +19683,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-13T16:27:10.777Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-10-13T19:01:56.696Z",
       "added": 0,
       "errors": 3
@@ -19957,6 +19976,11 @@
       "at": "2026-10-25T10:04:00.587Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-25T13:26:37.601Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20081,5 +20105,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-25T10:04:00.587Z"
+  "lastRun": "2026-10-25T13:26:37.600Z"
 }
