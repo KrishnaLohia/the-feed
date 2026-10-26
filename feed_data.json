@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=dmo1DGwArJY",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Ethanol blending in India: Who really benefits? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=dmo1DGwArJY",
+      "published": "2026-10-26T02:30:34.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia’s Ethanol Policy: Why Are Maize Prices Being Cut?\nIndia is changing its ethanol procurement strategy to reduce dependence on sugarcane and encourage the use of maize and rice for petrol blending. However, the latest tender for 2026–27 has cut the price paid for maize-based ethanol from around ₹72 to ₹69 per litre, raising questions about farmer incomes, distillery profits and the future of ethanol production.\nIn this video, we explore what higher ethanol prices achieved, why farmers and poult…",
+      "thumbnail": "https://i1.ytimg.com/vi/dmo1DGwArJY/hqdefault.jpg",
+      "firstSeen": "2026-10-26T07:15:35.017Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/do-government-incentives-to-produce",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Do government incentives to produce babies work?",
+      "link": "https://thedailybrief.zerodha.com/p/do-government-incentives-to-produce",
+      "published": "2026-10-26T01:44:55.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Do government incentives to produce babies work? With global fertility rates falling well below the 2.1 replacement threshold, governments from Singapore to Japan and Indian states like…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!S_ar!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdc6d46c-2008-4093-ba01-cd96356d28c1_1536x1024.png",
+      "firstSeen": "2026-10-26T07:15:35.293Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=VPCRjheHvPE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Do government incentives to make babies work? | Solar now undercuts coal? | The Daily Brief #577",
+      "link": "https://www.youtube.com/watch?v=VPCRjheHvPE",
+      "published": "2026-10-26T01:30:02.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Do Government Incentives to Have Babies Work?\nGovernments worldwide are offering cash bonuses, parental leave, and childcare benefits to reverse falling birth rates. But evidence from countries such as Singapore, Japan, France, and Germany shows that one-time payments alone rarely lead to more births in the long run. The real challenge is making parenthood aff…",
+      "thumbnail": "https://i3.ytimg.com/vi/VPCRjheHvPE/hqdefault.jpg",
+      "firstSeen": "2026-10-26T07:15:34.796Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=M-Uascqyrmk",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -19707,11 +19743,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-14T07:03:33.943Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-10-14T10:30:00.489Z",
       "added": 2,
       "errors": 3
@@ -20005,6 +20036,11 @@
       "at": "2026-10-25T18:38:43.822Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-26T07:23:08.523Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20129,5 +20165,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-25T18:38:43.822Z"
+  "lastRun": "2026-10-26T07:23:08.523Z"
 }
