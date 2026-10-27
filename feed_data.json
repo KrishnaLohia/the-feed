@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/flat-monthly-expiry-close-for-nifty",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Flat monthly expiry close for Nifty near 22,750 after a volatile session",
+      "link": "https://aftermarketreport.zerodha.com/p/flat-monthly-expiry-close-for-nifty",
+      "published": "2026-10-27T16:00:41.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!0KyF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98f0353f-f624-48fb-b73a-e27bde1f1daa_1456x971.webp",
+      "firstSeen": "2026-10-27T17:30:01.992Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/694ORV-NiZc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "We Tested Top 10 NIFTY Midcap 150 Stocks VS NIFTY Midcap 150 | Backtest | Ep. 4",
+      "link": "https://www.youtube.com/shorts/694ORV-NiZc",
+      "published": "2026-10-27T14:42:40.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/694ORV-NiZc/hqdefault.jpg",
+      "firstSeen": "2026-10-27T17:30:01.547Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=Sy4DMjZCWi0",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -19863,11 +19887,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-15T16:29:18.808Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-10-15T19:26:47.446Z",
       "added": 0,
       "errors": 3
@@ -20161,6 +20180,11 @@
       "at": "2026-10-27T14:57:56.649Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-10-27T17:37:31.663Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20285,5 +20309,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-27T14:57:56.648Z"
+  "lastRun": "2026-10-27T17:37:31.663Z"
 }
