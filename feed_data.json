@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=4Sg_IPQT-KU",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Why are governments paying people to have babies? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=4Sg_IPQT-KU",
+      "published": "2026-10-27T02:30:32.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nCan Government Incentives Reverse Falling Birth Rates?\nAs birth rates fall across the world, governments are offering cash bonuses, tax benefits, paid parental leave, and subsidised childcare to encourage people to have more children. Countries like Singapore, China, Japan, and India are experimenting with different approaches to tackle declining fertility.\nBut do these incentives actually work? This story explores the history of population policies, examines evidence from countries like France, Sw…",
+      "thumbnail": "https://i1.ytimg.com/vi/4Sg_IPQT-KU/hqdefault.jpg",
+      "firstSeen": "2026-10-27T07:06:44.999Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/the-133-billion-deposits-that-made",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The $133 billion deposits that made India's banks look less profitable",
+      "link": "https://thedailybrief.zerodha.com/p/the-133-billion-deposits-that-made",
+      "published": "2026-10-27T02:15:04.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The $133 billion deposits that made India’s banks look less profitable A special RBI swap window brought in an unprecedented $133 billion in NRI deposits, but much of the influx came thr…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!nbbr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd658238d-ecbb-446d-84f4-53a177ea7ac8_1536x1024.png",
+      "firstSeen": "2026-10-27T07:06:45.311Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=4ctZkP3HCa4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "$133B in NRI deposits: good or bad for banks? | India’s rare magnet plan | The Daily Brief #578",
+      "link": "https://www.youtube.com/watch?v=4ctZkP3HCa4",
+      "published": "2026-10-27T02:13:32.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. $133 Billion in NRI Deposits: Good or Bad for Banks?\nIndian banks raised around $133 billion through NRI dollar deposits after the RBI introduced a special scheme to reduce the cost of raising foreign currency funds. While these deposits helped banks expand lending and access cheaper funding, they also dragged down net interest margins. The story explains how…",
+      "thumbnail": "https://i1.ytimg.com/vi/4ctZkP3HCa4/hqdefault.jpg",
+      "firstSeen": "2026-10-27T07:06:44.768Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=RPoUVbJfBhs",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -233,7 +269,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "₹1 Crore - Buy a house or Invest in Stocks?",
+      "title": "Buy House or SIP - Z² Rule Explained 🤫",
       "link": "https://www.youtube.com/watch?v=0Ga_YTnC4Yc",
       "published": "2026-10-24T04:30:32.000Z",
       "summary": "Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nBuying a home is often considered one of the biggest financial milestones in India. But what if, instead of paying a home loan EMI, you rented a flat and invested the difference in mutual funds?\n\nIn this video, we compare two people: one who buys a flat and another who rents and invests in SIPs. We break down their expenses, investment returns, property appreciation, and net wealth over 5, 10, and 20 years to understand which option comes out ahead.\n\nWe've also created a calculator so you can enter your own numbers and compare both options before making a decision.\n\nhttps://docs.google.com/spreadsheets/d/1SIoJ9e1O0rX_mcC…",
@@ -869,7 +905,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Why a normal life now feels like a Luxury?",
+      "title": "Why everyday life suddenly feels So Expensive?",
       "link": "https://www.youtube.com/watch?v=cBe9pIOhNOo",
       "published": "2026-10-17T04:30:17.000Z",
       "summary": "Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nIndia’s Inflation number has historically been around 6-4%, but it never feels this way. Almost everywhere we feel the numbers are high! \n\nAnd to answer why, we need to understand. \nHow is inflation calculated? \nAnd since these numbers don’t reflect the inflation we feel, it is important to understand. \nHow does this number affect our life and our portfolio? \nHow can we calculate the ‘right’ inflation for us \nAnd most importantly \nHow can we make sure to beat this ‘right’ number! \n\nIn this video we answer all of these questions and try to understand what the right perspective towards inflation should be while managing yo…",
@@ -19791,11 +19827,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-15T06:54:38.752Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-10-15T10:15:16.598Z",
       "added": 3,
       "errors": 3
@@ -20089,6 +20120,11 @@
       "at": "2026-10-26T20:47:51.399Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-27T07:14:22.114Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20213,5 +20249,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-26T20:47:51.399Z"
+  "lastRun": "2026-10-27T07:14:22.114Z"
 }
