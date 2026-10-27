@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=Sy4DMjZCWi0",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 28 October 2026, Wednesday",
+      "link": "https://www.youtube.com/watch?v=Sy4DMjZCWi0",
+      "published": "2026-10-27T13:01:10.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/Sy4DMjZCWi0/hqdefault.jpg",
+      "firstSeen": "2026-10-27T14:52:11.188Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=11Q8GFEY1Mc",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "What happens when a commodity option contract expires? | Devolvement",
+      "link": "https://www.youtube.com/watch?v=11Q8GFEY1Mc",
+      "published": "2026-10-27T11:00:14.000Z",
+      "summary": "In this video, you will learn how devolvement works in commodity options and how it can impact your trading account margin requirements after expiry. When a commodity option expires in the money, it does not simply settle in cash but is instead converted into a corresponding futures position which requires significantly more capital. Understanding this mechanism is crucial for managing your positions because the exchange blocks progressive margins leading up to the expiry day, and Zerodha may square off your trade if sufficient funds are not maintained. By mastering these rules and knowing how to utilize tools like Kite's option chain and the Zerodha margin calculator, you can effectively a…",
+      "thumbnail": "https://i2.ytimg.com/vi/11Q8GFEY1Mc/hqdefault.jpg",
+      "firstSeen": "2026-10-27T14:52:11.188Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/W_804-di0bs",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Shoaib on how he got hired at Zerodha",
+      "link": "https://www.youtube.com/shorts/W_804-di0bs",
+      "published": "2026-10-27T10:38:23.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/W_804-di0bs/hqdefault.jpg",
+      "firstSeen": "2026-10-27T14:52:11.188Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=4Sg_IPQT-KU",
       "platform": "youtube",
       "group": "Markets",
@@ -19827,11 +19863,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-15T13:45:42.609Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-10-15T16:29:18.808Z",
       "added": 3,
       "errors": 3
@@ -20125,6 +20156,11 @@
       "at": "2026-10-27T10:50:55.260Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-27T14:57:56.649Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20249,5 +20285,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-27T10:50:55.260Z"
+  "lastRun": "2026-10-27T14:57:56.648Z"
 }
