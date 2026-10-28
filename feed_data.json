@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/HvKjxUSxqx0",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "How to invest daily starting with ₹10 on Coin | Microsavings",
+      "link": "https://www.youtube.com/shorts/HvKjxUSxqx0",
+      "published": "2026-10-28T07:00:07.000Z",
+      "summary": "Coin's MicroSavings feature allows you to automate daily mutual fund investments starting with just ₹10, overcoming the friction of waiting for a large lump sum of capital to start investing. By setting up a single UPI AutoPay mandate, you can consistently accumulate small fractions of broad market baskets, such as passive index funds or gold exchange-traded funds, on consecutive trading days. This approach simplifies the investment process, removes the pressure of trying to time the market, and leverages rupee cost averaging to build a long-term portfolio quietly in the background.\n\nExplore: \n\nOpen a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians inve…",
+      "thumbnail": "https://i1.ytimg.com/vi/HvKjxUSxqx0/hqdefault.jpg",
+      "firstSeen": "2026-10-28T07:47:37.231Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=aO5LNZKiFxU",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Can India break China’s monopoly on rare earth magnets? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=aO5LNZKiFxU",
+      "published": "2026-10-28T02:30:07.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nCan India Break China’s Monopoly on Rare Earth Magnets?\nIndia is trying to build its own rare earth magnet manufacturing industry to reduce dependence on Chinese imports. The government has launched a ₹7,280 crore incentive scheme to support domestic production of high-performance neodymium magnets, which are essential for electric vehicles, wind turbines and defence equipment.\nThe story explores why India has struggled to manufacture these magnets at scale, why companies from industries such as co…",
+      "thumbnail": "https://i2.ytimg.com/vi/aO5LNZKiFxU/hqdefault.jpg",
+      "firstSeen": "2026-10-28T07:45:50.374Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/whats-going-on-in-indian-cybersecurity",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "What’s going on in Indian cybersecurity?",
+      "link": "https://thedailybrief.zerodha.com/p/whats-going-on-in-indian-cybersecurity",
+      "published": "2026-10-28T02:00:01.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. What’s going on in Indian cybersecurity? Between AI uncovering flaws in web-standard languages and major certificate authorities issuing single-digit security keys, India’s digital infra…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!5hzz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4536a77-4dde-4b2b-823e-e4f622ece229_1536x1024.png",
+      "firstSeen": "2026-10-28T07:45:50.930Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=coxAhfjWpW0",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "What’s going on in Indian cybersecurity? | Quick commerce Q2 results | The Daily Brief #579",
+      "link": "https://www.youtube.com/watch?v=coxAhfjWpW0",
+      "published": "2026-10-28T01:44:26.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. What’s Going on in Indian Cybersecurity?\nIndia’s growing cybersecurity risks are raising questions about how well the country’s digital systems are protected. From eMudhra’s weak digital signing keys to the growing speed of AI-powered cyberattacks, we look at the role of regulators, the challenges facing Indian organisations, and why rising cyber threats haven…",
+      "thumbnail": "https://i4.ytimg.com/vi/coxAhfjWpW0/hqdefault.jpg",
+      "firstSeen": "2026-10-28T07:45:50.049Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=Sy4DMjZCWi0",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -19887,11 +19935,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-16T06:43:44.879Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-10-16T10:05:37.374Z",
       "added": 2,
       "errors": 3
@@ -20185,6 +20228,11 @@
       "at": "2026-10-27T20:18:44.236Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-28T07:53:27.164Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20309,5 +20357,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-27T20:18:44.236Z"
+  "lastRun": "2026-10-28T07:53:27.164Z"
 }
