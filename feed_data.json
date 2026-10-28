@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/SHrb40vR8sE",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "The Drought Crisis That Affects YOU",
+      "link": "https://www.youtube.com/shorts/SHrb40vR8sE",
+      "published": "2026-10-28T15:39:54.000Z",
+      "summary": "Watch the full video on our channel!\n\n#karnatakanews #andhrapradeshnews #maharastranews #indianews #drought #indiadrought #elnino #elnino2026 #climatechange #watercrisis #theclimatebrief",
+      "thumbnail": "https://i4.ytimg.com/vi/SHrb40vR8sE/hqdefault.jpg",
+      "firstSeen": "2026-10-28T17:59:05.073Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=KD2564rxu9o",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "We Backtested Pre-Earnings Option Buying. Here's What Happened Part 1 | The Long & The Short Ep. 57",
+      "link": "https://www.youtube.com/watch?v=KD2564rxu9o",
+      "published": "2026-10-28T15:23:21.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhat happens to option prices around a company’s earnings announcement? Implied volatility tends to rise before results and fall sharply afterwards. But can traders actually make money from this pattern?\n\nIn this episode of The Long & The Short, we explore the history of earnings trades, the research behind the rise and fall in implied volatility, and what happens when we test these strategies on Indian stocks.\n\nWe start with what results trades are and how option buyers and sellers approach them.…",
+      "thumbnail": "https://i4.ytimg.com/vi/KD2564rxu9o/hqdefault.jpg",
+      "firstSeen": "2026-10-28T17:54:57.358Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/choppy-trade-continues-as-elevated",
       "platform": "substack",
       "group": "Markets",
@@ -19995,11 +20019,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-16T16:15:29.758Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-10-16T19:02:52.553Z",
       "added": 0,
       "errors": 3
@@ -20293,6 +20312,11 @@
       "at": "2026-10-28T15:29:06.988Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-10-28T18:02:34.693Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20417,5 +20441,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-28T15:29:06.988Z"
+  "lastRun": "2026-10-28T18:02:34.693Z"
 }
