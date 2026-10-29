@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-surges-past-22900-as-fed-pause",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty surges past 22,900 as Fed pause & stabilising oil prices offer relief",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-surges-past-22900-as-fed-pause",
+      "published": "2026-10-29T14:30:43.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!w7c3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca933898-a7f1-4d02-a208-9eaa0ff1b2b1_1456x971.webp",
+      "firstSeen": "2026-10-29T15:27:47.163Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ehoaBK0muVA",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Trading Se Kitna Paisa Kama Sakte Hain? | Trading ki Baatein Ep. 1",
+      "link": "https://www.youtube.com/watch?v=ehoaBK0muVA",
+      "published": "2026-10-29T14:26:54.000Z",
+      "summary": "Apni investing journey free mein shuru karein! Zerodha ke saath zero-brokerage Demat aur trading account kholein aur Stocks, Mutual Funds, ETFs aur Bonds mein invest karein: https://zerodha.com/open-account/?c=ZAPIXG\n\nTrading se aakhir kitna paisa kamaya ja sakta hai? Trading ki baatein ke is episode mein hum trading returns ki reality samajhte hain aur dekhte hain ki trading mein lagne wala time, effort aur risk, usse hone wale profit ke layak hai ya nahi.\n\nHum trading ke basics, leverage, costs, taxes, risk-free returns aur Nifty 50 jaise benchmarks ko samajhte hain. Saath hi, experienced equity aur Futures & Options (F&O) traders kitna kama sakte hain, trading mein kitna risk hai aur ful…",
+      "thumbnail": "https://i2.ytimg.com/vi/ehoaBK0muVA/hqdefault.jpg",
+      "firstSeen": "2026-10-29T15:27:46.207Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=a9finpEpMlw",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 30 October 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=a9finpEpMlw",
+      "published": "2026-10-29T13:29:14.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/a9finpEpMlw/hqdefault.jpg",
+      "firstSeen": "2026-10-29T15:29:35.094Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/PbjzNZUgvTU",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Drought So BAD It Can Increase Your Grocery Bills?!",
+      "link": "https://www.youtube.com/shorts/PbjzNZUgvTU",
+      "published": "2026-10-29T12:30:04.000Z",
+      "summary": "Watch the full video on our channel!\n\n#karnatakanews #andhrapradeshnews #maharastranews #indianews #drought #indiadrought #elnino #elnino2026 #climatechange #watercrisis #theclimatebrief",
+      "thumbnail": "https://i1.ytimg.com/vi/PbjzNZUgvTU/hqdefault.jpg",
+      "firstSeen": "2026-10-29T15:31:56.894Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=TF1RjrodDNo",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "The state of nuclear energy in India ft. Karthik Ganesan | Subtext by Zerodha",
+      "link": "https://www.youtube.com/watch?v=TF1RjrodDNo",
+      "published": "2026-10-29T12:07:03.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nWhy has nuclear energy not become more common, even though it can provide reliable, low-carbon electricity? And can India’s new Shanti Act help change that?\nIn this episode of Subtext by Zerodha, Kashish speaks with Karthik, who has spent over 14 years researching energy and public policy at CEEW. They discuss how nuclear power works, why its growth has slowed down, and why countries are looking at it again.\nKarthik explains uranium, thorium, SMRs and India’s three-stage nuclear programme. They dis…",
+      "thumbnail": "https://i1.ytimg.com/vi/TF1RjrodDNo/hqdefault.jpg",
+      "firstSeen": "2026-10-29T15:27:46.654Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=3X9jBO-1K0U",
       "platform": "youtube",
       "group": "Markets",
@@ -20055,11 +20115,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-17T12:27:50.233Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-10-17T15:07:41.822Z",
       "added": 1,
       "errors": 3
@@ -20353,6 +20408,11 @@
       "at": "2026-10-29T11:45:10.344Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-29T15:35:28.893Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20477,5 +20537,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-29T11:45:10.344Z"
+  "lastRun": "2026-10-29T15:35:28.893Z"
 }
