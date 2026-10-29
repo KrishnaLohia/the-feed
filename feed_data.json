@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=3X9jBO-1K0U",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Why is Biocon waiting until 2028 to sell its cancer drug in the US? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=3X9jBO-1K0U",
+      "published": "2026-10-29T02:30:07.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nBiocon vs Roche: Why Will Cheaper Perjeta Reach the US Only in 2028?\nBiocon has settled its global patent dispute with Roche’s subsidiary Genentech over Pebrilzo, a biosimilar of the expensive breast cancer drug Perjeta. Under the agreement, Biocon can launch the drug in Europe and the UK in Q1 2027, but it must wait until Q3 2028 to enter the US market, subject to regulatory approvals.\nThe story explores how multiple patents, legal settlements and differences between markets shape the launch of ch…",
+      "thumbnail": "https://i4.ytimg.com/vi/3X9jBO-1K0U/hqdefault.jpg",
+      "firstSeen": "2026-10-29T07:52:03.791Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/fdi-in-india-easy-come-easy-go",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "FDI in India: easy come, easy go?",
+      "link": "https://thedailybrief.zerodha.com/p/fdi-in-india-easy-come-easy-go",
+      "published": "2026-10-29T01:40:17.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. FDI in India: easy come, easy go? Net foreign direct investment into India reached a four-year high of $13.8 billion between April and August, up from $9.6 billion a year earlier. Howeve…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!bskB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F328ae9e8-d33e-40ac-aec4-60dac2d615de_2388x1668.png",
+      "firstSeen": "2026-10-29T07:52:04.132Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=1HHQThx_YrE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "What explains India’s net FDI uptick? | The state of world electrification | The Daily Brief #580",
+      "link": "https://www.youtube.com/watch?v=1HHQThx_YrE",
+      "published": "2026-10-29T01:30:09.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. India’s Net FDI Is Rising. But Is the Money Staying?\nIndia’s net foreign direct investment (FDI) has improved in the first five months of FY27, with more foreign money staying in the country than in the same period of any year since FY23. But much of this investment goes into existing businesses rather than building new factories. We look at what is driving th…",
+      "thumbnail": "https://i2.ytimg.com/vi/1HHQThx_YrE/hqdefault.jpg",
+      "firstSeen": "2026-10-29T07:52:03.517Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=PTP1Ft8C0qA",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -20019,11 +20055,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-17T06:32:27.380Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-10-17T09:38:20.624Z",
       "added": 5,
       "errors": 3
@@ -20317,6 +20348,11 @@
       "at": "2026-10-28T20:35:54.740Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-29T07:59:40.114Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20441,5 +20477,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-28T20:35:54.740Z"
+  "lastRun": "2026-10-29T07:59:40.114Z"
 }
