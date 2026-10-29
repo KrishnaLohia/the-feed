@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=a9finpEpMlw",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 30 October 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=a9finpEpMlw",
+      "published": "2026-10-29T16:37:39.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/a9finpEpMlw/hqdefault.jpg",
+      "firstSeen": "2026-10-29T15:29:35.094Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-surges-past-22900-as-fed-pause",
       "platform": "substack",
       "group": "Markets",
@@ -23,18 +35,6 @@
       "summary": "Apni investing journey free mein shuru karein! Zerodha ke saath zero-brokerage Demat aur trading account kholein aur Stocks, Mutual Funds, ETFs aur Bonds mein invest karein: https://zerodha.com/open-account/?c=ZAPIXG\n\nTrading se aakhir kitna paisa kamaya ja sakta hai? Trading ki baatein ke is episode mein hum trading returns ki reality samajhte hain aur dekhte hain ki trading mein lagne wala time, effort aur risk, usse hone wale profit ke layak hai ya nahi.\n\nHum trading ke basics, leverage, costs, taxes, risk-free returns aur Nifty 50 jaise benchmarks ko samajhte hain. Saath hi, experienced equity aur Futures & Options (F&O) traders kitna kama sakte hain, trading mein kitna risk hai aur ful…",
       "thumbnail": "https://i2.ytimg.com/vi/ehoaBK0muVA/hqdefault.jpg",
       "firstSeen": "2026-10-29T15:27:46.207Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=a9finpEpMlw",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 30 October 2026, Friday",
-      "link": "https://www.youtube.com/watch?v=a9finpEpMlw",
-      "published": "2026-10-29T13:29:14.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i2.ytimg.com/vi/a9finpEpMlw/hqdefault.jpg",
-      "firstSeen": "2026-10-29T15:29:35.094Z"
     },
     {
       "id": "https://www.youtube.com/shorts/PbjzNZUgvTU",
@@ -20115,11 +20115,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-17T15:07:41.822Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-10-17T18:02:00.214Z",
       "added": 0,
       "errors": 3
@@ -20413,6 +20408,11 @@
       "at": "2026-10-29T15:35:28.893Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-10-29T18:10:55.389Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20537,5 +20537,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-29T15:35:28.893Z"
+  "lastRun": "2026-10-29T18:10:55.389Z"
 }
