@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=mdpbSPOjLQI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "India’s ₹10,000 crore bet on better weather forecasts | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=mdpbSPOjLQI",
+      "published": "2026-10-30T02:30:25.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nMission Mausam: Can India Improve Its Weather Forecasts?\nIndia launched Mission Mausam in 2024 with a ₹2,000 crore investment to improve weather forecasting and prepare for extreme weather events. The mission aims to deliver more accurate, localised forecasts using advanced supercomputers, AI-powered weather models, and a wider network of weather radars and monitoring systems.\nHowever, progress has been slower than expected, with several instruments still awaiting installation and spending cuts in…",
+      "thumbnail": "https://i2.ytimg.com/vi/mdpbSPOjLQI/hqdefault.jpg",
+      "firstSeen": "2026-10-30T07:55:40.006Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/the-uncertain-fates-of-indias-inter",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The uncertain fates of India’s inter-state migration",
+      "link": "https://thedailybrief.zerodha.com/p/the-uncertain-fates-of-indias-inter",
+      "published": "2026-10-30T01:57:03.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The uncertain fates of India’s inter-state migration Widening regional income disparities have accelerated domestic migration from states like Bihar and Odisha toward high-growth hubs su…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!YXCZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60ce592a-1b50-4eb1-b7dc-01848a2b1e03_1536x1024.png",
+      "firstSeen": "2026-10-30T07:55:40.362Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=p_5pud4LmmU",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "The fragilities of India's migration story | Indian IT Q2 results | The Daily Brief #581",
+      "link": "https://www.youtube.com/watch?v=p_5pud4LmmU",
+      "published": "2026-10-30T01:48:25.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. The uncertain future of India's migrant workers\nIndia’s economic growth has created jobs in cities such as Bengaluru, Chennai and Hyderabad, attracting workers from poorer states like Bihar and Odisha. But migration comes with challenges, including high living costs, insecure housing, difficult working conditions and separation from families. While remittances…",
+      "thumbnail": "https://i1.ytimg.com/vi/p_5pud4LmmU/hqdefault.jpg",
+      "firstSeen": "2026-10-30T07:55:39.599Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=a9finpEpMlw",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -29,7 +65,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "In The Money (YouTube)",
-      "title": "Trading Se Kitna Paisa Kama Sakte Hain? | Trading ki Baatein Ep. 1",
+      "title": "Trading Se Kitna Paisa Kama Sakte Hain? | Trading ki Baatein Ep. 1 | In the Money by Zerodha",
       "link": "https://www.youtube.com/watch?v=ehoaBK0muVA",
       "published": "2026-10-29T14:26:54.000Z",
       "summary": "Apni investing journey free mein shuru karein! Zerodha ke saath zero-brokerage Demat aur trading account kholein aur Stocks, Mutual Funds, ETFs aur Bonds mein invest karein: https://zerodha.com/open-account/?c=ZAPIXG\n\nTrading se aakhir kitna paisa kamaya ja sakta hai? Trading ki baatein ke is episode mein hum trading returns ki reality samajhte hain aur dekhte hain ki trading mein lagne wala time, effort aur risk, usse hone wale profit ke layak hai ya nahi.\n\nHum trading ke basics, leverage, costs, taxes, risk-free returns aur Nifty 50 jaise benchmarks ko samajhte hain. Saath hi, experienced equity aur Futures & Options (F&O) traders kitna kama sakte hain, trading mein kitna risk hai aur ful…",
@@ -20115,11 +20151,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-18T06:57:58.730Z",
-      "added": 0,
-      "errors": 13
-    },
-    {
       "at": "2026-10-18T09:51:54.096Z",
       "added": 0,
       "errors": 3
@@ -20413,6 +20444,11 @@
       "at": "2026-10-29T20:35:01.096Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-30T08:03:16.168Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20537,5 +20573,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-29T20:35:01.096Z"
+  "lastRun": "2026-10-30T08:03:16.168Z"
 }
