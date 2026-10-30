@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/sq_zyzaWIJY",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "What’s Happening In Maharashtra?!",
+      "link": "https://www.youtube.com/shorts/sq_zyzaWIJY",
+      "published": "2026-10-30T16:22:22.000Z",
+      "summary": "Watch the full video on our channel!\n\n#karnatakanews #andhrapradeshnews #maharastranews #indianews #drought #indiadrought #elnino #elnino2026 #climatechange #watercrisis #theclimatebrief",
+      "thumbnail": "https://i4.ytimg.com/vi/sq_zyzaWIJY/hqdefault.jpg",
+      "firstSeen": "2026-10-30T17:48:04.245Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/it-stocks-lead-the-charge-as-nifty",
       "platform": "substack",
       "group": "Markets",
@@ -20259,11 +20271,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-18T15:32:53.456Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-10-18T18:22:42.837Z",
       "added": 0,
       "errors": 3
@@ -20557,6 +20564,11 @@
       "at": "2026-10-30T15:21:52.336Z",
       "added": 9,
       "errors": 3
+    },
+    {
+      "at": "2026-10-30T17:51:36.802Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20681,5 +20693,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-30T15:21:52.336Z"
+  "lastRun": "2026-10-30T17:51:36.802Z"
 }
