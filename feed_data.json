@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/it-stocks-lead-the-charge-as-nifty",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "IT stocks lead the charge as Nifty retains 23,000 despite global headwinds",
+      "link": "https://aftermarketreport.zerodha.com/p/it-stocks-lead-the-charge-as-nifty",
+      "published": "2026-10-30T14:37:25.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!w7c3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca933898-a7f1-4d02-a208-9eaa0ff1b2b1_1456x971.webp",
+      "firstSeen": "2026-10-30T15:14:16.490Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/9vGB2MJf9vg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Steve Burns take on Option Selling vs Option Buying",
+      "link": "https://www.youtube.com/shorts/9vGB2MJf9vg",
+      "published": "2026-10-30T14:30:12.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/9vGB2MJf9vg/hqdefault.jpg",
+      "firstSeen": "2026-10-30T15:14:15.651Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/C2WeTNTwX_E",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "You Don't Have to Pay Tax Till ₹13.46 Lakh Income. Here's Why. #shorts #varsity #zerodha #tax",
+      "link": "https://www.youtube.com/shorts/C2WeTNTwX_E",
+      "published": "2026-10-30T13:30:19.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/C2WeTNTwX_E/hqdefault.jpg",
+      "firstSeen": "2026-10-30T15:15:27.321Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/DE6UzpwVB5w",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "What’s the one slide VCs don't want to see from an MVP-stage company?",
+      "link": "https://www.youtube.com/shorts/DE6UzpwVB5w",
+      "published": "2026-10-30T12:31:10.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/DE6UzpwVB5w/hqdefault.jpg",
+      "firstSeen": "2026-10-30T15:17:47.347Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/KwJSGRy0fYQ",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "India's EV Boom: It's Not Just About Electric Cars! ⚡🚗",
+      "link": "https://www.youtube.com/shorts/KwJSGRy0fYQ",
+      "published": "2026-10-30T12:30:08.000Z",
+      "summary": "India’s electric vehicle industry is growing rapidly. ⚡🚗\n\nBut what does this actually mean for the EV sector and investors?\n\nWhen we think of electric vehicles, we usually think of companies manufacturing electric cars and two-wheelers. But the EV sector comprises a number of sub-sectors:\n\n1. EV manufacturers: Companies producing electric cars, two-wheelers, three-wheelers and buses.\n2. Battery manufacturers: Companies producing batteries, which are one of the most important and expensive components of an EV.\n3. Auto component manufacturers: Companies supplying motors, electronics and other components required to manufacture EVs.\n4. Charging infrastructure: Companies building and operating…",
+      "thumbnail": "https://i4.ytimg.com/vi/KwJSGRy0fYQ/hqdefault.jpg",
+      "firstSeen": "2026-10-30T15:18:22.474Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/ZckFDnsO1Uo",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Wait, That's Connected? Episode 1",
+      "link": "https://www.youtube.com/shorts/ZckFDnsO1Uo",
+      "published": "2026-10-30T12:05:15.000Z",
+      "summary": "Did you know Napoleon’s private war network is actually connected to the world’s first stock market hack? 👀\n\nWatch to find out how two brothers pulled it off.\n\n[stockmarket, history, investing, finance, economy]",
+      "thumbnail": "https://i3.ytimg.com/vi/ZckFDnsO1Uo/hqdefault.jpg",
+      "firstSeen": "2026-10-30T15:14:15.507Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-sebi-asian-paints-motilal",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: SEBI, Asian Paints, Motilal Oswal, Gulf Oil & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-sebi-asian-paints-motilal",
+      "published": "2026-10-30T12:01:26.000Z",
+      "summary": "Welcome to the 102nd edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 5 companies across 4 industries & a regulator’s speech. Regulators Securities and Exchange Board of India Building Materials Asian Paints Limited Welspun Corp Limited Financial Serv…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!7inx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F123db71c-ca72-48aa-9ef8-508ac3c26f47_2400x1350.png",
+      "firstSeen": "2026-10-30T15:14:16.714Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=4OqXCbcv5BA",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Inside Zerodha’s tech team: No KPIs, no management, just pure engineering! | The Back Office Ep. 5",
+      "link": "https://www.youtube.com/watch?v=4OqXCbcv5BA",
+      "published": "2026-10-30T12:00:37.000Z",
+      "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nAbout the Episode: \n\nWelcome to 'The Back Office', a series where we go behind the scenes with key leaders at Zerodha to explore their personal journeys, core philosophies, and the systems powering India's largest brokerage.\n\nIn this episode, Vinay (AVP of Tech) pulls back the curtain on Zerodha's unique engineering culture. From Vinay's early days as a teenage freelancer…",
+      "thumbnail": "https://i1.ytimg.com/vi/4OqXCbcv5BA/hqdefault.jpg",
+      "firstSeen": "2026-10-30T15:16:02.548Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/BiCSAuKvDDk",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Zerodha's customer first approach",
+      "link": "https://www.youtube.com/shorts/BiCSAuKvDDk",
+      "published": "2026-10-30T11:40:27.000Z",
+      "summary": "Watch the full episode: https://youtu.be/0repTV34aPQ?si=_Ywc3I6lKy5ALkVK",
+      "thumbnail": "https://i3.ytimg.com/vi/BiCSAuKvDDk/hqdefault.jpg",
+      "firstSeen": "2026-10-30T15:16:02.548Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=mdpbSPOjLQI",
       "platform": "youtube",
       "group": "Markets",
@@ -20151,11 +20259,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-18T12:53:05.129Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-10-18T15:32:53.456Z",
       "added": 1,
       "errors": 3
@@ -20449,6 +20552,11 @@
       "at": "2026-10-30T11:36:20.594Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-30T15:21:52.336Z",
+      "added": 9,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20573,5 +20681,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-30T11:36:20.594Z"
+  "lastRun": "2026-10-30T15:21:52.336Z"
 }
