@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=JFNRg_oNndA",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "India’s Sugar Prices Are At An All Time High (Why You Need To Worry)",
+      "link": "https://www.youtube.com/watch?v=JFNRg_oNndA",
+      "published": "2026-10-31T13:15:37.000Z",
+      "summary": "No Diwali is complete without an absolute sugar overload! But this year, the sugar in those sweets has a dark story you don’t know about. Sugar prices in India and across the globe are touching new highs and the story is a lot more complicated that you realise. In today’s episode, we dive into why sugarcane production is facing issues, why this is an indication of a larger climate problem AND why the story is incomplete without ethanol.\n\n0:00 - Introduction\n0:43 - Chapter 1: What's Going On?\n2:37 - Chapter 2: India's Sugar Story\n4:18 - Chapter 3: The Sugarcane Supply Squeeze\n\n#sugarcane #sugar #sugarprices #sugarcanefarming #indianews #bestinindia #climatechange #climateaction #theclimatebr…",
+      "thumbnail": "https://i3.ytimg.com/vi/JFNRg_oNndA/hqdefault.jpg",
+      "firstSeen": "2026-10-31T14:44:52.604Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-defies-global-market-rout-to",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty defies global market rout to close the week above 23,000",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-defies-global-market-rout-to",
+      "published": "2026-10-31T12:20:27.000Z",
+      "summary": "Welcome to the weekly edition of Aftermarket Report, where we wrap up the week in the markets and take you through everything that mattered, both in India and globally. What data points and transformations do you want to see? We’re also experimenting with a weekly edition of the Aftermarket Report, and we’d love to know what you’d find useful in it. Unlike the daily report, the idea here is to step back from individual trading sessions and look at the bigger picture — what changed over the week, where trends are building, how sectors and themes are moving, how positioning has shifted, and what the data tells us when viewed over a longer timeframe. We’re exploring everything from weekly mark…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!6EWK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F475b8ee3-57e0-4ad5-8a39-2d31277a30c0_1456x971.webp",
+      "firstSeen": "2026-10-31T14:40:48.169Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=2SiNm_rkqwg",
       "platform": "youtube",
       "group": "Rainmatter",
@@ -53,7 +77,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "Subtext (YouTube)",
-      "title": "How credit card companies trick you into paying extra interest! | Cash & Copium Ep. 9",
+      "title": "Stop losing money on credit cards! (forex trap, CIBIL tips & hidden fees) | Cash & Copium Ep. 9",
       "link": "https://www.youtube.com/watch?v=EQ3nzD25Fx8",
       "published": "2026-10-31T04:30:33.000Z",
       "summary": "Open a free demat account → https://zerodha.com/open-account/?c=ZAPVVI\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nWelcome to Cash & Copium, the show where we break down finance concepts that directly move money in and out of your pocket - without jargon or corporate fluff. \n\nIn Episode 9 of Cash & Copium, Aakanksha and Abid are joined by credit card enthusiast Pranay Kapoor to expose the dark, unspoken secrets of the credit card industry in India. \n\nAre your credit card reward points…",
@@ -20355,11 +20379,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-19T15:56:53.464Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-10-19T18:29:43.853Z",
       "added": 0,
       "errors": 3
@@ -20653,6 +20672,11 @@
       "at": "2026-10-31T11:07:24.665Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-10-31T14:48:42.542Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20777,5 +20801,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-31T11:07:24.664Z"
+  "lastRun": "2026-10-31T14:48:42.542Z"
 }
