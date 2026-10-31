@@ -221,7 +221,7 @@
       "platform": "youtube",
       "group": "Zerodha Online",
       "sourceName": "Zerodha Online (YouTube)",
-      "title": "Inside Zerodha’s tech team: No KPIs, no management, just pure engineering! | The Back Office Ep. 5",
+      "title": "How a hobbyist freelancer became the AVP of tech at Zerodha! | The Back Office Ep. 5",
       "link": "https://www.youtube.com/watch?v=4OqXCbcv5BA",
       "published": "2026-10-30T12:00:37.000Z",
       "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nAbout the Episode: \n\nWelcome to 'The Back Office', a series where we go behind the scenes with key leaders at Zerodha to explore their personal journeys, core philosophies, and the systems powering India's largest brokerage.\n\nIn this episode, Vinay (AVP of Tech) pulls back the curtain on Zerodha's unique engineering culture. From Vinay's early days as a teenage freelancer…",
@@ -20391,11 +20391,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-19T20:48:21.409Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-20T07:03:05.344Z",
       "added": 0,
       "errors": 13
@@ -20689,6 +20684,11 @@
       "at": "2026-10-31T16:59:09.636Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-10-31T19:36:03.949Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20813,5 +20813,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-31T16:59:09.636Z"
+  "lastRun": "2026-10-31T19:36:03.949Z"
 }
