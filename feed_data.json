@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/z2HrSJHIzks",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Steve Burns on Why 90% of Traders Lose Money",
+      "link": "https://www.youtube.com/shorts/z2HrSJHIzks",
+      "published": "2026-10-31T14:59:02.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/z2HrSJHIzks/hqdefault.jpg",
+      "firstSeen": "2026-10-31T16:51:34.339Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=JFNRg_oNndA",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -20379,11 +20391,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-19T18:29:43.853Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-19T20:48:21.409Z",
       "added": 0,
       "errors": 3
@@ -20677,6 +20684,11 @@
       "at": "2026-10-31T14:48:42.542Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-10-31T16:59:09.636Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20801,5 +20813,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-31T14:48:42.542Z"
+  "lastRun": "2026-10-31T16:59:09.636Z"
 }
