@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=hKO5Rw7zEaI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Weekly Tidbits Hindi: 1st Nov | Maruti EVs, SEBI KYC & Fiscal Deficit",
+      "link": "https://www.youtube.com/watch?v=hKO5Rw7zEaI",
+      "published": "2026-11-01T03:30:26.000Z",
+      "summary": "Welcome to the second edition of Weekly Tidbits by Markets by Zerodha, where we bring you 9 interesting stories from across Companies, Industries, the Economy and Global markets that may have slipped under the radar.\n\nThis week, we look at Maruti Suzuki’s electric vehicle exports, KPIT Technologies’ Q2 FY27 profit decline, and Trent’s partnership with Caffè Nero. We also explore India’s green ammonia trials, a ₹1,856 crore sports goods manufacturing scheme, and the rise in India’s fiscal deficit.\n\n00:00 Intro\nCompany\n01:13 Maruti Suzuki leads India’s passenger EV exports\n02:00 KPIT Technologies’ Q2 FY27 profit declines 29%\n03:07 Trent partners with Caffè Nero for Westside and Zudio stores…",
+      "thumbnail": "https://i1.ytimg.com/vi/hKO5Rw7zEaI/hqdefault.jpg",
+      "firstSeen": "2026-11-01T08:28:54.639Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/z2HrSJHIzks",
       "platform": "youtube",
       "group": "Markets",
@@ -20391,11 +20403,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-20T07:03:05.344Z",
-      "added": 0,
-      "errors": 13
-    },
-    {
       "at": "2026-10-20T10:20:11.227Z",
       "added": 0,
       "errors": 3
@@ -20689,6 +20696,11 @@
       "at": "2026-10-31T19:36:03.949Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-01T08:36:31.297Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20813,5 +20825,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-10-31T19:36:03.949Z"
+  "lastRun": "2026-11-01T08:36:31.297Z"
 }
