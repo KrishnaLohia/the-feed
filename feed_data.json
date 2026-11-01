@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=b2kBg_7FRxE",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 02 November 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=b2kBg_7FRxE",
+      "published": "2026-11-01T15:15:01.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i3.ytimg.com/vi/b2kBg_7FRxE/hqdefault.jpg",
+      "firstSeen": "2026-11-01T15:26:43.423Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/1L0z9anF-no",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "A Used Audi vs a New Creta: Which One Actually Costs More? 🚗🤔",
+      "link": "https://www.youtube.com/shorts/1L0z9anF-no",
+      "published": "2026-11-01T12:30:25.000Z",
+      "summary": "A second-hand Audi could cost you LAKHS more than a brand-new Creta.\n\nBuying a used luxury car at the price of a new SUV might seem like a great deal. You get the luxury badge, better comfort and a premium driving experience.\n\nBut the real cost of owning a car goes way beyond than just its purchase price.\n\nWhen you consider the interest rate of the loan, fuel expenses, insurance, servicing and unexpected repair costs, the difference between the two can be quite significant.\n\nAnd then there's resale value. An older luxury car may not fetch as much as you expect when it's time to sell.\n\nBefore making the choice, it's worth understanding what each car will actually cost you. So we have made an…",
+      "thumbnail": "https://i2.ytimg.com/vi/1L0z9anF-no/hqdefault.jpg",
+      "firstSeen": "2026-11-01T15:29:04.943Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=QQNnWhAZtUM",
       "platform": "youtube",
       "group": "Markets",
@@ -20415,11 +20439,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-20T13:55:15.170Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-10-20T16:30:50.368Z",
       "added": 1,
       "errors": 3
@@ -20713,6 +20732,11 @@
       "at": "2026-11-01T12:02:51.929Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-11-01T15:32:37.034Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20837,5 +20861,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-01T12:02:51.929Z"
+  "lastRun": "2026-11-01T15:32:37.034Z"
 }
