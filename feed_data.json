@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=QQNnWhAZtUM",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "The Fortnightly Show Ep. 2 | When Will FIIs Return to India? Where Are the Next Opportunities?",
+      "link": "https://www.youtube.com/watch?v=QQNnWhAZtUM",
+      "published": "2026-11-01T08:52:41.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to the second episode of The Fortnightly Show, a series where we bring together market experts every two weeks to discuss markets, the economy, macroeconomics, geopolitics, and technicals, and how they all fit together.\n\nIn this episode, we are joined by Amit Kumar Gupta (SEBI Registered Research Analyst – INH100009327) and Nooresh Merani (SEBI Registered Research Analyst – INH000008075), with Sandeep Rao (SEBI Registered Research Analyst – INH000013059) as the host.\n\nWe discuss the latest…",
+      "thumbnail": "https://i2.ytimg.com/vi/QQNnWhAZtUM/hqdefault.jpg",
+      "firstSeen": "2026-11-01T11:55:14.490Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=hKO5Rw7zEaI",
       "platform": "youtube",
       "group": "Markets",
@@ -20403,11 +20415,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-20T10:20:11.227Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-20T13:55:15.170Z",
       "added": 2,
       "errors": 3
@@ -20701,6 +20708,11 @@
       "at": "2026-11-01T08:36:31.297Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-11-01T12:02:51.929Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20825,5 +20837,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-01T08:36:31.297Z"
+  "lastRun": "2026-11-01T12:02:51.929Z"
 }
