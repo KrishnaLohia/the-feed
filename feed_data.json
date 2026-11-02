@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/cOFH2Oo4eNg",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Andhra Pradesh Has a SERIOUS Problem",
+      "link": "https://www.youtube.com/shorts/cOFH2Oo4eNg",
+      "published": "2026-11-02T12:30:15.000Z",
+      "summary": "Watch the full video on our channel!\n\n#karnatakanews #andhrapradeshnews #maharastranews #indianews #drought #indiadrought #elnino #elnino2026 #climatechange #watercrisis #theclimatebrief",
+      "thumbnail": "https://i4.ytimg.com/vi/cOFH2Oo4eNg/hqdefault.jpg",
+      "firstSeen": "2026-11-02T13:45:10.022Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=ECv9i5xlTSU",
       "platform": "youtube",
       "group": "Markets",
@@ -20475,11 +20487,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-21T10:29:37.478Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-10-21T14:10:50.033Z",
       "added": 5,
       "errors": 3
@@ -20773,6 +20780,11 @@
       "at": "2026-11-02T08:47:52.809Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-11-02T13:48:39.771Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20897,5 +20909,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-02T08:47:52.809Z"
+  "lastRun": "2026-11-02T13:48:39.770Z"
 }
