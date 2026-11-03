@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=23se6wfMKo4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Blinkit vs Instamart: The race to profitability | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=23se6wfMKo4",
+      "published": "2026-11-03T02:30:15.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nBlinkit vs Swiggy Instamart: The Race to Profitability\nIndia’s quick commerce industry is expanding beyond groceries into electronics, home essentials and everyday shopping. But while Blinkit is growing its business with improving profitability, Swiggy Instamart is spending more to attract customers and catch up. In Q2 FY27, Blinkit reported an adjusted EBITDA of ₹184 crore, while Instamart recorded a loss of ₹895 crore.\nThis story explores how the two companies are approaching growth, profitabilit…",
+      "thumbnail": "https://i3.ytimg.com/vi/23se6wfMKo4/hqdefault.jpg",
+      "firstSeen": "2026-11-03T08:52:25.619Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/claude-go-public-make-no-mistakes",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Claude, go public, make no mistakes!",
+      "link": "https://thedailybrief.zerodha.com/p/claude-go-public-make-no-mistakes",
+      "published": "2026-11-03T02:08:35.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Claude, go public, make no mistakes! Anthropic filed its prospectus for a record IPO, revealing an unusual governance model as a public benefit corporation where retail investors hold no…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Rd3B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe875a489-b5af-4021-9871-2336f5585844_1536x1024.png",
+      "firstSeen": "2026-11-03T08:52:25.970Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=zg194-1XnQE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Anthropic wants to go public | Indian liquor Q2 results | The Daily Brief #583",
+      "link": "https://www.youtube.com/watch?v=zg194-1XnQE",
+      "published": "2026-11-03T02:04:37.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Anthropic’s IPO: Can Claude’s AI Business Make Money?\nAnthropic, the company behind Claude AI, is preparing for a potential record-breaking IPO. Its prospectus reveals a fast-growing business, a unique governance structure and massive investments in computing infrastructure. But with rising costs, heavy long-term commitments and intensifying AI competition, ca…",
+      "thumbnail": "https://i3.ytimg.com/vi/zg194-1XnQE/hqdefault.jpg",
+      "firstSeen": "2026-11-03T08:52:25.253Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=5ea9KoLisDs",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -233,7 +269,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "How to grow Money in 1–3 Years?",
+      "title": "Are FDs really back?",
       "link": "https://www.youtube.com/watch?v=rCe7kNgkwA4",
       "published": "2026-10-31T04:30:29.000Z",
       "summary": "Open a free demat account →https://zerodha.com/open-account/?c=AUTASB\n\nPlease Note: An Arbitrage Mutual Fund is a type of mutual fund that seeks to generate returns by exploiting price differences in different markets, such as different exchanges (as our example), or in the cash and futures market.\nThese funds capitalise on temporary mismatches in prices across these markets to create low risk profit opportunities.\nTo know more, please read: https://zerodha.com/varsity/chapter/arbitrage-funds/\n\nLast year we made a video where we asked people in the office to tell us their short term goals. \n\nThis year we decided to see how they are doing and tried to break down some of the most common asset…",
@@ -20523,11 +20559,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-22T07:00:56.117Z",
-      "added": 1,
-      "errors": 13
-    },
-    {
       "at": "2026-10-22T10:28:08.496Z",
       "added": 3,
       "errors": 3
@@ -20821,6 +20852,11 @@
       "at": "2026-11-02T23:18:00.320Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-03T09:00:07.173Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20945,5 +20981,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-02T23:18:00.320Z"
+  "lastRun": "2026-11-03T09:00:07.173Z"
 }
