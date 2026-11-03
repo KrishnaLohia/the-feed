@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/fAwZXYUUxhU",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "We investigated India’s Sugar Story",
+      "link": "https://www.youtube.com/shorts/fAwZXYUUxhU",
+      "published": "2026-11-03T12:30:25.000Z",
+      "summary": "Watch the full video on our channel!\n\n#sugarcane #sugar #sugarprices #sugarcanefarming #indianews #bestinindia #climatechange #climateaction #theclimatebrief #drought #karnatakanews #maharastranews",
+      "thumbnail": "https://i3.ytimg.com/vi/fAwZXYUUxhU/hqdefault.jpg",
+      "firstSeen": "2026-11-03T13:01:10.624Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/pWpcEaJsTUc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "The ₹11,000 gap between FDs and arbitrage funds",
+      "link": "https://www.youtube.com/shorts/pWpcEaJsTUc",
+      "published": "2026-11-03T12:30:02.000Z",
+      "summary": "A specific investment method has recently grown from under 40,000 crores to several lakh crores in total assets. Financial experts now view this approach as being nearly identical to a traditional fixed deposit, but with a completely different set of tax rules.   \n\nEven if two identical amounts are invested, the final payout can differ by thousands of rupees simply because of how the returns are categorized by tax authorities. If these current tax advantages are eventually removed, where will individuals move their capital next?\n\n[Arbitrage funds, Fixed deposits, Investment strategy, Tax advantages, Mutual funds, Personal finance, Capital gains, Wealth management, Financial planning, Cash a…",
+      "thumbnail": "https://i1.ytimg.com/vi/pWpcEaJsTUc/hqdefault.jpg",
+      "firstSeen": "2026-11-03T12:53:59.887Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=nOoVjgvQrIM",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "How to reactivate your Zerodha account?",
+      "link": "https://www.youtube.com/watch?v=nOoVjgvQrIM",
+      "published": "2026-11-03T11:00:27.000Z",
+      "summary": "If your account has been inactive for 24 consecutive months, the exchange treats it as inactive, which prevents you from placing trades or participating in buybacks, OFS, or rights issues. By logging into account.zerodha.com with your Kite credentials and completing the Re-KYC process, you can easily update your segments, contact details, profile information, and complete the In-Person Verification (IPV) to restore your account. This guide explains each step of the online reactivation, highlights when income proof is required, and outlines the alternative offline process if you previously deactivated your account manually.\n\nReactivation link: https://account.zerodha.com/account\nTo learn mor…",
+      "thumbnail": "https://i3.ytimg.com/vi/nOoVjgvQrIM/hqdefault.jpg",
+      "firstSeen": "2026-11-03T12:57:00.199Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=23se6wfMKo4",
       "platform": "youtube",
       "group": "Markets",
@@ -20559,11 +20595,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-22T10:28:08.496Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-10-22T14:09:15.002Z",
       "added": 2,
       "errors": 3
@@ -20857,6 +20888,11 @@
       "at": "2026-11-03T09:00:07.173Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-11-03T13:07:28.213Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -20981,5 +21017,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-03T09:00:07.173Z"
+  "lastRun": "2026-11-03T13:07:28.213Z"
 }
