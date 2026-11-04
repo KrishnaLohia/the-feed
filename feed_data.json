@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/AjJfhF75pjA",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Is gold too expensive at $4,500?",
+      "link": "https://www.youtube.com/shorts/AjJfhF75pjA",
+      "published": "2026-11-04T12:30:26.000Z",
+      "summary": "Retail investors often make a critical mistake when looking for long-term stability: they focus only on the current price instead of their overall strategy. Skipping a reliable investment just because it is expensive right now completely misses the point of protecting your wealth.   \n\nHistorically, specific assets have always acted as a shield against inflation, falling currency values, and stock market crashes. If the math proves that an investment keeps your money safe, at what point does the high price tag actually matter? \n\nWatch the full episode here: https://youtu.be/bf1VbbnSfNc?si=4xiA7lgcA2eq5nKH\n\n[Gold investment, Portfolio diversification, Wealth protection, Retail investors, Infl…",
+      "thumbnail": "https://i2.ytimg.com/vi/AjJfhF75pjA/hqdefault.jpg",
+      "firstSeen": "2026-11-04T13:07:30.614Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/hb0TGBfMO-Y",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "How ethanol turned maize into a tug-of-war? ft. Mridula",
+      "link": "https://www.youtube.com/shorts/hb0TGBfMO-Y",
+      "published": "2026-11-04T12:30:24.000Z",
+      "summary": "Farmers say maize is too cheap, but poultry farms say it's too expensive. So who is actually winning India's new ethanol boom? 🌽👀\n\nWatch the full story here: https://youtu.be/5CcxTp3PG24?si=el53fEzxyl2xkkEj\n\n[agriculture, ethanol, India, farming, energy, economy]",
+      "thumbnail": "https://i1.ytimg.com/vi/hb0TGBfMO-Y/hqdefault.jpg",
+      "firstSeen": "2026-11-04T13:07:30.077Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/fqkxHY38tyQ",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Increase Your Home Loan EMI, Save Lakhs in Interest! 🏠🤯",
+      "link": "https://www.youtube.com/shorts/fqkxHY38tyQ",
+      "published": "2026-11-04T12:30:01.000Z",
+      "summary": "One small EMI tweak could save you lakhs.\n\nMost people either stick to the same EMI for 20 years or choose a shorter tenure and take on a much bigger monthly payment.\n\nBut there's another way.\n\nAs your salary grows, you can gradually increase your EMI too. This can help you close your home loan earlier and save a significant amount in interest, without putting too much pressure on your finances today.\n\nWe've broken down how this works in the video.\n\nComment ZERO1 and we'll send you the calculator.\n\nhttps://docs.google.com/spreadsheets/d/1shbHfjAV8gkFE8EC1VPZu_5ZaMURSCSUrKsVBUyYn6Y/edit?gid=1383828178#gid=1383828178",
+      "thumbnail": "https://i3.ytimg.com/vi/fqkxHY38tyQ/hqdefault.jpg",
+      "firstSeen": "2026-11-04T13:11:40.116Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/yNtRCvmKMWg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Steve Burns on How He Became a Trading Author",
+      "link": "https://www.youtube.com/shorts/yNtRCvmKMWg",
+      "published": "2026-11-04T11:59:55.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/yNtRCvmKMWg/hqdefault.jpg",
+      "firstSeen": "2026-11-04T13:07:30.203Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=4sNGwZBTHxE",
       "platform": "youtube",
       "group": "Markets",
@@ -21375,11 +21423,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-23T10:23:28.450Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-10-23T13:51:37.270Z",
       "added": 7,
       "errors": 3
@@ -21673,6 +21716,11 @@
       "at": "2026-11-04T08:28:40.519Z",
       "added": 60,
       "errors": 0
+    },
+    {
+      "at": "2026-11-04T13:15:12.455Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -21797,5 +21845,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-04T08:28:40.519Z"
+  "lastRun": "2026-11-04T13:15:12.455Z"
 }
