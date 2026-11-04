@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-holds-firm-despite-global-uncertainty",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty holds firm despite global uncertainty; Fifth straight gain takes it past 23,950",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-holds-firm-despite-global-uncertainty",
+      "published": "2026-11-04T15:55:56.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!w7c3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca933898-a7f1-4d02-a208-9eaa0ff1b2b1_1456x971.webp",
+      "firstSeen": "2026-11-04T16:29:36.889Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=1N3IyQX__7k",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 05 November 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=1N3IyQX__7k",
+      "published": "2026-11-04T14:47:16.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/1N3IyQX__7k/hqdefault.jpg",
+      "firstSeen": "2026-11-04T16:31:24.757Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=7dFtZSY-XFE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "We Backtested Selling Options After Earnings | The Long & The Short Ep. 58",
+      "link": "https://www.youtube.com/watch?v=7dFtZSY-XFE",
+      "published": "2026-11-04T14:30:22.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhat happens when you sell options after a company’s earnings announcement? Implied volatility tends to fall after results, but can traders actually make money from this pattern? And does limiting risk with protective options change the outcome?\n\nIn this episode of The Long & The Short, we test two strategies on Indian stocks: selling a naked straddle after results and selling an iron fly with defined risk.\n\nUsing data from 209 Indian F&O stocks between October 2021 and August 2026, we examine six…",
+      "thumbnail": "https://i4.ytimg.com/vi/7dFtZSY-XFE/hqdefault.jpg",
+      "firstSeen": "2026-11-04T16:29:36.120Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-bajaj-finserv-zydus-bel",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: Bajaj Finserv, Zydus, BEL, Thomas & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-bajaj-finserv-zydus-bel",
+      "published": "2026-11-04T14:11:25.000Z",
+      "summary": "Welcome to the 103rd edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 6 companies across 6 industries. Financial Services Bajaj Finserv Limited Healthcare Zydus Lifesciences Defence Bharat Electronics Limited FMCG Marico Limited Software Services Happ…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!6p_T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78596efd-ee11-4b83-96a9-332d1d69fb24_2400x1350.png",
+      "firstSeen": "2026-11-04T16:29:37.115Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/7ewhmRkgbJY",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "How Can a Stock Double But Still Be Cheap? #varsity #zerodha #shorts #stockmarket",
+      "link": "https://www.youtube.com/shorts/7ewhmRkgbJY",
+      "published": "2026-11-04T13:30:21.000Z",
+      "summary": "",
+      "thumbnail": "https://i4.ytimg.com/vi/7ewhmRkgbJY/hqdefault.jpg",
+      "firstSeen": "2026-11-04T16:30:48.989Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/3HnZ7VULYaI",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "No strategy can have a 100% record",
+      "link": "https://www.youtube.com/shorts/3HnZ7VULYaI",
+      "published": "2026-11-04T13:18:50.000Z",
+      "summary": "Watch the full conversation: https://www.instagram.com/reel/DfUiVnwIDdG/?dlrf=MXRoZzI2ZjB4aXpiMg==",
+      "thumbnail": "https://i4.ytimg.com/vi/3HnZ7VULYaI/hqdefault.jpg",
+      "firstSeen": "2026-11-04T16:31:24.757Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/AjJfhF75pjA",
       "platform": "youtube",
       "group": "Markets",
@@ -32,7 +104,7 @@
       "title": "Increase Your Home Loan EMI, Save Lakhs in Interest! 🏠🤯",
       "link": "https://www.youtube.com/shorts/fqkxHY38tyQ",
       "published": "2026-11-04T12:30:01.000Z",
-      "summary": "One small EMI tweak could save you lakhs.\n\nMost people either stick to the same EMI for 20 years or choose a shorter tenure and take on a much bigger monthly payment.\n\nBut there's another way.\n\nAs your salary grows, you can gradually increase your EMI too. This can help you close your home loan earlier and save a significant amount in interest, without putting too much pressure on your finances today.\n\nWe've broken down how this works in the video.\n\nComment ZERO1 and we'll send you the calculator.\n\nhttps://docs.google.com/spreadsheets/d/1shbHfjAV8gkFE8EC1VPZu_5ZaMURSCSUrKsVBUyYn6Y/edit?gid=1383828178#gid=1383828178",
+      "summary": "One small EMI tweak could save you lakhs.\n\nMost people either stick to the same EMI for 20 years or choose a shorter tenure and take on a much bigger monthly payment.\n\nBut there's another way.\n\nAs your salary grows, you can gradually increase your EMI too. This can help you close your home loan earlier and save a significant amount in interest, without putting too much pressure on your finances today.\n\nComment ZERO1 and we'll send you the calculator.",
       "thumbnail": "https://i3.ytimg.com/vi/fqkxHY38tyQ/hqdefault.jpg",
       "firstSeen": "2026-11-04T13:11:40.116Z"
     },
@@ -21423,11 +21495,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-23T13:51:37.270Z",
-      "added": 7,
-      "errors": 3
-    },
-    {
       "at": "2026-10-23T16:38:06.940Z",
       "added": 2,
       "errors": 3
@@ -21721,6 +21788,11 @@
       "at": "2026-11-04T13:15:12.455Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-11-04T16:37:26.177Z",
+      "added": 6,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -21845,5 +21917,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-04T13:15:12.455Z"
+  "lastRun": "2026-11-04T16:37:26.177Z"
 }
