@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=gl4DnbY8coU",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 06 November 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=gl4DnbY8coU",
+      "published": "2026-11-05T13:02:22.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/gl4DnbY8coU/hqdefault.jpg",
+      "firstSeen": "2026-11-05T13:22:22.515Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Q93K2cPWt14",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "New SEBI rules allow digital KYC for NRIs",
+      "link": "https://www.youtube.com/shorts/Q93K2cPWt14",
+      "published": "2026-11-05T12:46:14.000Z",
+      "summary": "Non-Resident Indians and Overseas Citizens of India can now complete their digital KYC verification from abroad starting December 3, 2026. This major regulatory update from SEBI removes the painful requirement of physical presence in India or couriering physical documents, enabling you to submit papers electronically, sign forms digitally, and complete verification via a simple video call. By additionally allowing financial intermediaries to retrieve and reuse your existing KYC records, SEBI has dramatically streamlined the account-opening process, resolving a long-standing hurdle for international investors looking to participate in the Indian market.",
+      "thumbnail": "https://i2.ytimg.com/vi/Q93K2cPWt14/hqdefault.jpg",
+      "firstSeen": "2026-11-05T13:22:22.515Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/gc63vpTpKCE",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Laid Off? Do These 4 Things First! 🚨",
+      "link": "https://www.youtube.com/shorts/gc63vpTpKCE",
+      "published": "2026-11-05T12:32:31.000Z",
+      "summary": "If you’ve recently lost your job, here are a few things you should know:\n\n1. Check your exit benefits: You may be entitled to severance pay, encashment of unused paid leaves or gratuity, depending on your employment terms and eligibility.\n\n2. Know your PF withdrawal options: EPFO rules allow eligible members who become unemployed to withdraw up to 75% of their PF balance immediately.\n\n3. Prioritise high-interest debt: If you have outstanding credit card dues or other expensive loans, prioritise clearing them. Avoid taking on additional debt during an already stressful period.\n\nRemember that losing your job doesn’t mean losing your skills, experience or ability to rebuild.\n\nCompanies will ev…",
+      "thumbnail": "https://i4.ytimg.com/vi/gc63vpTpKCE/hqdefault.jpg",
+      "firstSeen": "2026-11-05T13:24:43.128Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/CuAw5IaBe38",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "The 1995 deal that made Chennai an auto hub",
+      "link": "https://www.youtube.com/shorts/CuAw5IaBe38",
+      "published": "2026-11-05T12:30:22.000Z",
+      "summary": "Chennai was not always a major center for car manufacturing. Before a key partnership in 1995, the region lacked the necessary infrastructure, making its current success seem impossible to predict at the time.   \n\nThis massive shift happened because local leaders used specific policies and historical resources to attract global businesses. When a city starts without the basic requirements for a specific industry, what exact strategies are needed to build a global production powerhouse?   \n\n[Chennai automobile hub, Car manufacturing, Industrial policy, Business strategy, Economic growth, Manufacturing sector, Foreign investment, Subtext by Zerodha]\n\nWatch the full episode here: https://youtu…",
+      "thumbnail": "https://i4.ytimg.com/vi/CuAw5IaBe38/hqdefault.jpg",
+      "firstSeen": "2026-11-05T13:20:35.693Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/ASTXVvPyOcA",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -21543,11 +21591,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-24T09:46:14.152Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-10-24T13:00:15.153Z",
       "added": 1,
       "errors": 3
@@ -21841,6 +21884,11 @@
       "at": "2026-11-05T08:55:30.400Z",
       "added": 4,
       "errors": 0
+    },
+    {
+      "at": "2026-11-05T13:28:12.726Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -21965,5 +22013,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-05T08:55:30.400Z"
+  "lastRun": "2026-11-05T13:28:12.726Z"
 }
