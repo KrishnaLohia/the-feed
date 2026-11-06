@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=PVVbmBD1dKY",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Anthropic’s IPO: The business behind the AI boom | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=PVVbmBD1dKY",
+      "published": "2026-11-06T02:30:38.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nAnthropic’s IPO: Can Its AI Business Sustain Its Growth?\nAnthropic, the company behind Claude, is preparing to go public. Its IPO prospectus reveals the economics behind one of the fastest-growing AI companies in the world. While its revenue has surged to $16 billion in the first half of 2026, the company has also reported massive losses and made hundreds of billions of dollars in computing commitments. We look at how Anthropic makes money, the cost of building and running AI models, its unusual co…",
+      "thumbnail": "https://i1.ytimg.com/vi/PVVbmBD1dKY/hqdefault.jpg",
+      "firstSeen": "2026-11-06T08:48:06.259Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/reliance-is-reminded-that-its-still",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Reliance is reminded that it’s still an oil business",
+      "link": "https://thedailybrief.zerodha.com/p/reliance-is-reminded-that-its-still",
+      "published": "2026-11-06T01:46:39.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Reliance is reminded that it’s still an oil business Reliance reported record quarterly EBITDA of ₹62,409 crore, but roughly 80% of its ₹12,744 crore operating profit increase came solel…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!j9gy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c74f0d3-6b85-44b4-9737-26cf0eb7cb3a_1536x1024.png",
+      "firstSeen": "2026-11-06T08:48:06.493Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=xjiWsLrSt3Q",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Reliance is still an oil business | Indian midcap IT Q2 results | The Daily Brief #586",
+      "link": "https://www.youtube.com/watch?v=xjiWsLrSt3Q",
+      "published": "2026-11-06T01:30:23.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Reliance’s Record Quarter: Still an Oil Business?\nReliance Industries reported its biggest-ever quarter, with record revenue, EBITDA and profit. However, the biggest contributor was its traditional oil-to-chemicals (O2C) business, which benefited from the disruption in global oil markets caused by the West Asia conflict.\nThe story looks at how Reliance capital…",
+      "thumbnail": "https://i1.ytimg.com/vi/xjiWsLrSt3Q/hqdefault.jpg",
+      "firstSeen": "2026-11-06T08:48:06.093Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=gl4DnbY8coU",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -41,7 +77,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "In The Money (YouTube)",
-      "title": "Diwali Muhurat Trading 2026: 11 Years of Data, 3 Trading Strategies",
+      "title": "Diwali Muhurat Trading 2026: 11 Years of Data, 3 Trading Strategies | Special Episode 7",
       "link": "https://www.youtube.com/watch?v=AOQTPVQ1g9E",
       "published": "2026-11-05T13:24:56.000Z",
       "summary": "Welcome to this special edition on the eve of Muhurat Trading 2026 or as it's called in the Hindu calendar, Samvat 2083. \nI'm your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nIn this special episode, we explore some interesting market statistics, historical patterns and trading setups that you can consider around Diwali Muhurat Trading day. Using data from the last 11 Muhurat trading sessions, we look at how Nifty and GoldBees have behaved around this occasion and explore a few interesting trading opportunities.\n\nWe'll look at BTST setups in Nifty and GoldBees, analyse their intraday behaviour during Muhurat Trading, and backtest an intraday Nifty ATM call-selling…",
@@ -21627,11 +21663,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-25T07:16:01.202Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-10-25T10:04:00.587Z",
       "added": 0,
       "errors": 3
@@ -21925,6 +21956,11 @@
       "at": "2026-11-05T21:38:39.626Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-06T08:55:36.413Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22049,5 +22085,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-05T21:38:39.626Z"
+  "lastRun": "2026-11-06T08:55:36.412Z"
 }
