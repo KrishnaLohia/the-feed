@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/4sUxqE6Y-GQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Steve Burns on Why the AI Boom Could Be a Historic Bubble",
+      "link": "https://www.youtube.com/shorts/4sUxqE6Y-GQ",
+      "published": "2026-11-06T15:59:13.000Z",
+      "summary": "",
+      "thumbnail": "https://i1.ytimg.com/vi/4sUxqE6Y-GQ/hqdefault.jpg",
+      "firstSeen": "2026-11-06T16:09:39.072Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/festive-cheer-comes-early-as-nifty",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Festive cheer comes early as Nifty soars past 25,000 despite global gloom",
+      "link": "https://aftermarketreport.zerodha.com/p/festive-cheer-comes-early-as-nifty",
+      "published": "2026-11-06T14:23:38.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!w7c3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca933898-a7f1-4d02-a208-9eaa0ff1b2b1_1456x971.webp",
+      "firstSeen": "2026-11-06T16:09:39.813Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-bajaj-finserv-zydus-bel-8a4",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: OpenAI, LIC, Mphasis, Mahindra & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-bajaj-finserv-zydus-bel-8a4",
+      "published": "2026-11-06T13:09:06.000Z",
+      "summary": "Happy Diwali from all of us at The Chatter! Thank you for reading along through another year of earnings calls, guidance revisions, and management teams promising that next quarter will be better. We're grateful you trust us to bring you what they actually said. May your festival be bright, your diyas brighter, and may your portfolio's outlook stay as optimistic as every CEO's on a concall 😊 Welcome to the 104th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the intervie…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!bxOq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45b87f4b-bc9e-4450-ad21-18ae4957f0d6_2400x1350.png",
+      "firstSeen": "2026-11-06T16:09:40.008Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/hWGt5d49WxE",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -21723,11 +21759,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-25T13:26:37.601Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-10-25T15:43:10.754Z",
       "added": 2,
       "errors": 3
@@ -22021,6 +22052,11 @@
       "at": "2026-11-06T13:11:35.398Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-11-06T16:17:16.458Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22145,5 +22181,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-06T13:11:35.398Z"
+  "lastRun": "2026-11-06T16:17:16.458Z"
 }
