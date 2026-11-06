@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/hWGt5d49WxE",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Mumbai Is the Most Polluted Metro?",
+      "link": "https://www.youtube.com/shorts/hWGt5d49WxE",
+      "published": "2026-11-06T12:48:32.000Z",
+      "summary": "Headlines told is that Mumbai’s air quality was worse than the capital two weeks ago. But is the headline right? And what does this mean for Mumbaikars? \n\n#mumbai #mumbainews #airpollution #delhipollution #delhinews #delhi #delhiairquality #climatecrisis #climatechange #theclimatebrief",
+      "thumbnail": "https://i1.ytimg.com/vi/hWGt5d49WxE/hqdefault.jpg",
+      "firstSeen": "2026-11-06T13:08:07.716Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/ETP40OTzSk4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Why not put your car on a credit card?",
+      "link": "https://www.youtube.com/shorts/ETP40OTzSk4",
+      "published": "2026-11-06T12:30:09.000Z",
+      "summary": "Many people think about buying a new vehicle on a credit card to collect reward points. However, buyers with good credit scores can easily get a low-interest car loan, which is one of the cheapest ways to borrow money.   \n\nBy using a cheap loan, you can invest your actual cash to grow your wealth instead of dealing with confusing credit card points that can easily lose their value. When you compare the real growth of investing your cash against the uncertain payout of reward programs, which choice actually leaves you with more money?\n\nWatch the full episode here: https://youtu.be/EQ3nzD25Fx8?si=LYQNd3-ZV7_iBnte\n\n[Credit card points, Car loan, Reward programs, Personal finance, Investment st…",
+      "thumbnail": "https://i2.ytimg.com/vi/ETP40OTzSk4/hqdefault.jpg",
+      "firstSeen": "2026-11-06T13:04:04.262Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/9SBmyC_yGqg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Wait, that's connected? Eposide 2",
+      "link": "https://www.youtube.com/shorts/9SBmyC_yGqg",
+      "published": "2026-11-06T12:26:56.000Z",
+      "summary": "Did you know the race for Indian pepper is actually connected to the invention of the modern stock market? 👀   \n\nWatch to find out how a single trip to Kerala changed investing forever.   \n\n[history, stock market, investing, IPO, finance, economy]",
+      "thumbnail": "https://i2.ytimg.com/vi/9SBmyC_yGqg/hqdefault.jpg",
+      "firstSeen": "2026-11-06T13:04:03.901Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/MwjV8q5ufuQ",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "NASDAQ Crash: $3 Trillion Lost!🤯🚨",
+      "link": "https://www.youtube.com/shorts/MwjV8q5ufuQ",
+      "published": "2026-11-06T11:12:26.000Z",
+      "summary": "$3 trillion wiped off from the Nasdaq in a single session! Has the AI bubble finally burst?\n\nCompanies are spending billions on AI infrastructure, and investors are betting on enormous growth in the coming years. But what happens if that growth doesn’t meet expectations?\n\nTake Anthropic, the company behind Claude. It’s targeting an IPO valuation of up to $2 trillion. Anthropic estimates that AI could address a market worth over $40 trillion annually.\n\nBut that $40 trillion isn’t revenue Anthropic expects to earn. It’s a theoretical market opportunity, and investors are betting on how much of it the company can actually capture.\n\nInterestingly, India’s limited exposure to AI stocks, once see…",
+      "thumbnail": "https://i2.ytimg.com/vi/MwjV8q5ufuQ/hqdefault.jpg",
+      "firstSeen": "2026-11-06T13:08:07.408Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=rIQ7ZV2qBKA",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "After Market Orders (AMOs) on Kite | Place your orders after market hours",
+      "link": "https://www.youtube.com/watch?v=rIQ7ZV2qBKA",
+      "published": "2026-11-06T11:00:23.000Z",
+      "summary": "After Market Orders, or AMOs, let you place stock orders outside of standard trading hours. This feature is designed for busy individuals who cannot actively monitor or trade during the regular market hours of 9:15 AM to 3:30 PM. By placing buy or sell orders on Kite after market hours, you can ensure they are automatically submitted to the exchange when the market opens the next day, allowing you to build an investment portfolio alongside a full-time career.\n\nTo learn more: https://support.zerodha.com/category/trading-and-markets/charts-and-orders/order/articles/auto-amo\n\nOpen a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open…",
+      "thumbnail": "https://i3.ytimg.com/vi/rIQ7ZV2qBKA/hqdefault.jpg",
+      "firstSeen": "2026-11-06T13:05:49.026Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=PVVbmBD1dKY",
       "platform": "youtube",
       "group": "Markets",
@@ -21663,11 +21723,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-25T10:04:00.587Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-25T13:26:37.601Z",
       "added": 2,
       "errors": 3
@@ -21961,6 +22016,11 @@
       "at": "2026-11-06T08:55:36.413Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-11-06T13:11:35.398Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22085,5 +22145,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-06T08:55:36.412Z"
+  "lastRun": "2026-11-06T13:11:35.398Z"
 }
