@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=8bhZ68-aWbw",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why Hyderabad is RUNNING OUT of Water",
+      "link": "https://www.youtube.com/watch?v=8bhZ68-aWbw",
+      "published": "2026-11-07T12:38:35.000Z",
+      "summary": "After we covered Hyderabad’s traffic crisis, there’s a new crisis the city is facing - A water shortage! Well into October, tanker bookings have grown almost 10x from previous Octobers. But why is Hyderabad suffering so much? And is El Nino the only culprit?\n\nFind out on this week’s episode!\n\n0:00 - Introduction\n0:41 - Chapter 1: What's Happening?\n2:23 - Chapter 2: Factors Behind Hyderabad's Water Crisis\n\n#hyderabadnews #hyderabad #watercrisis #watershortage #climatecrisis #climateaction #waterproblem #theclimatebrief",
+      "thumbnail": "https://i1.ytimg.com/vi/8bhZ68-aWbw/hqdefault.jpg",
+      "firstSeen": "2026-11-07T15:05:46.489Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/oqx0QTEpUXU",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Sugar Prices At an ALL TIME HIGH?!",
+      "link": "https://www.youtube.com/shorts/oqx0QTEpUXU",
+      "published": "2026-11-07T12:30:17.000Z",
+      "summary": "Watch the full video on our channel!\n\n#sugarcane #sugar #sugarprices #sugarcanefarming #indianews #bestinindia #climatechange #climateaction #theclimatebrief #drought #karnatakanews #maharastranews",
+      "thumbnail": "https://i4.ytimg.com/vi/oqx0QTEpUXU/hqdefault.jpg",
+      "firstSeen": "2026-11-07T15:05:46.489Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=n7EeLOShRFs",
       "platform": "youtube",
       "group": "Markets",
@@ -21807,11 +21831,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-26T15:31:25.379Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-10-26T18:24:07.526Z",
       "added": 1,
       "errors": 3
@@ -22105,6 +22124,11 @@
       "at": "2026-11-07T11:57:25.828Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-07T15:09:15.885Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22229,5 +22253,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-07T11:57:25.828Z"
+  "lastRun": "2026-11-07T15:09:15.885Z"
 }
