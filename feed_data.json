@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=n7EeLOShRFs",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Weekly Market Metrics | Week 45 (2–6 Nov 2026) | NIFTY’s Biggest Weekly Rally in 5 Years!",
+      "link": "https://www.youtube.com/watch?v=n7EeLOShRFs",
+      "published": "2026-11-07T06:41:50.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to Weekly Market Metrics — your weekend wrap-up of everything that mattered in the markets this week, plus a quick peek into what’s coming up next!\n\nI’m your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nWe’re in Week 45 of 2026, and what a week it was! After weeks of weakness, NIFTY staged a remarkable recovery, gaining 8.6% and closing above the 25,000 mark. All five trading sessions ended in the green, marking NIFTY’s biggest weekly gain in nearly six years. The r…",
+      "thumbnail": "https://i3.ytimg.com/vi/n7EeLOShRFs/hqdefault.jpg",
+      "firstSeen": "2026-11-07T08:04:06.706Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JHaWzmL3Sz4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Weekly Tidbits: 7th Nov | SpaceX, Foreign Investors, BrahMos & Adani",
+      "link": "https://www.youtube.com/watch?v=JHaWzmL3Sz4",
+      "published": "2026-11-07T06:23:17.000Z",
+      "summary": "Welcome to the 10th edition of Weekly Tidbits by Markets by Zerodha, where we bring you interesting stories that may not make it to a full Daily Brief but still deserve a closer look.\n\nIn this edition, we cover 12 stories across Global, Economy, Industry and Company (GEIC), from SpaceX's plans to build a mobile network and cyberattacks on supermarket fridges to foreign investors returning to Indian stocks and Adani's plans to expand its data centre business.\n\n00:00 Intro\nG — Global\n00:22 Qualcomm is helping SpaceX build a mobile network\n01:23 Hackers are attacking supermarket fridges in Europe\n02:20 The Bank of England raises interest rates\n\nE — Economy\n03:20 Foreign investors are buying In…",
+      "thumbnail": "https://i3.ytimg.com/vi/JHaWzmL3Sz4/hqdefault.jpg",
+      "firstSeen": "2026-11-07T08:04:06.562Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-12",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Weekly Tidbits #12",
+      "link": "https://thedailybrief.zerodha.com/p/weekly-tidbits-12",
+      "published": "2026-11-07T05:01:06.000Z",
+      "summary": "Hi everyone, I’m Mridula , and welcome to the twelfth edition of Weekly Tidbits. We read a lot of news that never makes it into a full Daily Brief story. Each week, we pick some of the best stories and add a little context. We sort them into GEIC: Global, Economy, Industry, and Company. Let’s get started! If you prefer watching the video instead, here’s the link: G — Global [1] Qualcomm is helping SpaceX build a mobile network Qualcomm has signed a deal to supply equipment for SpaceX’s new mobile network in the US. SpaceX plans to launch the service in 2027 and build tens of thousands of sites over the next few years. SpaceX already runs Starlink, which sends internet signals from satellite…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!5VXZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74954763-1921-47b4-a46a-dba2f74ef52e_1536x1024.png",
+      "firstSeen": "2026-11-07T08:04:07.355Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=NUQvwP2OWqY",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Why Are Hotel Companies Expanding So Fast? | Markets by Zerodha Hindi",
+      "link": "https://www.youtube.com/watch?v=NUQvwP2OWqY",
+      "published": "2026-11-07T04:30:27.000Z",
+      "summary": "India’s hotel sector is witnessing a major expansion, with companies investing in new properties and adopting different strategies to capture rising demand. But which business model can create better returns?\n\nIn this video, we explore:\nPART 1: What’s driving India’s hotel sector growth, and how rising tourism and limited room supply are creating opportunities.\nPART 2: How companies like IHCL, Lemon Tree, ITC Hotels, Chalet and SAMHI are expanding through asset-light, asset-heavy and lease-based models.\nWe also look at the financial trade-offs, expansion plans and risks behind each strategy, and what could lead to oversupply in the sector.\n\nIndia’s Hotel Sector: https://youtu.be/EPklJI4pc9g…",
+      "thumbnail": "https://i3.ytimg.com/vi/NUQvwP2OWqY/hqdefault.jpg",
+      "firstSeen": "2026-11-07T08:04:06.950Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/4sUxqE6Y-GQ",
       "platform": "youtube",
       "group": "Markets",
@@ -176,7 +224,7 @@
       "title": "Diwali Muhurat Trading 2026: 11 Years of Data, 3 Trading Strategies | Special Episode 7",
       "link": "https://www.youtube.com/watch?v=AOQTPVQ1g9E",
       "published": "2026-11-05T13:24:56.000Z",
-      "summary": "Welcome to this special edition on the eve of Muhurat Trading 2026 or as it's called in the Hindu calendar, Samvat 2083. \nI'm your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nIn this special episode, we explore some interesting market statistics, historical patterns and trading setups that you can consider around Diwali Muhurat Trading day. Using data from the last 11 Muhurat trading sessions, we look at how Nifty and GoldBees have behaved around this occasion and explore a few interesting trading opportunities.\n\nWe'll look at BTST setups in Nifty and GoldBees, analyse their intraday behaviour during Muhurat Trading, and backtest an intraday Nifty ATM call-selling…",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to this special edition on the eve of Muhurat Trading 2026 or as it's called in the Hindu calendar, Samvat 2083. \n\nI'm your host, Sandeep Rao (SEBI Registered Research Analyst – INH000013059).\n\nIn this special episode, we explore some interesting market statistics, historical patterns and trading setups that you can consider around Diwali Muhurat Trading day. Using data from the last 11 Muhurat trading sessions, we look at how Nifty and GoldBees have behaved around this occasion and explore…",
       "thumbnail": "https://i2.ytimg.com/vi/AOQTPVQ1g9E/hqdefault.jpg",
       "firstSeen": "2026-11-05T16:45:08.709Z"
     },
@@ -21759,11 +21807,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-26T07:23:08.523Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-10-26T11:26:24.093Z",
       "added": 0,
       "errors": 3
@@ -22057,6 +22100,11 @@
       "at": "2026-11-06T21:07:02.644Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-07T08:11:48.887Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22181,5 +22229,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-06T21:07:02.644Z"
+  "lastRun": "2026-11-07T08:11:48.887Z"
 }
