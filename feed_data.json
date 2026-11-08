@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=W4HT2nn7Ouk",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Trading Karne Ka Sahi Tareeka Kya Hai? | Trading ki Baatein Ep. 2",
+      "link": "https://www.youtube.com/watch?v=W4HT2nn7Ouk",
+      "published": "2026-11-08T03:33:44.000Z",
+      "summary": "Apni investing journey free mein shuru karein! Zerodha ke saath zero-brokerage Demat aur trading account kholein aur Stocks, Mutual Funds, ETFs aur Bonds mein invest karein: https://zerodha.com/open-account/?c=ZAPIXG\n\nKabhi aapne koi stock kharida hai aur agle hi din uska price girne laga hai? Aise mein sawaal uthta hai ki humne woh stock kharidne ka faisla kis basis par liya tha? Kya hum apni samajh aur experience ke bharose trade karte hain, ya pehle se tay kiye gaye rules ke basis par?\n\nTrading ki baatein ke is episode mein hum trading ke do important approaches ko samajhte hain Discretionary Trading aur Systematic Trading. Hum dekhte hain ki dono kaam kaise karte hain, inmein kya farak…",
+      "thumbnail": "https://i4.ytimg.com/vi/W4HT2nn7Ouk/hqdefault.jpg",
+      "firstSeen": "2026-11-08T08:23:03.315Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=oBqrzg9mn90",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Weekly Tidbits Hindi: 8th Nov | Adani-EVOS Deal, Generic Ozempic & ChatGPT",
+      "link": "https://www.youtube.com/watch?v=oBqrzg9mn90",
+      "published": "2026-11-08T03:30:25.000Z",
+      "summary": "Welcome to the 3rd edition of Weekly Tidbits by Markets by Zerodha, where we bring you 10 interesting stories from across Companies, Industries, the Economy and Global markets that may have slipped under the radar.\n\nHere’s what we cover:\n\n00:00 Intro\nCompany\n01:05 LG Enters Automotive Electronics\n01:55 Dr Reddy’s Gets Generic Ozempic Approval\n02:27 Adani’s $2.9 Billion EVOS Acquisition\nIndustry\n03:06 CERT-In May Get Enforcement Powers\n04:02 India Becomes ChatGPT’s Largest Market\n04:40 Renewable Energy Industry Seeks Battery Storage Rules\nEconomy\n05:53 RBI Proposes ₹100 Crore Limit on Agri Loans\n06:34 SEBI Relaxes Currency Derivatives Rules\nGlobal\n07:27 Bank of England Raises Interest Rates…",
+      "thumbnail": "https://i4.ytimg.com/vi/oBqrzg9mn90/hqdefault.jpg",
+      "firstSeen": "2026-11-08T08:23:03.338Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=8bhZ68-aWbw",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -21831,11 +21855,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-27T07:14:22.114Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-10-27T10:50:55.260Z",
       "added": 0,
       "errors": 3
@@ -22129,6 +22148,11 @@
       "at": "2026-11-07T19:39:54.058Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-08T08:30:41.392Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22253,5 +22277,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-07T19:39:54.058Z"
+  "lastRun": "2026-11-08T08:30:41.392Z"
 }
