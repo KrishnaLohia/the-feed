@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-swings-between-gains-and-losses",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty swings between gains and losses, but manages to hold above 25,000",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-swings-between-gains-and-losses",
+      "published": "2026-11-09T14:19:41.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ABrl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4126c3af-62cd-4816-93d2-ddb4b88c8691_1456x971.webp",
+      "firstSeen": "2026-11-09T19:02:41.112Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/bIxebR3F1cg",
       "platform": "youtube",
       "group": "Varsity",
@@ -21963,11 +21975,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-28T15:29:06.988Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-10-28T18:02:34.693Z",
       "added": 2,
       "errors": 3
@@ -22261,6 +22268,11 @@
       "at": "2026-11-09T14:13:41.944Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-11-09T19:10:11.089Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22385,5 +22397,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-09T14:13:41.944Z"
+  "lastRun": "2026-11-09T19:10:11.089Z"
 }
