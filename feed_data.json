@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=FWuqthC0iJg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "India's Electrification push: What's holding it back? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=FWuqthC0iJg",
+      "published": "2026-11-09T02:30:08.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia's Electrification Opportunity: Why Is the Shift So Slow?\nIndia's transition towards electricity is creating opportunities beyond electric vehicles. According to the International Energy Agency (IEA), several industrial processes in India could already switch from coal and natural gas to electricity without increasing costs. Technologies such as electric boilers and heat pumps can deliver more useful energy while consuming less energy overall. If India adopts electricity wherever it is economi…",
+      "thumbnail": "https://i3.ytimg.com/vi/FWuqthC0iJg/hqdefault.jpg",
+      "firstSeen": "2026-11-09T08:54:11.708Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/the-fractures-in-the-streaming-business",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The fractures in the streaming business",
+      "link": "https://thedailybrief.zerodha.com/p/the-fractures-in-the-streaming-business",
+      "published": "2026-11-09T01:50:32.000Z",
+      "summary": "Happy Diwali from all of us at The Daily Brief! Thank you for reading, watching, and thinking alongside us through another year of mayhem in the markets and industry. We’re grateful you let us be a small part of your day. May your festival be bright, your diyas brighter, and, of course, your portfolios in the green 🙂 Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get y…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!GGmx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75b6e812-f68c-4f7a-acbe-e09afffc8170_1536x1024.png",
+      "firstSeen": "2026-11-09T08:54:12.062Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Ob59jt_TezQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "The fractures in the streaming business | Indian tyres get a puncture | The Daily Brief #587",
+      "link": "https://www.youtube.com/watch?v=Ob59jt_TezQ",
+      "published": "2026-11-09T01:34:21.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. The Fractures in the Streaming Business\nNetflix reported strong revenue and profit growth, but there’s a bigger problem beneath the numbers: people are spending less time watching. As streaming platforms struggle to hold our attention, they are turning to advertising, live sports and content libraries to drive growth. But with YouTube competing for viewers and…",
+      "thumbnail": "https://i4.ytimg.com/vi/Ob59jt_TezQ/hqdefault.jpg",
+      "firstSeen": "2026-11-09T08:54:11.486Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=t5CAwX4OQKU",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -21891,11 +21927,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-28T07:53:27.164Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-10-28T11:34:35.773Z",
       "added": 0,
       "errors": 3
@@ -22189,6 +22220,11 @@
       "at": "2026-11-08T20:00:00.355Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-09T09:01:49.006Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22313,5 +22349,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-08T20:00:00.355Z"
+  "lastRun": "2026-11-09T09:01:49.006Z"
 }
