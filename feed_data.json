@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/fgFjb-W0idY",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Stop Measuring Your Trading Progress Only by Profits | Innerworth Ep. 45",
+      "link": "https://www.youtube.com/shorts/fgFjb-W0idY",
+      "published": "2026-11-10T06:29:14.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/fgFjb-W0idY/hqdefault.jpg",
+      "firstSeen": "2026-11-10T09:00:15.873Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-swings-between-gains-and-losses",
       "platform": "substack",
       "group": "Markets",
@@ -21975,11 +21987,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-29T07:59:40.114Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-10-29T11:45:10.344Z",
       "added": 0,
       "errors": 3
@@ -22273,6 +22280,11 @@
       "at": "2026-11-09T23:57:17.241Z",
       "added": 0,
       "errors": 13
+    },
+    {
+      "at": "2026-11-10T09:07:53.128Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22397,5 +22409,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-09T23:57:17.241Z"
+  "lastRun": "2026-11-10T09:07:53.128Z"
 }
