@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/nEHg5TdRmB8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "We Tested If The Overnight Drift in NIFTY is Disappearing | Backtest Ep. 6",
+      "link": "https://www.youtube.com/shorts/nEHg5TdRmB8",
+      "published": "2026-11-10T12:46:51.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/nEHg5TdRmB8/hqdefault.jpg",
+      "firstSeen": "2026-11-10T13:38:22.101Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/fgFjb-W0idY",
       "platform": "youtube",
       "group": "Markets",
@@ -21987,11 +21999,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-29T11:45:10.344Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-29T15:35:28.893Z",
       "added": 5,
       "errors": 3
@@ -22285,6 +22292,11 @@
       "at": "2026-11-10T09:07:53.128Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-11-10T13:46:07.084Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22409,5 +22421,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-10T09:07:53.128Z"
+  "lastRun": "2026-11-10T13:46:07.084Z"
 }
