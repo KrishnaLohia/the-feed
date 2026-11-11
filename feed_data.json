@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/oZ_R-dSZykI",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "The Water Crisis Hyderabad Hasn’t Solved!",
+      "link": "https://www.youtube.com/shorts/oZ_R-dSZykI",
+      "published": "2026-11-11T12:30:07.000Z",
+      "summary": "Watch the full video on our channel!\n\n\n#hyderabadnews #hyderabad #watercrisis #watershortage #climatecrisis #climateaction #waterproblem #theclimatebrief",
+      "thumbnail": "https://i4.ytimg.com/vi/oZ_R-dSZykI/hqdefault.jpg",
+      "firstSeen": "2026-11-11T12:54:24.706Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=V08CMs7KYeY",
       "platform": "youtube",
       "group": "Markets",
@@ -22047,11 +22059,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-30T11:36:20.594Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-30T15:21:52.336Z",
       "added": 9,
       "errors": 3
@@ -22345,6 +22352,11 @@
       "at": "2026-11-11T08:48:27.597Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-11-11T12:57:51.597Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22469,5 +22481,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-11T08:48:27.597Z"
+  "lastRun": "2026-11-11T12:57:51.597Z"
 }
