@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=ggKCTlRwl2M",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 12 November 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=ggKCTlRwl2M",
+      "published": "2026-11-11T16:15:42.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/ggKCTlRwl2M/hqdefault.jpg",
+      "firstSeen": "2026-11-11T16:31:37.876Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/cooling-oil-prices-keep-niftys-winning",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Cooling oil prices keep Nifty's winning momentum alive; Index closes above 25,250",
+      "link": "https://aftermarketreport.zerodha.com/p/cooling-oil-prices-keep-niftys-winning",
+      "published": "2026-11-11T15:19:07.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. What data points and transformations do you want to see? We’re trying out a new format for the Aftermarket Report, with much more comprehensive coverage of the data that shapes the trading day. Beyond the headline indices, we’re now tracking market breadth, new highs and lows, sector and thematic performance, delivery data, F&O positioning, global markets, commodities, flows, and more. We’re also looking at ways to transform this raw data into insights that are actually useful for traders and investors. The idea is simple: bring different datasets togeth…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ABrl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4126c3af-62cd-4816-93d2-ddb4b88c8691_1456x971.webp",
+      "firstSeen": "2026-11-11T16:29:51.464Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-sebi-rbi-ongc-tata-steel",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: SEBI, RBI, ONGC, Tata Steel & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-sebi-rbi-ongc-tata-steel",
+      "published": "2026-11-11T13:55:36.000Z",
+      "summary": "Welcome to the 105th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered 2 Regulators Speech/Addresses & 5 companies across 4 industries. Regulator Securities and Exchange Board of India Reserve Bank of India Telecom Bharti Airtel Limited Metals Tata Ste…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!j9Lt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fb3429d-afe5-48e7-8ded-d5325be38713_2400x1350.png",
+      "firstSeen": "2026-11-11T16:29:51.689Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/qTL00GrOANU",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Do you think India is the best global hedge against AI risk? #varsity #zerodha #shorts #ai",
+      "link": "https://www.youtube.com/shorts/qTL00GrOANU",
+      "published": "2026-11-11T13:30:24.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/qTL00GrOANU/hqdefault.jpg",
+      "firstSeen": "2026-11-11T16:31:02.643Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/w5uDnz8u-GQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why can't you report a drug company anonymously? ft. Sahithi",
+      "link": "https://www.youtube.com/shorts/w5uDnz8u-GQ",
+      "published": "2026-11-11T13:00:27.000Z",
+      "summary": "A drug company spent ₹1.91 crore flying 30 Indian doctors to Paris and Monaco. But because the person who reported it didn't sign their name, the entire case might fall apart. 📉   \n\nHere is why India's pharma reporting rules need a major overhaul.   \n\nWatch the full story here: https://youtu.be/iBz4VQRS9RE?si=PFj_aGZOVN4EkdXJ\n\n[pharma, India, healthcare, finance, business, economy]",
+      "thumbnail": "https://i4.ytimg.com/vi/w5uDnz8u-GQ/hqdefault.jpg",
+      "firstSeen": "2026-11-11T16:29:50.589Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/IFqwzuXKAhU",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Whats's the real cost of buying gold in India?",
+      "link": "https://www.youtube.com/shorts/IFqwzuXKAhU",
+      "published": "2026-11-11T13:00:10.000Z",
+      "summary": "When buying physical gold, buyers often forget that the final price includes extra costs beyond just the metal itself. This total cost includes making charges, which can range from 5% for simple coins and bars to as high as 25% for detailed jewelry.   \n\nThese charges are then taxed with GST, meaning a large chunk of the purchase price goes entirely toward fees rather than the actual investment. If physical gold comes with such heavy upfront costs, what are the best alternatives for adding gold to your portfolio? \n\nWatch the full episode here: https://youtu.be/bf1VbbnSfNc?si=JS36tPL6PgT99kqq\n\n[Gold investment, Buying gold, Making charges, GST on gold, Physical gold, Personal finance, Investm…",
+      "thumbnail": "https://i2.ytimg.com/vi/IFqwzuXKAhU/hqdefault.jpg",
+      "firstSeen": "2026-11-11T16:29:50.950Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/oZ_R-dSZykI",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -22059,11 +22131,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-30T15:21:52.336Z",
-      "added": 9,
-      "errors": 3
-    },
-    {
       "at": "2026-10-30T17:51:36.802Z",
       "added": 1,
       "errors": 3
@@ -22357,6 +22424,11 @@
       "at": "2026-11-11T12:57:51.597Z",
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-11-11T16:37:28.180Z",
+      "added": 6,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22481,5 +22553,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-11T12:57:51.597Z"
+  "lastRun": "2026-11-11T16:37:28.180Z"
 }
