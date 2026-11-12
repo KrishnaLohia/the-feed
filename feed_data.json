@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/ycYKAzfzkWs",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why Hyderabad Has a SERIOUS Water Crisis",
+      "link": "https://www.youtube.com/shorts/ycYKAzfzkWs",
+      "published": "2026-11-12T12:30:39.000Z",
+      "summary": "Watch the full video on our channel!\n\n\n#hyderabadnews #hyderabad #watercrisis #watershortage #climatecrisis #climateaction #waterproblem #theclimatebrief",
+      "thumbnail": "https://i2.ytimg.com/vi/ycYKAzfzkWs/hqdefault.jpg",
+      "firstSeen": "2026-11-12T13:56:44.805Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/xq_PMNbJ4UQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "They took a 44% loan to pay for beer",
+      "link": "https://www.youtube.com/shorts/xq_PMNbJ4UQ",
+      "published": "2026-11-12T12:30:20.000Z",
+      "summary": "Many young adults are now using quick loans from fintech apps to pay for casual expenses like drinks at a bar, sometimes accepting interest rates as high as 44%. Since traditional banks do not offer loans for these types of everyday purchases, easy-access digital platforms have become a popular way to fund immediate spending.   \n\nThe main reason people accept such expensive loans is the promise of building a credit history. Borrowers are convinced that paying massive interest rates now will help them enter the credit system, eventually proving their creditworthiness and lowering their future borrowing costs. Is building a credit score really worth taking on extreme debt for temporary experi…",
+      "thumbnail": "https://i1.ytimg.com/vi/xq_PMNbJ4UQ/hqdefault.jpg",
+      "firstSeen": "2026-11-12T13:52:40.981Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/So9QSH1P9i0",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "New Zero1 Series 👀✨",
+      "link": "https://www.youtube.com/shorts/So9QSH1P9i0",
+      "published": "2026-11-12T12:30:16.000Z",
+      "summary": "We're going back to the basics of investing!\n\nStarting 14th November, we're launching How To Retire Early, a five-part video series on Zero1, where we'll help you understand how to build your own FIRE (Financial Independence, Retire Early) portfolio.\n\nAnd we're doing things a little differently this time.\n\nThink of it like a classroom. Every episode will come with assignments, practical worksheets, notes you can refer to later, and extra classes to clear your doubts.\n\nThe idea is simple. We want you to follow along, do the calculations yourself, and apply what you learn.\n\nMark your calendars  📅",
+      "thumbnail": "https://i4.ytimg.com/vi/So9QSH1P9i0/hqdefault.jpg",
+      "firstSeen": "2026-11-12T13:56:44.580Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/nXSdI_H3mP8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Weekly roundup ft. Sahithi",
+      "link": "https://www.youtube.com/shorts/nXSdI_H3mP8",
+      "published": "2026-11-12T12:30:08.000Z",
+      "summary": "How did hackers spoil supermarket food in Europe without ever entering the store? 👀   \n\nFrom remote-controlled fridge hacks to India’s strict new crackdown on poor-quality medicines, here are three stories you might have missed this week. 👇   \n\nWatch the full episode here: https://youtu.be/JHaWzmL3Sz4?si=4fQFV6EAAYy3ifTS\n\n[cybersecurity, pharma, finance, economy, news, tech]",
+      "thumbnail": "https://i3.ytimg.com/vi/nXSdI_H3mP8/hqdefault.jpg",
+      "firstSeen": "2026-11-12T13:52:40.574Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/a8kO3151Xwc",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "As a founder, you must know your pitch deck inside out",
+      "link": "https://www.youtube.com/shorts/a8kO3151Xwc",
+      "published": "2026-11-12T12:24:17.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/a8kO3151Xwc/hqdefault.jpg",
+      "firstSeen": "2026-11-12T13:56:10.027Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Q81Sjnn55Qc",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "How Zerodha hires",
+      "link": "https://www.youtube.com/shorts/Q81Sjnn55Qc",
+      "published": "2026-11-12T12:04:57.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/Q81Sjnn55Qc/hqdefault.jpg",
+      "firstSeen": "2026-11-12T13:54:26.293Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=NPpXQFspc5U",
       "platform": "youtube",
       "group": "Markets",
@@ -22179,11 +22251,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-31T11:07:24.665Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-10-31T14:48:42.542Z",
       "added": 2,
       "errors": 3
@@ -22477,6 +22544,11 @@
       "at": "2026-11-12T09:09:05.807Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-11-12T14:00:12.149Z",
+      "added": 6,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22601,5 +22673,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-12T09:09:05.807Z"
+  "lastRun": "2026-11-12T14:00:12.149Z"
 }
