@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=NPpXQFspc5U",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "What Counts as a Bear Market? | Long & Short Ep. 59",
+      "link": "https://www.youtube.com/watch?v=NPpXQFspc5U",
+      "published": "2026-11-12T06:29:16.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhat exactly defines a bull market or a bear market? Is a 20% fall from the market peak enough to call it a bear market? Where did this widely used rule come from, and is it the best way to measure market trends?\n\nIn this episode of The Long & The Short, we trace the origins of the terms bull and bear back to 18th-century London and explore how they evolved from describing traders to describing market trends. We also look at how Charles Dow and William Peter Hamilton understood bull and bear market…",
+      "thumbnail": "https://i3.ytimg.com/vi/NPpXQFspc5U/hqdefault.jpg",
+      "firstSeen": "2026-11-12T09:01:22.024Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/the-world-sees-a-boom-in-chinese",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "The world sees a boom in Chinese yuan bonds",
+      "link": "https://thedailybrief.zerodha.com/p/the-world-sees-a-boom-in-chinese",
+      "published": "2026-11-12T02:32:00.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. The world sees a boom in Chinese yuan bonds Global banks, multinationals, and sovereigns are issuing record volumes of Chinese yuan debt, with panda bond sales topping 210 billion yuan i…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!62yC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc00dcc2-a015-4f67-91ff-02d96722fdeb_1536x1024.png",
+      "firstSeen": "2026-11-12T09:01:22.676Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=k6aoaBPqLws",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Apollo, CEAT, JK Tyre: Why are margins under pressure? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=k6aoaBPqLws",
+      "published": "2026-11-12T02:30:21.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nTyre Companies: Record Sales, But Falling Profits\nIndia’s tyre manufacturers are reporting record revenues, but rising raw material and shipping costs are eating into their profits. Companies like Apollo Tyres, CEAT, JK Tyre and BKT have raised prices by 11–15% over the past six months. However, these hikes haven't been enough to offset the rising costs of natural rubber, crude oil-linked materials and transportation.\nThis story explores why tyre manufacturers are struggling to protect their margin…",
+      "thumbnail": "https://i4.ytimg.com/vi/k6aoaBPqLws/hqdefault.jpg",
+      "firstSeen": "2026-11-12T09:01:22.300Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=jRiP5hghX4s",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "A global boom in Chinese yuan bonds | Are airfares too high? | The Daily Brief #589",
+      "link": "https://www.youtube.com/watch?v=jRiP5hghX4s",
+      "published": "2026-11-12T02:27:14.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. The World Sees a Boom in Chinese Yuan Bonds\nWestern banks, multinational companies and foreign governments are increasingly borrowing through Chinese yuan-denominated bonds. The main reason is cost: borrowing in yuan has become significantly cheaper than borrowing in US dollars. Geopolitical concerns and China's gradual opening of its bond markets have also co…",
+      "thumbnail": "https://i3.ytimg.com/vi/jRiP5hghX4s/hqdefault.jpg",
+      "firstSeen": "2026-11-12T09:01:21.898Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=ggKCTlRwl2M",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -437,7 +485,7 @@
       "platform": "youtube",
       "group": "Markets",
       "sourceName": "Markets by Zerodha (YouTube)",
-      "title": "Wait, that's connected? Eposide 2",
+      "title": "Wait, that's connected? Episode 2",
       "link": "https://www.youtube.com/shorts/9SBmyC_yGqg",
       "published": "2026-11-06T12:26:56.000Z",
       "summary": "Did you know the race for Indian pepper is actually connected to the invention of the modern stock market? 👀   \n\nWatch to find out how a single trip to Kerala changed investing forever.   \n\n[history, stock market, investing, IPO, finance, economy]",
@@ -22131,11 +22179,6 @@
   },
   "runs": [
     {
-      "at": "2026-10-31T07:56:32.391Z",
-      "added": 7,
-      "errors": 3
-    },
-    {
       "at": "2026-10-31T11:07:24.665Z",
       "added": 0,
       "errors": 3
@@ -22429,6 +22472,11 @@
       "at": "2026-11-11T22:15:58.399Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-12T09:09:05.807Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22553,5 +22601,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-11T22:15:58.399Z"
+  "lastRun": "2026-11-12T09:09:05.807Z"
 }
