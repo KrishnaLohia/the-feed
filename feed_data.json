@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=AVDgC8u5Ewg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "How do NSE and BSE make money? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=AVDgC8u5Ewg",
+      "published": "2026-11-13T02:30:18.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nNSE vs BSE: How Do India's Stock Exchanges Make Money?\nNSE and BSE earn money whenever investors trade shares and derivatives, but their businesses are quite different. While NSE dominates India's stock market, BSE is gaining ground in weekly options, particularly through expiry-day trading.\nIn this story, we break down how the two exchanges make money, why their revenues declined in the July–September quarter, and how changing market rules, lower volatility and rising competition are reshaping the…",
+      "thumbnail": "https://i2.ytimg.com/vi/AVDgC8u5Ewg/hqdefault.jpg",
+      "firstSeen": "2026-11-13T08:55:56.356Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/indias-food-inflation-story-gets",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "India’s food inflation story gets worrisome",
+      "link": "https://thedailybrief.zerodha.com/p/indias-food-inflation-story-gets",
+      "published": "2026-11-13T02:25:00.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. India’s food inflation story gets worrisome India's official retail inflation looks safe at 5.5%, but September's 7.7% spike in food inflation reveals a synchronized price surge across s…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!4JCS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8f06b18-1a83-4283-b7c5-d74e8195ce64_1536x1024.png",
+      "firstSeen": "2026-11-13T08:55:56.580Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=zNVFnVPl57Q",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "India’s food inflation gets worrying | Healthy sales but ailing profits | The Daily Brief #590",
+      "link": "https://www.youtube.com/watch?v=zNVFnVPl57Q",
+      "published": "2026-11-13T02:13:58.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. India’s Food Inflation Gets Worrisome\nIndia’s retail food inflation surged to 7.7% in September 2026, raising concerns about the rising cost of everyday essentials. While the pressure is partly driven by higher vegetable prices, the problem runs deeper. A weak and uneven monsoon, falling reservoir levels, expensive fertilisers and a strong El Niño could keep f…",
+      "thumbnail": "https://i3.ytimg.com/vi/zNVFnVPl57Q/hqdefault.jpg",
+      "firstSeen": "2026-11-13T08:55:56.131Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=YopvIpN21aQ",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -22347,11 +22383,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-01T08:36:31.297Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-11-01T12:02:51.929Z",
       "added": 1,
       "errors": 3
@@ -22645,6 +22676,11 @@
       "at": "2026-11-12T22:00:58.623Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-13T09:03:28.564Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22769,5 +22805,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-12T22:00:58.623Z"
+  "lastRun": "2026-11-13T09:03:28.564Z"
 }
