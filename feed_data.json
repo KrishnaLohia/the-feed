@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/TiJkqagKGB8",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why Is Hyderabad’s Water Crisis So Bad?",
+      "link": "https://www.youtube.com/shorts/TiJkqagKGB8",
+      "published": "2026-11-13T12:30:17.000Z",
+      "summary": "Watch the full video on our channel!\n\n#hyderabadnews #hyderabad #watercrisis #watershortage #climatecrisis #climateaction #waterproblem #theclimatebrief",
+      "thumbnail": "https://i1.ytimg.com/vi/TiJkqagKGB8/hqdefault.jpg",
+      "firstSeen": "2026-11-13T13:20:12.094Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/5_vq4iriJ8g",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "How the Soviets changed India's coal mining",
+      "link": "https://www.youtube.com/shorts/5_vq4iriJ8g",
+      "published": "2026-11-13T12:30:04.000Z",
+      "summary": "Using Soviet-style open-pit mining completely changed how much coal India could dig up. Powered by diesel and heavy machines, this method made mining massive amounts of coal much cheaper and faster than older underground methods.   \n\nBut this speed comes with a huge social cost. Unlike digging underground, open-pit mining destroys the land's surface and often forces entire villages to pack up and move away. While it produces a lot more coal, is this massive growth really worth destroying local communities?   \n\nWatch the full episode here: https://youtu.be/yCtuvdbj86E?si=kuwIBEsHWSm72dNY\n\n[Coal mining, Open-pit mining, Indian economy, Energy sector, Infrastructure, Social cost, Environmental…",
+      "thumbnail": "https://i2.ytimg.com/vi/5_vq4iriJ8g/hqdefault.jpg",
+      "firstSeen": "2026-11-13T13:16:07.563Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=e0X4OLhdKlw",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Minor demat accounts: 10 common questions answered",
+      "link": "https://www.youtube.com/watch?v=e0X4OLhdKlw",
+      "published": "2026-11-13T11:32:59.000Z",
+      "summary": "Can you open a demat account for a minor? How can parents manage investments on behalf of their children? In this video, we answer 10 common questions about minor demat and trading accounts on Zerodha, covering account opening, eligible investments, trading restrictions, account management, tax implications, required documents, and the process of converting the account when the minor turns 18.\n\nLearn more: https://support.zerodha.com/category/account-opening/minor/minor-online/articles/minor-account-faqs\n\nOpen a Minor account →https://zerodha.com/open-account/minor/\n\nOpen a free demat account → https://zerodha.com/open-account/?c=AUOEPP\n\nOver 2 crore Indians invest with Zerodha. Open a free…",
+      "thumbnail": "https://i2.ytimg.com/vi/e0X4OLhdKlw/hqdefault.jpg",
+      "firstSeen": "2026-11-13T13:17:52.234Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=AVDgC8u5Ewg",
       "platform": "youtube",
       "group": "Markets",
@@ -22383,11 +22419,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-01T12:02:51.929Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-11-01T15:32:37.034Z",
       "added": 2,
       "errors": 3
@@ -22681,6 +22712,11 @@
       "at": "2026-11-13T09:03:28.564Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-11-13T13:23:40.021Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22805,5 +22841,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-13T09:03:28.564Z"
+  "lastRun": "2026-11-13T13:23:40.021Z"
 }
