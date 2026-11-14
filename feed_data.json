@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/fr_l2rrxxlw",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Your Early Retirement Plan Starts Here 📈",
+      "link": "https://www.youtube.com/shorts/fr_l2rrxxlw",
+      "published": "2026-11-14T12:30:09.000Z",
+      "summary": "Retiring early is more than just saving money.\n\nFrom setting up your first SIP and building an investment portfolio to creating a personalised FIRE (Financial Independence, Retire Early) plan, we'll walk you through the process step by step.\n\nWe've also created practical investing toolkits that you can use to apply what you learn and start working towards your own financial goals.\n\nAnd we're covering all of this in just 5 episodes!\n\nSubscribe to Zero1 and follow along as we get started.",
+      "thumbnail": "https://i3.ytimg.com/vi/fr_l2rrxxlw/hqdefault.jpg",
+      "firstSeen": "2026-11-14T15:21:10.111Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/weekly-tidbits-13",
       "platform": "substack",
       "group": "Markets",
@@ -22539,11 +22551,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-02T18:52:23.615Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-11-02T21:32:36.420Z",
       "added": 0,
       "errors": 3
@@ -22837,6 +22844,11 @@
       "at": "2026-11-14T12:28:15.377Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-14T15:24:42.699Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22961,5 +22973,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-14T12:28:15.377Z"
+  "lastRun": "2026-11-14T15:24:42.699Z"
 }
