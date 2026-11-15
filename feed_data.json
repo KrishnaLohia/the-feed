@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=9LheItA82mI",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 16 November 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=9LheItA82mI",
+      "published": "2026-11-15T17:12:10.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/9LheItA82mI/hqdefault.jpg",
+      "firstSeen": "2026-11-15T15:49:57.590Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/Syo0rD_AbFc",
       "platform": "youtube",
       "group": "Zero1",
@@ -11,18 +23,6 @@
       "summary": "This series, in just 10 mins every Saturday can potentially change the trajectory of your life. If you’ve ever wanted to learn the basics of investing for Zero to 1 then this series is it. It’s free, has actionable toolkits for each episode and we answer all your questions too. \n\nWelcome to the Zero to 1 series on investing and retiring early. We’ll start from the basics, setup your first SIP, build your first portfolio and you will make a retirement early plan that fits your life.",
       "thumbnail": "https://i4.ytimg.com/vi/Syo0rD_AbFc/hqdefault.jpg",
       "firstSeen": "2026-11-15T15:52:16.000Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=9LheItA82mI",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 16 November 2026, Monday",
-      "link": "https://www.youtube.com/watch?v=9LheItA82mI",
-      "published": "2026-11-15T13:00:07.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i2.ytimg.com/vi/9LheItA82mI/hqdefault.jpg",
-      "firstSeen": "2026-11-15T15:49:57.590Z"
     },
     {
       "id": "https://inthemoneybyzerodha.substack.com/p/weekly-market-metrics-the-rally-takes",
@@ -22659,11 +22659,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-03T19:19:07.692Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-11-03T21:25:35.995Z",
       "added": 0,
       "errors": 3
@@ -22957,6 +22952,11 @@
       "at": "2026-11-15T15:55:43.425Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-11-15T18:37:25.642Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23081,5 +23081,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-15T15:55:43.425Z"
+  "lastRun": "2026-11-15T18:37:25.642Z"
 }
