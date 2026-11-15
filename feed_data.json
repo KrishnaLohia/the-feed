@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=lSIX_GQOXmE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "The Fortnightly Show Ep. 3: FIIs Are Back! Is the Indian Market Rally Here to Stay?",
+      "link": "https://www.youtube.com/watch?v=lSIX_GQOXmE",
+      "published": "2026-11-15T05:19:21.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWelcome to the third episode of The Fortnightly Show, a series where we bring together market experts every two weeks to discuss markets, the economy, macroeconomics, geopolitics, and technicals, and how they all fit together.\n\nIn this episode, we are joined by Amit Kumar Gupta (SEBI Registered Research Analyst – INH100009327) and Nooresh Merani (SEBI Registered Research Analyst – INH000008075), with Sandeep Rao (SEBI Registered Research Analyst – INH000013059) as the host.\n\nWe discuss the sharp re…",
+      "thumbnail": "https://i1.ytimg.com/vi/lSIX_GQOXmE/hqdefault.jpg",
+      "firstSeen": "2026-11-15T08:39:41.549Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=hFp2LVJEvcw",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Weekly Tidbits Hindi: 15th Nov | Adani's Capex, Kia's India Expansion, Renewable Energy & Fossil",
+      "link": "https://www.youtube.com/watch?v=hFp2LVJEvcw",
+      "published": "2026-11-15T03:45:32.000Z",
+      "summary": "Welcome to the 4th edition of Weekly Tidbits by Markets by Zerodha, where we explore interesting stories from around the world that don't always make it into a full Daily Brief episode. In this edition, we cover 9 stories across Company, Industry, Economy and Global.\n\n00:00 Intro\nCompany\n00:56 Adani Enterprises' plans to invest ₹35,000–40,000 crore annually in airports, data centres and manufacturing.\n01:28 Kia's $2 billion investment to expand its manufacturing capacity in India.\n02:10 BEML's plans to manufacture tunnel-boring machines and reduce India's dependence on imports.\nIndustry\n03:04 How renewable energy has helped India save over $100 billion in fuel imports.\n04:02 The government'…",
+      "thumbnail": "https://i1.ytimg.com/vi/hFp2LVJEvcw/hqdefault.jpg",
+      "firstSeen": "2026-11-15T08:39:41.651Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/fr_l2rrxxlw",
       "platform": "youtube",
       "group": "Zero1",
@@ -22551,11 +22575,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-03T09:00:07.173Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-11-03T13:07:28.213Z",
       "added": 3,
       "errors": 3
@@ -22849,6 +22868,11 @@
       "at": "2026-11-14T20:09:03.438Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-15T08:47:12.543Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -22973,5 +22997,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-14T20:09:03.438Z"
+  "lastRun": "2026-11-15T08:47:12.543Z"
 }
