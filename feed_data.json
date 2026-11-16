@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=11ohN7Tp1Vs",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 17 November 2026, Tuesday",
+      "link": "https://www.youtube.com/watch?v=11ohN7Tp1Vs",
+      "published": "2026-11-16T18:42:05.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/11ohN7Tp1Vs/hqdefault.jpg",
+      "firstSeen": "2026-11-16T18:51:00.107Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/U7YMvLdan0I",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Hyderabad Has A Tanker Problem",
+      "link": "https://www.youtube.com/shorts/U7YMvLdan0I",
+      "published": "2026-11-16T14:46:54.000Z",
+      "summary": "Watch the full video on our channel!\n\n#hyderabadnews #hyderabad #watercrisis #watershortage #climatecrisis #climateaction #waterproblem #theclimatebrief",
+      "thumbnail": "https://i2.ytimg.com/vi/U7YMvLdan0I/hqdefault.jpg",
+      "firstSeen": "2026-11-16T18:53:23.126Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=vrfFWnLM2t8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Kya Aapko Trading Karni Chahiye? | Trading ki Baatein Ep. 3 | In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=vrfFWnLM2t8",
+      "published": "2026-11-16T14:30:11.000Z",
+      "summary": "Apni investing journey free mein shuru karein! Zerodha ke saath zero-brokerage Demat aur trading account kholein aur Stocks, Mutual Funds, ETFs aur Bonds mein invest karein: https://zerodha.com/open-account/?c=ZAPIXG\n\nKabhi aapne socha hai ki trading se paisa kamana itna aasaan hota, toh phir log dukaan kholne, business chalane aur naukri karne mein itni mehnat kyun karte? Trading shuru karna zaroor aasaan hai, lekin isse lagataar paisa kamana utna hi mushkil ho sakta hai.\n\nTrading Ki Baatein ke is episode mein hum samajhte hain ki trading karna kin do alag nazariyon se dekha ja sakta hai. Pehla, agar aapke paas pehle se savings ya investments hain, toh kya trading se additional returns kam…",
+      "thumbnail": "https://i3.ytimg.com/vi/vrfFWnLM2t8/hqdefault.jpg",
+      "firstSeen": "2026-11-16T18:49:11.212Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/asian-markets-tumble-but-nifty-holds",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Asian markets tumble, but Nifty holds its ground near 25,300",
+      "link": "https://aftermarketreport.zerodha.com/p/asian-markets-tumble-but-nifty-holds",
+      "published": "2026-11-16T13:57:30.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a 62-point gap up at 25,206, continuing to show resilience despite extreme weakness in Asian markets amid concerns over a potential slowdown in AI-related investments. The index initially witnessed some volatility before buying momentum picked up, pushing it sharply towards 25,300 within the first 30 minutes. The rally extended to an intraday high near 25,335 around 10 AM, but selling pressure quickly emerged at higher levels, dragging Nifty below 25,300. Weakness intensified around 10:20 AM, with the index slipping sharpl…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!eJJl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4758eb91-b0a6-4612-b637-d0c4fbda8e75_1456x971.webp",
+      "firstSeen": "2026-11-16T18:49:12.057Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/2XIyFJ3V5AA",
       "platform": "youtube",
       "group": "Markets",
@@ -22743,11 +22791,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-04T16:37:26.177Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-11-04T19:31:38.075Z",
       "added": 0,
       "errors": 3
@@ -23041,6 +23084,11 @@
       "at": "2026-11-16T13:58:27.767Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-11-16T18:56:55.733Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23165,5 +23213,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-16T13:58:27.767Z"
+  "lastRun": "2026-11-16T18:56:55.733Z"
 }
