@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=xqm_RAk-Co0",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Carlsberg India IPO: The business behind Tuborg Strong | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=xqm_RAk-Co0",
+      "published": "2026-11-16T03:28:41.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nCarlsberg India: Brewing a Profitable Business\nCarlsberg India, India's second-largest beer maker, is preparing for an IPO of up to ₹6,660 crore. Despite operating in a relatively slow-growing beer market, the company has gained market share and improved its profitability. But its business also comes with significant dependencies, from its flagship Tuborg Strong brand to contract manufacturers and state-controlled distribution networks.\nIn this story, we explore how Carlsberg India makes money, why…",
+      "thumbnail": "https://i1.ytimg.com/vi/xqm_RAk-Co0/hqdefault.jpg",
+      "firstSeen": "2026-11-16T08:48:44.540Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/coal-indias-largest-subsidiary-goes",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Coal India’s largest subsidiary goes public",
+      "link": "https://thedailybrief.zerodha.com/p/coal-indias-largest-subsidiary-goes",
+      "published": "2026-11-16T01:43:00.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Coal India’s largest subsidiary goes public Mahanadi Coalfields (MCL), which mines a fifth of India's thermal coal, is heading for a massive IPO. Because this is an offer for sale, all p…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!v-uY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd5b944f-4230-43bc-a0d6-f74061722d1b_1536x1024.png",
+      "firstSeen": "2026-11-16T08:48:44.825Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=7S_Cq0fSMlk",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Coal India’s largest subsidiary goes public | India's wire wars | The Daily Brief #591",
+      "link": "https://www.youtube.com/watch?v=7S_Cq0fSMlk",
+      "published": "2026-11-16T01:30:03.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Mahanadi Coalfields IPO: Can Coal India Unlock Value?\nMahanadi Coalfields (MCL), Coal India’s largest subsidiary, is preparing to go public by selling around 10% of its stake. With low mining costs, strong profitability and generous dividends, MCL looks like an attractive business. But its dependence on Coal India, slowing coal demand growth and regulatory ris…",
+      "thumbnail": "https://i4.ytimg.com/vi/7S_Cq0fSMlk/hqdefault.jpg",
+      "firstSeen": "2026-11-16T08:48:44.336Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=9LheItA82mI",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -209,7 +245,7 @@
       "platform": "youtube",
       "group": "Varsity",
       "sourceName": "Varsity by Zerodha (YouTube)",
-      "title": "Why it’s so hard to Make Money in Quick Commerce? | Hari Menon (BigBasket) & Ayyappan R (FirstClub)",
+      "title": "Why Quick Commerce Loses Money | Hari Menon (BigBasket) & Ayyappan R (FirstClub)",
       "link": "https://www.youtube.com/watch?v=di09A9V8cNU",
       "published": "2026-11-13T13:30:03.000Z",
       "summary": "How does the math behind a ₹500 quick commerce order work when last mile delivery costs ₹50, dark store rent is fixed, and customers have no app loyalty and chase discounts?\n\nIn this deep dive recorded at the Zerodha Varsity Bootcamp in Bengaluru, retail veteran Hari Menon (Co-founder & former CEO, BigBasket) and new entrant Ayyappan R (Founder & CEO, FirstClub) break down the operational machinery and P&L line items powering India’s 10-minute grocery delivery race. \n\nModerated by Nithin Sasikumar and Krishna Lohia of Zerodha, the panel looks past the valuation hype around quick commerce to analyse order density, rider utilisation, ad monetisation, and unit economics. The session dives into…",
@@ -22659,11 +22695,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-04T08:28:40.519Z",
-      "added": 60,
-      "errors": 0
-    },
-    {
       "at": "2026-11-04T13:15:12.455Z",
       "added": 4,
       "errors": 3
@@ -22957,6 +22988,11 @@
       "at": "2026-11-15T20:37:03.008Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-16T08:56:21.010Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23081,5 +23117,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-15T20:37:03.008Z"
+  "lastRun": "2026-11-16T08:56:21.010Z"
 }
