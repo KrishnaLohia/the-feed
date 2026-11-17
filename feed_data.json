@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=tBU5a18wsXI",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 18 November 2026, Wednesday",
+      "link": "https://www.youtube.com/watch?v=tBU5a18wsXI",
+      "published": "2026-11-17T17:06:16.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i1.ytimg.com/vi/tBU5a18wsXI/hqdefault.jpg",
+      "firstSeen": "2026-11-17T17:50:14.856Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/eXFUrvO6QwA",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "We Tested The 9:20 Straddle in 2026 | Is The Edge Still There? | Backtest Ep. 7",
+      "link": "https://www.youtube.com/shorts/eXFUrvO6QwA",
+      "published": "2026-11-17T16:03:43.000Z",
+      "summary": "",
+      "thumbnail": "https://i2.ytimg.com/vi/eXFUrvO6QwA/hqdefault.jpg",
+      "firstSeen": "2026-11-17T17:48:26.868Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/bank-nifty-scales-fresh-record-highs",
       "platform": "substack",
       "group": "Markets",
@@ -22899,11 +22923,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-05T16:52:40.775Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-11-05T19:39:07.985Z",
       "added": 0,
       "errors": 3
@@ -23197,6 +23216,11 @@
       "at": "2026-11-17T14:50:37.953Z",
       "added": 6,
       "errors": 3
+    },
+    {
+      "at": "2026-11-17T17:56:10.570Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23321,5 +23345,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-17T14:50:37.953Z"
+  "lastRun": "2026-11-17T17:56:10.570Z"
 }
