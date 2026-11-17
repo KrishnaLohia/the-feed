@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=IyBRdujEJxM",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Understanding Mahanadi coalfields' ₹94,600 crore IPO | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=IyBRdujEJxM",
+      "published": "2026-11-17T02:30:20.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nMahanadi Coalfields: Understanding the IPO\nCoal India is planning to sell a 10% stake in Mahanadi Coalfields (MCL), potentially valuing the company at ₹94,600 crore. We look at MCL's low-cost mining operations, financial performance and dividend payouts, along with the demand, regulatory and operational risks investors should consider before the IPO.\n\nWe'll cover:\n- How MCL's coal mining operations work and what makes it one of Coal India's most efficient subsidiaries.\n- Its financial performance,…",
+      "thumbnail": "https://i2.ytimg.com/vi/IyBRdujEJxM/hqdefault.jpg",
+      "firstSeen": "2026-11-17T09:56:04.670Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/indian-hotels-name-their-price-and",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Indian hotels name their price, and it’s steep",
+      "link": "https://thedailybrief.zerodha.com/p/indian-hotels-name-their-price-and",
+      "published": "2026-11-17T01:50:36.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Indian hotels name their price, and it’s steep Historically a weak quarter, July-September just delivered record results for Indian hotel chains like IHCL, The Leela, and Lemon Tree. The…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!deFO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a037f0b-fe17-41af-bc2e-d90e5d005dd3_1536x1024.png",
+      "firstSeen": "2026-11-17T09:56:05.064Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=xbQA3X_Zf_o",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Indian hotels flex their pricing power | A tone shift in Indian hospitals | The Daily Brief #592",
+      "link": "https://www.youtube.com/watch?v=xbQA3X_Zf_o",
+      "published": "2026-11-17T01:30:30.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Indian Hotels Flex Their Pricing Power\nIndia’s hotel industry delivered a surprisingly strong Q2 FY27 despite the traditionally weak monsoon quarter, subdued foreign tourist arrivals and higher airfares. Hotel chains such as IHCL, Lemon Tree, The Leela and ITC Hotels reported strong growth, largely driven by rising room rates and a shortage of quality hotel ro…",
+      "thumbnail": "https://i1.ytimg.com/vi/xbQA3X_Zf_o/hqdefault.jpg",
+      "firstSeen": "2026-11-17T09:56:04.453Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=11ohN7Tp1Vs",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -22791,11 +22827,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-05T08:55:30.400Z",
-      "added": 4,
-      "errors": 0
-    },
-    {
       "at": "2026-11-05T13:28:12.726Z",
       "added": 4,
       "errors": 3
@@ -23089,6 +23120,11 @@
       "at": "2026-11-16T23:55:17.025Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-17T10:03:44.839Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23213,5 +23249,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-16T23:55:17.025Z"
+  "lastRun": "2026-11-17T10:03:44.839Z"
 }
