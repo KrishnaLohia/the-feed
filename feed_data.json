@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=hMxGxZvUq5I",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Why is India's hotel industry growing so fast? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=hMxGxZvUq5I",
+      "published": "2026-11-18T02:30:29.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndian Hotels: What's Driving Their Record Growth?\nIndia's hotel industry delivered a surprisingly strong performance in Q2 FY27, despite traditionally being a weak quarter for travel. Companies like IHCL, Lemon Tree, The Leela, ITC Hotels and Chalet reported strong results, driven by higher room rates, global events, weddings and limited hotel room supply.\nThe story explores how Indian hotels are gaining pricing power, why MICE events and weddings are becoming important revenue drivers, and how ho…",
+      "thumbnail": "https://i1.ytimg.com/vi/hMxGxZvUq5I/hqdefault.jpg",
+      "firstSeen": "2026-11-18T09:31:31.654Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/can-ai-talk-the-way-india-does",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Can AI talk the way India does?",
+      "link": "https://thedailybrief.zerodha.com/p/can-ai-talk-the-way-india-does",
+      "published": "2026-11-18T01:51:56.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Can AI talk the way India does? Voice AI is rapidly moving beyond text chatbots to automate phone conversations across Indian banks and NBFCs at roughly one-third the cost of human telec…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!qCEN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facb78c74-47cb-4e4f-8e9c-5cdb705234b4_1536x1024.png",
+      "firstSeen": "2026-11-18T09:31:32.001Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=oMipfOBdt64",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Your next EMI call might be from AI | Indian tiles see bumper Q2 profits | The Daily Brief #593",
+      "link": "https://www.youtube.com/watch?v=oMipfOBdt64",
+      "published": "2026-11-18T01:30:02.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. India's Voice AI Boom: Can AI Speak the Way Indians Do?\nVoice AI is changing how Indian businesses communicate with customers, from loan sales to EMI collection. With support for multiple Indian languages, startups are building AI agents that can hold phone conversations at a fraction of the cost of human callers.\nHowever, challenges around language accuracy,…",
+      "thumbnail": "https://i4.ytimg.com/vi/oMipfOBdt64/hqdefault.jpg",
+      "firstSeen": "2026-11-18T09:31:31.396Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=tBU5a18wsXI",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -22923,11 +22959,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-06T08:55:36.413Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-11-06T13:11:35.398Z",
       "added": 5,
       "errors": 3
@@ -23221,6 +23252,11 @@
       "at": "2026-11-17T23:11:05.841Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-18T09:39:18.717Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23345,5 +23381,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-17T23:11:05.841Z"
+  "lastRun": "2026-11-18T09:39:18.717Z"
 }
