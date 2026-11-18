@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=sPzF8uEnXJ8",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 19 November 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=sPzF8uEnXJ8",
+      "published": "2026-11-18T17:06:26.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i4.ytimg.com/vi/sPzF8uEnXJ8/hqdefault.jpg",
+      "firstSeen": "2026-11-18T14:23:21.364Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-sebi-eicher-motors-ashok",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: SEBI, Eicher Motors, Ashok Leyland, Vodafone, Patanjali & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-sebi-eicher-motors-ashok",
+      "published": "2026-11-18T14:58:12.000Z",
+      "summary": "Welcome to the 107th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor In this edition, we have covered a speech by a regulator and 7 companies across 5 industries Regulator Securities and Exchange Board of India Automobile Eicher Motors Limited Ashok Leyland Limited Engineering & Cap…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!_Gek!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f3f34ca-a6c0-4eeb-919a-c0314c8cb7a0_2400x1350.png",
+      "firstSeen": "2026-11-18T17:28:30.831Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=QuCWuGbLjtk",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "We Tested NIFTY Theta Decay: Here's What We Found | Part 1 | The Long & The Short Ep. 60",
+      "link": "https://www.youtube.com/watch?v=QuCWuGbLjtk",
+      "published": "2026-11-18T14:45:05.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nWhen you buy or sell options, how much of the premium is lost to theta decay while the market is open, overnight, or over the weekend? And does the shift in Nifty’s weekly expiry from Thursday to Tuesday change how much option sellers earn from time decay?\n\nIn this episode of The Long & The Short, we explore how theta decay works and when it actually happens. We look at how option premiums change as expiry approaches, and how volatility can affect what we see in the premium.\n\nWe examine historical…",
+      "thumbnail": "https://i2.ytimg.com/vi/QuCWuGbLjtk/hqdefault.jpg",
+      "firstSeen": "2026-11-18T17:28:29.762Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-slips-below-25250-as-profit",
       "platform": "substack",
       "group": "Markets",
@@ -23,18 +59,6 @@
       "summary": "",
       "thumbnail": "https://i2.ytimg.com/vi/9Ce1BgBZ07M/hqdefault.jpg",
       "firstSeen": "2026-11-18T14:22:45.868Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=sPzF8uEnXJ8",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 19 November 2026, Thursday",
-      "link": "https://www.youtube.com/watch?v=sPzF8uEnXJ8",
-      "published": "2026-11-18T13:21:35.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i4.ytimg.com/vi/sPzF8uEnXJ8/hqdefault.jpg",
-      "firstSeen": "2026-11-18T14:23:21.364Z"
     },
     {
       "id": "https://www.youtube.com/shorts/Mz9Oq-F9kQI",
@@ -23007,11 +23031,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-06T16:17:16.458Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-11-06T19:02:37.427Z",
       "added": 0,
       "errors": 3
@@ -23305,6 +23324,11 @@
       "at": "2026-11-18T14:29:17.518Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-11-18T17:36:07.533Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23429,5 +23453,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-18T14:29:17.518Z"
+  "lastRun": "2026-11-18T17:36:07.533Z"
 }
