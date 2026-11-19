@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=i-Cpql3zCRw",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 20 November 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=i-Cpql3zCRw",
+      "published": "2026-11-19T14:35:44.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/i-Cpql3zCRw/hqdefault.jpg",
+      "firstSeen": "2026-11-19T17:36:16.391Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/nifty-bucks-weak-asian-cues-to-close",
       "platform": "substack",
       "group": "Markets",
@@ -53,7 +65,7 @@
       "platform": "youtube",
       "group": "Zerodha Online",
       "sourceName": "Zerodha Online (YouTube)",
-      "title": "Kite terminal mode: How to organise your workspace to prevent execution mistakes",
+      "title": "Kite terminal mode: How to avoid common trading setup mistakes",
       "link": "https://www.youtube.com/watch?v=mkA2IztJVz0",
       "published": "2026-11-19T12:11:41.000Z",
       "summary": "In this video, you will learn the five common screen setup mistakes that traders make and how to build an efficient, customised workspace using Kite's Terminal Mode. Organising your trading screen properly is crucial because a cluttered interface can lead to information overload, frequent tab switching, and delayed reactions on active positions. By organising essential tools like charts, options chains, positions, and orders into a single, clean layout, you can keep your focus on execution and reduce unnecessary friction during the trading day.\n\nKite terminal mode: https://www.youtube.com/watch?v=8vKZTnrntgE&t=12s\n\nLearn more: https://support.zerodha.com/category/trading-and-markets/trading…",
@@ -23175,11 +23187,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-07T15:09:15.885Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-11-07T17:34:58.896Z",
       "added": 0,
       "errors": 3
@@ -23473,6 +23480,11 @@
       "at": "2026-11-19T14:40:49.715Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-11-19T17:42:19.899Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23597,5 +23609,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-19T14:40:49.715Z"
+  "lastRun": "2026-11-19T17:42:19.899Z"
 }
