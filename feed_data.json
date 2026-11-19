@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-bucks-weak-asian-cues-to-close",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty bucks weak Asian cues to close above 25,500",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-bucks-weak-asian-cues-to-close",
+      "published": "2026-11-19T14:13:38.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a 41-point gap-down at 25,187, tracking weakness in Asian markets, but recovered quickly as strong FII flows and cooling oil prices helped limit the downside. The index initially slipped towards 25,110 within the opening minutes before staging a sharp recovery, reclaiming 25,250 by 9:45 AM and moving towards 25,300 around 10 AM. However, some profit booking at higher levels dragged it back towards 25,250 by 10:20 AM. Buying interest returned shortly after, pushing the index steadily higher towards 25,330 by 11:30 AM and 25…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Ct49!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc872459e-d88c-48c7-a4cd-cc86ca32f7e2_1456x971.webp",
+      "firstSeen": "2026-11-19T14:33:11.054Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/xV8eUCaoVi0",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why is ONGC competing with itself? - The Chatter",
+      "link": "https://www.youtube.com/shorts/xV8eUCaoVi0",
+      "published": "2026-11-19T13:24:49.000Z",
+      "summary": "ONGC and its own group companies are selling the exact same petrochemicals in the same market—at different prices—and losing money because of it. Here is how they plan to fix this bizarre pricing war. 📉\n\n[ONGC, finance, investing, economy, business, stock market]",
+      "thumbnail": "https://i1.ytimg.com/vi/xV8eUCaoVi0/hqdefault.jpg",
+      "firstSeen": "2026-11-19T14:33:10.150Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/CbaPcQBVPPs",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Anthropic IPO: Reality Check 🤯",
+      "link": "https://www.youtube.com/shorts/CbaPcQBVPPs",
+      "published": "2026-11-19T12:44:35.000Z",
+      "summary": "There’s something seriously wrong with Anthropic’s numbers.\n\nIn the first nine months of 2026, Anthropic generated over $33 billion in revenue. But during the same period, it reported a staggering $104 billion net loss.\n\nAnd yet, investors are willing to value the company at around $1.5 trillion.\n\nWhat’s more concerning is how interconnected the AI industry has become. Companies are investing billions in each other, buying computing services from each other, and betting on the same expectations of future AI demand.\n\nBut what happens if that demand doesn’t grow as quickly as everyone expects?\n\nI believe AI has enormous potential. But a promising technology doesn’t automatically make every co…",
+      "thumbnail": "https://i4.ytimg.com/vi/CbaPcQBVPPs/hqdefault.jpg",
+      "firstSeen": "2026-11-19T14:37:18.655Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/fJVGtZwtmzs",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Your biggest asset is your future income",
+      "link": "https://www.youtube.com/shorts/fJVGtZwtmzs",
+      "published": "2026-11-19T12:30:22.000Z",
+      "summary": "When you are young, your biggest financial asset is your own future income potential. Think of yourself as a high-growth stock, where your primary focus should be on maximizing your skills and human capital to generate long-term returns.   \n\nAs you get older, your financial profile shifts to look more like a bond. Instead of relying on your daily work, you begin to live off the interest and wealth you have built from your investments over time. Are you currently investing enough in your own human capital to maximize your future earning potential? \n\nWatch the full episode here: https://youtu.be/EOKq2Al0Ask?si=QTUVrbpJlfajlDa2\n\n[Human capital, Future income, Financial planning, Wealth buildin…",
+      "thumbnail": "https://i3.ytimg.com/vi/fJVGtZwtmzs/hqdefault.jpg",
+      "firstSeen": "2026-11-19T14:33:10.552Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=mkA2IztJVz0",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "Kite terminal mode: How to organise your workspace to prevent execution mistakes",
+      "link": "https://www.youtube.com/watch?v=mkA2IztJVz0",
+      "published": "2026-11-19T12:11:41.000Z",
+      "summary": "In this video, you will learn the five common screen setup mistakes that traders make and how to build an efficient, customised workspace using Kite's Terminal Mode. Organising your trading screen properly is crucial because a cluttered interface can lead to information overload, frequent tab switching, and delayed reactions on active positions. By organising essential tools like charts, options chains, positions, and orders into a single, clean layout, you can keep your focus on execution and reduce unnecessary friction during the trading day.\n\nKite terminal mode: https://www.youtube.com/watch?v=8vKZTnrntgE&t=12s\n\nLearn more: https://support.zerodha.com/category/trading-and-markets/trading…",
+      "thumbnail": "https://i2.ytimg.com/vi/mkA2IztJVz0/hqdefault.jpg",
+      "firstSeen": "2026-11-19T14:34:58.099Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/Y506S62IAGc",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -23115,11 +23175,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-07T11:57:25.828Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-11-07T15:09:15.885Z",
       "added": 2,
       "errors": 3
@@ -23413,6 +23468,11 @@
       "at": "2026-11-19T09:49:15.677Z",
       "added": 7,
       "errors": 0
+    },
+    {
+      "at": "2026-11-19T14:40:49.715Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23537,5 +23597,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-19T09:49:15.677Z"
+  "lastRun": "2026-11-19T14:40:49.715Z"
 }
