@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=zqiP2wIrfm0",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Why India's hospitals are growing but struggling to make profits | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=zqiP2wIrfm0",
+      "published": "2026-11-20T02:30:32.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndian Hospitals: Strong Growth, But Can They Stay Profitable?\nIndia’s hospital chains are reporting strong revenue growth, rising occupancy and faster expansion. But behind these numbers, the industry faces growing challenges, from new caps on cancer drug margins and delayed payments from government schemes to rising expansion costs.\nThis story looks at how hospitals are increasing revenue without relying heavily on price hikes, why patient mix and treatment complexity matter, and whether adding t…",
+      "thumbnail": "https://i3.ytimg.com/vi/zqiP2wIrfm0/hqdefault.jpg",
+      "firstSeen": "2026-11-20T09:28:59.660Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/is-gta-vi-the-last-hope-of-gaming-industry",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Is GTA VI the last hope of a struggling industry?",
+      "link": "https://thedailybrief.zerodha.com/p/is-gta-vi-the-last-hope-of-gaming-industry",
+      "published": "2026-11-20T02:05:09.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Is GTA VI the last hope of a struggling industry? Grand Theft Auto VI is finally here and tracking to be the biggest launch in history, but it masks a brutal macroeconomic reality for th…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!FQ8N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F196a559b-1190-4493-bdfb-379e7bf136ea_1536x1024.png",
+      "firstSeen": "2026-11-20T09:29:00.036Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=WWvtTzMp7yQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Is GTA VI the last hope of a dying industry? | India’s green jet fuel dream | The Daily Brief #595",
+      "link": "https://www.youtube.com/watch?v=WWvtTzMp7yQ",
+      "published": "2026-11-20T01:57:36.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Is GTA VI the Last Hope for the Gaming Industry?\nGrand Theft Auto VI has arrived with massive expectations, but its success comes at a difficult time for the global video game industry. Rising development costs, declining player spending, studio layoffs and growing competition from smaller games are putting pressure on major gaming companies. This story explor…",
+      "thumbnail": "https://i4.ytimg.com/vi/WWvtTzMp7yQ/hqdefault.jpg",
+      "firstSeen": "2026-11-20T09:28:59.185Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=i-Cpql3zCRw",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -23187,11 +23223,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-08T08:30:41.392Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-11-08T12:09:04.126Z",
       "added": 0,
       "errors": 3
@@ -23485,6 +23516,11 @@
       "at": "2026-11-19T22:51:34.125Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-20T09:36:43.006Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23609,5 +23645,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-19T22:51:34.125Z"
+  "lastRun": "2026-11-20T09:36:43.006Z"
 }
