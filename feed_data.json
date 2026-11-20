@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/strong-fii-flows-help-nifty-defy",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Strong FII flows help Nifty defy global rout; Index closes at day's high at 25,800",
+      "link": "https://aftermarketreport.zerodha.com/p/strong-fii-flows-help-nifty-defy",
+      "published": "2026-11-20T15:58:26.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a sharp 146-point gap-down at 25,368, tracking a steep overnight sell-off in US markets and deep losses across Asian equities. However, the index quickly recovered from its opening lows, climbing towards 25,500 within the first 30 minutes and extending its gains to 25,540 around 10 AM. After a brief period of consolidation, buying interest returned, pushing the index towards 25,565 by 10:50 AM. Some profit booking at higher levels dragged it back towards 25,520, but the recovery resumed shortly after, with Nifty crossing 2…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Ct49!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc872459e-d88c-48c7-a4cd-cc86ca32f7e2_1456x971.webp",
+      "firstSeen": "2026-11-20T17:09:36.548Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-pm-modi-cea-ficci-ibm",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: PM Modi, CEA, FICCI, IBM, Tata Tech & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-pm-modi-cea-ficci-ibm",
+      "published": "2026-11-20T15:10:27.000Z",
+      "summary": "Welcome to the 108th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor Hi, I’m Shahid , and I work on The Chatter. In this edition, we’ve covered PM Narendra Modi’s FICCI address , along with remarks from Chief Economic Adviser V. Anantha Nageswaran, Commerce Secretary Rajesh Agrawal,…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!mMp_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6b94422-cdc1-4719-9832-a89ea8257e17_2400x1350.png",
+      "firstSeen": "2026-11-20T17:09:36.763Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/YRB4LiGPwTI",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -23283,11 +23307,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-08T15:38:19.233Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-11-08T17:45:49.317Z",
       "added": 0,
       "errors": 3
@@ -23581,6 +23600,11 @@
       "at": "2026-11-20T14:19:04.301Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-11-20T17:17:20.386Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23705,5 +23729,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-20T14:19:04.301Z"
+  "lastRun": "2026-11-20T17:17:20.386Z"
 }
