@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/YRB4LiGPwTI",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Why is India so NOISY?",
+      "link": "https://www.youtube.com/shorts/YRB4LiGPwTI",
+      "published": "2026-11-20T13:43:06.000Z",
+      "summary": "Watch the full video on our YouTube channel!\n\n#noisepollution #indianews #india #bestinindia #noise #loud #stopnoisepollution #theclimatebrief #health #hearingloss #diwali2026 #diwali",
+      "thumbnail": "https://i2.ytimg.com/vi/YRB4LiGPwTI/hqdefault.jpg",
+      "firstSeen": "2026-11-20T14:15:34.565Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/jQ_mgNX9Ug8",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why one hit game can't save the gaming industry? ft. Kulsum",
+      "link": "https://www.youtube.com/shorts/jQ_mgNX9Ug8",
+      "published": "2026-11-20T13:33:16.000Z",
+      "summary": "GTA 6 might cost over a billion dollars—double the price of the most expensive movie ever made. 🤯   \n\nBut while budgets are exploding, gamers are actually spending 14% less than they did in 2021. Here is why the video game industry is quietly shrinking despite massive launches.\n\nWatch the full story here: https://youtu.be/WWvtTzMp7yQ?si=I8jHxWuiHjXqtarK\n\n[GTA6, gaming, business, finance, economy, tech]",
+      "thumbnail": "https://i3.ytimg.com/vi/jQ_mgNX9Ug8/hqdefault.jpg",
+      "firstSeen": "2026-11-20T14:11:27.178Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=5HdfZfzxzvE",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "ESOPs in India: Everything Employees Need to Know",
+      "link": "https://www.youtube.com/watch?v=5HdfZfzxzvE",
+      "published": "2026-11-20T13:30:31.000Z",
+      "summary": "Your company offers you ₹10 lakh worth of ESOPs. But does that mean you actually have ₹10 lakh in your pocket? Not quite! \n\nIn this video, Aastha Khurana explains what ESOPs are, how they work and what you should know before considering them part of your compensation. Understand the basics of ESOPs so you know what your company is really offering you.\n\n\nTime Stamps\n00:00 Introduction \n00:50 What are ESOPs?\n02:07 Grant Letter\n02:30 Number & Value of Shares\n02:43 Vesting Period\n03:40 Cliff\n04:36 Exercise Price\n06:30 Exercise Period\n08:37 Why do companies give ESOPs?\n10:47 How to liquidate ESOPs?\n13:37 Taxation of ESOPs\n15:25 Things to Remember\n16:16 Conclusion \n_______________________________…",
+      "thumbnail": "https://i2.ytimg.com/vi/5HdfZfzxzvE/hqdefault.jpg",
+      "firstSeen": "2026-11-20T14:12:38.833Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/F7fItk7Speg",
+      "platform": "youtube",
+      "group": "Rainmatter",
+      "sourceName": "Rainmatter (YouTube)",
+      "title": "If you're a founder pitching VCs via cold email, you need to know this 3-swipe rule by Kushal Bhagia",
+      "link": "https://www.youtube.com/shorts/F7fItk7Speg",
+      "published": "2026-11-20T13:00:23.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/F7fItk7Speg/hqdefault.jpg",
+      "firstSeen": "2026-11-20T14:14:59.069Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/YCN58L8y3Qk",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Why companies haven't built nuclear plants in India",
+      "link": "https://www.youtube.com/shorts/YCN58L8y3Qk",
+      "published": "2026-11-20T12:30:35.000Z",
+      "summary": "The main reason foreign companies have not built nuclear plants in India is the country's unique liability laws. In most parts of the world, the operator of the nuclear plant assumes full responsibility in case of an accident. But in India, earlier laws meant that even the companies just supplying the parts could be blamed, creating a massive legal risk that foreign investors refused to take.   \n\nEven as the Indian government works to clarify these rules, private companies still face major roadblocks. While a private company can fund and build the plant itself, crucial operations like the nuclear fuel cycle, refueling, and waste management remain entirely controlled by the state. Would you…",
+      "thumbnail": "https://i2.ytimg.com/vi/YCN58L8y3Qk/hqdefault.jpg",
+      "firstSeen": "2026-11-20T14:11:27.696Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=zqiP2wIrfm0",
       "platform": "youtube",
       "group": "Markets",
@@ -23223,11 +23283,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-08T12:09:04.126Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-11-08T15:38:19.233Z",
       "added": 3,
       "errors": 3
@@ -23521,6 +23576,11 @@
       "at": "2026-11-20T09:36:43.006Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-11-20T14:19:04.301Z",
+      "added": 5,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23645,5 +23705,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-20T09:36:43.006Z"
+  "lastRun": "2026-11-20T14:19:04.301Z"
 }
