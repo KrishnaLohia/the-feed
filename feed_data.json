@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=eM6LzsaBStk",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Flight vs Train vs Bus vs Car: Which Is Cheapest, Fastest & Greenest?",
+      "link": "https://www.youtube.com/watch?v=eM6LzsaBStk",
+      "published": "2026-11-21T12:35:16.000Z",
+      "summary": "Two weeks ago, thousands of Indians went back home for their Diwali celebrations. And that got us thinking - What is the TRUE cost of travel? Using the example of Bangalore to Chennai, we’ve broken down the most popular modes of transport across 3 parameters: Cost, time and of course, climate wise!\n\n0:00 - Introduction\n0:48 - Chapter 1: The Climate Cost\n5:04 - Chapter 2: The Time and Money Factor\n6:48 - Chapter 3: Why it Matters\n#transport #publictransport #modesoftransport #theclimatecrisis #climateaction #climatecrisis #transportation #trains #indiantrains #emissions #transportemissions #indianews #bestinindia #theclimatebrief",
+      "thumbnail": "https://i2.ytimg.com/vi/eM6LzsaBStk/hqdefault.jpg",
+      "firstSeen": "2026-11-21T13:40:33.474Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/EhURXMFJv-E",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "How to Build an Emergency Fund 🚨",
+      "link": "https://www.youtube.com/shorts/EhURXMFJv-E",
+      "published": "2026-11-21T12:30:02.000Z",
+      "summary": "Your biggest financial emergency is here. How have you planned to take care of it?\n\nYou never know when an unexpected expense might come up. It could be a medical emergency, a sudden job loss, or something else entirely. That's why having an emergency fund is so important.\n\nStart by calculating your monthly expenses and multiplying them by 6. Ideally, you should have enough money saved to cover at least 6 months of expenses. If you can manage 12 months, even better.\n\nKeep this money somewhere safe and easy to access. You don't need to worry too much about earning high returns here. What's more important is being able to withdraw the money whenever you need it.\n\nAnd no, buying a new phone or…",
+      "thumbnail": "https://i2.ytimg.com/vi/EhURXMFJv-E/hqdefault.jpg",
+      "firstSeen": "2026-11-21T13:40:32.831Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=xLkFyhEyflE",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "The real cost of UPI | Subtext by Zerodha",
+      "link": "https://www.youtube.com/watch?v=xLkFyhEyflE",
+      "published": "2026-11-21T11:54:34.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI⁠\n\nWhy has UPI become one of the most successful digital payment systems in the world? And who actually pays for the infrastructure that makes billions of UPI transactions possible? With the introduction of MDR on UPI, what does it mean for banks, payment aggregators, merchants, and consumers?\n\nIn this episode of Subtext by Zerodha, Kashish and Mohit speak with Naveen Chaluvadi, Chief Digital Officer at Yes Bank, and Tanya Naik, who leads the online and omnichannel business at Pine Labs. They explore…",
+      "thumbnail": "https://i1.ytimg.com/vi/xLkFyhEyflE/hqdefault.jpg",
+      "firstSeen": "2026-11-21T13:36:22.266Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=bUg4wAnFj-A",
       "platform": "youtube",
       "group": "Markets",
@@ -23367,11 +23403,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-09T14:13:41.944Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-11-09T19:10:11.089Z",
       "added": 1,
       "errors": 3
@@ -23665,6 +23696,11 @@
       "at": "2026-11-21T09:07:38.266Z",
       "added": 5,
       "errors": 3
+    },
+    {
+      "at": "2026-11-21T13:44:07.073Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23789,5 +23825,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-21T09:07:38.266Z"
+  "lastRun": "2026-11-21T13:44:07.073Z"
 }
