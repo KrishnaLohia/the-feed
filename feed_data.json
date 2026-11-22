@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/_7tWBNQiQm8",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Do Festivals = Noise Pollution In India?",
+      "link": "https://www.youtube.com/shorts/_7tWBNQiQm8",
+      "published": "2026-11-22T12:38:36.000Z",
+      "summary": "Watch the full video on our YouTube channel!\n\n#noisepollution #indianews #india #bestinindia #noise #loud #stopnoisepollution #theclimatebrief #health #hearingloss #diwali2026 #diwali",
+      "thumbnail": "https://i4.ytimg.com/vi/_7tWBNQiQm8/hqdefault.jpg",
+      "firstSeen": "2026-11-22T13:32:37.529Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/wvblAaHMPmY",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "US markets down, what will happen to India?",
+      "link": "https://www.youtube.com/shorts/wvblAaHMPmY",
+      "published": "2026-11-22T10:57:33.000Z",
+      "summary": "Sunday 22nd Nov: Markets are unpredictable in the short term but more stable over a long period. We get so much noise from the News that it only confuses us. All we really have to do is keep investing in multiple assets and wait….waiting…that’s the hardest part. All troubles of humankind is because we can’t sit still in a room…I think pascal said that (or something like that). Happy Sunday!",
+      "thumbnail": "https://i4.ytimg.com/vi/wvblAaHMPmY/hqdefault.jpg",
+      "firstSeen": "2026-11-22T13:32:37.317Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=U5WEl3eY_2E",
       "platform": "youtube",
       "group": "Markets",
@@ -65,7 +89,7 @@
       "platform": "youtube",
       "group": "Rainmatter Foundation",
       "sourceName": "The Climate Brief (YouTube)",
-      "title": "Flight vs Train vs Bus vs Car: Which Is Cheapest, Fastest & Greenest?",
+      "title": "Bengaluru to Chennai: Should You Fly, Drive or Take the Train?",
       "link": "https://www.youtube.com/watch?v=eM6LzsaBStk",
       "published": "2026-11-21T12:35:16.000Z",
       "summary": "Two weeks ago, thousands of Indians went back home for their Diwali celebrations. And that got us thinking - What is the TRUE cost of travel? Using the example of Bangalore to Chennai, we’ve broken down the most popular modes of transport across 3 parameters: Cost, time and of course, climate wise!\n\n0:00 - Introduction\n0:48 - Chapter 1: The Climate Cost\n5:04 - Chapter 2: The Time and Money Factor\n6:48 - Chapter 3: Why it Matters\n#transport #publictransport #modesoftransport #theclimatecrisis #climateaction #climatecrisis #transportation #trains #indiantrains #emissions #transportemissions #indianews #bestinindia #theclimatebrief",
@@ -23487,11 +23511,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-10T13:46:07.084Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-11-10T16:41:22.307Z",
       "added": 1,
       "errors": 3
@@ -23785,6 +23804,11 @@
       "at": "2026-11-22T09:15:49.810Z",
       "added": 7,
       "errors": 0
+    },
+    {
+      "at": "2026-11-22T13:36:06.153Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23909,5 +23933,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-22T09:15:49.810Z"
+  "lastRun": "2026-11-22T13:36:06.153Z"
 }
