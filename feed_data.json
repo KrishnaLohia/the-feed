@@ -7,7 +7,7 @@
       "sourceName": "Zerodha Online (YouTube)",
       "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 23 November 2026, Monday",
       "link": "https://www.youtube.com/watch?v=BsQq-3BMbOM",
-      "published": "2026-11-22T14:58:57.000Z",
+      "published": "2026-11-22T17:47:54.000Z",
       "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
       "thumbnail": "https://i3.ytimg.com/vi/BsQq-3BMbOM/hqdefault.jpg",
       "firstSeen": "2026-11-22T16:35:30.146Z"
@@ -23,6 +23,18 @@
       "summary": "Welcome to the weekly edition of Aftermarket Report, where we wrap up the week in the markets and take you through everything that mattered, both in India and globally. Weekly market performance Nifty gained 2.61% for the week to close at 25,800.60, trading 8% above its 40-week moving average for the third consecutive week. However, only 39.9% of NSE stocks remain above their 200-day moving averages, while India VIX climbed to 17.32, suggesting that the broader market recovery remains incomplete. What is the macro backdrop doing? India’s 10-year government bond yield declined 6 basis points to 7.28%, while the rupee strengthened 1.67% against the dollar during the week. Commodities witnesse…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!6EWK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F475b8ee3-57e0-4ad5-8a39-2d31277a30c0_1456x971.webp",
       "firstSeen": "2026-11-22T16:33:45.349Z"
+    },
+    {
+      "id": "https://inthemoneybyzerodha.substack.com/p/weekly-market-metrics-nifty-rallies",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "In the Money (Substack)",
+      "title": "Weekly Market Metrics | Nifty Rallies 12% in November!",
+      "link": "https://inthemoneybyzerodha.substack.com/p/weekly-market-metrics-nifty-rallies",
+      "published": "2026-11-22T12:38:49.000Z",
+      "summary": "Welcome to Weekly Market Metrics. I’m Sandeep Rao. We are in Week 47 of 2026 — just 6 more weeks to go in 2026. Hope you all are doing great with your 2026 New Year's resolutions. Okay, back to business. Last week, we spoke about Indian markets holding their ground while the AI story overseas was looking a little shaky. Well, that contrast has continued this week. Anthropic , the company behind Claude , made its stock market debut on Thursday. The stock closed around 17% above its IPO price, after briefly gaining as much as 38% during the session. But even that couldn’t lift the broader market — all three major US indices fell close to 2%. Back home, NIFTY closed at around 25,800 this week,…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!0dLN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56256935-e5e8-44f7-8bb5-3e8b59ea52a7_2048x1551.png",
+      "firstSeen": "2026-11-22T19:03:37.046Z"
     },
     {
       "id": "https://www.youtube.com/shorts/_7tWBNQiQm8",
@@ -23535,11 +23547,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-10T19:28:20.000Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-11-10T21:30:26.136Z",
       "added": 0,
       "errors": 3
@@ -23833,6 +23840,11 @@
       "at": "2026-11-22T16:41:17.609Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-11-22T19:11:06.147Z",
+      "added": 1,
+      "errors": 0
     }
   ],
   "directSources": [
@@ -23957,5 +23969,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-22T16:41:17.609Z"
+  "lastRun": "2026-11-22T19:11:06.147Z"
 }
