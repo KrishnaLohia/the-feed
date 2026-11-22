@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=U5WEl3eY_2E",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Market Legends Ep.3: Victor Niederhoffer-The Man Who Couldn’t Control Risk | In The Money by Zerodha",
+      "link": "https://www.youtube.com/watch?v=U5WEl3eY_2E",
+      "published": "2026-11-22T03:50:37.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nIn 1996, Victor Niederhoffer was ranked the world’s best-performing hedge fund manager, having compounded at roughly 35% a year.\n\nA mathematician by training, a five-time US National squash champion, and a student of market behaviour, Niederhoffer approached trading differently. He believed markets had patterns that could be studied, tested, and understood. His research-driven approach made him one of the most distinctive figures on Wall Street.\n\nIn this episode of Market Legends, we look at the id…",
+      "thumbnail": "https://i2.ytimg.com/vi/U5WEl3eY_2E/hqdefault.jpg",
+      "firstSeen": "2026-11-22T09:08:04.261Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=cZMDbO-I2qM",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Weekly Tidbits Hindi: 22nd Nov | AI Supply Chains, Gold Mining, Inflation & Japan GDP",
+      "link": "https://www.youtube.com/watch?v=cZMDbO-I2qM",
+      "published": "2026-11-22T03:34:39.000Z",
+      "summary": "Welcome to Weekly Tidbits by Markets by Zerodha, where we explore interesting stories from around the world that don't always make it into a full Daily Brief episode.\n\nIn this edition, we cover 8 stories across Companies, Industries, Economy and Global (CIEG).\n\n00:00 Intro \nCompany\n01:02 Yotta secures a ₹2,948 crore loan with Nvidia chips linked as collateral.\n01:49 ONGC takes operational control of the disputed Cambay oil and gas block from Vedanta.\nIndustry\n03:01 NITI Aayog works on a policy blueprint to boost domestic gold mining and reduce import dependence.\n04:15 Microdrama apps record more downloads than traditional OTT platforms in India, but struggle with user retention.\nEconomy\n05:…",
+      "thumbnail": "https://i4.ytimg.com/vi/cZMDbO-I2qM/hqdefault.jpg",
+      "firstSeen": "2026-11-22T09:08:04.445Z"
+    },
+    {
+      "id": "https://subtextbyzerodha.substack.com/p/what-were-reading-31",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Subtext (Substack)",
+      "title": "What We’re Reading #31",
+      "link": "https://subtextbyzerodha.substack.com/p/what-were-reading-31",
+      "published": "2026-11-22T02:31:03.000Z",
+      "summary": "Hello there, hope you’ve had a great couple of weeks! We at Markets like to read widely, and weirdly, and then eat people’s heads about our newest preoccupations. Some people seem to like the links we send them (even though more people let our recommendations sit, unread, in their Whatsapp chats). And so, we thought we’d start sharing them with the wider world. We’re always hungry for more links by the way. If there’s anything that you want the world to read, drop a link in the comments. Gulzar Natarajan, GCCs and the reshaping of India’s IT services industry ( link ): You’ve all heard the old story: AI will kill India’s IT services industry. Gulzar paints a more nuanced picture: before AI…",
+      "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/4db1d1d1-d3d7-4850-bb21-89e0083bcf27_1536x1024.png",
+      "firstSeen": "2026-11-22T09:08:05.310Z"
+    },
+    {
+      "id": "https://inthemoneybyzerodha.substack.com/p/what-counts-as-a-bear-market",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "In the Money (Substack)",
+      "title": "What Counts as a Bear Market?",
+      "link": "https://inthemoneybyzerodha.substack.com/p/what-counts-as-a-bear-market",
+      "published": "2026-11-21T15:02:51.000Z",
+      "summary": "Welcome to The Long and the Short, a show where you can expect an honest take on trading, something you won’t hear elsewhere. I’m Sandeep Rao. If you follow the markets, you’d have heard the words bull market and bear market more times than you can count. And right now, with the Nifty about 15% below its January high, you’ll probably hear the words “bear market” quite a lot. If you just go by what you hear in the media, if the market falls 20% from its peak, it’s a bear market. Anything less is just a correction. But I’ve always been curious about where this comes from. Why 20%? Who decided that? And for that matter, why a bull and a bear? While researching for this edition, I came across a…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!dG8_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea323e67-30e0-4ee5-a06c-fc100c121f03_1048x560.png",
+      "firstSeen": "2026-11-22T09:08:05.222Z"
+    },
+    {
+      "id": "https://subtextbyzerodha.substack.com/p/the-real-cost-of-upi",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Subtext (Substack)",
+      "title": "The real cost of UPI",
+      "link": "https://subtextbyzerodha.substack.com/p/the-real-cost-of-upi",
+      "published": "2026-11-21T12:36:28.000Z",
+      "summary": "Every month, UPI processes roughly 25 billion transactions. To anyone scanning a QR code for morning chai or transferring money to a friend, the rail feels effortless and weightless. Behind the screen, however, every transaction routes through as many as five institutions, each running switches, core banking ledgers, fraud checks, and dispute desks. Since 2020, when the government mandated a zero Merchant Discount Rate (MDR) on UPI, the industry has absorbed an estimated Rs 10,000 to Rs 12,000 crore a year in operating costs, only partially cushioned by annual fiscal subsidies. On 15th September, an NPCI circular finally reintroduced MDR of up to 40 basis points on select merchant transacti…",
+      "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/363fa371-c222-4259-bc4e-588192baf7a5_1920x1080.jpeg",
+      "firstSeen": "2026-11-22T09:08:05.310Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=eM6LzsaBStk",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -181,6 +241,18 @@
       "firstSeen": "2026-11-20T14:11:27.696Z"
     },
     {
+      "id": "https://zerodhabulletin.substack.com/p/zerodha-bulletin-november-20-2026",
+      "platform": "substack",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Bulletin",
+      "title": "Zerodha Bulletin: November 20, 2026",
+      "link": "https://zerodhabulletin.substack.com/p/zerodha-bulletin-november-20-2026",
+      "published": "2026-11-20T12:25:11.000Z",
+      "summary": "The Nifty 50 gained 2.61% to close at 25,800.60 during the five-session trading week ended Friday, November 20, 2026. Broader equities struggled to keep pace: the Nifty Midcap 150 rose just 0.28% to 22,745.45, while the Nifty Smallcap 250 fell 0.94% to 17,771.30. Volatility picked up alongside equities as India VIX rose 11.61% to 17.30, as traders bought index options to hedge against pullbacks. Sovereign debt held steady, with the 5-year G-Sec ETF (GILT5YBEES) slipping just 0.32% to 66.05. Commodities saw steep selling, with MCX crude oil sliding 9.45% to ₹7,578 and MCX gold falling 9.65% to ₹1,23,517, while the rupee gained as USD/INR eased 1.83% to 92.64. Also in this issue: five notable…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ATVM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b9489eb-c22e-478b-ad70-b7d55d63e591_700x400.png",
+      "firstSeen": "2026-11-22T09:09:52.609Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=zqiP2wIrfm0",
       "platform": "youtube",
       "group": "Markets",
@@ -263,6 +335,18 @@
       "summary": "There’s something seriously wrong with Anthropic’s numbers.\n\nIn the first nine months of 2026, Anthropic generated over $33 billion in revenue. But during the same period, it reported a staggering $104 billion net loss.\n\nAnd yet, investors are willing to value the company at around $1.5 trillion.\n\nWhat’s more concerning is how interconnected the AI industry has become. Companies are investing billions in each other, buying computing services from each other, and betting on the same expectations of future AI demand.\n\nBut what happens if that demand doesn’t grow as quickly as everyone expects?\n\nI believe AI has enormous potential. But a promising technology doesn’t automatically make every co…",
       "thumbnail": "https://i4.ytimg.com/vi/CbaPcQBVPPs/hqdefault.jpg",
       "firstSeen": "2026-11-19T14:37:18.655Z"
+    },
+    {
+      "id": "https://inthemoneybyzerodha.substack.com/p/kya-aapko-trading-karni-chahiye",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "In the Money (Substack)",
+      "title": "Kya aapko trading karni chahiye?",
+      "link": "https://inthemoneybyzerodha.substack.com/p/kya-aapko-trading-karni-chahiye",
+      "published": "2026-11-19T12:34:35.000Z",
+      "summary": "Welcome to Trading Ki Baatein , our Hindi series from In The Money by Zerodha , where we take an honest, practical look at trading and investing, cutting through the noise, hype, and unrealistic expectations. In our edition, we explore a fundamental question: If making money through trading were so easy, why would anyone bother running a business or working a regular job? We discuss two different ways to approach trading: whether it makes sense to trade for additional returns on your existing savings and investments, and how beginners can approach trading purely as a learning experience. We also break down how much capital you might need to make a living from trading, why trading income is…",
+      "thumbnail": "",
+      "firstSeen": "2026-11-22T09:08:05.222Z"
     },
     {
       "id": "https://www.youtube.com/shorts/fJVGtZwtmzs",
@@ -23403,11 +23487,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-10T09:07:53.128Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-11-10T13:46:07.084Z",
       "added": 1,
       "errors": 3
@@ -23701,6 +23780,11 @@
       "at": "2026-11-21T21:07:26.505Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-22T09:15:49.810Z",
+      "added": 7,
+      "errors": 0
     }
   ],
   "directSources": [
@@ -23825,5 +23909,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-21T21:07:26.505Z"
+  "lastRun": "2026-11-22T09:15:49.810Z"
 }
