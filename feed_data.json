@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=BsQq-3BMbOM",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY Expiry & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 23 November 2026, Monday",
+      "link": "https://www.youtube.com/watch?v=BsQq-3BMbOM",
+      "published": "2026-11-22T14:58:57.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i3.ytimg.com/vi/BsQq-3BMbOM/hqdefault.jpg",
+      "firstSeen": "2026-11-22T16:35:30.146Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/nifty-sensex-extend-gains-for-4th",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Nifty, Sensex extend gains for 4th straight week on strong FII buying; record highs now within 3%",
+      "link": "https://aftermarketreport.zerodha.com/p/nifty-sensex-extend-gains-for-4th",
+      "published": "2026-11-22T14:07:10.000Z",
+      "summary": "Welcome to the weekly edition of Aftermarket Report, where we wrap up the week in the markets and take you through everything that mattered, both in India and globally. Weekly market performance Nifty gained 2.61% for the week to close at 25,800.60, trading 8% above its 40-week moving average for the third consecutive week. However, only 39.9% of NSE stocks remain above their 200-day moving averages, while India VIX climbed to 17.32, suggesting that the broader market recovery remains incomplete. What is the macro backdrop doing? India’s 10-year government bond yield declined 6 basis points to 7.28%, while the rupee strengthened 1.67% against the dollar during the week. Commodities witnesse…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!6EWK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F475b8ee3-57e0-4ad5-8a39-2d31277a30c0_1456x971.webp",
+      "firstSeen": "2026-11-22T16:33:45.349Z"
+    },
+    {
       "id": "https://www.youtube.com/shorts/_7tWBNQiQm8",
       "platform": "youtube",
       "group": "Rainmatter Foundation",
@@ -173,7 +197,7 @@
       "platform": "youtube",
       "group": "Zero1",
       "sourceName": "Zero1 by Zerodha (YouTube)",
-      "title": "Plot vs Gold vs SIP vs Home - Which is best?",
+      "title": "Why ₹1000 is good enough for your first SIP",
       "link": "https://www.youtube.com/watch?v=t0zI3bmIPsE",
       "published": "2026-11-21T04:30:35.000Z",
       "summary": "Open a free demat account → https://zerodha.com/open-account/?c=AUTASB    \n                                        \nThis is episode 2/5 of our new Zero to 1 investing series. Today we plan your SIP strategy & setup your first SIP.\nEven if you are not a beginner, this episode will help you reflect on your investing journey.\n\nAs always you can find the all the calculators & additional resources used in the video here-\nhttps://docs.google.com/spreadsheets/d/14U3wnhboSY9JnQFuPknsU9xBx5PuXXr6Xy90yIrV9Y4/edit?gid=1013635019#gid=1013635019\nMake sure you make a copy of this sheet incase you want to edit.\n\nThe team is reading all your comments, so please let us know if this series is helpful!\nSee yo…",
@@ -23511,11 +23535,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-10T16:41:22.307Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-11-10T19:28:20.000Z",
       "added": 0,
       "errors": 3
@@ -23809,6 +23828,11 @@
       "at": "2026-11-22T13:36:06.153Z",
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-11-22T16:41:17.609Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23933,5 +23957,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-22T13:36:06.153Z"
+  "lastRun": "2026-11-22T16:41:17.609Z"
 }
