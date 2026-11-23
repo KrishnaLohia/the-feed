@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/nm6VfWxccMU",
+      "platform": "youtube",
+      "group": "Zero1",
+      "sourceName": "Zero1 by Zerodha (YouTube)",
+      "title": "Nasdaq +$2 trillion, Jensen is back",
+      "link": "https://www.youtube.com/shorts/nm6VfWxccMU",
+      "published": "2026-11-23T17:25:40.000Z",
+      "summary": "Jensen Huang is back and Nvidia shares have gone up 30% adding nearly 1 trillion dollars so far to its market value. You know, this is not the first time something like this has happened. We’ve seen HDFC Bank fall 9% in March 2026 after the chairman resigned, Yes Banks Rana Kapoor got a limited term by the RBI and its stock fell 33%. Vishal Sikka of Infosys resigned sending Indy down 9%. \n\nMy point is that share prices reflect expectations in the short term. They may over react either side before settling down, maybe that’s why Benjamin chacha said markets are weighing machines in the long term but voting machines in the short.",
+      "thumbnail": "https://i3.ytimg.com/vi/nm6VfWxccMU/hqdefault.jpg",
+      "firstSeen": "2026-11-23T20:32:38.694Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/XStifwnBQvI",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "Is India’s Noise Problem Because We Lack Civic Sense?",
+      "link": "https://www.youtube.com/shorts/XStifwnBQvI",
+      "published": "2026-11-23T17:00:13.000Z",
+      "summary": "Watch the full video on our YouTube channel!\n\n#noisepollution #indianews #india #bestinindia #noise #loud #stopnoisepollution #theclimatebrief #health #hearingloss #diwali2026 #diwali",
+      "thumbnail": "https://i1.ytimg.com/vi/XStifwnBQvI/hqdefault.jpg",
+      "firstSeen": "2026-11-23T20:32:38.863Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/global-ai-stocks-rebound-after-rout",
       "platform": "substack",
       "group": "Markets",
@@ -23655,11 +23679,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-11T16:37:28.180Z",
-      "added": 6,
-      "errors": 3
-    },
-    {
       "at": "2026-11-11T19:23:30.407Z",
       "added": 0,
       "errors": 3
@@ -23953,6 +23972,11 @@
       "at": "2026-11-23T16:22:13.790Z",
       "added": 6,
       "errors": 3
+    },
+    {
+      "at": "2026-11-23T20:36:06.343Z",
+      "added": 2,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -24077,5 +24101,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-23T16:22:13.790Z"
+  "lastRun": "2026-11-23T20:36:06.343Z"
 }
