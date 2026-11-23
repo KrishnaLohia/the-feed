@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=ZaB7eRIcOnc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Why are food prices rising in India? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=ZaB7eRIcOnc",
+      "published": "2026-11-23T02:30:30.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nWhy Are Food Prices Rising in India Despite Low Inflation?\nIndia's retail inflation remained within the RBI's target range in September 2026, but food inflation climbed to 7.7%, putting pressure on household budgets. From rising onion and cooking oil prices to expensive pulses, sugar and everyday meals, food costs are increasing across several categories.\nThe reasons go beyond seasonal price fluctuations. A weak monsoon, falling reservoir levels, the possibility of a strong El Niño and rising ferti…",
+      "thumbnail": "https://i3.ytimg.com/vi/ZaB7eRIcOnc/hqdefault.jpg",
+      "firstSeen": "2026-11-23T10:01:44.320Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/how-effective-is-indias-pli-scheme",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "How effective is India’s PLI scheme, really?",
+      "link": "https://thedailybrief.zerodha.com/p/how-effective-is-indias-pli-scheme",
+      "published": "2026-11-23T01:46:18.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. How effective is India’s PLI scheme, really? At its halfway mark, India’s ₹1.91 lakh crore Production-Linked Incentive (PLI) program has disbursed roughly ₹35,400 crore, with 88% of payo…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!oepK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3eb21768-2d9f-40d4-b7b8-bc5128f7a873_1536x1024.png",
+      "firstSeen": "2026-11-23T10:01:44.655Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=XAcHry-JwfM",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "How effective is India’s PLI scheme? | How agro-firms deal with crop failure | The Daily Brief #596",
+      "link": "https://www.youtube.com/watch?v=XAcHry-JwfM",
+      "published": "2026-11-23T01:30:34.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. How effective is India’s PLI scheme?\nIndia launched the Production Linked Incentive (PLI) scheme in 2020 to boost domestic manufacturing across 14 industries, with a budget of ₹1.91 lakh crore. But despite increasing investments and production, the scheme has struggled to create jobs and increase the domestic value addition of products.\nWe look at the findings…",
+      "thumbnail": "https://i1.ytimg.com/vi/XAcHry-JwfM/hqdefault.jpg",
+      "firstSeen": "2026-11-23T10:01:44.016Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=BsQq-3BMbOM",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -23547,11 +23583,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-11T08:48:27.597Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-11-11T12:57:51.597Z",
       "added": 1,
       "errors": 3
@@ -23845,6 +23876,11 @@
       "at": "2026-11-22T21:16:59.881Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-23T10:09:20.805Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -23969,5 +24005,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-22T21:16:59.881Z"
+  "lastRun": "2026-11-23T10:09:20.805Z"
 }
