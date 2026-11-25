@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "id": "https://inthemoneybyzerodha.substack.com/p/we-tested-nifty-theta-decay-heres",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "In the Money (Substack)",
+      "title": "We tested Nifty Theta Decay: Here's what we found",
+      "link": "https://inthemoneybyzerodha.substack.com/p/we-tested-nifty-theta-decay-heres",
+      "published": "2026-11-25T14:39:48.000Z",
+      "summary": "Welcome to The Long and the Short, a show where you can expect an honest take on trading, something you won’t hear elsewhere. I’m Sandeep Rao. If you trade options, you already know about theta. Every day, an option loses a little of its value, even if the market goes nowhere. And as expiry comes closer, that decay speeds up. But I’ve always had a few questions about it. Do option prices work on trading days , or on calendar days ? In other words, when the market is shut on a weekend, does the premium still decay for Saturday and Sunday? And if it does, when does that decay show up? On Friday, before the weekend? On Monday morning? Or is it spread evenly through the week, with no real weeke…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!t0ZH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6a5e39f-231d-4b0d-ba9e-99b0069416c9_1241x679.png",
+      "firstSeen": "2026-11-25T15:50:35.164Z"
+    },
+    {
+      "id": "https://thechatter.zerodha.com/p/the-chatter-rbi-sebi-tata-steel-apollo",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "The Chatter: RBI, SEBI, Tata Steel, Apollo Tubes & More",
+      "link": "https://thechatter.zerodha.com/p/the-chatter-rbi-sebi-tata-steel-apollo",
+      "published": "2026-11-25T14:34:44.000Z",
+      "summary": "Welcome to the 109th edition of The Chatter — a newsletter where we dig through what India’s biggest companies are saying and bring you the most interesting bits of insight, whether about the business, its sector, or the wider economy. We read every major Indian earnings call and listen to the interviews so you don’t have to. We’re always eager to improve—please share your ideas on how else we can innovate “The Chatter” format to better serve your needs. Check out Concall Monitor Hi, I’m Shahid , and I work on The Chatter. From RBI Deputy Governor Rohit Jain’s remarks on India’s government bond market to SEBI Chairman Tuhin Kanta Pandey’s address on the capital markets , there’s quite a bit…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!st_w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4de5f1e-8931-4037-9ee6-2a1b7fd6aa46_2400x1350.png",
+      "firstSeen": "2026-11-25T15:50:35.098Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=9pWU64xlPXI",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Can You Profit from NIFTY Theta Decay? We Backtested It | Part 2 | The Long & The Short Ep. 61",
+      "link": "https://www.youtube.com/watch?v=9pWU64xlPXI",
+      "published": "2026-11-25T14:30:30.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPIXG\n\nCan option sellers actually make money from theta decay? While premium decay may look like an opportunity on paper, capturing it through a trading strategy is a very different challenge. Does selling options over the weekend, overnight, or during specific intraday windows translate into consistent profits?\n\nIn this episode of The Long & The Short, Part 2 of our series on theta decay, we put three option-selling strategies to the test using Nifty weekly options data. We use backtests under the Tuesd…",
+      "thumbnail": "https://i2.ytimg.com/vi/9pWU64xlPXI/hqdefault.jpg",
+      "firstSeen": "2026-11-25T15:50:34.360Z"
+    },
+    {
+      "id": "https://aftermarketreport.zerodha.com/p/strong-foreign-inflows-and-softer",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Strong foreign inflows & softer crude prices fuel Nifty’s comeback above 25,800",
+      "link": "https://aftermarketreport.zerodha.com/p/strong-foreign-inflows-and-softer",
+      "published": "2026-11-25T14:08:57.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a strong 309-point gap-up to 25,658, tracking volatility in global AI and technology stocks and lower oil prices. The index witnessed sustained buying interest in the opening hour, climbing past 25,800 by 10:30 AM before extending its gains to an intraday high near 25,950 around 11:40 AM. However, selling pressure emerged at higher levels, dragging the index towards 25,900 by the end of the first half. In the second half, selling intensified sharply post 12:30 PM, with Nifty giving up a significant portion of its intraday…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!8xOb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F020cc3a5-6e96-4d6c-9594-3f77db2c40ff_1456x971.webp",
+      "firstSeen": "2026-11-25T15:50:34.883Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=AGKaF5Dq-Ps",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 26 November 2026, Thursday",
+      "link": "https://www.youtube.com/watch?v=AGKaF5Dq-Ps",
+      "published": "2026-11-25T13:30:25.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/AGKaF5Dq-Ps/hqdefault.jpg",
+      "firstSeen": "2026-11-25T15:52:20.769Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/VMY_peHGui8",
+      "platform": "youtube",
+      "group": "Varsity",
+      "sourceName": "Varsity by Zerodha (YouTube)",
+      "title": "Diversification vs Over-Diversification: Know the Difference #varsity #zerodha #shorts",
+      "link": "https://www.youtube.com/shorts/VMY_peHGui8",
+      "published": "2026-11-25T13:30:20.000Z",
+      "summary": "",
+      "thumbnail": "https://i3.ytimg.com/vi/VMY_peHGui8/hqdefault.jpg",
+      "firstSeen": "2026-11-25T15:51:45.692Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/Rv-CpCVpv9U",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Beyond smartphones",
+      "link": "https://www.youtube.com/shorts/Rv-CpCVpv9U",
+      "published": "2026-11-25T13:18:43.000Z",
+      "summary": "India’s electronics exports are moving beyond smartphones, and trade rules could push more manufacturing to happen locally.\n\n[ exports, India manufacturing, smartphones, trade deals, rules of origin]",
+      "thumbnail": "https://i3.ytimg.com/vi/Rv-CpCVpv9U/hqdefault.jpg",
+      "firstSeen": "2026-11-25T15:50:34.202Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/nD06OFDhTwo",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "What ₹1 crore in mutual funds costs you every year",
+      "link": "https://www.youtube.com/shorts/nD06OFDhTwo",
+      "published": "2026-11-25T12:30:10.000Z",
+      "summary": "Your Consolidated Account Statement (CAS) clearly shows the exact rupee amount you paid in fees and commissions over the past year. For a Rs. 1 crore portfolio in regular mutual funds, these annual costs paid to distributors and asset management companies can easily reach Rs. 1.5 to 1.75 lakh every year.\n\nIn contrast, Registered Investment Advisors (RIAs) have a fixed fee cap of Rs. 1.51 lakh per year for an entire family, regardless of how large the portfolio is. For investors managing larger portfolios like Rs. 10 crore, choosing an RIA over regular mutual funds can lead to significant long-term savings. Have you checked your CAS recently to see how much you are paying in annual fees?\n\nWa…",
+      "thumbnail": "https://i3.ytimg.com/vi/nD06OFDhTwo/hqdefault.jpg",
+      "firstSeen": "2026-11-25T15:50:34.685Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=zxyFenUSmXg",
       "platform": "youtube",
       "group": "Markets",
@@ -23751,11 +23847,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-13T13:23:40.021Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-11-13T16:49:16.337Z",
       "added": 5,
       "errors": 3
@@ -24049,6 +24140,11 @@
       "at": "2026-11-25T10:51:18.118Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-11-25T15:58:10.909Z",
+      "added": 8,
+      "errors": 0
     }
   ],
   "directSources": [
@@ -24173,5 +24269,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-25T10:51:18.118Z"
+  "lastRun": "2026-11-25T15:58:10.909Z"
 }
