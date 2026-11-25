@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=zxyFenUSmXg",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Sustainable aviation fuel in India - The cost of greener flights | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=zxyFenUSmXg",
+      "published": "2026-11-25T02:30:22.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia's Sustainable Aviation Fuel (SAF) Push: What It Means for Airlines and Businesses\nIndia is taking steps to promote Sustainable Aviation Fuel (SAF), a cleaner alternative to conventional jet fuel made from waste materials such as used cooking oil. Indian Oil Corporation (IOC) has received permission to commercially sell SAF from its Panipat refinery, while the government is considering making SAF blending mandatory for airlines.\nHowever, SAF currently costs 2–3 times more than regular jet fuel…",
+      "thumbnail": "https://i3.ytimg.com/vi/zxyFenUSmXg/hqdefault.jpg",
+      "firstSeen": "2026-11-25T10:43:33.238Z"
+    },
+    {
+      "id": "https://thedailybrief.zerodha.com/p/copper-ai-us-tariffs-prices-falling-mgnrega-rural-employment",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "What's up with copper and why is it down?",
+      "link": "https://thedailybrief.zerodha.com/p/copper-ai-us-tariffs-prices-falling-mgnrega-rural-employment",
+      "published": "2026-11-25T01:39:21.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. What’s up with copper and why is it down? Despite long-term supply deficits driven by EVs and power grids, global copper prices have tumbled from their September record of $14,875 a tonn…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!tSMB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bf07cbd-e9c8-40a0-a112-34100f9cc0cd_1536x1024.png",
+      "firstSeen": "2026-11-25T10:43:33.625Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=KgybQhVWuc4",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why is copper price falling (finally)? | Is VB–G RAM G a better scheme? | The Daily Brief #597",
+      "link": "https://www.youtube.com/watch?v=KgybQhVWuc4",
+      "published": "2026-11-25T01:30:29.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Why Are Copper Prices Falling?\nCopper prices have fallen sharply after reaching record highs in September 2026, raising questions about the global copper supply story. The decline is being driven by weakening AI-related investment bets, expectations of higher US interest rates, a stronger dollar, and uncertainty around US copper import tariffs.\nThe story explo…",
+      "thumbnail": "https://i4.ytimg.com/vi/KgybQhVWuc4/hqdefault.jpg",
+      "firstSeen": "2026-11-25T10:43:32.981Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=NpE4pAYW9Xs",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -23715,11 +23751,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-13T09:03:28.564Z",
-      "added": 3,
-      "errors": 3
-    },
-    {
       "at": "2026-11-13T13:23:40.021Z",
       "added": 3,
       "errors": 3
@@ -24013,6 +24044,11 @@
       "at": "2026-11-25T00:09:11.422Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-25T10:51:18.118Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -24137,5 +24173,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-25T00:09:11.421Z"
+  "lastRun": "2026-11-25T10:51:18.118Z"
 }
