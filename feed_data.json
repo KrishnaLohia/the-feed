@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/is-foreign-money-really-fleeing-india",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Is foreign money really fleeing India?",
+      "link": "https://thedailybrief.zerodha.com/p/is-foreign-money-really-fleeing-india",
+      "published": "2026-11-26T02:45:43.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Is foreign money really fleeing India? Headline net foreign investment figures turning negative in FY26 obscure two distinct capital dynamics. Gross Foreign Direct Investment (FDI) actua…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!kvoo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d72c7b3-32a3-4705-9dc2-9d744a7d65a1_1536x1024.png",
+      "firstSeen": "2026-11-26T10:15:13.336Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ao6Hvau8U4g",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "Has India's PLI scheme delivered on its promise? | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=ao6Hvau8U4g",
+      "published": "2026-11-26T02:30:11.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nIndia's PLI Scheme: Is Manufacturing Really Growing?\nIndia's Production Linked Incentive (PLI) scheme was launched in 2020 with a budget of ₹1.91 lakh crore to boost domestic manufacturing across 14 industries. While the scheme has helped increase production, exports and investments, a review by NITI Aayog and IIM Ahmedabad reveals that actual domestic value addition and job creation have lagged behind expectations.\nThe story examines how sectors like mobile phones, air conditioners, batteries and…",
+      "thumbnail": "https://i2.ytimg.com/vi/ao6Hvau8U4g/hqdefault.jpg",
+      "firstSeen": "2026-11-26T10:15:13.070Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=5dPNYjtVpPY",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Is foreign money really fleeing India? | Carmakers sell more but earn less | The Daily Brief #598",
+      "link": "https://www.youtube.com/watch?v=5dPNYjtVpPY",
+      "published": "2026-11-26T01:30:13.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Is Foreign Money Really Fleeing India?\nIndia has seen large foreign investment outflows, raising concerns about whether global investors are losing confidence in the country. But the headline numbers don't tell the whole story. While foreign portfolio investors have been selling Indian shares, fresh FDI inflows have actually reached record levels. The story br…",
+      "thumbnail": "https://i2.ytimg.com/vi/5dPNYjtVpPY/hqdefault.jpg",
+      "firstSeen": "2026-11-26T10:15:12.821Z"
+    },
+    {
       "id": "https://inthemoneybyzerodha.substack.com/p/we-tested-nifty-theta-decay-heres",
       "platform": "substack",
       "group": "Markets",
@@ -23847,11 +23883,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-14T08:29:43.288Z",
-      "added": 5,
-      "errors": 3
-    },
-    {
       "at": "2026-11-14T12:28:15.377Z",
       "added": 0,
       "errors": 3
@@ -24145,6 +24176,11 @@
       "at": "2026-11-25T23:51:39.920Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-26T10:22:57.186Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -24269,5 +24305,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-25T23:51:39.920Z"
+  "lastRun": "2026-11-26T10:22:57.186Z"
 }
