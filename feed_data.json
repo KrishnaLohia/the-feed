@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "https://aftermarketreport.zerodha.com/p/asia-rebounds-as-us-tariffs-look",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "Aftermarket Report",
+      "title": "Asia rebounds as US tariffs look milder than feared; Nifty edges up to close at 25,884",
+      "link": "https://aftermarketreport.zerodha.com/p/asia-rebounds-as-us-tariffs-look",
+      "published": "2026-11-26T15:22:43.000Z",
+      "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today The Nifty opened slightly higher at 25,873 but slipped in the first half hour to the day’s low of 25,734. It recovered through the morning to a high of 25,975 just before 11 AM, eased in the afternoon and firmed up into the close. It closed at 25,884.50, up 65.25 points or 0.25%, in the upper half of the day’s range. That is a small day, about a quarter of the Nifty’s average move of 0.98% over the previous 20 sessions, but it was a second straight gain: the index has now won back all of Monday’s 1.75% fall and a little more. The Sensex ros…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!1HQ6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9eb4c44a-5638-454e-a228-a90f0316b3aa_1456x971.jpeg",
+      "firstSeen": "2026-11-26T15:29:52.698Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/ySXwWTqTN5c",
+      "platform": "youtube",
+      "group": "Rainmatter Foundation",
+      "sourceName": "The Climate Brief (YouTube)",
+      "title": "How Much Driving to Chennai Costs The Climate?",
+      "link": "https://www.youtube.com/shorts/ySXwWTqTN5c",
+      "published": "2026-11-26T13:37:44.000Z",
+      "summary": "Watch the full video on our channel!\n\n#transport #publictransport #modesoftransport #theclimatecrisis #climateaction #climatecrisis #transportation #trains #indiantrains #emissions #transportemissions #indianews #bestinindia #theclimatebrief",
+      "thumbnail": "https://i2.ytimg.com/vi/ySXwWTqTN5c/hqdefault.jpg",
+      "firstSeen": "2026-11-26T15:34:04.636Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/e_Van0_7L-E",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Why are we watching less Netflix? ft. Mridula",
+      "link": "https://www.youtube.com/shorts/e_Van0_7L-E",
+      "published": "2026-11-26T13:26:30.000Z",
+      "summary": "Netflix’s revenue is up 12%, so why is it in trouble? 🤔\n\nPeople aren't watching more—there are just more accounts. With YouTube now claiming over double Netflix’s share of US TV viewing, here is who is really winning our evenings. 📉\n\nWatch the full story here: https://youtu.be/Ob59jt_TezQ?si=RooPkMmBRFPpLTeb\n\n[Netflix, YouTube, streaming, business, finance, economy]",
+      "thumbnail": "https://i2.ytimg.com/vi/e_Van0_7L-E/hqdefault.jpg",
+      "firstSeen": "2026-11-26T15:29:51.624Z"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/pyqFVKSQOKM",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Subtext (YouTube)",
+      "title": "Did China and Korea need a dictator to build factories?",
+      "link": "https://www.youtube.com/shorts/pyqFVKSQOKM",
+      "published": "2026-11-26T12:30:18.000Z",
+      "summary": "A common assumption is that East Asian economies like South Korea, Japan, and China succeeded in manufacturing only because they had authoritarian governments capable of strictly disciplining companies. While strong institutions did help them enforce rules, reducing their industrial success to authoritarianism misses the bigger picture.\n\nTheir real advantage came from practical economic tools rather than political control. By using targeted credit policies, export strategies, and performance-based incentives, these countries pushed businesses to compete and deliver measurable results. Does a country need strict political control to build a strong manufacturing sector, or just better economi…",
+      "thumbnail": "https://i1.ytimg.com/vi/pyqFVKSQOKM/hqdefault.jpg",
+      "firstSeen": "2026-11-26T15:29:52.293Z"
+    },
+    {
       "id": "https://thedailybrief.zerodha.com/p/is-foreign-money-really-fleeing-india",
       "platform": "substack",
       "group": "Markets",
@@ -89,7 +137,7 @@
       "platform": "youtube",
       "group": "Zerodha Online",
       "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 26 November 2026, Thursday",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 27 November 2026, Friday",
       "link": "https://www.youtube.com/watch?v=AGKaF5Dq-Ps",
       "published": "2026-11-25T13:30:25.000Z",
       "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
@@ -23883,11 +23931,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-14T12:28:15.377Z",
-      "added": 0,
-      "errors": 3
-    },
-    {
       "at": "2026-11-14T15:24:42.699Z",
       "added": 1,
       "errors": 3
@@ -24181,6 +24224,11 @@
       "at": "2026-11-26T10:22:57.186Z",
       "added": 3,
       "errors": 3
+    },
+    {
+      "at": "2026-11-26T15:37:37.656Z",
+      "added": 4,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -24305,5 +24353,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-26T10:22:57.186Z"
+  "lastRun": "2026-11-26T15:37:37.656Z"
 }
