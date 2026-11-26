@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=AGKaF5Dq-Ps",
+      "platform": "youtube",
+      "group": "Zerodha Online",
+      "sourceName": "Zerodha Online (YouTube)",
+      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 27 November 2026, Friday",
+      "link": "https://www.youtube.com/watch?v=AGKaF5Dq-Ps",
+      "published": "2026-11-26T16:55:29.000Z",
+      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
+      "thumbnail": "https://i2.ytimg.com/vi/AGKaF5Dq-Ps/hqdefault.jpg",
+      "firstSeen": "2026-11-25T15:52:20.769Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/asia-rebounds-as-us-tariffs-look",
       "platform": "substack",
       "group": "Markets",
@@ -131,18 +143,6 @@
       "summary": "Welcome to Aftermarket Report, a newsletter where we do a quick daily wrap-up of what happened in the markets, both in India and globally. Markets Today Nifty opened with a strong 309-point gap-up to 25,658, tracking volatility in global AI and technology stocks and lower oil prices. The index witnessed sustained buying interest in the opening hour, climbing past 25,800 by 10:30 AM before extending its gains to an intraday high near 25,950 around 11:40 AM. However, selling pressure emerged at higher levels, dragging the index towards 25,900 by the end of the first half. In the second half, selling intensified sharply post 12:30 PM, with Nifty giving up a significant portion of its intraday…",
       "thumbnail": "https://substackcdn.com/image/fetch/$s_!8xOb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F020cc3a5-6e96-4d6c-9594-3f77db2c40ff_1456x971.webp",
       "firstSeen": "2026-11-25T15:50:34.883Z"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=AGKaF5Dq-Ps",
-      "platform": "youtube",
-      "group": "Zerodha Online",
-      "sourceName": "Zerodha Online (YouTube)",
-      "title": "NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 27 November 2026, Friday",
-      "link": "https://www.youtube.com/watch?v=AGKaF5Dq-Ps",
-      "published": "2026-11-25T13:30:25.000Z",
-      "summary": "Get tomorrow’s NIFTY & BANK NIFTY predictions and the latest stock market analysis with our daily show, Kya Lag Raha Hai Market! We provide expert insights to help you succeed in options trading, covering key topics like candlestick analysis, price action, FII DII data, support and resistance levels, open interest, option chain analysis, trend identification, and risk-reward strategies to boost your trading confidence.\n\nWhether you’re new to option trading or an experienced trader, our daily NIFTY & BANK NIFTY technical analysis will guide you in making smarter trading decisions.\n\nDisclaimer: This content is for educational purposes only and does not provide investment advice or stock tips.…",
-      "thumbnail": "https://i2.ytimg.com/vi/AGKaF5Dq-Ps/hqdefault.jpg",
-      "firstSeen": "2026-11-25T15:52:20.769Z"
     },
     {
       "id": "https://www.youtube.com/shorts/VMY_peHGui8",
@@ -23931,11 +23931,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-14T15:24:42.699Z",
-      "added": 1,
-      "errors": 3
-    },
-    {
       "at": "2026-11-14T17:48:04.990Z",
       "added": 0,
       "errors": 3
@@ -24229,6 +24224,11 @@
       "at": "2026-11-26T15:37:37.656Z",
       "added": 4,
       "errors": 3
+    },
+    {
+      "at": "2026-11-26T18:42:58.499Z",
+      "added": 0,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -24353,5 +24353,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-26T15:37:37.656Z"
+  "lastRun": "2026-11-26T18:42:58.499Z"
 }
