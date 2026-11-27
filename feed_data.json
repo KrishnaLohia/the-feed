@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://thedailybrief.zerodha.com/p/sagar-defence-wants-to-take-its-unmanned",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Daily Brief",
+      "title": "Sagar Defence wants to take its unmanned machines public",
+      "link": "https://thedailybrief.zerodha.com/p/sagar-defence-wants-to-take-its-unmanned",
+      "published": "2026-11-27T02:36:44.000Z",
+      "summary": "Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you what happened; we’ll tell you why and how too. We do this show in both formats: video and audio. This piece curates the stories that we talk about. You can listen to the podcast on Spotify , Apple Podcasts , or wherever you get your podcasts and watch the videos on YouTube. You can also watch The Daily Brief in Hindi . In today’s edition of The Daily Brief: 1. Sagar Defence wants to take its unmanned machines public Sagar Defence Engineering, which builds unmanned aerial, ground, surface, and underwater systems powered by a unified software st…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!wYN8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fb83b0d-1d2e-45f6-8860-e208cfc6b992_1536x1024.png",
+      "firstSeen": "2026-11-27T10:21:23.383Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=lJrmcdQyJWc",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha Hindi (YouTube)",
+      "title": "How a weak monsoon hit India's Agri-Input companies | The Daily Brief Hindi",
+      "link": "https://www.youtube.com/watch?v=lJrmcdQyJWc",
+      "published": "2026-11-27T02:30:25.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=AUOGXJ\n\nWeak Monsoon Hits Agri-Input Companies\nIndia's weakest monsoon since 2015 has affected companies selling seeds, fertilisers and pesticides to farmers. Lower pesticide usage, returned seed inventory and changing fertiliser demand weighed on their July–September results. However, some companies found growth in specialised products and mining chemicals.\n\nWe'll cover:\n- How weak rainfall reduced demand for pesticides and seeds.\n- Why farmers shifted from complex fertilisers to cheaper DAP.\n- What the w…",
+      "thumbnail": "https://i1.ytimg.com/vi/lJrmcdQyJWc/hqdefault.jpg",
+      "firstSeen": "2026-11-27T10:21:22.863Z"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=T4ih_kWxpiQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "Markets by Zerodha (YouTube)",
+      "title": "Sagar Defence takes its drones public | Tata Steel's big APL Apollo bet | The Daily Brief #599",
+      "link": "https://www.youtube.com/watch?v=T4ih_kWxpiQ",
+      "published": "2026-11-27T01:41:52.000Z",
+      "summary": "Start your investing journey for free! Open a zero-brokerage Demat and trading account with Zerodha to invest in Stocks, Mutual Funds, ETFs, and Bonds: https://zerodha.com/open-account/?c=ZAPVVI\n\nIn today’s episode of The Daily Brief, we take a deep dive into one key story and cover another story shaping Indian and global markets:\n\n1. Sagar Defence's IPO: India's Unmanned Defence Systems Market\nSagar Defence Engineering is preparing to go public with an IPO worth up to ₹3,412 crore. The company builds unmanned systems across air, land, surface water and underwater domains, catering largely to India's armed forces.\nWhile its revenue and profit have grown sharply, the business faces challenge…",
+      "thumbnail": "https://i1.ytimg.com/vi/T4ih_kWxpiQ/hqdefault.jpg",
+      "firstSeen": "2026-11-27T10:21:22.348Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=AGKaF5Dq-Ps",
       "platform": "youtube",
       "group": "Zerodha Online",
@@ -23931,11 +23967,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-15T08:47:12.543Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-11-15T12:59:17.986Z",
       "added": 5,
       "errors": 0
@@ -24229,6 +24260,11 @@
       "at": "2026-11-27T00:04:59.521Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-27T10:29:17.181Z",
+      "added": 3,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -24353,5 +24389,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-27T00:04:59.521Z"
+  "lastRun": "2026-11-27T10:29:17.181Z"
 }
