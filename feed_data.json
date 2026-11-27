@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://thechatter.zerodha.com/p/global-chatter-spacex-nvidia-tesla",
+      "platform": "substack",
+      "group": "Markets",
+      "sourceName": "The Chatter",
+      "title": "Global Chatter: SpaceX, Nvidia, Tesla, Microsoft, Amazon, Disney, Xiaomi & More",
+      "link": "https://thechatter.zerodha.com/p/global-chatter-spacex-nvidia-tesla",
+      "published": "2026-11-27T15:27:44.000Z",
+      "summary": "Welcome to the 03rd Edition of Global Chatter — a newsletter where we dig through what the world’s biggest companies are saying about their businesses, industries, and the global economy. From Big Tech and semiconductors to consumer giants and industrial leaders, we read through major earnings calls, shareholder letters, investor presentations, and management interviews so you don’t have to. We’re always looking to make Global Chatter more useful and insightful—so if you have ideas on how we can improve or innovate the format further, we’d love to hear them. Hi, I’m Shahid , and I work on The Chatter. It’s been a while since we published a global edition, and we’re back with quite a bit to…",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!KKcm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2e60c75-c155-4f3e-91ab-670a44620ed1_2400x1350.png",
+      "firstSeen": "2026-11-27T18:23:30.709Z"
+    },
+    {
       "id": "https://aftermarketreport.zerodha.com/p/defence-stocks-surge-as-heavyweights",
       "platform": "substack",
       "group": "Markets",
@@ -24075,11 +24087,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-15T15:55:43.425Z",
-      "added": 2,
-      "errors": 3
-    },
-    {
       "at": "2026-11-15T18:37:25.642Z",
       "added": 0,
       "errors": 3
@@ -24373,6 +24380,11 @@
       "at": "2026-11-27T15:31:00.707Z",
       "added": 9,
       "errors": 0
+    },
+    {
+      "at": "2026-11-27T18:31:07.203Z",
+      "added": 1,
+      "errors": 3
     }
   ],
   "directSources": [
@@ -24497,5 +24509,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-27T15:31:00.707Z"
+  "lastRun": "2026-11-27T18:31:07.203Z"
 }
