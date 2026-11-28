@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=RoXUn07oUfQ",
+      "platform": "youtube",
+      "group": "Markets",
+      "sourceName": "In The Money (YouTube)",
+      "title": "Gary Antonacci: Finding Market Edges | In The Money by Zerodha Podcast 10",
+      "link": "https://www.youtube.com/watch?v=RoXUn07oUfQ",
+      "published": "2026-11-28T15:29:32.000Z",
+      "summary": "Welcome to the In The Money Podcast by Zerodha, where we bring you the sharpest minds from around the world in trading, markets, and active investing.\n\nIn this episode, we sit down with Gary Antonacci, the researcher and investor best known for developing the concept of dual momentum. A Vietnam War veteran, Harvard MBA, former hedge fund manager and self-described researcher, Gary has spent decades studying market behaviour, identifying market inefficiencies, and developing systematic investment strategies.\n\nWe trace his unusual journey from the army and film school to Wall Street, options trading, commodity markets and managing hedge funds. Gary shares what he learned from working with som…",
+      "thumbnail": "https://i3.ytimg.com/vi/RoXUn07oUfQ/hqdefault.jpg",
+      "firstSeen": "2026-11-28T17:06:53.485Z"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=DHoFfIkOYNE",
       "platform": "youtube",
       "group": "Markets",
@@ -24147,11 +24159,6 @@
   },
   "runs": [
     {
-      "at": "2026-11-16T18:56:55.733Z",
-      "added": 4,
-      "errors": 3
-    },
-    {
       "at": "2026-11-16T21:47:19.119Z",
       "added": 0,
       "errors": 3
@@ -24445,6 +24452,11 @@
       "at": "2026-11-28T14:30:27.233Z",
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-28T17:14:29.325Z",
+      "added": 1,
+      "errors": 0
     }
   ],
   "directSources": [
@@ -24569,5 +24581,5 @@
       "url": "https://x.com/Nithin0dha"
     }
   ],
-  "lastRun": "2026-11-28T14:30:27.233Z"
+  "lastRun": "2026-11-28T17:14:29.325Z"
 }
